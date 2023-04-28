@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T21:30:54.760Z,32.6858333,-115.527,3.3,1.48,ml,11,136,0.112,0.28,ci,ci40213407,2023-04-28T21:34:28.454Z,"3km WNW of Calexico, CA",earthquake,0.87,1.59,0.25,15,automatic,ci,ci
 2023-04-28T21:27:31.460Z,32.8315,-115.7066667,7.17,0.95,ml,11,129,0.1378,0.21,ci,ci40213391,2023-04-28T21:31:07.033Z,"13km W of Imperial, CA",earthquake,0.65,2.04,0.093,7,automatic,ci,ci
 2023-04-28T21:23:14.710Z,19.1168327331543,-155.41667175293,30.8500003814697,2.43,ml,44,183,,0.109999999,hv,hv73381477,2023-04-28T21:32:47.040Z,"11 km SE of Pāhala, Hawaii",earthquake,0.71,0.930000007,1.95,21,automatic,hv,hv
-2023-04-28T21:14:59.860Z,38.8320007,-122.8195038,1.72,0.97,md,18,54,0.01132,0.01,nc,nc73881511,2023-04-28T21:26:10.275Z,"8km NW of The Geysers, CA",earthquake,0.27,0.46,0.26,18,automatic,nc,nc
+2023-04-28T21:14:59.860Z,38.8320007,-122.8195038,1.72,0.97,md,18,54,0.01132,0.01,nc,nc73881511,2023-04-28T21:41:18.351Z,"8km NW of The Geysers, CA",earthquake,0.27,0.46,0.26,18,automatic,nc,nc
 2023-04-28T21:04:30.630Z,32.721,-115.5418333,7.45,1.85,ml,22,72,0.07993,0.26,ci,ci40213367,2023-04-28T21:08:16.277Z,"2km SW of Heber, CA",earthquake,0.58,1.2,0.255,27,automatic,ci,ci
 2023-04-28T21:01:32.720Z,44.7771667,-110.8468333,2,0.55,md,6,194,0.01146,0.06,uu,uu60538641,2023-04-28T21:15:59.340Z,"24 km ENE of West Yellowstone, Montana",earthquake,2.13,2.58,0.256,6,reviewed,uu,uu
 2023-04-28T20:58:56.421Z,60.0259,-151.2861,54.5,1.4,ml,,,,0.47,ak,ak0235fho696,2023-04-28T21:00:50.350Z,"21 km E of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -217,7 +217,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T04:41:26.480Z,59.3631666666667,-153.430833333333,-0.42,-0.25,ml,7,158,,0.14,av,av91098563,2023-04-28T21:31:47.690Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.33,0.29,0.361341727926437,7,reviewed,av,av
 2023-04-28T04:38:35.710Z,60.033,-153.092333333333,-1.87,-0.32,ml,5,112,,0.07,av,av91866271,2023-04-28T20:47:35.220Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.22,4.03,0.315378547778874,5,reviewed,av,av
 2023-04-28T04:37:07.390Z,18.0046666666667,-66.7571666666667,9.71,2.8,md,22,163,0.03608,0.26,pr,pr71406998,2023-04-28T04:54:57.030Z,"1 km SE of Magas Arriba, Puerto Rico",earthquake,0.5,0.87,0.242260827110798,7,reviewed,pr,pr
-2023-04-28T04:37:00.111Z,60.0391,-153.3689,3.7,1.2,ml,,,,0.53,ak,ak0235f80m6z,2023-04-28T20:51:51.300Z,"49 km NE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-28T04:37:00.111Z,60.0391,-153.3689,3.7,1.2,ml,,,,0.53,ak,ak0235f80m6z,2023-04-28T21:40:39.300Z,"49 km NE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-28T04:36:50.700Z,38.647,-84.7945,15.41,2.19,md,9,244,0.462,0.22,se,se60500663,2023-04-28T13:55:58.456Z,"Kentucky",earthquake,1.38,3.36,0.167871954545563,6,reviewed,se,se
 2023-04-28T04:36:46.880Z,44.2605,-115.163333333333,11.28,2.52,ml,33,69,0.8166,0.22,mb,mb90011593,2023-04-28T15:25:07.280Z,"18 km WNW of Stanley, Idaho",earthquake,0.35,0.67,0.177743659992247,27,reviewed,mb,mb
 2023-04-28T04:34:27.687Z,65.1163,-149.4733,10.5,0.8,ml,,,,0.48,ak,ak0235f80168,2023-04-28T04:36:17.261Z,"6 km WSW of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -266,6 +266,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T01:45:46.810Z,38.4811667,-112.8456667,-0.24,0.12,md,11,107,0.01157,0.07,uu,uu60538531,2023-04-28T15:24:01.190Z,"17 km ENE of Milford, Utah",earthquake,0.23,0.12,0.41,5,reviewed,uu,uu
 2023-04-28T01:38:52.577Z,63.3527,-151.3716,3.2,1.7,ml,,,,0.57,ak,ak0235f68n55,2023-04-28T01:40:59.464Z,"27 km SE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-28T01:36:03.330Z,58.2395,-155.070166666667,0.59,-0.54,ml,4,146,,0.05,av,av91098543,2023-04-28T19:09:36.750Z,"83 km NNW of Karluk, Alaska",earthquake,0.31,2.56,0.228757095954713,5,reviewed,av,av
+2023-04-28T01:26:32.240Z,46.38816666666666,-123.00883333333333,4.35,0.77,ml,8,248,0.2813,0.53,uw,uw61502558,2023-04-28T21:40:12.810Z,"2 km ENE of Ryderwood, Washington",earthquake,2.63,44.36,0.09351045120707124,5,reviewed,uw,uw
 2023-04-28T01:21:58.518Z,64.9686,-147.4841,7.4,1.8,ml,,,,0.94,ak,ak0235f650db,2023-04-28T01:24:37.126Z,"6 km E of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-28T01:13:10.710Z,36.2783333333333,-89.4808333333333,7.34,1.6,md,22,56,0.02441,0.09,nm,nm60522451,2023-04-28T14:19:57.220Z,"1 km NNE of Ridgely, Tennessee",earthquake,0.2,0.36,0.13684935921484,16,reviewed,nm,nm
 2023-04-28T01:12:20.770Z,36.2788333333333,-89.4806666666667,7.69,1.8,md,25,40,0.02394,0.18,nm,nm60522446,2023-04-28T14:07:36.620Z,"1 km NNE of Ridgely, Tennessee",earthquake,0.35,0.59,0.115747337554327,20,reviewed,nm,nm
