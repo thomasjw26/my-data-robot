@@ -274,6 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T05:48:56.240Z,32.7246667,-115.5136667,1.08,1.16,ml,5,228,0.0982,0.13,ci,ci40215503,2023-04-30T05:52:34.222Z,"2km ESE of Heber, CA",earthquake,1.11,31.61,0.282,9,automatic,ci,ci
 2023-04-30T05:48:27.413Z,59.0962,-152.513,73.5,1.6,ml,,,,0.09,ak,ak0235ijr5rp,2023-04-30T05:49:32.085Z,"Southern Alaska",earthquake,,3.6,,,automatic,ak,ak
 2023-04-30T05:47:05.770Z,38.7556648,-122.7050018,1.26,1.29,md,9,204,0.01327,0.06,nc,nc73882161,2023-04-30T10:09:11.445Z,"2km SSW of Anderson Springs, CA",earthquake,0.77,0.45,0.16,9,automatic,nc,nc
-2023-04-30T05:42:44.800Z,32.7016667,-115.5346667,8.63,2.1,ml,21,108,0.09646,0.27,ci,ci40215495,2023-04-30T05:46:30.734Z,"3km S of Heber, CA",earthquake,0.66,1.89,0.231,27,automatic,ci,ci
-2023-04-30T05:42:15.290Z,58.2456666666667,-155.165833333333,5.32,0.15,ml,11,73,,0.21,av,av91868801,2023-04-30T19:57:03.299Z,"86 km NNW of Karluk, Alaska",earthquake,0.46,0.83,0.178829621103272,11,reviewed,av,av
-2023-04-30T05:38:48.089Z,58.2481,-155.1761,1.1,0.9,ml,,,,0.57,ak,ak0235ijp27c,2023-04-30T14:54:40.440Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
