@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T00:48:58.943Z,63.9409,-146.7748,3.8,1.6,ml,,,,0.81,ak,ak0235lrur5y,2023-05-02T00:50:42.797Z,"48 km WSW of Whitestone, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-02T00:33:20.710Z,38.8105011,-122.7581635,6.07,0.92,md,7,210,0.009936,0.11,nc,nc73882896,2023-05-02T01:04:13.715Z,"3km WSW of Cobb, CA",earthquake,2.96,4.74,0.13,9,automatic,nc,nc
 2023-05-02T00:19:35.380Z,35.9474983,-117.4970016,-1.12,3.05,ml,44,83,0.1548,0.2,ci,ci40217047,2023-05-02T01:21:08.332Z,"22km NNW of Searles Valley, CA",earthquake,0.24,0.57,0.256,24,automatic,ci,ci
-2023-05-02T00:11:21.343Z,61.5532,-149.9371,35.1,1.9,ml,,,,0.59,ak,ak0235lrmqrq,2023-05-02T00:47:45.922Z,"Southern Alaska",earthquake,,4,,,automatic,ak,ak
+2023-05-02T00:11:21.343Z,61.5532,-149.9371,35.1,1.9,ml,,,,0.59,ak,ak0235lrmqrq,2023-05-02T00:47:45.922Z,"3 km NNE of Big Lake, Alaska",earthquake,,4,,,automatic,ak,ak
 2023-05-02T00:10:37.610Z,38.822834,-122.8246689,1.56,0.88,md,13,59,0.008098,0.12,nc,nc73882881,2023-05-02T00:42:14.582Z,"8km NW of The Geysers, CA",earthquake,0.45,0.97,0.18,14,automatic,nc,nc
 2023-05-01T23:55:21.200Z,38.8198318,-122.8231659,2.39,0.77,md,17,50,0.009831,0.02,nc,nc73882876,2023-05-02T00:21:14.442Z,"8km NW of The Geysers, CA",earthquake,0.25,0.79,0.15,17,automatic,nc,nc
 2023-05-01T23:53:27.580Z,38.911335,-123.6384964,8.32,1.75,md,8,213,0.1149,0.05,nc,nc73882871,2023-05-02T02:41:18.312Z,"5km E of Point Arena, CA",earthquake,0.8,1.56,0.11,7,automatic,nc,nc
@@ -166,4 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T08:30:37.920Z,19.2569999694824,-155.425827026367,32.6500015258789,2.23,ml,40,115,,0.189999998,hv,hv73385482,2023-05-01T12:32:25.040Z,"8 km NE of Pāhala, Hawaii",earthquake,0.67,0.709999979,2.93,9,automatic,hv,hv
 2023-05-01T08:20:39.680Z,33.8851667,-118.6956667,10.35,1.25,ml,14,243,0.1507,0.12,ci,ci40216503,2023-05-01T16:11:50.089Z,"16km S of Malibu Beach, CA",earthquake,0.59,1.03,0.059,8,reviewed,ci,ci
 2023-05-01T07:59:37.624Z,25.9356,128.5466,10,5.4,mww,89,62,0.93,0.43,us,us7000jxba,2023-05-01T10:12:09.924Z,"80 km ESE of Katsuren-haebaru, Japan",earthquake,4.98,1.775,0.086,13,reviewed,us,us
-2023-05-01T07:54:05.629Z,-9.4288,148.6374,10,4.9,mb,47,117,1.458,0.64,us,us7000jxb8,2023-05-01T08:40:09.040Z,"eastern New Guinea region, Papua New Guinea",earthquake,8.1,1.892,0.065,74,reviewed,us,us
