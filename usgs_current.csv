@@ -27,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T02:43:48.471Z,61.1671,-151.1811,58.2,1.8,ml,,,,0.36,ak,ak0235lt0izj,2023-05-02T02:45:27.143Z,"6 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-02T02:41:22.308Z,63.9394,-148.219,6.8,1.4,ml,,,,0.47,ak,ak0235lt01ja,2023-05-02T02:43:33.845Z,"37 km ENE of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-02T02:35:35.966Z,31.7241399,-104.346737,7.018493652,2.9,ml,18,72,0.06319279651,0.4,tx,tx2023inhb,2023-05-02T02:51:56.409Z,"50 km S of Whites City, New Mexico",earthquake,0.5029537979,0.8976505016,0.2,14,reviewed,tx,tx
+2023-05-02T02:34:34.322Z,31.72595746,-104.3687014,6.080151367,1.8,ml,27,79,0.04949674926,0.2,tx,tx2023ingz,2023-05-02T07:40:22.409Z,"49 km S of Whites City, New Mexico",earthquake,0.5886235376,0.7826165384,0.1,23,reviewed,tx,tx
 2023-05-02T02:15:11.350Z,36.2625007629395,-89.4485015869141,4.59000015258789,2.3599999,md,32,48,0.05093,0.25,nm,nm60523246,2023-05-02T05:04:31.040Z,"Tennessee",earthquake,0.38,0.600000024,1.29999995,29,reviewed,nm,nm
 2023-05-02T02:12:26.369Z,39.8117,-120.7372,6.7,1.2,ml,6,247.2,0.295,0.1306,nn,nn00858953,2023-05-02T03:17:16.116Z,"6 km NNW of Plumas Eureka (historical), California",earthquake,,3.6,0.49,5,reviewed,nn,nn
 2023-05-02T02:06:28.360Z,38.8536682,-122.7986679,3.29,0.33,md,7,80,0.001683,0.02,nc,nc73882901,2023-05-02T02:23:18.201Z,"7km WNW of Cobb, CA",earthquake,1.12,3.32,0.21,9,automatic,nc,nc
@@ -167,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T07:59:37.624Z,25.9356,128.5466,10,5.4,mww,89,62,0.93,0.43,us,us7000jxba,2023-05-01T10:12:09.924Z,"80 km ESE of Katsuren-haebaru, Japan",earthquake,4.98,1.775,0.086,13,reviewed,us,us
 2023-05-01T07:54:05.629Z,-9.4288,148.6374,10,4.9,mb,47,117,1.458,0.64,us,us7000jxb8,2023-05-01T08:40:09.040Z,"eastern New Guinea region, Papua New Guinea",earthquake,8.1,1.892,0.065,74,reviewed,us,us
 2023-05-01T07:51:58.660Z,33.5845,-116.8048333,7.89,1.01,ml,38,41,0.03522,0.15,ci,ci40216495,2023-05-01T13:16:31.400Z,"13km WNW of Anza, CA",earthquake,0.19,0.44,0.142,25,reviewed,ci,ci
-2023-05-01T07:44:59.824Z,40.0712,-119.7016,14,-0.2,ml,3,230,0.102,0.0777,nn,nn00858933,2023-05-01T15:08:53.302Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,3.2,0,1,reviewed,nn,nn
