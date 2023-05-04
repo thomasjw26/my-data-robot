@@ -212,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T21:59:10.137Z,61.6251,-150.2004,60.8,1.1,ml,,,,0.46,ak,ak0235nrygh1,2023-05-03T22:00:56.650Z,"16 km SSW of Willow, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-05-03T21:31:57.860Z,58.1815,-155.341,2.69,0.29,ml,8,205,,0.08,av,av91872966,2023-05-04T01:31:17.460Z,"86 km NW of Karluk, Alaska",earthquake,0.4,0.52,0.290427998790657,9,reviewed,av,av
 2023-05-03T21:29:58.900Z,64.0829,-148.3434,11.7,1.6,ml,,,,0.51,ak,ak0235nrs4r6,2023-05-03T21:31:40.585Z,"38 km E of Ferry, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-03T21:23:06.280Z,19.2546672821045,-155.452163696289,31.6499996185303,2.01,ml,31,113,,0.109999999,hv,hv73388307,2023-05-03T21:28:37.020Z,"6 km NNE of Pāhala, Hawaii",earthquake,0.56,0.800000012,0.26,4,automatic,hv,hv
-2023-05-03T21:18:08.160Z,61.364,-150.0798,39.7,2.9,ml,,,,0.62,ak,ak0235nrpnx0,2023-05-04T19:49:29.017Z,"5 km W of Point MacKenzie, Alaska",earthquake,,0.6,,,reviewed,ak,ak
