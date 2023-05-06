@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-06T20:25:36.300Z,36.696167,-121.1060028,5.27,2.5,md,6,207,0.5349,0.21,nc,nc73884656,2023-05-06T20:31:17.309Z,"19km N of Pinnacles, CA",earthquake,9.58,12.23,,1,automatic,nc,nc
+2023-05-06T20:25:36.300Z,36.696167,-121.1060028,5.27,2.5,md,6,207,0.5349,0.21,nc,nc73884656,2023-05-06T20:32:12.317Z,"19km N of Pinnacles, CA",earthquake,9.58,12.23,,1,automatic,nc,nc
 2023-05-06T20:22:47.949Z,60.9044,-151.0813,57.3,1.1,ml,,,,0.3,ak,ak0235spr7ru,2023-05-06T20:25:05.679Z,"18 km S of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-06T20:12:07.580Z,62.0146,-149.3302,5.8,1.5,ml,,,,0.74,ak,ak0235spozhy,2023-05-06T20:14:12.445Z,"30 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-06T20:00:56.040Z,38.8465004,-122.8186646,1.05,0.84,md,15,66,0.008931,0.02,nc,nc73884646,2023-05-06T20:24:15.269Z,"9km WNW of Cobb, CA",earthquake,0.23,0.46,0.2,14,automatic,nc,nc
@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T20:45:04.476Z,63.1709,-150.4149,115.3,1.4,ml,,,,0.29,ak,ak0235r2cpe7,2023-05-05T20:47:19.034Z,"77 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-05T20:44:02.271Z,62.6753,-150.6399,75.6,1.4,ml,,,,0.66,ak,ak0235r2chib,2023-05-05T20:46:29.953Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-05T20:39:05.690Z,38.8256683,-122.7953339,2.68,0.82,md,12,94,0.01174,0.01,nc,nc73884301,2023-05-05T21:35:17.845Z,"6km W of Cobb, CA",earthquake,0.39,1.11,0.19,14,automatic,nc,nc
-2023-05-05T20:35:41.580Z,60.4911666666667,-152.6955,7.52,-0.56,ml,6,207,,0.09,av,av91875431,2023-05-06T04:15:56.300Z,"75 km NW of Ninilchik, Alaska",earthquake,0.6,0.88,0.203189071873967,6,reviewed,av,av
