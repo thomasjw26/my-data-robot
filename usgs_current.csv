@@ -216,6 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T21:56:59.441Z,65.4264,-144.7818,0,2.5,ml,,,,0.84,ak,ak0235sqjyll,2023-05-06T22:22:36.040Z,"16 km S of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-06T21:47:57.638Z,65.4066,-144.7858,0,2.1,ml,,,,0.61,ak,ak0235sqi10z,2023-05-06T21:50:04.987Z,"18 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-06T21:45:04.399Z,60.3308,-147.7244,13.1,1.6,ml,,,,0.46,ak,ak0235sqhhhj,2023-05-06T21:47:14.733Z,"33 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-06T21:40:13.800Z,35.776,-117.594,4.99,1.56,ml,26,65,0.1382,0.19,ci,ci40220119,2023-05-07T21:02:10.021Z,"17km W of Searles Valley, CA",earthquake,0.26,0.72,0.082,12,reviewed,ci,ci
-2023-05-06T21:39:53.520Z,35.773,-117.5935,7.37,1.76,ml,30,68,0.1356,0.15,ci,ci40220111,2023-05-07T20:56:41.540Z,"17km W of Searles Valley, CA",earthquake,0.2,1.08,0.125,22,reviewed,ci,ci
-2023-05-06T21:38:52.465Z,65.3669,-144.5805,0,1.5,ml,,,,1,ak,ak0235sqg36m,2023-05-06T21:41:46.168Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
