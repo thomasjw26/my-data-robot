@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-09T07:44:42.960Z,63.0744,-150.4874,98.7,1.8,ml,,,,0.54,ak,ak0235xgrbrc,2023-05-09T07:47:33.384Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-09T07:43:24.090Z,38.8251648,-122.8024979,2.49,1.07,md,21,45,0.006176,0.02,nc,nc73885586,2023-05-09T07:44:58.201Z,"7km NW of The Geysers, CA",earthquake,0.26,0.5,0.27,22,automatic,nc,nc
 2023-05-09T07:40:34.087Z,59.8983,-141.2886,0,1.7,ml,,,,0.54,ak,ak0235xgqg7k,2023-05-09T07:42:15.514Z,"96 km WNW of Yakutat, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-09T07:36:08.410Z,19.1233329772949,-155.399337768555,30.5100002288818,2.34,ml,44,184,,0.129999995,hv,hv73393677,2023-05-09T07:41:38.510Z,"12 km SE of Pāhala, Hawaii",earthquake,0.63,0.819999993,0.18,6,automatic,hv,hv
@@ -185,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T08:18:21.200Z,38.8325005,-122.8171692,1.62,1,md,18,67,0.01065,0.02,nc,nc73885326,2023-05-08T10:35:17.739Z,"8km NW of The Geysers, CA",earthquake,0.23,0.52,0.21,17,automatic,nc,nc
 2023-05-08T08:16:54.058Z,59.9813,-152.4372,28.8,1.5,ml,,,,1.06,ak,ak0235vtnfo9,2023-05-08T08:19:31.875Z,"39 km W of Happy Valley, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-05-08T07:58:58.110Z,47.611333333333334,-120.2345,1.36,0.31,ml,6,182,0.05316,0.11,uw,uw61922526,2023-05-08T18:47:52.910Z,"7 km SSW of Entiat, Washington",earthquake,0.45,1.62,0.13229045504169185,6,reviewed,uw,uw
-2023-05-08T07:50:30.173Z,40.0919,-119.719,16.4,0.1,ml,3,216.17,0.079,0.0176,nn,nn00859192,2023-05-08T22:27:09.618Z,"18 km NNW of Sutcliffe, Nevada",earthquake,,4.1,0.27,2,reviewed,nn,nn
