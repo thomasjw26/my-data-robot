@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-09T14:25:27.590Z,36.7011681,-121.3793335,0.74,1.68,md,13,76,0.02712,0.21,nc,nc73885676,2023-05-09T14:27:00.531Z,"11km SSW of Tres Pinos, CA",earthquake,0.52,1.25,0.23,12,automatic,nc,nc
-2023-05-09T14:10:44.451Z,53.7094,-167.4771,87.872,5,mb,102,87,0.366,0.78,us,us6000kamj,2023-05-09T14:33:52.250Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,9.42,4.772,0.027,431,reviewed,us,us
+2023-05-09T14:10:44.451Z,53.7094,-167.4771,87.872,5,mb,102,87,0.366,0.78,us,us6000kamj,2023-05-09T14:39:41.358Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,9.42,4.772,0.027,431,reviewed,us,us
+2023-05-09T14:09:06.856Z,51.413,157.4113,149.551,4.5,mb,38,60,1.707,1.36,us,us6000kamp,2023-05-09T14:38:36.040Z,"63 km E of Ozernovskiy, Russia",earthquake,8,5.36,0.106,26,reviewed,us,us
 2023-05-09T14:07:41.010Z,19.386833190918,-155.278503417969,1.52999997138977,1.70000005,md,11,106,,0.0900000036,hv,hv73393952,2023-05-09T14:13:13.150Z,"7 km SW of Volcano, Hawaii",earthquake,0.38,0.289999992,0.860000014,9,automatic,hv,hv
 2023-05-09T14:00:18.935Z,63.0249,-151.5365,0,1.6,ml,,,,1.12,ak,ak0235xknvm7,2023-05-09T14:02:42.256Z,"58 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-09T13:42:18.471Z,10.9654,92.0274,10,5.1,mb,108,73,0.982,1.26,us,us6000kalp,2023-05-09T14:09:09.040Z,"Andaman Islands, India region",earthquake,5.9,1.798,0.058,95,reviewed,us,us
@@ -167,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T16:39:03.732Z,65.7028,-154.9046,0,1.7,ml,,,,0.78,ak,ak0235vyjq3p,2023-05-08T16:41:10.011Z,"48 km SW of Hughes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-08T16:25:30.850Z,33.1758333,-115.6198333,2.57,1.43,ml,18,58,0.003877,0.19,ci,ci40220999,2023-05-08T18:57:45.710Z,"11km WNW of Calipatria, CA",earthquake,0.27,0.26,0.178,11,reviewed,ci,ci
 2023-05-08T16:10:06.391Z,52.3511,-131.9642,10,4.3,mb,146,95,0.474,0.7,us,us6000kaf3,2023-05-09T02:05:51.550Z,"244 km SSW of Prince Rupert, Canada",earthquake,4.8,1.88,0.05,117,reviewed,us,us
-2023-05-08T16:05:04.239Z,-12.4734,24.7218,10,4.7,mb,62,76,4.371,0.45,us,us6000kaf2,2023-05-08T17:31:48.113Z,"87 km SSE of Mwinilunga, Zambia",earthquake,7.42,1.873,0.083,44,reviewed,us,us
+2023-05-08T16:05:04.239Z,-12.4734,24.7218,10,4.7,mb,62,76,4.371,0.45,us,us6000kaf2,2023-05-09T14:35:45.672Z,"87 km SSE of Mwinilunga, Zambia",earthquake,7.42,1.873,0.083,44,reviewed,us,us
 2023-05-08T15:52:08.570Z,19.4206666666667,-155.334666666667,2.73,1.87,ml,33,75,,0.15,hv,hv73392932,2023-05-08T20:35:17.870Z,"10 km WSW of Volcano, Hawaii",earthquake,0.26,0.47,0.0772904022537714,8,reviewed,hv,hv
 2023-05-08T15:50:45.460Z,34.0413333,-118.6498333,7.17,1.67,ml,23,150,0.01821,0.18,ci,ci40220983,2023-05-09T06:56:54.473Z,"1km WNW of Las Flores, CA",earthquake,0.42,0.39,0.15,22,reviewed,ci,ci
 2023-05-08T15:42:10.650Z,34.2031667,-117.504,5.16,1.16,ml,38,34,0.00579,0.17,ci,ci40220975,2023-05-08T23:17:48.295Z,"6km S of Lytle Creek, CA",earthquake,0.19,0.33,0.116,24,reviewed,ci,ci
@@ -177,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T15:00:28.619Z,63.0726,-150.4433,97.7,1.8,ml,,,,0.47,ak,ak0235vxpzhp,2023-05-08T15:03:50.738Z,"66 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-08T14:54:09.258Z,51.5469,-175.5215,45.953,4.5,mb,119,119,0.507,0.65,us,us6000kadz,2023-05-08T15:54:38.040Z,"85 km ESE of Adak, Alaska",earthquake,4.9,5.943,0.045,146,reviewed,us,us
 2023-05-08T14:48:48.877Z,62.1615,-149.5668,51.3,1.2,ml,,,,0.4,ak,ak0235vxevtj,2023-05-08T14:51:01.846Z,"14 km E of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-05-08T14:39:30.560Z,19.3945007324219,-155.258499145508,1.44000005722046,1.70000005,md,17,139,,0.300000012,hv,hv73392882,2023-05-08T14:45:00.280Z,"Hawaii region, Hawaii",earthquake,0.78,0.430000007,0.939999998,10,automatic,hv,hv
