@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T19:56:33.662Z,37.3199,-117.1505,12.4,1.6,ml,21,122.51,0.09,0.1555,nn,nn00859359,2023-05-11T20:39:21.854Z,"43 km S of Goldfield, Nevada",earthquake,,1.7,1.04,12,reviewed,nn,nn
 2023-05-11T19:41:50.690Z,38.8240013,-122.7883301,-0.29,1.1,md,14,56,0.01228,0.1,nc,nc73886661,2023-05-11T20:18:13.028Z,"6km W of Cobb, CA",earthquake,0.25,0.61,0.1,16,automatic,nc,nc
 2023-05-11T19:41:30.580Z,38.822834,-122.7904968,1.25,1.47,md,24,38,0.01225,0.02,nc,nc73886656,2023-05-11T20:08:11.972Z,"6km W of Cobb, CA",earthquake,0.18,0.33,0.18,26,automatic,nc,nc
-2023-05-11T19:29:42.380Z,39.1935,-123.4485,5.88,1.66,md,19,70,0.0621,0.08,nc,nc73886651,2023-05-11T20:31:10.100Z,"21km WNW of Ukiah, CA",earthquake,0.17,0.58,0.178,22,reviewed,nc,nc
+2023-05-11T19:29:42.380Z,39.1935,-123.4485,5.88,1.66,md,19,70,0.0621,0.08,nc,nc73886651,2023-05-11T20:43:12.180Z,"21km WNW of Ukiah, CA",earthquake,0.17,0.58,0.178,22,reviewed,nc,nc
 2023-05-11T19:29:20.560Z,33.8586667,-117.4838333,-0.56,1.46,ml,33,49,0.0523,0.23,ci,ci40223079,2023-05-11T19:57:08.567Z,"4km ESE of Home Gardens, CA",quarry blast,0.37,31.61,0.154,26,reviewed,ci,ci
 2023-05-11T19:27:04.610Z,19.039,-67.1206,39,3.7,md,17,208,0.5716,0.44,pr,pr2023131008,2023-05-11T20:08:41.778Z,"60 km N of Isabela, Puerto Rico",earthquake,2.12,7.61,0.12,9,reviewed,pr,pr
 2023-05-11T19:25:09.590Z,33.706,-116.7331667,16.17,1.32,ml,42,34,0.01666,0.18,ci,ci40223071,2023-05-11T19:28:46.480Z,"4km SSW of Idyllwild, CA",earthquake,0.22,0.4,0.228,26,automatic,ci,ci
@@ -162,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T04:28:50.580Z,36.4406666666667,-89.524,8.33,1.67,md,29,89,0.05791,0.05,nm,nm60524691,2023-05-11T12:44:26.290Z,"Tennessee",earthquake,0.5,0.66,0.196791214273393,17,reviewed,nm,nm
 2023-05-11T04:28:40.090Z,37.8701667,-122.6558333,6.78,1.25,md,23,171,0.07102,0.11,nc,nc73886416,2023-05-11T08:56:10.998Z,"4km SSW of Stinson Beach, CA",earthquake,0.33,0.47,0.241,18,reviewed,nc,nc
 2023-05-11T04:23:40.920Z,19.1566,-67.8515,87,3.64,md,15,257,0.833,0.56,pr,pr2023131002,2023-05-11T05:19:34.588Z,"86 km NE of Punta Cana, Dominican Republic",earthquake,5.12,6.99,0.05,5,reviewed,pr,pr
-2023-05-11T04:20:17.727Z,19.352,-99.1322,6.307,3.2,ml,4,205,0.049,0.53,us,us6000kb13,2023-05-11T20:26:37.505Z,"3 km E of Coyoacán, Mexico",earthquake,7.99,6.108,0.128,8,reviewed,us,us
+2023-05-11T04:20:17.727Z,19.352,-99.1322,6.307,3.2,ml,4,205,0.049,0.53,us,us6000kb13,2023-05-11T20:46:14.425Z,"3 km E of Coyoacán, Mexico",earthquake,7.99,6.108,0.128,8,reviewed,us,us
 2023-05-11T04:16:37.300Z,19.0618,-67.7545,44,3.77,md,18,247,0.8326,0.61,pr,pr2023131001,2023-05-11T05:05:01.450Z,"86 km NE of Punta Cana, Dominican Republic",earthquake,3.24,11.47,0.04,10,reviewed,pr,pr
 2023-05-11T04:09:45.130Z,33.7093333,-116.754,15.64,0.47,ml,18,172,0.03325,0.1,ci,ci40222575,2023-05-11T14:19:21.453Z,"5km SW of Idyllwild, CA",earthquake,0.27,0.27,0.22,3,reviewed,ci,ci
 2023-05-11T04:04:56.105Z,63.3016,-150.4687,111.3,1.8,ml,,,,0.41,ak,ak02360pt9ox,2023-05-11T04:07:36.809Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
