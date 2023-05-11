@@ -251,4 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T22:57:49.291Z,61.8034,-149.477,13.4,1.5,ml,,,,0.34,ak,ak0235zdaz4h,2023-05-10T22:59:27.807Z,"14 km WNW of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-10T22:55:39.151Z,61.0739,-147.5842,0,1.8,ml,,,,0.82,ak,ak0235zdaiwr,2023-05-10T22:57:34.362Z,"54 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-10T22:49:35.250Z,33.6783333,-116.7066667,16.15,0.64,ml,20,102,0.02898,0.09,ci,ci40222487,2023-05-10T22:57:58.485Z,"7km S of Idyllwild, CA",earthquake,0.24,0.37,0.093,9,reviewed,ci,ci
-2023-05-10T22:42:24.307Z,35.0362,22.3898,47.659,4.3,mb,15,224,2.064,0.31,us,us6000kazy,2023-05-10T23:31:15.654Z,"central Mediterranean Sea",earthquake,8,14.792,0.307,3,reviewed,us,us
