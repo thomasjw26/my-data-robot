@@ -196,5 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T19:32:26.960Z,42.961,-122.13366666666667,3.57,0.14,md,3,221,0.02913,0.03,uw,uw61502573,2023-05-15T18:58:10.660Z,"37 km NE of Prospect, Oregon",earthquake,1.14,0.9,0.017646228543476417,2,reviewed,uw,uw
 2023-05-14T19:30:59.730Z,42.942,-122.1015,3.96,2.0100000000000002,ml,5,204,0.03536,0.17,uw,uw61915432,2023-05-15T18:47:43.110Z,"38 km ENE of Prospect, Oregon",earthquake,1.1,0.78,0.27563732932911855,3,reviewed,uw,uw
 2023-05-14T19:29:23.460Z,38.7900009,-122.7666702,3.14,0.75,md,6,128,0.01192,0.02,nc,nc73888121,2023-05-14T19:56:14.316Z,"2km NNW of The Geysers, CA",earthquake,0.81,2.42,0.25,9,automatic,nc,nc
-2023-05-14T19:17:52.500Z,38.8201675,-122.822998,2.03,0.76,md,9,83,0.009849,0.01,nc,nc73888111,2023-05-14T19:35:17.165Z,"8km NW of The Geysers, CA",earthquake,0.42,0.99,0.38,9,automatic,nc,nc
-2023-05-14T19:14:43.210Z,44.7888333,-111.0873333,8.53,0.43,md,8,137,0.01549,0.19,uu,uu60539971,2023-05-15T17:35:11.770Z,"8 km ENE of Hebgen Lake Estates, Montana",earthquake,0.96,1.53,0.466,6,reviewed,uu,uu
