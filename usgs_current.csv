@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-16T03:18:17.970Z,38.815834,-122.8278351,1.55,0.63,md,7,89,0.007035,0.01,nc,nc73888636,2023-05-16T03:19:52.583Z,"8km NW of The Geysers, CA",earthquake,0.41,0.79,0.28,8,automatic,nc,nc
+2023-05-16T03:35:44.264Z,61.3872,-146.6299,19.2,1.2,ml,,,,0.42,ak,ak02368z335z,2023-05-16T03:37:55.451Z,"32 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-16T03:18:17.970Z,38.815834,-122.8278351,1.55,0.63,md,7,89,0.007035,0.01,nc,nc73888636,2023-05-16T03:38:09.950Z,"8km NW of The Geysers, CA",earthquake,0.41,0.79,0.28,8,automatic,nc,nc
 2023-05-16T03:08:58.137Z,70.3082,-15.3512,10,4.7,mb,68,48,6.034,0.88,us,us6000kc7g,2023-05-16T03:24:00.040Z,"255 km WSW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,8.23,1.872,0.036,240,reviewed,us,us
 2023-05-16T03:04:34.400Z,38.7926674,-122.7613297,2.34,0.26,md,9,91,0.008046,0.01,nc,nc73888631,2023-05-16T03:29:19.880Z,"2km NNW of The Geysers, CA",earthquake,0.34,0.95,0.09,10,automatic,nc,nc
 2023-05-16T02:50:55.760Z,19.3278333333333,-155.137833333333,6.3,2.95,ml,34,98,,0.09,hv,hv73404222,2023-05-16T03:09:53.844Z,"15 km S of Fern Forest, Hawaii",earthquake,0.34,0.64,0.206584529715204,27,reviewed,hv,hv
