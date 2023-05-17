@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-17T07:27:52.820Z,34.1593323,-116.1490021,2.87,1.47,ml,27,55,0.09785,0.16,ci,ci40226495,2023-05-17T07:30:31.118Z,"7km WNW of Twentynine Palms, CA",earthquake,0.28,1.33,0.205,6,automatic,ci,ci
+2023-05-17T07:27:52.860Z,34.1591667,-116.149,3.34,1.09,ml,22,55,0.0978,0.21,ci,ci40226495,2023-05-17T07:31:33.862Z,"7km WNW of Twentynine Palms, CA",earthquake,0.31,1.23,0.161,20,automatic,ci,ci
 2023-05-17T07:27:19.811Z,62.6152,-152.1467,0,1.7,ml,,,,0.59,ak,ak0236aoyer1,2023-05-17T07:29:35.349Z,"72 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-17T07:22:26.880Z,19.2201671600342,-155.381332397461,29.0599994659424,2.1099999,md,31,170,,0.119999997,hv,hv73405937,2023-05-17T07:25:31.600Z,"Hawaii region, Hawaii",earthquake,0.65,0.839999974,1.78999996,6,automatic,hv,hv
 2023-05-17T07:20:57.556Z,58.1795,-155.2479,0,0.5,ml,,,,0.59,ak,ak0236aowzmz,2023-05-17T07:23:49.131Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
