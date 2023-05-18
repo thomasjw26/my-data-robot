@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-18T21:42:56.080Z,38.8136673,-122.8266678,1.95,1.08,md,14,71,0.005178,0.02,nc,nc73889706,2023-05-18T21:44:31.044Z,"7km WNW of The Geysers, CA",earthquake,0.25,0.62,0.3,16,automatic,nc,nc
+2023-05-18T21:42:21.000Z,19.1135005950928,-155.477661132812,31.0100002288818,2.41,ml,38,172,,0.180000007,hv,hv73408287,2023-05-18T21:47:51.680Z,"9 km S of Pāhala, Hawaii",earthquake,0.62,1.13,0.22,10,automatic,hv,hv
 2023-05-18T21:36:10.869Z,58.0843,-155.5391,34.8,0.7,ml,,,,0.44,ak,ak0236ckvqgu,2023-05-18T21:37:59.858Z,"86 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-18T21:23:07.160Z,19.3695,-155.240166666667,31.53,2.37,ml,48,94,,0.13,hv,hv73408252,2023-05-18T21:36:20.710Z,"8 km S of Volcano, Hawaii",earthquake,0.4,0.33,0.178306242801372,26,reviewed,hv,hv
 2023-05-18T21:07:59.520Z,35.5308342,-120.8248367,6.17,1.55,md,11,121,0.09658,0.08,nc,nc73889701,2023-05-18T21:24:18.673Z,"11km W of Templeton, CA",earthquake,0.56,1.54,0.11,3,automatic,nc,nc
