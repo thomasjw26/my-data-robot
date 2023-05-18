@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-18T07:15:24.110Z,34.0933342,-117.3099976,8.99,1.73,ml,79,26,0.005724,0.19,ci,ci40227207,2023-05-18T07:17:32.245Z,"2km N of Colton, CA",earthquake,0.18,0.39,0.254,26,automatic,ci,ci
 2023-05-18T07:13:14.530Z,33.6813333,-116.6931667,16.51,0.45,ml,20,76,0.03452,0.18,ci,ci40227199,2023-05-18T07:16:54.893Z,"7km SSE of Idyllwild, CA",earthquake,0.44,0.56,0.154,11,automatic,ci,ci
 2023-05-18T07:00:44.730Z,19.4969997406006,-155.474670410156,0.759999990463257,1.71000004,md,20,70,,0.300000012,hv,hv73407322,2023-05-18T07:04:02.390Z,"25 km WNW of Volcano, Hawaii",earthquake,0.51,1.44000006,1.45000005,6,automatic,hv,hv
 2023-05-18T06:55:15.890Z,38.8380013,-122.8251648,1.71,0.77,md,20,67,0.008083,0.03,nc,nc73889491,2023-05-18T07:16:13.330Z,"9km NW of The Geysers, CA",earthquake,0.21,0.59,0.2,20,automatic,nc,nc
