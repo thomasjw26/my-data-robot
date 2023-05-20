@@ -236,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T17:35:24.210Z,19.385,-155.249333333333,1.73,0.56,md,13,81,,0.08,hv,hv73409892,2023-05-19T18:03:53.300Z,"6 km SSW of Volcano, Hawaii",earthquake,0.3,0.3,0.125569358555949,4,reviewed,hv,hv
 2023-05-19T17:34:25.880Z,36.2685,-120.293,8.14,1.24,md,9,224,0.08968,0.03,nc,nc73889981,2023-05-19T19:37:12.853Z,"15km NNE of Coalinga, CA",earthquake,1.96,2.23,0.219,5,reviewed,nc,nc
 2023-05-19T17:27:28.910Z,19.499,-155.466833333333,3.91,2.09,md,12,77,,0.11,hv,hv73409882,2023-05-19T18:10:12.550Z,"25 km WNW of Volcano, Hawaii",earthquake,0.3,1.02,0.0380179607160365,5,reviewed,hv,hv
-2023-05-19T17:25:56.630Z,19.4145,-155.315666666667,2.35,2.04,ml,18,114,,0.06,hv,hv73409877,2023-05-19T17:43:01.050Z,"9 km WSW of Volcano, Hawaii",earthquake,0.24,0.25,0.220968000643437,5,reviewed,hv,hv
