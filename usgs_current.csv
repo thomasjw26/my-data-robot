@@ -264,4 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-19T12:03:34.758Z,60.284,-152.2421,90,1.2,ml,,,,0.65,ak,ak0236e2v5qb,2023-05-19T12:06:34.697Z,"41 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-19T11:57:31.964Z,63.2608,-151.0072,0,1.9,ml,,,,0.78,ak,ak0236e2laks,2023-05-19T12:00:10.096Z,"47 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-19T11:55:12.970Z,33.3156667,-116.3028333,9.79,0.73,ml,36,73,0.05496,0.2,ci,ci40228095,2023-05-19T19:34:04.700Z,"9km NE of Borrego Springs, CA",earthquake,0.31,0.58,0.138,20,reviewed,ci,ci
-2023-05-19T11:51:52.810Z,38.8305016,-122.8516693,1.31,0.36,md,6,187,0.01494,0.01,nc,nc73889891,2023-05-19T13:13:10.562Z,"10km NW of The Geysers, CA",earthquake,0.97,1.25,0.22,8,automatic,nc,nc
