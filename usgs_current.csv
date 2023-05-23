@@ -296,5 +296,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T07:42:27.200Z,19.1698341369629,-155.494995117188,32.689998626709,1.83000004,md,33,106,,0.0900000036,hv,hv73415272,2023-05-22T07:45:41.290Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.47,0.810000002,1.23000002,6,automatic,hv,hv
 2023-05-22T07:34:20.880Z,38.7798333,-122.7638333,1.03,0.36,md,12,96,0.009221,0.01,nc,nc73891141,2023-05-22T23:53:11.095Z,"1km WNW of The Geysers, CA",earthquake,0.2,0.35,0.258,10,reviewed,nc,nc
 2023-05-22T07:32:08.120Z,33.9815,-116.6573333,17.89,0.75,ml,29,69,0.05741,0.1,ci,ci40231047,2023-05-22T18:55:47.178Z,"10km SW of Morongo Valley, CA",earthquake,0.18,0.41,0.113,18,reviewed,ci,ci
-2023-05-22T07:29:14.815Z,60.1717,-151.0767,53.3,1.2,ml,,,,0.34,ak,ak0236iynk9l,2023-05-22T07:30:53.731Z,"18 km ESE of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-22T07:26:40.993Z,61.7302,-150.7261,42.1,2,ml,,,,0.33,ak,ak0236iymz4z,2023-05-22T07:28:27.548Z,"23 km NNW of Susitna, Alaska",earthquake,,2.1,,,automatic,ak,ak
