@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T18:10:13.030Z,34.3423333,-118.47,5.42,1.46,ml,24,80,0.03986,0.21,ci,ci40233559,2023-05-25T18:13:55.700Z,"4km NNW of Sylmar, CA",earthquake,0.29,0.6,0.19,29,automatic,ci,ci
 2023-05-25T18:03:20.350Z,44.2908333,-110.8021667,3.27,0.9,md,5,156,0.0199,0.06,uu,uu60540876,2023-05-25T18:17:01.260Z,"45 km ENE of Warm River, Idaho",earthquake,4.08,2.18,0.166,5,reviewed,uu,uu
 2023-05-25T17:59:57.790Z,38.8213348,-122.8026657,2.78,0.7,md,8,85,0.006142,0.02,nc,nc73889805,2023-05-25T18:16:10.956Z,"6km NW of The Geysers, CA",earthquake,0.53,1.1,0.19,8,automatic,nc,nc
-2023-05-25T17:50:03.310Z,38.8030014,-122.7686691,1.95,1.1,md,21,81,0.00739,0.05,nc,nc73889795,2023-05-25T18:03:10.881Z,"3km NNW of The Geysers, CA",earthquake,0.26,0.43,0.14,20,automatic,nc,nc
+2023-05-25T17:50:03.310Z,38.8030014,-122.7686691,1.95,1.1,md,21,81,0.00739,0.05,nc,nc73889795,2023-05-25T18:30:14.044Z,"3km NNW of The Geysers, CA",earthquake,0.26,0.43,0.14,20,automatic,nc,nc
 2023-05-25T17:49:35.573Z,61.8094,-150.8173,50.5,1.6,ml,,,,0.46,ak,ak0236o3c9px,2023-05-25T17:52:00.707Z,"33 km NNW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-25T17:47:47.670Z,34.3458333,-118.4503333,2.85,2.18,ml,59,20,0.05109,0.27,ci,ci40233527,2023-05-25T17:59:07.690Z,"4km N of Sylmar, CA",earthquake,0.25,0.46,0.105,25,automatic,ci,ci
 2023-05-25T17:44:35.622Z,63.6448,-145.5233,17.7,0.8,ml,,,,0.32,ak,ak0236o3b756,2023-05-25T17:51:52.335Z,"29 km SSW of Deltana, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -228,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T18:48:58.600Z,38.8463326,-122.8148346,1.24,1.08,md,20,54,0.01065,0.02,nc,nc73889500,2023-05-24T19:16:16.364Z,"8km WNW of Cobb, CA",earthquake,0.19,0.42,0.21,22,automatic,nc,nc
 2023-05-24T18:39:54.440Z,33.472,-116.8746667,11.65,0.47,ml,25,60,0.03222,0.11,ci,ci40233015,2023-05-24T20:10:14.110Z,"3km NNW of Aguanga, CA",earthquake,0.18,0.34,0.081,7,reviewed,ci,ci
 2023-05-24T18:37:16.250Z,34.852,-118.7815,-1.19,1.37,ml,31,53,0.07517,0.18,ci,ci40233007,2023-05-24T20:04:43.729Z,"8km E of Lebec, CA",quarry blast,0.28,31.61,0.098,20,reviewed,ci,ci
-2023-05-24T18:31:13.960Z,58.246,-155.1295,2.9,-0.14,ml,5,218,,0.08,av,av91771142,2023-05-25T01:59:00.500Z,"85 km NNW of Karluk, Alaska",earthquake,0.46,0.89,0.247105852118324,5,reviewed,av,av
-2023-05-24T18:28:55.927Z,-38.3746,-75.4423,18.03,4.6,mb,42,165,2.173,0.84,us,us7000k3kk,2023-05-24T19:42:00.040Z,"178 km WSW of Lebu, Chile",earthquake,9.67,5.255,0.157,12,reviewed,us,us
