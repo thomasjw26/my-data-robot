@@ -229,6 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T13:42:27.027Z,63.3681,-150.0285,0,2.1,ml,,,,0.92,ak,ak0236pogd4e,2023-05-26T13:44:47.462Z,"53 km W of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-26T13:38:24.080Z,53.8693333333333,-166.566166666667,7.98,0.3,ml,7,193,,0.16,av,av91105068,2023-05-26T23:51:24.620Z,"2 km WSW of Unalaska, Alaska",earthquake,0.9,1.19,0.212206161300846,7,reviewed,av,av
 2023-05-26T13:38:09.220Z,60.6153,-150.7663,44.1,1.4,ml,,,,0.21,ak,ak0236pofgvu,2023-05-26T13:45:23.578Z,"8 km N of Sterling, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-05-26T13:36:25.810Z,53.4383333333333,-168.038333333333,2.74,-0.4,ml,5,255,,0.13,av,av91105063,2023-05-26T23:47:27.310Z,"78 km NE of Nikolski, Alaska",earthquake,1.74,1.57,0.412597142871927,4,reviewed,av,av
-2023-05-26T13:35:04.010Z,53.4488333333333,-168.037333333333,0.14,-0.56,ml,5,266,,0.08,av,av91105058,2023-05-26T23:43:19.760Z,"79 km NE of Nikolski, Alaska",earthquake,0.44,0.3,0.221051481576791,5,reviewed,av,av
-2023-05-26T13:32:39.510Z,58.2685,-155.081333333333,5.23,-0.1,ml,5,138,,0.2,av,av91772662,2023-05-26T23:32:04.010Z,"86 km NNW of Karluk, Alaska",earthquake,0.79,1.84,0.351601592841532,5,reviewed,av,av
