@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T16:16:01.000Z,18.1489,-105.9348,10,4.4,mb,19,236,5.576,0.8,us,us7000k4n1,2023-05-28T16:48:41.040Z,"170 km SW of Emiliano Zapata, Mexico",earthquake,13.17,1.995,0.045,140,reviewed,us,us
 2023-05-28T16:13:57.872Z,-10.5554,164.8433,70.061,4.9,mb,38,71,4.948,0.75,us,us7000k4n2,2023-05-28T16:30:10.040Z,"106 km W of Lata, Solomon Islands",earthquake,9.4,5.912,0.09,39,reviewed,us,us
 2023-05-28T16:07:43.330Z,38.8363342,-122.8171692,2.15,0.2,md,8,66,0.01406,0,nc,nc73890965,2023-05-28T16:41:18.738Z,"8km W of Cobb, CA",earthquake,0.41,1.32,0.07,9,automatic,nc,nc
-2023-05-28T15:45:56.635Z,6.7237,-73.0184,157.836,5.3,mww,63,55,0.828,0.9,us,us7000k4mu,2023-05-28T17:23:58.144Z,"northern Colombia",earthquake,6,4.623,0.098,10,reviewed,us,us
+2023-05-28T15:45:56.635Z,6.7237,-73.0184,157.836,5.3,mww,63,55,0.828,0.9,us,us7000k4mu,2023-05-28T17:49:58.525Z,"northern Colombia",earthquake,6,4.623,0.098,10,reviewed,us,us
 2023-05-28T15:43:57.648Z,58.1806,-155.2452,38.2,0.8,ml,,,,0.68,ak,ak0236t0qaur,2023-05-28T15:45:59.341Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2023-05-28T15:42:19.501Z,60.1472,-153.0986,124.3,1.7,ml,,,,0.26,ak,ak0236t0pwqm,2023-05-28T15:44:01.228Z,"67 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-28T15:32:37.780Z,33.517,-116.4493333,7.17,0.72,ml,24,122,0.02075,0.2,ci,ci40236079,2023-05-28T16:28:15.550Z,"21km SW of La Quinta, CA",earthquake,0.4,0.68,0.126,18,automatic,ci,ci
@@ -211,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-27T18:20:08.290Z,19.158332824707,-155.490829467773,32.4099998474121,2.05,ml,52,123,,0.109999999,hv,hv73424702,2023-05-27T18:25:40.040Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.5,0.620000005,3.14,8,automatic,hv,hv
 2023-05-27T18:15:38.486Z,58.2655,-155.095,1.7,1.8,ml,,,,0.39,ak,ak0236ret46w,2023-05-27T18:17:33.089Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2023-05-27T18:02:06.665Z,64.4863,-149.4751,16.6,0.9,ml,,,,0.38,ak,ak0236req9fe,2023-05-27T18:05:57.697Z,"20 km WSW of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-27T17:48:44.240Z,19.4308338165283,-155.330673217773,0.370000004768372,1.74,ml,22,78,,0.189999998,hv,hv73424652,2023-05-27T17:54:15.700Z,"10 km W of Volcano, Hawaii",earthquake,0.37,0.519999981,0.76,4,automatic,hv,hv
