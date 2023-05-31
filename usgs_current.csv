@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-31T19:25:31.580Z,33.8178329,-117.49617,1.11,1.35,ml,32,92,0.0426,0.25,ci,ci40239159,2023-05-31T19:27:48.505Z,"7km SSE of Home Gardens, CA",earthquake,0.54,0.6,0.345,7,automatic,ci,ci
 2023-05-31T19:11:38.604Z,57.3316,-155.6542,85.1,1.8,ml,,,,0.26,ak,ak0236y1j2x0,2023-05-31T19:13:56.816Z,"76 km WSW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-31T19:04:16.050Z,19.4018333333333,-155.289833333333,1.59,0.47,md,13,54,,0.09,hv,hv73432667,2023-05-31T19:17:11.140Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.26,0.160674142415906,2,reviewed,hv,hv
 2023-05-31T18:56:22.240Z,38.8261681,-122.8024979,2.51,1.53,md,31,35,0.006534,0.02,nc,nc73894791,2023-05-31T19:00:16.976Z,"7km NW of The Geysers, CA",earthquake,0.18,0.37,0.19,32,automatic,nc,nc
@@ -251,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T19:47:46.040Z,38.7823334,-122.7243347,1.24,1.35,md,17,80,0.009726,0.03,nc,nc73891730,2023-05-30T22:37:14.798Z,"3km ENE of The Geysers, CA",earthquake,0.27,0.57,0.15,17,automatic,nc,nc
 2023-05-30T19:45:32.750Z,33.4863333,-116.4423333,12.33,1.09,ml,33,75,0.03949,0.18,ci,ci40238175,2023-05-30T19:49:05.294Z,"23km ESE of Anza, CA",earthquake,0.23,0.55,0.178,29,automatic,ci,ci
 2023-05-30T19:36:59.704Z,58.0393,-154.6867,79.4,1.1,ml,,,,0.64,ak,ak0236we54ya,2023-05-30T19:39:16.026Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
-2023-05-30T19:27:28.169Z,60.663,-151.1959,58.5,1.2,ml,,,,0.26,ak,ak0236we352o,2023-05-30T19:29:19.974Z,"5 km ESE of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
