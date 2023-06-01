@@ -259,6 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T14:44:41.910Z,19.3746666666667,-155.283,1.3,0.28,md,13,105,,0.08,hv,hv73432222,2023-05-31T18:39:58.910Z,"9 km SW of Volcano, Hawaii",earthquake,0.24,0.25,0.0375102388608165,3,reviewed,hv,hv
 2023-05-31T14:36:28.918Z,39.1619,-119.6142,5.9,0.5,ml,5,258.45,0.074,0.1253,nn,nn00860585,2023-06-01T02:04:15.041Z,"8 km SSW of Dayton, Nevada",earthquake,,4.2,0,1,reviewed,nn,nn
 2023-05-31T14:26:22.600Z,33.7131667,-116.725,18.51,0.88,ml,30,58,0.009248,0.2,ci,ci40238847,2023-05-31T14:29:51.918Z,"3km S of Idyllwild, CA",earthquake,0.33,0.41,0.146,24,automatic,ci,ci
-2023-05-31T14:22:09.380Z,18.2126,-68.6281,115,3.93,md,21,181,0.3894,0.53,pr,pr2023151001,2023-05-31T15:15:17.856Z,"18 km S of Boca de Yuma, Dominican Republic",earthquake,2.57,1.83,0.12,15,reviewed,pr,pr
-2023-05-31T14:19:34.290Z,38.8066673,-122.8263321,2.11,0.51,md,9,69,0.003126,0.02,nc,nc73892040,2023-05-31T15:10:16.530Z,"7km WNW of The Geysers, CA",earthquake,0.38,1.22,0.28,9,automatic,nc,nc
-2023-05-31T14:17:25.020Z,38.8100014,-122.7939987,2.92,0.74,md,9,108,0.002272,0.02,nc,nc73892035,2023-05-31T14:48:15.411Z,"5km NW of The Geysers, CA",earthquake,0.49,0.89,0.18,12,automatic,nc,nc
