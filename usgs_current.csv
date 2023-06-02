@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-01T06:57:41.520Z,18.0181666666667,-66.8215,15,2.07,md,8,150,0.06971,0.16,pr,pr71411953,2023-06-01T07:05:27.980Z,"2 km N of Indios, Puerto Rico",earthquake,0.52,1.06,0.0502742605182576,5,reviewed,pr,pr
 2023-06-01T06:46:13.262Z,60.3048,-152.2292,82.3,1.2,ml,,,,0.22,ak,ak0236zhj8ni,2023-06-01T06:47:42.163Z,"42 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-01T06:44:36.060Z,38.8156667,-122.8076667,3.49,1.7,md,52,21,0.007943,0.06,nc,nc73894951,2023-06-01T20:00:15.089Z,"6km NW of The Geysers, CA",earthquake,0.15,0.23,0.135,47,reviewed,nc,nc
-2023-06-01T06:39:36.400Z,19.1681671142578,-155.504501342773,33.7299995422363,2.01999998,md,45,102,,0.140000001,hv,hv73433487,2023-06-01T06:42:47.360Z,"4 km SW of Pāhala, Hawaii",earthquake,0.56,0.939999998,1.58000004,10,automatic,hv,hv
