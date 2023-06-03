@@ -4,10 +4,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-03T20:42:40.664Z,53.4781,-163.1207,10,3.9,mb,19,215,1.392,0.55,us,us7000k65i,2023-06-03T21:01:55.040Z,"154 km S of False Pass, Alaska",earthquake,5.63,1.945,0.121,18,reviewed,us,us
 2023-06-03T20:35:35.866Z,64.6497,-149.1403,13.2,0.5,ml,,,,0.58,ak,ak023730voz6,2023-06-03T20:37:14.104Z,"5 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-03T20:18:13.118Z,39.5161,-120.3131,8.2,1.6,ml,16,145.07,0.081,0.1429,nn,nn00860798,2023-06-03T20:43:44.320Z,"9 km SSE of Sierraville, California",earthquake,,1.8,0.21,7,reviewed,nn,nn
-2023-06-03T20:18:10.108Z,67.3698,-163.907,0,2.8,ml,,,,0.93,ak,ak023730rzte,2023-06-03T20:36:36.040Z,"46 km WSW of Noatak, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-06-03T20:18:10.108Z,67.3698,-163.907,0,2.8,ml,,,,0.93,ak,ak023730rzte,2023-06-03T20:36:36.040Z,"northern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-03T20:15:37.556Z,36.7833,-116.1334,4.8,-0.4,ml,7,221.49,0.032,0.0819,nn,nn00860804,2023-06-03T21:08:28.793Z,"47 km WNW of Indian Springs, Nevada",earthquake,,2.4,0.2,2,reviewed,nn,nn
 2023-06-03T20:10:00.346Z,39.6129,-119.9654,6.7,1.5,ml,20,80.47,0.007,0.1336,nn,nn00860796,2023-06-03T20:37:25.562Z,"7 km S of Cold Springs, Nevada",earthquake,,0.9,0.3,7,reviewed,nn,nn
-2023-06-03T20:07:13.943Z,64.9137,-151.0269,9.8,0.9,ml,,,,0.72,ak,ak023730pn8i,2023-06-03T20:09:08.311Z,"20 km WSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-03T20:07:13.943Z,64.9137,-151.0269,9.8,0.9,ml,,,,0.72,ak,ak023730pn8i,2023-06-03T20:09:08.311Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-03T20:00:04.313Z,61.2398,-147.4969,15.5,1.2,ml,,,,0.26,ak,ak023730o4hb,2023-06-03T20:09:05.737Z,"60 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-03T19:58:45.150Z,19.2481670379639,-155.400665283203,31.0400009155273,1.82000005,md,32,150,,0.0900000036,hv,hv73438387,2023-06-03T20:04:39.090Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.66,0.850000024,0.800000012,7,automatic,hv,hv
 2023-06-03T19:54:02.750Z,38.8084984,-122.7763367,1.37,0.75,md,11,72,0.005843,0.02,nc,nc73896556,2023-06-03T20:16:17.553Z,"4km NNW of The Geysers, CA",earthquake,0.32,0.71,0.06,13,automatic,nc,nc
@@ -327,4 +327,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-02T21:37:31.310Z,45.36416666666667,-121.70666666666666,2.86,0.89,ml,9,82,0.02857,0.08,uw,uw61930161,2023-06-02T22:34:59.180Z,"Washington-Oregon border region",earthquake,0.3,0.59,0.2894229551424983,4,reviewed,uw,uw
 2023-06-02T21:35:31.087Z,36.7678,-116.2726,2.6,-0.4,ml,4,264.62,0.029,0.0132,nn,nn00860720,2023-06-03T02:05:07.375Z,"46 km ESE of Beatty, Nevada",earthquake,,7.8,0,1,reviewed,nn,nn
 2023-06-02T21:25:29.474Z,55.313,163.1886,35,4.2,mb,38,157,3.518,0.37,us,us7000k5x4,2023-06-02T22:05:29.040Z,"111 km SSE of Ust’-Kamchatsk Staryy, Russia",earthquake,5.99,1.961,0.07,56,reviewed,us,us
-2023-06-02T21:20:04.700Z,35.3186667,-119.0356667,18.51,1.82,ml,31,60,0.06184,0.19,ci,ci40476408,2023-06-02T21:23:45.101Z,"4km S of Bakersfield, CA",earthquake,0.34,0.62,0.137,27,automatic,ci,ci
