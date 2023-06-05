@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-05T15:12:11.140Z,38.7996674,-122.7491684,0.7,1.22,md,19,100,0.02812,0.03,nc,nc73897296,2023-06-05T15:13:45.172Z,"3km NNE of The Geysers, CA",earthquake,0.32,0.48,0.16,19,automatic,nc,nc
-2023-06-05T15:11:59.870Z,38.8255005,-122.7969971,2.48,1.33,md,26,33,0.01043,0.02,nc,nc73897291,2023-06-05T15:23:11.580Z,"6km NNW of The Geysers, CA",earthquake,0.22,0.4,0.15,26,automatic,nc,nc
+2023-06-05T15:30:45.550Z,33.3623352,-116.3496704,16.18,1.04,ml,20,128,0.1776,0.17,ci,ci40478784,2023-06-05T15:32:59.062Z,"12km N of Borrego Springs, CA",earthquake,0.54,1.3,0.077,2,automatic,ci,ci
+2023-06-05T15:12:11.140Z,38.7996674,-122.7491684,0.7,1.22,md,19,100,0.02812,0.03,nc,nc73897296,2023-06-05T15:29:11.614Z,"3km NNE of The Geysers, CA",earthquake,0.32,0.48,0.16,19,automatic,nc,nc
+2023-06-05T15:11:59.870Z,38.8255005,-122.7969971,2.48,1.33,md,26,33,0.01043,0.02,nc,nc73897291,2023-06-05T15:28:12.607Z,"6km NNW of The Geysers, CA",earthquake,0.22,0.4,0.15,26,automatic,nc,nc
 2023-06-05T15:00:04.130Z,33.6455,-117.0526667,0.02,1.28,ml,9,153,0.2298,0.26,ci,ci40478744,2023-06-05T15:03:36.927Z,"7km SSE of Winchester, CA",earthquake,0.98,31.61,0.449,9,automatic,ci,ci
 2023-06-05T14:59:55.440Z,38.8358345,-122.7904968,2,1.06,md,17,66,0.002574,0.02,nc,nc73897286,2023-06-05T15:15:13.533Z,"6km WNW of Cobb, CA",earthquake,0.25,0.43,0.09,17,automatic,nc,nc
 2023-06-05T14:40:31.090Z,38.8358345,-122.795166,2.08,0.73,md,12,67,0.00456,0.01,nc,nc73897281,2023-06-05T14:57:13.407Z,"6km WNW of Cobb, CA",earthquake,0.32,0.94,0.18,12,automatic,nc,nc
@@ -174,7 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T16:55:58.280Z,40.2475014,-121.1326675,1.35,2.19,md,5,124,0.3026,0.11,nc,nc73896966,2023-06-04T17:30:10.522Z,"4km SW of Hamilton Branch, CA",earthquake,0.82,11.83,0.04,3,automatic,nc,nc
 2023-06-04T16:51:05.620Z,46.8885,-121.9225,8.45,0.28,ml,13,142,0.02092,0.09,uw,uw61930476,2023-06-05T04:57:58.480Z,"Washington",earthquake,0.51,0.44,0.0594423079729578,6,reviewed,uw,uw
 2023-06-04T16:49:05.210Z,34.2786667,-119.749,0.74,1.5,ml,13,150,0.1641,0.14,ci,ci40478152,2023-06-04T16:52:43.493Z,"16km SSW of Santa Barbara, CA",earthquake,0.54,31.61,0.166,17,automatic,ci,ci
-2023-06-04T16:41:44.370Z,34.239,-119.7366667,-0.05,3.08,ml,40,122,0.1945,0.27,ci,ci40478144,2023-06-05T13:55:25.358Z,"21km S of Santa Barbara, CA",earthquake,0.34,0.71,0.146,50,reviewed,ci,ci
+2023-06-04T16:41:44.370Z,34.239,-119.7366667,-0.05,3.08,ml,40,122,0.1945,0.27,ci,ci40478144,2023-06-05T15:32:28.988Z,"21km S of Santa Barbara, CA",earthquake,0.34,0.71,0.146,50,reviewed,ci,ci
 2023-06-04T16:41:43.011Z,36.7782,-115.9496,9.3,-0.2,ml,12,214.03,0.058,0.1024,nn,nn00860849,2023-06-04T22:32:57.487Z,"34 km NW of Indian Springs, Nevada",earthquake,,1.5,0.09,4,reviewed,nn,nn
 2023-06-04T16:37:35.950Z,34.274,-119.7498333,1,1.72,ml,19,149,0.1688,0.23,ci,ci40478136,2023-06-04T17:01:07.144Z,"17km SSW of Santa Barbara, CA",earthquake,0.61,31.61,0.19,28,automatic,ci,ci
 2023-06-04T16:13:49.830Z,38.8376656,-122.8073349,1.82,0.73,md,9,60,0.01329,0.03,nc,nc73896951,2023-06-04T16:48:15.249Z,"8km WNW of Cobb, CA",earthquake,0.42,1.48,0.44,9,automatic,nc,nc
@@ -186,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T15:40:03.121Z,62.998,-151.0373,116.1,0.9,ml,,,,0.4,ak,ak02374lgviy,2023-06-04T15:42:35.519Z,"57 km NNW of Petersville, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-06-04T15:37:09.410Z,39.3296661,-123.1673355,6.11,1.45,md,8,126,0.05341,0.04,nc,nc73896926,2023-06-04T16:33:11.152Z,"8km NNE of Redwood Valley, CA",earthquake,0.52,1.52,0.05,6,automatic,nc,nc
 2023-06-04T15:35:27.785Z,56.3213,-157.4143,28.1,2.7,ml,,,,0.71,ak,ak02374lfutm,2023-06-04T17:43:32.040Z,"61 km E of Chignik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-04T15:28:00.632Z,59.7635,-152.5084,87.8,1.3,ml,,,,0.43,ak,ak02374leapr,2023-06-04T15:29:49.974Z,"38 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
