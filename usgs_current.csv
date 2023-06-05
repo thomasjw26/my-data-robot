@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-05T18:51:47.354Z,66.1141,-143.3582,8.8,2.3,ml,,,,1.19,ak,ak02376auz3j,2023-06-05T18:54:31.289Z,"45 km NE of Circle, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-05T18:41:39.168Z,57.8734,-153.8095,35.4,2.3,ml,,,,0.59,ak,ak02376astb0,2023-06-05T18:43:36.881Z,"38 km NNE of Larsen Bay, Alaska",earthquake,,7.5,,,automatic,ak,ak
 2023-06-05T18:41:22.693Z,66.0707,-143.3488,12.6,2.2,ml,,,,1.03,ak,ak02376ass19,2023-06-05T18:44:51.326Z,"42 km NE of Circle, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-06-05T18:39:30.730Z,19.4031658172607,-155.272827148438,1.39999997615814,2.11999989,md,10,61,,0.100000001,hv,hv73441037,2023-06-05T18:42:20.490Z,"5 km SW of Volcano, Hawaii",earthquake,0.22,0.910000026,2.1400001,4,automatic,hv,hv
