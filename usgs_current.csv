@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-07T18:50:46.720Z,38.3069992,-122.5859985,6.37,2.14,md,31,42,0.0422,0.1,nc,nc73898301,2023-06-07T18:52:24.453Z,"7km E of Penngrove, CA",earthquake,0.19,0.47,0.16,33,automatic,nc,nc
 2023-06-07T18:36:55.280Z,35.8791667,-117.6838333,8.87,1.35,ml,12,161,0.09447,0.22,ci,ci40480056,2023-06-07T18:40:24.772Z,"21km ESE of Little Lake, CA",earthquake,0.71,0.92,0.145,10,automatic,ci,ci
 2023-06-07T18:35:59.326Z,60.2562,-152.009,76.6,1.7,ml,,,,0.29,ak,ak02379lu9jw,2023-06-07T18:38:25.816Z,"29 km NW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-07T18:24:04.710Z,33.4398333,-116.4266667,7.45,0.96,ml,32,77,0.08335,0.23,ci,ci40480048,2023-06-07T18:27:29.990Z,"21km NNW of Borrego Springs, CA",earthquake,0.31,1.05,0.202,25,automatic,ci,ci
@@ -34,6 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T15:11:56.140Z,38.8074989,-122.7748337,-0.4,1.3,md,19,75,0.007347,0.06,nc,nc73898161,2023-06-07T16:58:14.601Z,"4km NNW of The Geysers, CA",earthquake,0.19,0.53,0.16,19,automatic,nc,nc
 2023-06-07T15:07:28.610Z,19.4253333333333,-155.2755,-0.38,1.05,md,20,96,,0.12,hv,hv73445022,2023-06-07T17:37:33.250Z,"4 km WSW of Volcano, Hawaii",earthquake,0.12,0.08,0.00246933784320347,3,reviewed,hv,hv
 2023-06-07T15:04:40.840Z,35.739,-117.5221667,9.31,0.78,ml,10,165,0.09807,0.19,ci,ci40479920,2023-06-07T15:08:09.012Z,"11km WSW of Searles Valley, CA",earthquake,0.86,1.38,0.093,5,automatic,ci,ci
+2023-06-07T15:01:49.700Z,44.3371667,-110.2845,11.49,0.34,md,9,187,0.05466,0.22,uu,uu60541796,2023-06-07T18:53:45.330Z,"74 km ESE of West Yellowstone, Montana",earthquake,0.95,0.72,0.048,3,reviewed,uu,uu
 2023-06-07T15:00:43.442Z,65.0112,-147.4961,0,0.8,ml,,,,0.97,ak,ak02379jufgp,2023-06-07T15:06:22.385Z,"8 km NE of Fox, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-07T14:58:37.570Z,19.3771666666667,-155.283,1.09,0.92,md,14,91,,0.1,hv,hv73445012,2023-06-07T17:42:42.690Z,"8 km SW of Volcano, Hawaii",earthquake,0.18,0.15,0.241848549996305,2,reviewed,hv,hv
 2023-06-07T14:56:36.540Z,36.8506667,-113.5506667,8.77,1.69,ml,10,223,0.4233,0.21,uu,uu60541791,2023-06-07T18:41:54.960Z,"28 km S of Saint George, Utah",earthquake,1.15,1.87,0.097,3,reviewed,uu,uu
@@ -211,6 +213,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T03:02:01.900Z,45.3685,-121.7025,1.33,0.52,ml,6,93,0.03084,0.05,uw,uw61931111,2023-06-07T06:25:28.820Z,"8 km NNE of Government Camp, Oregon",earthquake,0.43,0.34,0.07015264600740079,3,reviewed,uw,uw
 2023-06-07T02:53:27.060Z,19.2438335418701,-155.399002075195,29.7700004577637,1.73,ml,36,135,,0.100000001,hv,hv73443297,2023-06-07T02:58:57.900Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.62,0.75,1.41,3,automatic,hv,hv
 2023-06-07T02:51:21.110Z,37.5425,-118.8793333,6.58,0.84,md,17,174,0.062,0.04,nc,nc73897976,2023-06-07T06:56:48.679Z,"14km SE of Mammoth Lakes, CA",earthquake,0.56,0.98,0.214,17,reviewed,nc,nc
+2023-06-07T02:45:14.700Z,58.1991666666667,-155.248,2.3,0,ml,7,125,,0.04,av,av91915216,2023-06-07T18:52:40.470Z,"84 km NW of Karluk, Alaska",earthquake,0.26,1.51,0.259140005315305,7,reviewed,av,av
 2023-06-07T02:39:26.860Z,34.7261667,-119.8796667,-0.05,1.57,ml,23,42,0.08928,0.24,ci,ci40479728,2023-06-07T02:43:10.702Z,"22km NE of Santa Ynez, CA",earthquake,0.31,31.61,0.177,26,automatic,ci,ci
 2023-06-07T02:32:51.874Z,-22.4742,-178.9004,605.537,4.5,mb,26,102,3.672,0.55,us,us7000k6s7,2023-06-07T03:42:16.040Z,"south of the Fiji Islands",earthquake,15.62,14.413,0.118,21,reviewed,us,us
 2023-06-07T02:32:49.798Z,56.6837,-155.9033,0,2.2,ml,,,,0.4,ak,ak02379canzn,2023-06-07T02:34:53.445Z,"109 km WSW of Akhiok, Alaska",earthquake,,3.3,,,automatic,ak,ak
@@ -324,4 +327,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T19:00:54.350Z,36.0415,-120.6183333,4.87,0.91,md,13,222,0.03263,0.08,nc,nc73897816,2023-06-06T20:59:18.588Z,"23km NW of Parkfield, CA",earthquake,0.49,1.04,0.201,7,reviewed,nc,nc
 2023-06-06T19:00:33.880Z,35.0651667,-118.5505,0.89,1.23,ml,11,113,0.1869,0.17,ci,ci40479536,2023-06-06T19:04:11.603Z,"12km SW of Tehachapi, CA",earthquake,0.61,1.21,0.142,18,automatic,ci,ci
 2023-06-06T18:55:22.166Z,65.9944,-143.446,9,3.1,ml,,,,1,ak,ak02377yf4j8,2023-06-07T16:47:40.040Z,"33 km ENE of Circle, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-06-06T18:48:22.223Z,66.0389,-143.3911,10,1.6,ml,,,,0.27,ak,ak02377ydmi6,2023-06-06T18:50:54.186Z,"38 km NE of Circle, Alaska",earthquake,,1.3,,,automatic,ak,ak
