@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-09T10:53:12.230Z,38.8339996,-122.7896652,1.81,0.68,md,9,87,0.004435,0.02,nc,nc73899056,2023-06-09T10:54:49.701Z,"6km WNW of Cobb, CA",earthquake,0.42,0.52,0.44,9,automatic,nc,nc
 2023-06-09T10:45:05.970Z,60.8859,-151.9496,86.1,0.8,ml,,,,0.6,ak,ak0237cs7ius,2023-06-09T10:47:13.932Z,"42 km WNW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-06-09T10:37:14.690Z,38.8390007,-122.8238297,1.72,0.36,md,8,93,0.009113,0.01,nc,nc73899051,2023-06-09T10:38:49.197Z,"9km WNW of Cobb, CA",earthquake,0.84,2.15,0.26,9,automatic,nc,nc
+2023-06-09T10:37:14.690Z,38.8390007,-122.8238297,1.72,0.36,md,8,93,0.009113,0.01,nc,nc73899051,2023-06-09T10:54:14.817Z,"9km WNW of Cobb, CA",earthquake,0.84,2.15,0.26,9,automatic,nc,nc
+2023-06-09T10:34:05.118Z,-2.8138,129.2056,10,4.9,mb,61,63,1.835,0.28,us,us7000k7bn,2023-06-09T10:53:58.040Z,"59 km NNE of Masohi, Indonesia",earthquake,6.46,1.877,0.071,63,reviewed,us,us
 2023-06-09T10:05:42.760Z,63.2541,-150.5755,114.7,1.8,ml,,,,0.18,ak,ak0237crz0xw,2023-06-09T10:07:44.028Z,"65 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-09T10:04:23.030Z,38.8380013,-122.8238297,2.19,1.01,md,16,86,0.009123,0.02,nc,nc73899046,2023-06-09T10:32:15.672Z,"9km WNW of Cobb, CA",earthquake,0.27,0.71,0.29,17,automatic,nc,nc
 2023-06-09T10:03:18.290Z,38.7885017,-122.7710037,-0.15,1.1,md,16,80,0.01402,0.06,nc,nc73899041,2023-06-09T10:38:10.708Z,"2km NW of The Geysers, CA",earthquake,0.21,0.67,0.22,16,automatic,nc,nc
@@ -186,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T11:38:00.470Z,33.361,-116.3638333,10.96,1.28,ml,46,67,0.1028,0.22,ci,ci40480480,2023-06-08T13:23:57.979Z,"12km N of Borrego Springs, CA",earthquake,0.28,0.91,0.157,26,reviewed,ci,ci
 2023-06-08T11:26:18.370Z,19.2611675262451,-155.369506835938,30.7700004577637,2.19,ml,51,137,,0.150000006,hv,hv73445592,2023-06-08T11:31:51.640Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.52,0.589999974,2.54,13,automatic,hv,hv
 2023-06-08T11:14:03.830Z,36.0851667,-120.2135,8.18,1.64,md,30,207,0.05531,0.06,nc,nc73898631,2023-06-08T19:52:14.473Z,"12km NW of Avenal, CA",earthquake,0.31,0.3,0.272,34,reviewed,nc,nc
-2023-06-08T10:53:39.552Z,56.2203,-149.1973,10,4.3,mb,83,144,2.426,0.36,us,us7000k740,2023-06-08T11:17:28.616Z,"243 km SE of Chiniak, Alaska",earthquake,7.79,1.953,0.065,68,reviewed,us,us
