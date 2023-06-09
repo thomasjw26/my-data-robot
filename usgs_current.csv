@@ -58,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T09:24:38.997Z,44.1688,149.4259,53.013,4.6,mb,83,135,4.918,0.54,us,us7000k7bd,2023-06-09T10:39:36.040Z,"169 km SE of Kuril’sk, Russia",earthquake,10.47,7.284,0.042,171,reviewed,us,us
 2023-06-09T09:00:00.820Z,38.8333321,-122.8246689,3.62,0.73,md,9,84,0.009947,0.03,nc,nc73899036,2023-06-09T09:16:12.189Z,"9km NW of The Geysers, CA",earthquake,0.82,2.35,0.29,10,automatic,nc,nc
 2023-06-09T08:35:26.813Z,-10.889,162.5666,46.809,4.3,mb,20,148,2.954,0.87,us,us7000k7b9,2023-06-09T09:22:14.040Z,"85 km SE of Kirakira, Solomon Islands",earthquake,12.29,8.034,0.138,15,reviewed,us,us
-2023-06-09T08:13:00.120Z,38.8308333,-122.8105,1.96,1.6,md,51,29,0.007435,0.05,nc,nc73899021,2023-06-09T17:10:13.079Z,"8km NW of The Geysers, CA",earthquake,0.12,0.22,0.178,46,reviewed,nc,nc
+2023-06-09T08:13:00.120Z,38.8308333,-122.8105,1.96,1.6,md,51,29,0.007435,0.05,nc,nc73899021,2023-06-09T17:24:11.160Z,"8km NW of The Geysers, CA",earthquake,0.12,0.22,0.178,46,reviewed,nc,nc
 2023-06-09T08:03:43.550Z,51.9566,177.7558,4.8,3.5,ml,,,,0.62,ak,ak0237cqrqf9,2023-06-09T16:59:00.508Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-06-09T07:19:51.940Z,36.1433333,-120.622,7.78,0.8,md,19,166,0.07726,0.1,nc,nc73899006,2023-06-09T16:57:17.003Z,"24km W of Coalinga, CA",earthquake,0.41,1.11,0.288,11,reviewed,nc,nc
 2023-06-09T06:43:11.090Z,19.6926,-65.6526,33,3.81,md,13,274,1.4336,0.27,pr,pr2023160001,2023-06-09T07:11:27.420Z,"141 km N of Suárez, Puerto Rico",earthquake,1.76,18.23,0.07,4,reviewed,pr,pr
