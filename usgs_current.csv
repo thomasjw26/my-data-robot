@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T11:29:56.190Z,38.8066673,-122.8373337,1.44,0.75,md,7,115,0.002645,0.03,nc,nc73899071,2023-06-09T11:47:20.146Z,"8km WNW of The Geysers, CA",earthquake,0.46,0.94,0.1,8,automatic,nc,nc
 2023-06-09T11:28:40.240Z,18.298,-68.4425,101,3.74,md,18,185,0.2244,0.12,pr,pr2023160002,2023-06-09T12:06:46.230Z,"19 km ESE of Boca de Yuma, Dominican Republic",earthquake,1.8,1.06,0.14,11,reviewed,pr,pr
 2023-06-09T11:27:06.250Z,47.9235,-115.053,4.98,0.52,ml,4,164,0.3414,0.11,mb,mb90017513,2023-06-09T22:59:52.090Z,"Idaho-Montana border region",earthquake,0.55,8.86,0.012840883660076,2,reviewed,mb,mb
-2023-06-09T11:21:54.910Z,67.509,-142.5788,0,3.4,ml,,,,0.7,ak,ak0237csnwxv,2023-06-09T11:28:21.040Z,"107 km NNE of Chalkyitsik, Alaska",earthquake,,0.6,,,automatic,ak,ak
