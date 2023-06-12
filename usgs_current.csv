@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T04:24:39.770Z,37.6128349,-122.4608307,7.78,1.23,md,8,135,0.0421,0.01,nc,nc73900236,2023-06-12T05:32:10.639Z,"2km E of Pacifica, CA",earthquake,0.41,0.91,0.23,6,automatic,nc,nc
 2023-06-12T04:21:24.430Z,33.7033333,-116.8088333,15.59,1.06,ml,32,101,0.0793,0.16,ci,ci40483648,2023-06-12T04:25:00.293Z,"9km ESE of Valle Vista, CA",earthquake,0.34,0.45,0.308,26,automatic,ci,ci
 2023-06-12T04:14:26.598Z,60.227,-139.6543,0,2.5,ml,,,,0.84,ak,ak0237hn2czn,2023-06-12T04:17:04.807Z,"75 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-12T03:52:45.580Z,38.7919998,-122.7638321,2.74,1.26,md,16,76,0.01886,0.02,nc,nc73900231,2023-06-12T05:06:10.469Z,"2km NNW of The Geysers, CA",earthquake,0.29,0.71,0.27,16,automatic,nc,nc
+2023-06-12T03:52:45.580Z,38.7919998,-122.7638321,2.74,1.26,md,16,76,0.01886,0.02,nc,nc73900231,2023-06-12T06:41:15.081Z,"2km NNW of The Geysers, CA",earthquake,0.29,0.71,0.27,16,automatic,nc,nc
 2023-06-12T03:48:31.880Z,38.7921677,-122.7643356,2.6,1.32,md,17,93,0.01846,0.03,nc,nc73900226,2023-06-12T06:14:11.912Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.62,0.17,18,automatic,nc,nc
 2023-06-12T03:34:32.020Z,35.771,-117.5866667,6.28,1.28,ml,19,126,0.1497,0.2,ci,ci40483640,2023-06-12T03:44:50.980Z,"16km W of Searles Valley, CA",earthquake,0.43,1.41,0.248,10,automatic,ci,ci
 2023-06-12T03:17:20.480Z,33.9386667,-117.0948333,11.98,0.88,ml,17,50,0.09655,0.22,ci,ci40483632,2023-06-12T03:20:49.183Z,"7km SW of Calimesa, CA",earthquake,0.44,1.63,0.097,15,automatic,ci,ci
@@ -127,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T10:19:13.800Z,18.0151666666667,-66.7768333333333,14.21,2.07,md,10,168,0.01479,0.08,pr,pr71413033,2023-06-11T10:39:11.710Z,"Puerto Rico region",earthquake,0.38,0.83,0.0438401996170046,5,reviewed,pr,pr
 2023-06-11T10:16:18.654Z,39.6151,-119.9686,6.6,1.6,ml,24,67.99,0.01,0.1485,nn,nn00861109,2023-06-12T02:03:48.982Z,"7 km S of Cold Springs, Nevada",earthquake,,0.9,0.5,6,reviewed,nn,nn
 2023-06-11T10:07:14.122Z,61.0085,-150.7159,41.7,2.1,ml,,,,0.27,ak,ak0237g3235g,2023-06-11T10:09:03.770Z,"9 km N of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-06-11T09:54:45.153Z,42.5322,141.9165,123.267,6.2,mww,152,20,1.056,0.54,us,us7000k7su,2023-06-12T05:00:39.686Z,"Hokkaido, Japan region",earthquake,5.82,3.582,0.032,94,reviewed,us,us
+2023-06-11T09:54:45.153Z,42.5322,141.9165,123.267,6.2,mww,152,20,1.056,0.54,us,us7000k7su,2023-06-12T06:41:37.382Z,"Hokkaido, Japan region",earthquake,5.82,3.582,0.032,94,reviewed,us,us
 2023-06-11T09:50:19.920Z,58.2413333333333,-155.052333333333,3.35,0.74,ml,9,114,,0.22,av,av91921121,2023-06-11T15:11:10.570Z,"82 km NNW of Karluk, Alaska",earthquake,0.49,1.07,0.247021228409694,9,reviewed,av,av
 2023-06-11T09:28:01.920Z,33.9611667,-117.0155,18.71,0.9,ml,20,81,0.04916,0.23,ci,ci40483216,2023-06-11T09:31:34.567Z,"5km SE of Calimesa, CA",earthquake,0.47,0.88,0.14,14,automatic,ci,ci
 2023-06-11T09:00:44.190Z,58.1745,-155.3355,3.16,1.03,ml,4,251,,0.07,av,av91920941,2023-06-11T15:00:12.010Z,"85 km NW of Karluk, Alaska",earthquake,0.71,2.75,0.259854170595489,4,reviewed,av,av
@@ -150,6 +150,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T07:05:15.450Z,36.0224991,-120.5859985,1.35,0.29,md,9,147,0.04211,0.08,nc,nc73899856,2023-06-11T08:06:13.719Z,"20km NW of Parkfield, CA",earthquake,0.51,2.77,0.2,3,automatic,nc,nc
 2023-06-11T06:53:32.820Z,33.4803333,-116.4948333,11.64,0.46,ml,22,55,0.09086,0.26,ci,ci40483176,2023-06-11T06:57:07.280Z,"18km ESE of Anza, CA",earthquake,0.46,1.16,0.137,9,automatic,ci,ci
 2023-06-11T06:51:48.133Z,-2.9793,136.648,50.039,5,mww,86,55,4.077,0.62,us,us7000k7s6,2023-06-11T07:08:27.040Z,"134 km ENE of Nabire, Indonesia",earthquake,7.91,6.923,0.098,10,reviewed,us,us
-2023-06-11T06:36:50.240Z,-24.1423,-67.1026,219.632,4.3,mb,18,87,1.542,0.57,us,us7000k7s0,2023-06-11T08:09:08.040Z,"80 km W of San Antonio de los Cobres, Argentina",earthquake,11.46,18.533,0.217,6,reviewed,us,us
-2023-06-11T06:36:19.276Z,-5.7393,102.9267,31.384,4.8,mb,46,185,1.37,0.68,us,us7000k7s1,2023-06-11T06:54:05.040Z,"192 km S of Pagar Alam, Indonesia",earthquake,9.5,6.713,0.097,33,reviewed,us,us
-2023-06-11T06:35:32.140Z,17.997,-66.8668333333333,11.42,2.04,md,9,130,0.02483,0.18,pr,pr71413013,2023-06-11T06:47:35.090Z,"Puerto Rico region",earthquake,0.54,0.72,0.134679685512216,4,reviewed,pr,pr
