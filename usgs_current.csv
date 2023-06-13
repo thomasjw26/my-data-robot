@@ -184,6 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T18:13:17.358Z,37.3214,-117.6285,7.1,1.6,ml,9,96.08,0.09,0.2364,nn,nn00861147,2023-06-12T18:44:27.825Z,"48 km S of Silver Peak, Nevada",earthquake,,7,0.86,5,reviewed,nn,nn
 2023-06-12T18:03:50.251Z,51.429,-178.7781,15.7,1.4,ml,,,,0.76,ak,ak0237hvc53w,2023-06-12T21:35:35.844Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-06-12T18:01:35.630Z,18.1108333333333,-66.4735,11.93,2.29,md,14,121,0.03793,0.18,pr,pr71413148,2023-06-12T18:27:08.300Z,"2 km SE of Villalba, Puerto Rico",earthquake,0.37,0.65,0.0738447546512737,6,reviewed,pr,pr
-2023-06-12T17:59:05.490Z,37.277832,-121.6429977,8.67,1.33,md,11,83,0.03052,0.04,nc,nc73900396,2023-06-12T21:08:15.226Z,"16km N of Morgan Hill, CA",earthquake,0.48,0.79,0.23,6,automatic,nc,nc
-2023-06-12T17:56:52.980Z,37.6366667,-119.0488333,-0.99,0.36,md,7,111,0.01684,0.02,nc,nc73900401,2023-06-12T22:52:37.467Z,"6km W of Mammoth Lakes, CA",earthquake,0.28,0.59,0.087,6,reviewed,nc,nc
-2023-06-12T17:56:10.960Z,37.6366667,-119.0495,-0.56,0.35,md,6,154,0.01733,0.01,nc,nc73900391,2023-06-12T22:51:07.383Z,"6km W of Mammoth Lakes, CA",earthquake,0.38,1.85,0.403,5,reviewed,nc,nc
