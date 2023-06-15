@@ -184,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T07:24:26.740Z,46.9721666666667,-114.189333333333,12.11,0.66,ml,14,104,0.119,0.12,mb,mb90018238,2023-06-14T13:40:56.840Z,"5 km WNW of Wye, Montana",earthquake,0.4,1.27,0.284675694744851,4,reviewed,mb,mb
 2023-06-14T07:22:00.270Z,39.2031667,-123.1718333,1.55,1.25,md,12,82,0.1005,0.09,nc,nc73900991,2023-06-14T10:16:15.019Z,"7km NNE of Ukiah, CA",earthquake,0.29,1.33,0.149,11,reviewed,nc,nc
 2023-06-14T07:19:45.163Z,57.9099,-154.3634,48.4,1.9,ml,,,,0.2,ak,ak0237kzygt0,2023-06-14T07:21:19.596Z,"38 km N of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-06-14T07:14:37.629Z,59.7484,-151.5983,57.8,1.7,ml,,,,0.31,ak,ak0237kzxdn6,2023-06-14T07:16:52.305Z,"7 km S of Nikolaevsk, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-06-14T07:13:42.070Z,17.9453333333333,-66.952,7.84,2.37,md,7,213,0.07529,0.07,pr,pr71413413,2023-06-14T07:27:21.240Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.76,0.22,0.114751884947556,6,reviewed,pr,pr
