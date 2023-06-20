@@ -192,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T21:42:52.340Z,46.98083333333334,-122.27316666666667,-0.61,1.35,ml,16,276,0.0696,0.13,uw,uw61934576,2023-06-20T18:27:02.640Z,"3 km W of Kapowsin, Washington",explosion,0.68,31.61,0.12776935264931688,8,reviewed,uw,uw
 2023-06-19T21:24:11.346Z,64.8335,-149.0772,13.8,1.6,ml,,,,0.62,ak,ak0237ti09pq,2023-06-19T21:26:12.952Z,"25 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-19T21:22:14.720Z,32.7076667,-116.6436667,17.06,1,ml,25,52,0.03654,0.21,ci,ci40489288,2023-06-19T21:25:50.685Z,"16km N of Tecate, B.C., MX",earthquake,0.37,0.64,0.133,12,automatic,ci,ci
-2023-06-19T21:16:29.134Z,2.0805,128.2998,90.831,5.2,mb,89,78,1.6,0.76,us,us7000k9pt,2023-06-19T21:31:41.040Z,"50 km NE of Tobelo, Indonesia",earthquake,6.81,6.879,0.073,62,reviewed,us,us
