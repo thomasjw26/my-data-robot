@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-20T23:21:41.640Z,19.19700050354,-155.386169433594,31.9300003051758,2.95000005,md,50,162,,0.119999997,hv,hv73456802,2023-06-20T23:25:05.160Z,"9 km E of Pāhala, Hawaii",earthquake,0.53,0.629999995,1.77999997,44,automatic,hv,hv
 2023-06-20T23:09:52.076Z,60.4086,-150.6469,30.2,2.1,ml,,,,1.02,ak,ak0237v6nctj,2023-06-20T23:11:52.160Z,"12 km SSE of Funny River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-20T23:08:28.970Z,37.6486664,-119.0210037,-1.32,2.73,md,19,115,0.00863,0.06,nc,nc73903386,2023-06-20T23:18:11.036Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.3,0.15,0.17,17,automatic,nc,nc
+2023-06-20T23:08:28.970Z,37.6486664,-119.0210037,-1.32,2.73,md,19,115,0.00863,0.06,nc,nc73903386,2023-06-20T23:23:13.574Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.3,0.15,0.17,17,automatic,nc,nc
 2023-06-20T23:01:08.030Z,64.9903,-147.4597,0,1.1,ml,,,,0.58,ak,ak0237v6ljpv,2023-06-20T23:06:37.963Z,"8 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-20T22:52:19.245Z,63.1422,-150.4308,111.6,3.3,ml,,,,0.66,ak,ak0237v6b2g4,2023-06-20T22:54:12.098Z,"73 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-20T22:38:26.330Z,33.0323333,-116.4361667,7.76,1.03,ml,37,56,0.06406,0.22,ci,ci40490336,2023-06-20T22:42:04.537Z,"16km ESE of Julian, CA",earthquake,0.3,0.91,0.171,24,automatic,ci,ci
@@ -81,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T13:34:44.510Z,46.202666666666666,-119.5795,7.17,0.55,md,6,269,0.07517,0.06,uw,uw61934686,2023-06-20T16:45:52.360Z,"9 km SW of Benton City, Washington",earthquake,0.79,0.22,0.16687819504082768,6,reviewed,uw,uw
 2023-06-20T13:32:56.867Z,-18.2046,-177.9733,607.562,4.4,mb,87,41,3.877,0.89,us,us7000k9uq,2023-06-20T14:07:30.040Z,"287 km E of Levuka, Fiji",earthquake,11.85,7.994,0.065,73,reviewed,us,us
 2023-06-20T13:29:11.561Z,61.3453,-150.0539,32.4,1,ml,,,,0.29,ak,ak0237v0t7ys,2023-06-20T13:31:30.014Z,"4 km WSW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-20T13:22:39.590Z,39.0291672,-123.0619965,3.72,1.56,md,12,139,0.1013,0.08,nc,nc73903206,2023-06-20T13:58:10.055Z,"13km W of Lakeport, CA",earthquake,0.39,2.29,0.12,7,automatic,nc,nc
+2023-06-20T13:22:39.590Z,39.0268333,-123.0715,3.11,1.48,md,38,53,0.1031,0.1,nc,nc73903206,2023-06-20T23:21:24.075Z,"14km W of Lakeport, CA",earthquake,0.16,0.84,0.118,37,reviewed,nc,nc
 2023-06-20T13:00:00.500Z,44.588,-110.6593333,6.56,0.53,md,9,101,0.02082,0.17,uu,uu60542866,2023-06-20T17:26:18.450Z,"36 km ESE of West Yellowstone, Montana",earthquake,0.71,1.06,0.434,4,reviewed,uu,uu
 2023-06-20T12:59:32.780Z,17.939,-66.968,15.74,1.95,md,4,228,0.09177,0.06,pr,pr71414148,2023-06-20T13:45:00.800Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.7,0.6,0.112205577164655,3,reviewed,pr,pr
 2023-06-20T12:57:22.220Z,44.5736667,-110.6701667,5,1.05,md,11,105,0.03707,0.09,uu,uu60542861,2023-06-20T13:21:53.730Z,"35 km ESE of West Yellowstone, Montana",earthquake,0.4,0.45,0.456,5,reviewed,uu,uu
@@ -99,12 +100,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T12:14:50.440Z,19.1296672821045,-155.365173339844,29.1399993896484,1.72000003,md,39,187,,0.109999999,hv,hv73456312,2023-06-20T12:17:51.270Z,"14 km SE of Pāhala, Hawaii",earthquake,0.55,0.839999974,0.850000024,3,automatic,hv,hv
 2023-06-20T12:06:50.807Z,61.7651,-149.7563,36.2,0.8,ml,,,,0.64,ak,ak0237v02xx4,2023-06-20T12:08:34.938Z,"14 km E of Willow, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-06-20T11:45:42.948Z,61.596,-149.8663,32.3,0.8,ml,,,,0.58,ak,ak0237uzpumu,2023-06-20T11:47:30.534Z,"4 km SW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-20T11:39:47.410Z,34.162,-80.7163333333333,3.39,2.01,md,10,88,0.03046,0.31,se,se60500868,2023-06-20T22:16:46.138Z,"7 km E of Elgin, South Carolina",earthquake,1.2,1.66,0.0375187376793478,8,reviewed,se,se
+2023-06-20T11:39:47.410Z,34.162,-80.7163333333333,3.39,2.01,md,10,88,0.03046,0.31,se,se60500868,2023-06-20T23:19:54.324Z,"7 km E of Elgin, South Carolina",earthquake,1.2,1.66,0.0375187376793478,8,reviewed,se,se
 2023-06-20T11:39:34.475Z,62.2487,-150.1012,53.1,0.9,ml,,,,0.23,ak,ak0237uzojon,2023-06-20T11:41:11.561Z,"8 km S of Talkeetna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-06-20T11:39:09.160Z,33.6463333,-116.7133333,12.28,0.47,ml,21,62,0.03992,0.11,ci,ci40489664,2023-06-20T15:54:24.574Z,"10km S of Idyllwild, CA",earthquake,0.21,0.43,0.192,4,reviewed,ci,ci
 2023-06-20T11:32:50.420Z,33.646,-116.711,12.57,0.61,ml,23,73,0.06505,0.13,ci,ci40489648,2023-06-20T13:13:38.382Z,"10km S of Idyllwild, CA",earthquake,0.25,0.45,0.213,13,reviewed,ci,ci
 2023-06-20T11:32:12.250Z,33.6541667,-116.7171667,14.58,0.31,ml,18,87,0.05691,0.21,ci,ci40489640,2023-06-20T13:13:55.313Z,"10km S of Idyllwild, CA",earthquake,0.52,0.71,0.151,7,reviewed,ci,ci
-2023-06-20T11:26:57.220Z,37.3575,-118.331,8.42,1.74,md,12,189,0.003655,0.05,nc,nc73903191,2023-06-20T23:16:23.721Z,"6km E of Bishop, CA",earthquake,0.91,0.73,0.204,13,reviewed,nc,nc
+2023-06-20T11:26:57.220Z,37.3575,-118.331,8.42,1.74,md,12,189,0.003655,0.05,nc,nc73903191,2023-06-20T23:21:11.412Z,"6km E of Bishop, CA",earthquake,0.91,0.73,0.204,13,reviewed,nc,nc
 2023-06-20T11:15:45.471Z,61.5983,-150.8938,56.1,1.2,ml,,,,0.52,ak,ak0237uzjfcj,2023-06-20T11:17:38.242Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-06-20T11:14:26.390Z,19.5316,-65.7848,47,3.48,md,12,281,1.2585,0.33,pr,pr2023171003,2023-06-20T12:21:08.876Z,"122 km N of Suárez, Puerto Rico",earthquake,2.99,13.62,0.12,5,reviewed,pr,pr
 2023-06-20T11:10:28.060Z,44.7531666666667,-112.703666666667,8.52,0.21,ml,5,118,0.1274,0.19,mb,mb90019113,2023-06-20T15:32:39.280Z,"15 km NW of Lima, Montana",earthquake,0.76,2.11,0.0801799222874043,3,reviewed,mb,mb
