@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-20T05:28:31.074Z,37.3352,-117.2588,0,0.1,ml,8,190.29,0.325,0.4128,nn,nn00861456,2023-06-20T05:30:44.942Z,"41 km S of Goldfield, Nevada",earthquake,,57.6,0.88,6,automatic,nn,nn
+2023-06-20T05:27:46.340Z,35.0686684,-118.3330002,1.47,1.5,ml,18,64,0.0782,0.17,ci,ci40489528,2023-06-20T05:29:52.576Z,"13km SE of Tehachapi, CA",earthquake,0.4,0.96,0.167,5,automatic,ci,ci
 2023-06-20T05:13:34.590Z,32.664,-115.7308333,7.15,1.65,ml,23,69,0.0151,0.23,ci,ci40489520,2023-06-20T05:17:15.174Z,"17km NW of Progreso, B.C., MX",earthquake,0.44,0.71,0.168,23,automatic,ci,ci
 2023-06-20T05:05:50.328Z,37.3243,-117.2505,8.4,1.8,ml,23,112.22,0.328,0.2543,nn,nn00861454,2023-06-20T05:08:47.271Z,"42 km S of Goldfield, Nevada",earthquake,,0.8,0.83,19,automatic,nn,nn
 2023-06-20T05:01:48.906Z,37.3194,-117.2611,0,1.4,ml,14,132.64,0.384,0.3296,nn,nn00861452,2023-06-20T05:04:16.009Z,"43 km S of Goldfield, Nevada",earthquake,,7.2,0.91,10,automatic,nn,nn
 2023-06-20T04:57:08.120Z,18.0201666666667,-66.8175,13.07,2.63,md,20,139,0.02471,0.23,pr,pr71414083,2023-06-20T05:09:20.330Z,"2 km W of Guayanilla, Puerto Rico",earthquake,0.5,0.45,0.180904668981242,6,reviewed,pr,pr
-2023-06-20T04:56:51.800Z,19.4223333333333,-155.261833333333,0.13,2.45,ml,32,62,,0.09,hv,hv73456007,2023-06-20T05:19:05.634Z,"Hawaii region, Hawaii",earthquake,0.14,0.16,0.167871596865498,29,reviewed,hv,hv
+2023-06-20T04:56:51.800Z,19.4223333333333,-155.261833333333,0.13,2.45,ml,32,62,,0.09,hv,hv73456007,2023-06-20T05:25:57.926Z,"Hawaii region, Hawaii",earthquake,0.14,0.16,0.167871596865498,29,reviewed,hv,hv
 2023-06-20T04:54:38.287Z,65.0125,-149.0661,14.1,1.1,ml,,,,0.33,ak,ak0237uvlqhg,2023-06-20T04:56:27.867Z,"20 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-20T04:51:43.830Z,19.1243324279785,-155.397338867188,30.8299999237061,1.89999998,md,41,184,,0.100000001,hv,hv73456002,2023-06-20T05:05:07.127Z,"12 km SE of Pāhala, Hawaii",earthquake,0.63,1.03999996,0.949999988,8,automatic,hv,hv
 2023-06-20T04:50:00.183Z,61.6558,-151.3092,9.4,1.2,ml,,,,0.42,ak,ak0237uvksoi,2023-06-20T04:51:47.737Z,"37 km S of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -224,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T05:36:30.060Z,58.1663333333333,-155.367833333333,2.47,0.56,ml,8,219,,0.06,av,av91930226,2023-06-19T22:48:39.950Z,"Alaska Peninsula",earthquake,0.37,0.52,0.285509173371439,8,reviewed,av,av
 2023-06-19T05:33:02.000Z,48.22566666666667,-121.67316666666666,8.82,1.6,ml,18,58,0.04944,0.22,uw,uw61934366,2023-06-19T20:06:22.990Z,"6 km WSW of Darrington, Washington",earthquake,0.34,0.44,0.0827382106747594,13,reviewed,uw,uw
 2023-06-19T05:32:36.730Z,37.1925,-121.5946667,4.14,0.6,md,10,60,0.03853,0.13,nc,nc73902766,2023-06-19T19:36:15.310Z,"9km NE of Morgan Hill, CA",earthquake,0.39,0.94,0.163,8,reviewed,nc,nc
-2023-06-19T05:29:49.145Z,62.5972,-144.1784,6,1.5,ml,,,,0.77,ak,ak0237t8ihj6,2023-06-19T05:31:32.992Z,"16 km SW of Slana, Alaska",earthquake,,0.3,,,automatic,ak,ak
