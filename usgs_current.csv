@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-21T03:35:03.550Z,19.1720008850098,-155.466827392578,34.1199989318848,1.86000001,md,38,106,,0.0900000036,hv,hv73457087,2023-06-21T03:38:14.120Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.67,0.930000007,0.360000014,9,automatic,hv,hv
+2023-06-21T03:35:01.686Z,60.3493,-152.5696,30.8,1.5,ml,,,,1.01,ak,ak0237wifhy0,2023-06-21T03:38:28.976Z,"60 km WNW of Ninilchik, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-06-21T03:32:11.470Z,34.2401667,-117.5465,6.29,0.94,ml,19,73,0.09282,0.24,ci,ci40490536,2023-06-21T03:35:40.213Z,"5km WSW of Lytle Creek, CA",earthquake,0.44,1.09,0.314,12,automatic,ci,ci
 2023-06-21T03:29:19.200Z,33.3441667,-116.3316667,13.78,0.82,ml,21,97,0.1042,0.21,ci,ci40490528,2023-06-21T03:32:56.196Z,"11km NNE of Borrego Springs, CA",earthquake,0.53,0.81,0.169,19,automatic,ci,ci
 2023-06-21T03:16:41.142Z,62.6918,-149.2647,21.3,1,ml,,,,0.41,ak,ak0237wibidr,2023-06-21T03:19:51.788Z,"50 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -95,6 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T17:01:05.760Z,34.2871667,-116.8363333,8.29,1.27,ml,38,60,0.06115,0.22,ci,ci40489968,2023-06-20T17:04:51.308Z,"3km NNE of Big Bear City, CA",earthquake,0.34,0.72,0.139,27,automatic,ci,ci
 2023-06-20T16:57:53.217Z,60.0988,-153.1292,123.6,1.8,ml,,,,0.3,ak,ak0237v2rm1l,2023-06-20T17:00:08.647Z,"64 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-20T16:52:28.050Z,38.8354988,-122.7900009,1.87,0.67,md,9,82,0.002918,0.01,nc,nc73903256,2023-06-20T17:48:17.409Z,"6km WNW of Cobb, CA",earthquake,0.31,0.53,0.32,11,automatic,nc,nc
+2023-06-20T16:51:58.650Z,58.1665,-155.372833333333,1.57,0.34,ml,8,219,,0.07,av,av91931611,2023-06-21T03:40:38.480Z,"Alaska Peninsula",earthquake,0.4,0.74,0.251489915925913,8,reviewed,av,av
 2023-06-20T16:47:05.220Z,38.7803345,-122.720665,3.23,0.73,md,6,95,0.019,0.01,nc,nc73903251,2023-06-20T17:36:15.343Z,"3km WNW of Anderson Springs, CA",earthquake,0.83,3.43,0.2,6,automatic,nc,nc
 2023-06-20T16:45:18.130Z,38.7798333,-122.744,0.75,1.31,md,40,53,0.006624,0.04,nc,nc73903246,2023-06-21T00:53:11.018Z,"1km ENE of The Geysers, CA",earthquake,0.12,0.19,0.138,30,reviewed,nc,nc
 2023-06-20T16:40:11.541Z,44.2718,-115.0548,14.569,2.8,ml,32,53,0.843,0.37,us,us7000k9wn,2023-06-20T18:22:59.040Z,"southern Idaho",earthquake,1.63,7.54,0.034,116,reviewed,us,us
@@ -225,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T03:50:16.020Z,38.8211667,-122.8103333,3.11,0.47,md,21,51,0.002234,0.03,nc,nc73903131,2023-06-20T20:42:39.383Z,"7km NW of The Geysers, CA",earthquake,0.25,0.43,0.104,19,reviewed,nc,nc
 2023-06-20T03:46:47.050Z,46.21,-119.59733333333334,7.95,0.61,ml,11,153,0.06219,0.06,uw,uw61934636,2023-06-20T04:40:24.830Z,"10 km SW of Benton City, Washington",earthquake,0.59,0.39,0.0590577160423873,8,reviewed,uw,uw
 2023-06-20T03:45:34.573Z,-23.9307,-175.0289,10,5.1,mww,35,89,2.753,0.69,us,us7000k9sj,2023-06-21T02:44:29.931Z,"286 km S of ‘Ohonua, Tonga",earthquake,3.58,1.836,0.098,10,reviewed,us,us
-2023-06-20T03:43:00.270Z,17.9806,-68.5235,93,4.09,md,25,201,0.5519,0.32,pr,pr2023171000,2023-06-21T02:34:23.040Z,"Dominican Republic region",earthquake,1.65,1.49,0.09,21,reviewed,pr,pr
