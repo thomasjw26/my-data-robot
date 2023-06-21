@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-21T09:22:55.000Z,33.0496674,-116.3580017,14.42,1.71,ml,22,106,0.08936,0.15,ci,ci40490728,2023-06-21T09:25:21.380Z,"23km E of Julian, CA",earthquake,0.28,0.62,0.492,14,automatic,ci,ci
 2023-06-21T09:04:31.980Z,33.3941667,-116.8986667,13.4,0.52,ml,17,115,0.05044,0.15,ci,ci40490720,2023-06-21T09:08:01.036Z,"5km NW of Palomar Observatory, CA",earthquake,0.48,0.76,0.098,13,automatic,ci,ci
 2023-06-21T08:56:22.540Z,19.2441673278809,-155.395172119141,28.5699996948242,1.83,ml,43,136,,0.140000001,hv,hv73457197,2023-06-21T09:01:57.450Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.56,0.75999999,0.13,4,automatic,hv,hv
 2023-06-21T08:54:04.164Z,47.9109,151.113,223.619,4.5,mb,77,112,5.747,0.9,us,us7000ka1z,2023-06-21T09:12:39.040Z,"Kuril Islands",earthquake,8.92,7.195,0.028,373,reviewed,us,us
