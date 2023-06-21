@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-21T17:31:29.540Z,33.5065,-116.5056667,13.54,0.92,ml,35,42,0.0689,0.2,ci,ci40491136,2023-06-21T17:34:59.282Z,"16km ESE of Anza, CA",earthquake,0.28,0.51,0.199,27,automatic,ci,ci
 2023-06-21T17:16:40.051Z,58.2144,-155.0824,0,1.6,ml,,,,0.61,ak,ak0237wqnkrp,2023-06-21T17:18:43.708Z,"80 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-21T16:37:57.770Z,38.8366661,-122.810997,1.79,1.09,md,20,84,0.01327,0.02,nc,nc73903666,2023-06-21T16:55:12.753Z,"8km WNW of Cobb, CA",earthquake,0.22,0.39,0.08,22,automatic,nc,nc
 2023-06-21T16:29:01.306Z,63.2383,-145.0751,4.5,1.2,ml,,,,0.97,ak,ak0237wq4uhe,2023-06-21T16:30:57.127Z,"31 km ENE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -223,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T18:02:22.720Z,46.828833333333336,-123.09383333333334,-0.31,1.47,ml,13,203,0.1238,0.45,uw,uw61934711,2023-06-20T19:50:46.180Z,"Washington-Oregon border region",explosion,1.87,31.61,0.3391558937694725,11,reviewed,uw,uw
 2023-06-20T18:00:41.810Z,38.7913322,-122.7616653,1.91,1.09,md,18,63,0.009404,0.02,nc,nc73903266,2023-06-20T18:45:15.743Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.45,0.16,17,automatic,nc,nc
 2023-06-20T17:47:58.420Z,51.8581666666667,-177.828333333333,8.96,0.45,ml,5,236,,0.06,av,av91931691,2023-06-21T03:58:05.250Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.6,0.71,0.300076369830259,5,reviewed,av,av
-2023-06-20T17:31:45.090Z,34.523,-97.229,0,1.55,ml,77,64,0.1151773983,0.43,ok,ok2023lzyf,2023-06-20T17:43:28.461Z,"10 km WNW of Davis, Oklahoma",quarry blast,,0.4,0.18,25,reviewed,ok,ok
-2023-06-20T17:31:24.800Z,18.2505,-66.2806666666667,19.29,2.36,md,9,120,0.1035,0.22,pr,pr71414163,2023-06-20T17:51:36.840Z,"Puerto Rico region",earthquake,0.79,0.52,0.0887391324769022,5,reviewed,pr,pr
