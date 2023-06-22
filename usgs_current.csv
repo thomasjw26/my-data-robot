@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-22T03:26:14.762Z,38.1738,-117.7691,8,1.4,ml,10,183.93,0.108,0.1436,nn,nn00861539,2023-06-22T03:28:55.664Z,"38 km SE of Mina, Nevada",earthquake,,0.6,0.93,8,automatic,nn,nn
 2023-06-22T03:07:55.130Z,17.9406666666667,-66.9453333333333,10.35,2.27,md,15,215,0.04694,0.1,pr,pr71414333,2023-06-22T03:19:25.140Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.55,0.4,0.215758291396424,5,reviewed,pr,pr
 2023-06-22T02:42:25.813Z,44.0373,33.4084,9.69,4.7,mb,68,25,2.122,0.83,us,us7000ka91,2023-06-22T03:15:50.040Z,"49 km SW of Foros, Ukraine",earthquake,6.54,4.777,0.078,50,reviewed,us,us
 2023-06-22T02:37:34.870Z,33.6465,-116.7148333,15.96,1.99,ml,70,26,0.0645,0.19,ci,ci40491632,2023-06-22T02:48:00.490Z,"10km S of Idyllwild, CA",earthquake,0.17,0.33,0.152,25,automatic,ci,ci
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T03:35:01.686Z,60.3493,-152.5696,30.8,1.5,ml,,,,1.01,ak,ak0237wifhy0,2023-06-21T03:38:28.976Z,"60 km WNW of Ninilchik, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-06-21T03:32:11.290Z,34.2413333,-117.5521667,8.53,0.65,ml,30,71,0.05823,0.15,ci,ci40490536,2023-06-21T14:41:15.855Z,"5km WSW of Lytle Creek, CA",earthquake,0.23,0.43,0.06,4,reviewed,ci,ci
 2023-06-21T03:29:19.450Z,33.3575,-116.3551667,12.86,0.79,ml,21,173,0.03228,0.14,ci,ci40490528,2023-06-21T23:21:27.005Z,"11km N of Borrego Springs, CA",earthquake,0.33,0.69,0.149,14,reviewed,ci,ci
-2023-06-21T03:25:54.190Z,58.1768333333333,-155.336333333333,0.74,0.15,ml,7,206,,0.07,av,av91932281,2023-06-22T00:07:11.850Z,"85 km NW of Karluk, Alaska",earthquake,0.64,2.13,0.393689936852167,7,reviewed,av,av
