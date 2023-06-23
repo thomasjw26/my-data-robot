@@ -134,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T20:24:43.550Z,33.7171667,-116.7708333,15.66,0.95,ml,33,90,0.04761,0.19,ci,ci40492256,2023-06-22T20:28:17.766Z,"5km WSW of Idyllwild, CA",earthquake,0.29,0.46,0.165,29,automatic,ci,ci
 2023-06-22T20:17:10.295Z,57.3063,-150.0764,28.7,2.3,ml,,,,1.3,ak,ak0237yfzduk,2023-06-22T22:40:35.535Z,"136 km ESE of Chiniak, Alaska",earthquake,,4.7,,,reviewed,ak,ak
 2023-06-22T20:10:00.716Z,39.3537,-119.9954,6.6,1.6,ml,25,51.16,0.069,0.1266,nn,nn00861580,2023-06-22T21:11:09.451Z,"Nevada",earthquake,,1,0.31,9,reviewed,nn,nn
-2023-06-22T19:50:19.302Z,62.1758,-149.4272,38.4,3.7,ml,,,,0.79,ak,ak0237yfl15l,2023-06-23T14:55:33.725Z,"22 km E of Susitna North, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-06-22T19:50:19.302Z,62.1758,-149.4272,38.4,3.7,ml,,,,0.79,ak,ak0237yfl15l,2023-06-23T15:44:40.040Z,"22 km E of Susitna North, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-06-22T19:47:37.800Z,19.3136672973633,-155.217163085938,-0.25,2.16,ml,40,128,,0.230000004,hv,hv73458757,2023-06-22T19:53:09.300Z,"14 km S of Volcano, Hawaii",earthquake,0.32,0.270000011,0.18,13,automatic,hv,hv
 2023-06-22T19:46:52.720Z,38.8383331,-122.8353348,1.62,1.15,md,23,49,0.0002818,0.02,nc,nc73904021,2023-06-22T20:29:18.865Z,"10km NW of The Geysers, CA",earthquake,0.2,0.33,0.19,23,automatic,nc,nc
 2023-06-22T19:33:44.122Z,-28.7244,-176.6314,10,5.1,mb,21,83,1.25,1.11,us,us7000kaf3,2023-06-22T19:54:01.040Z,"Kermadec Islands region",earthquake,10.22,1.915,0.095,36,reviewed,us,us
