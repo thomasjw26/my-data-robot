@@ -124,6 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T14:06:47.170Z,45.35916666666667,-121.70566666666667,2.24,0.99,ml,9,85,0.0005998,0.05,uw,uw61935036,2023-06-22T21:57:35.890Z,"7 km NNE of Government Camp, Oregon",earthquake,0.24,0.52,0.213829548429173,8,reviewed,uw,uw
 2023-06-22T13:58:47.165Z,58.1861,-154.9545,54.2,0.4,ml,,,,1.11,ak,ak0237yc27gs,2023-06-22T14:00:26.933Z,"74 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-22T13:50:50.413Z,29.3687,139.6245,310.68,4,mb,24,147,3.738,0.72,us,us7000kacx,2023-06-22T16:50:14.040Z,"Izu Islands, Japan region",earthquake,6.42,9.433,0.072,51,reviewed,us,us
+2023-06-22T13:49:31.820Z,58.2703333333333,-155.118333333333,31.45,-0.05,ml,11,96,,0.19,av,av91108303,2023-06-23T05:48:08.250Z,"Alaska Peninsula",earthquake,0.64,0.9,0.319515024693495,10,reviewed,av,av
 2023-06-22T13:49:17.890Z,58.2708333333333,-155.122166666667,31.99,-0.16,ml,7,119,,0.14,av,av91934021,2023-06-23T05:43:03.440Z,"87 km NNW of Karluk, Alaska",earthquake,0.57,0.81,0.252692006254223,7,reviewed,av,av
 2023-06-22T13:39:45.170Z,38.8199997,-122.8233337,2.06,0.69,md,9,114,0.009652,0.01,nc,nc73903921,2023-06-22T13:56:15.439Z,"8km NW of The Geysers, CA",earthquake,0.38,0.8,0.24,12,automatic,nc,nc
 2023-06-22T13:34:00.140Z,35.6083333,-117.5986667,7.14,1.05,ml,16,95,0.06147,0.16,ci,ci40491816,2023-06-22T14:37:05.343Z,"7km ESE of Ridgecrest, CA",earthquake,0.25,0.61,0.241,8,reviewed,ci,ci
@@ -218,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T06:04:05.816Z,23.8299,121.7328,18.996,4.4,mb,27,113,0.365,0.49,us,us7000ka9s,2023-06-23T04:39:47.863Z,"Taiwan",earthquake,3.07,5.279,0.123,19,reviewed,us,us
 2023-06-22T05:55:08.228Z,66.3097,-157.4601,7.1,2.3,ml,,,,0.68,ak,ak0237y7a0l7,2023-06-22T20:49:42.339Z,"66 km SSW of Shungnak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-06-22T05:54:22.334Z,39.3533,-119.991,7.6,1.5,ml,19,61.42,0.07,0.1455,nn,nn00861542,2023-06-22T14:30:52.440Z,"5 km SSE of Floriston, California",earthquake,,1.1,0.39,8,reviewed,nn,nn
-2023-06-22T05:49:04.710Z,-24.0634,-175.9864,10,4.9,mb,37,85,2.969,0.44,us,us7000ka9r,2023-06-22T06:51:36.040Z,"south of Tonga",earthquake,12.08,1.863,0.053,113,reviewed,us,us
-2023-06-22T05:48:08.703Z,58.261,-155.0931,3.2,0.9,ml,,,,0.47,ak,ak0237y78iiy,2023-06-23T02:02:29.240Z,"85 km NNW of Karluk, Alaska",earthquake,,0.2,,,reviewed,ak,ak
