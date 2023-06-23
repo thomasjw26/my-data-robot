@@ -217,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T06:16:02.307Z,62.7713,-150.7313,89.2,1.5,ml,,,,0.65,ak,ak0237y7n2pk,2023-06-22T20:49:42.767Z,"30 km N of Petersville, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-06-22T06:06:14.400Z,64.9502,-148.6488,20,0.5,ml,,,,0.51,ak,ak0237y7kygv,2023-06-22T20:49:42.583Z,"32 km WNW of Ester, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-06-22T06:04:05.816Z,23.8299,121.7328,18.996,4.4,mb,27,113,0.365,0.49,us,us7000ka9s,2023-06-23T04:39:47.863Z,"Taiwan",earthquake,3.07,5.279,0.123,19,reviewed,us,us
-2023-06-22T05:55:08.228Z,66.3097,-157.4601,7.1,2.3,ml,,,,0.68,ak,ak0237y7a0l7,2023-06-22T20:49:42.339Z,"66 km SSW of Shungnak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2023-06-22T05:54:22.334Z,39.3533,-119.991,7.6,1.5,ml,19,61.42,0.07,0.1455,nn,nn00861542,2023-06-22T14:30:52.440Z,"5 km SSE of Floriston, California",earthquake,,1.1,0.39,8,reviewed,nn,nn
