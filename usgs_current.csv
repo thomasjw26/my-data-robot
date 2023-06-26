@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-26T13:41:11.909Z,61.8967,-149.5165,50.3,1.3,ml,,,,0.29,ak,ak02384y3vjq,2023-06-26T13:42:31.044Z,"22 km NW of Fishhook, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-06-26T13:38:43.440Z,33.8858333,-116.2178333,2.79,1.09,ml,29,68,0.0541,0.28,ci,ci40495696,2023-06-26T13:42:09.997Z,"18km ENE of Thousand Palms, CA",earthquake,0.39,0.75,0.16,26,automatic,ci,ci
+2023-06-26T13:37:28.969Z,57.6103,-153.8685,35.9,2.1,ml,,,,0.4,ak,ak02384y3200,2023-06-26T13:38:56.502Z,"10 km NE of Larsen Bay, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2023-06-26T13:31:40.800Z,33.8696667,-116.1968333,2.81,0.8,ml,8,202,0.05896,0.19,ci,ci40495688,2023-06-26T13:35:13.872Z,"17km N of Indio, CA",earthquake,2.29,2.46,0.17,14,automatic,ci,ci
 2023-06-26T13:27:11.130Z,38.8416672,-122.831665,6.78,0.76,md,9,160,0.004284,0.03,nc,nc73905591,2023-06-26T13:29:59.737Z,"10km WNW of Cobb, CA",earthquake,1.16,2.6,0.17,9,automatic,nc,nc
 2023-06-26T13:11:27.650Z,36.9775009,-121.6353302,6.02,1.81,md,11,57,0.05115,0.07,nc,nc73905581,2023-06-26T13:30:12.160Z,"7km WSW of Gilroy, CA",earthquake,0.38,0.76,0.44,9,automatic,nc,nc
@@ -116,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T22:37:49.240Z,38.7741661,-122.7263336,1.45,0.23,md,6,81,0.01217,0.01,nc,nc73905311,2023-06-25T23:12:14.207Z,"3km E of The Geysers, CA",earthquake,0.52,1.26,0.09,5,automatic,nc,nc
 2023-06-25T22:37:39.970Z,38.7738342,-122.7273331,1.03,0.89,md,7,78,0.01192,0.04,nc,nc73905306,2023-06-25T23:02:13.139Z,"2km E of The Geysers, CA",earthquake,0.58,1.35,0.25,6,automatic,nc,nc
 2023-06-25T22:31:22.540Z,38.7895012,-122.7624969,-0.9,1.08,md,10,80,0.01132,0.18,nc,nc73905301,2023-06-26T01:00:12.829Z,"2km NNW of The Geysers, CA",earthquake,0.36,2.51,0.17,12,automatic,nc,nc
-2023-06-25T22:28:03.503Z,31.72942116,-104.328333,6.542895508,2.2,ml,26,74,0.05027692474,0.4,tx,tx2023mjln,2023-06-26T12:14:06.223Z,"49 km S of Whites City, New Mexico",earthquake,0.5597794758,0.8436277721,0.2,19,reviewed,tx,tx
+2023-06-25T22:28:03.503Z,31.72942116,-104.328333,6.542895508,2.2,ml,26,74,0.05027692474,0.4,tx,tx2023mjln,2023-06-26T12:14:06.223Z,"western Texas",earthquake,0.5597794758,0.8436277721,0.2,19,reviewed,tx,tx
 2023-06-25T22:25:10.780Z,38.8323326,-122.8161697,2.11,0.27,md,7,140,0.01012,0.01,nc,nc73905296,2023-06-26T00:33:13.652Z,"8km NW of The Geysers, CA",earthquake,0.53,1.31,0.16,8,automatic,nc,nc
 2023-06-25T22:19:37.331Z,62.9941,-148.8131,5.2,1.5,ml,,,,0.81,ak,ak02383fsrph,2023-06-25T22:21:26.079Z,"44 km S of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-25T22:10:36.060Z,17.9111666666667,-66.7716666666667,7.01,2.65,md,6,233,0.1205,0.09,pr,pr71414598,2023-06-25T22:43:48.840Z,"Puerto Rico region",earthquake,0.69,0.44,0.00684487878040119,4,reviewed,pr,pr
@@ -161,6 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T16:13:25.100Z,38.7599983,-122.7180023,1.51,1.47,md,16,81,0.005594,0.04,nc,nc73905161,2023-06-25T19:38:13.864Z,"3km SW of Anderson Springs, CA",earthquake,0.32,0.39,0.09,15,automatic,nc,nc
 2023-06-25T16:11:57.880Z,38.8356667,-122.8021698,2.42,0.7,md,8,152,0.009633,0.02,nc,nc73905156,2023-06-25T16:56:13.962Z,"7km WNW of Cobb, CA",earthquake,0.58,1.62,0.22,10,automatic,nc,nc
 2023-06-25T16:09:08.620Z,36.0198326,-120.5906677,1.49,0.62,md,9,186,0.04504,0.08,nc,nc73905151,2023-06-25T16:46:14.895Z,"20km NW of Parkfield, CA",earthquake,1.09,6.26,,1,automatic,nc,nc
+2023-06-25T16:06:18.890Z,32.9431667,-116.2863333,10.96,0.47,ml,14,127,0.01832,0.16,ci,ci40494952,2023-06-26T13:39:55.147Z,"26km ENE of Pine Valley, CA",earthquake,0.34,0.46,0.106,4,reviewed,ci,ci
 2023-06-25T15:58:38.143Z,-13.5872,168.1142,10,4.6,mb,15,252,7.832,0.98,us,us7000kb07,2023-06-25T17:00:41.040Z,"68 km ENE of Sola, Vanuatu",earthquake,15.62,2.01,0.146,14,reviewed,us,us
 2023-06-25T15:57:14.720Z,38.7606659,-122.7170029,1.33,1.47,md,12,81,0.006213,0.03,nc,nc73905136,2023-06-25T19:07:14.690Z,"3km SW of Anderson Springs, CA",earthquake,0.33,0.4,0.16,13,automatic,nc,nc
 2023-06-25T15:51:12.283Z,36.7612,-116.2529,9.6,0.2,ml,16,76.88,0.047,0.1293,nn,nn00861715,2023-06-25T15:53:08.528Z,"Nevada",earthquake,,0.7,0.24,10,automatic,nn,nn
@@ -188,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-25T14:14:11.840Z,46.784666666666666,-121.9685,7.89,0.26,ml,17,232,0.03838,0.13,uw,uw61927117,2023-06-25T22:13:53.760Z,"5 km ENE of Ashford, Washington",earthquake,0.43,0.59,0.16118854281677544,6,reviewed,uw,uw
 2023-06-25T14:04:38.770Z,32.7543333,-115.422,9.8,1.59,ml,13,120,0.05497,0.27,ci,ci40494864,2023-06-25T14:08:16.231Z,"7km SSW of Holtville, CA",earthquake,0.89,1.62,0.178,18,automatic,ci,ci
 2023-06-25T13:51:07.040Z,35.7938347,-121.260498,7.01,1.5,md,7,206,0.1412,0.02,nc,nc73905076,2023-06-25T16:04:14.641Z,"18km NNW of San Simeon, CA",earthquake,0.89,2.01,0.08,6,automatic,nc,nc
-2023-06-25T13:41:32.233Z,31.52408911,-104.0149194,7.057055663999999,2,ml,24,88,0.05552917732,0.2,tx,tx2023miue,2023-06-26T12:18:49.160Z,"31 km NW of Toyah, Texas",earthquake,1.821705911,1.312323656,0.3,18,reviewed,tx,tx
