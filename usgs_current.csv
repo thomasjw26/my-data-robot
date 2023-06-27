@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-27T06:28:36.000Z,62.1899,-151.1448,64.9,3.8,ml,,,,0.43,ak,ak02386hegbs,2023-06-27T06:44:42.725Z,"25 km NNE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-06-27T06:51:22.356Z,62.3208,-150.4021,33.3,1.1,ml,,,,1.25,ak,ak02386hjcrv,2023-06-27T06:53:05.704Z,"8 km W of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-06-27T06:49:16.745Z,60.1455,-151.6005,57.9,1.5,ml,,,,0.41,ak,ak02386hiwwq,2023-06-27T06:50:43.124Z,"Kenai Peninsula, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-06-27T06:37:16.887Z,37.0532,-104.9449,8.62,2.7,ml,25,63,0.147,0.59,us,us6000knck,2023-06-27T06:48:21.040Z,"12 km SW of Weston, Colorado",earthquake,4.83,8.497,0.05,52,reviewed,us,us
+2023-06-27T06:28:36.367Z,62.1874,-151.1087,70.4,3.8,ml,,,,0.8,ak,ak02386hegbs,2023-06-27T06:52:03.041Z,"Central Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-06-27T06:14:19.100Z,33.5855,-116.8051667,8.53,0.93,ml,37,54,0.03524,0.16,ci,ci40496720,2023-06-27T06:17:53.947Z,"13km WNW of Anza, CA",earthquake,0.18,0.48,0.177,26,automatic,ci,ci
 2023-06-27T05:53:06.585Z,65.2958,-148.9073,0,1.4,ml,,,,0.56,ak,ak02386gybdu,2023-06-27T05:55:25.505Z,"26 km NE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-27T05:51:30.310Z,38.8173332,-122.8215027,2.03,0.95,md,13,76,0.01036,0.02,nc,nc73905886,2023-06-27T05:54:22.852Z,"7km NW of The Geysers, CA",earthquake,0.33,0.86,0.24,15,automatic,nc,nc
