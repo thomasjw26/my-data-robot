@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-29T11:09:02.550Z,38.8213348,-122.8111649,1.22,0.28,md,10,109,0.002227,0.1,nc,nc73906641,2023-06-29T11:10:39.852Z,"7km NW of The Geysers, CA",earthquake,0.44,1.01,0.08,10,automatic,nc,nc
+2023-06-29T11:04:22.176Z,58.2654,-155.0312,250,0.2,ml,,,,0.68,ak,ak02389vb549,2023-06-29T11:07:25.449Z,"84 km NNW of Karluk, Alaska",earthquake,,6.2,,,automatic,ak,ak
 2023-06-29T10:53:20.724Z,58.2092,-156.0274,50,1.2,ml,,,,0.95,ak,ak02389v07hk,2023-06-29T10:54:40.103Z,"64 km SE of King Salmon, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-06-29T10:50:36.592Z,58.1841,-155.3318,1.1,0.2,ml,,,,0.34,ak,ak02389uzlkk,2023-06-29T10:53:02.562Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-06-29T10:49:34.235Z,58.1803,-155.2432,0,1.6,ml,,,,0.67,ak,ak02389uzdog,2023-06-29T10:51:48.919Z,"82 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -225,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T11:31:29.380Z,38.7926674,-122.7338333,0.99,1.64,md,24,94,0.009684,0.03,nc,nc73906321,2023-06-28T15:09:19.102Z,"3km NE of The Geysers, CA",earthquake,0.23,0.56,0.2,27,automatic,nc,nc
 2023-06-28T11:17:59.110Z,36.105999,-120.0476685,4.45,1.69,md,12,186,0.1685,0.14,nc,nc73906316,2023-06-28T14:41:18.918Z,"12km SSE of Huron, CA",earthquake,1.49,2.2,0.14,5,automatic,nc,nc
 2023-06-28T11:17:09.500Z,33.0196667,-116.3425,11.27,0.73,ml,21,113,0.07274,0.19,ci,ci40497920,2023-06-28T22:00:54.599Z,"24km SW of Ocotillo Wells, CA",earthquake,0.29,0.38,0.259,5,reviewed,ci,ci
-2023-06-28T11:07:27.739Z,61.6886,-154.1121,4.2,2.7,ml,,,,0.38,ak,ak023887sg79,2023-06-28T11:32:35.040Z,"79 km ENE of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
