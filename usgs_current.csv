@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T03:15:34.265Z,64.922,-147.2873,0,1.4,ml,,,,1.28,ak,ak02389qm204,2023-06-29T03:18:26.293Z,"13 km WNW of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-29T03:07:47.347Z,61.1377,-150.7175,17,1.2,ml,,,,0.21,ak,ak02389qkdda,2023-06-29T03:09:43.165Z,"19 km E of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-29T02:55:21.255Z,58.1728,-155.2741,0.7,0.5,ml,,,,0.32,ak,ak02389q964d,2023-06-29T02:56:27.758Z,"Alaska Peninsula",earthquake,,1.7,,,automatic,ak,ak
-2023-06-29T02:52:46.290Z,37.8678333,-121.7915,11.27,1.78,md,23,215,0.058,0.08,nc,nc73906541,2023-06-29T04:28:13.960Z,"9km SW of Brentwood, CA",earthquake,0.32,0.38,0.152,27,reviewed,nc,nc
+2023-06-29T02:52:46.290Z,37.8678333,-121.7915,11.27,1.78,md,23,215,0.058,0.08,nc,nc73906541,2023-06-29T04:55:10.131Z,"9km SW of Brentwood, CA",earthquake,0.32,0.38,0.152,27,reviewed,nc,nc
 2023-06-29T02:45:07.240Z,19.5683333333333,-156.150333333333,32.53,3.06,ml,50,238,,0.16,hv,hv73464762,2023-06-29T04:50:39.079Z,"17 km WSW of Kailua-Kona, Hawaii",earthquake,0.54,0.89,0.166564874696323,23,reviewed,hv,hv
 2023-06-29T02:44:33.390Z,33.4996667,-116.7416667,10.64,0.47,ml,19,42,0.05587,0.17,ci,ci40498632,2023-06-29T02:48:05.256Z,"9km SW of Anza, CA",earthquake,0.29,0.73,0.074,15,automatic,ci,ci
 2023-06-29T02:39:04.222Z,59.9348,-153.5322,126.5,1.6,ml,,,,0.49,ak,ak02389q5pcm,2023-06-29T02:41:00.296Z,"36 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -181,6 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T09:32:04.500Z,32.9101667,-116.2418333,7.37,1.21,ml,48,39,0.06814,0.2,ci,ci40497848,2023-06-28T18:29:06.990Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.2,0.64,0.144,13,reviewed,ci,ci
 2023-06-28T09:20:34.890Z,33.9695,-117.2163333,13.6,1.03,ml,25,81,0.04239,0.18,ci,ci40497840,2023-06-28T13:00:47.366Z,"5km NNE of Moreno Valley, CA",earthquake,0.26,0.61,0.219,23,reviewed,ci,ci
 2023-06-28T09:17:44.273Z,60.1498,-153.1614,124.4,1.8,ml,,,,0.42,ak,ak023886nrff,2023-06-28T09:19:50.518Z,"64 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-06-28T09:11:51.677Z,43.7059,-64.3474,10.339,2.4,ml,11,242,1.079,0.28,us,us6000knt5,2023-06-29T04:56:05.040Z,"74 km S of Lunenburg, Canada",earthquake,4.63,8.862,0.115,10,reviewed,us,us
 2023-06-28T08:48:50.140Z,38.7808342,-122.7208328,1.25,0.86,md,6,105,0.01265,0.02,nc,nc73906281,2023-06-28T09:05:17.887Z,"3km WNW of Anderson Springs, CA",earthquake,1.07,2.7,0.28,8,automatic,nc,nc
 2023-06-28T08:43:07.049Z,35.12066667,-97.53866667,6.49,1.34,ml,74,33,0.04949028832,0.38,ok,ok2023mnwu,2023-06-28T12:08:14.269Z,"3 km ENE of Cole, Oklahoma",earthquake,,0.7,0.23,31,reviewed,ok,ok
 2023-06-28T08:34:36.160Z,35.5013333,-118.3998333,6.4,1.41,ml,25,67,0.1721,0.12,ci,ci40497832,2023-06-28T18:20:52.130Z,"13km SE of Bodfish, CA",earthquake,0.16,0.67,0.127,11,reviewed,ci,ci
