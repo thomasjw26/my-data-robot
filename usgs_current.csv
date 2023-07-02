@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-02T09:29:49.060Z,33.8460007,-118.8731689,29.81,4.06,mlr,118,171,0.1674,0.33,ci,ci40501968,2023-07-02T09:32:29.697Z,"19km SSW of Malibu, CA",earthquake,0.77,0.38,0.229,17,automatic,ci,ci
+2023-07-02T09:36:08.400Z,33.854332,-118.879837,18.3,2.03,ml,39,180,0.1615,0.27,ci,ci40501976,2023-07-02T09:38:30.245Z,"18km SSW of Malibu, CA",earthquake,0.7,0.93,0.225,27,automatic,ci,ci
+2023-07-02T09:29:49.060Z,33.8460007,-118.8731689,29.81,3.78,mw,118,171,0.1674,0.33,ci,ci40501968,2023-07-02T09:39:16.149Z,"19km SSW of Malibu, CA",earthquake,0.77,0.38,,6,automatic,ci,ci
 2023-07-02T09:26:03.110Z,19.1354999542236,-155.398330688477,30.8500003814697,1.92999995,md,40,184,,0.0900000036,hv,hv73468022,2023-07-02T09:29:23.880Z,"Island of Hawaii, Hawaii",earthquake,0.6,0.790000021,0.730000019,7,automatic,hv,hv
 2023-07-02T09:23:11.720Z,33.6635,-116.7151667,15.09,0.62,ml,23,79,0.04755,0.15,ci,ci40501960,2023-07-02T09:26:49.732Z,"8km S of Idyllwild, CA",earthquake,0.31,0.49,0.165,13,automatic,ci,ci
 2023-07-02T09:07:37.510Z,26.8625,55.1641,10,4,mb,34,152,2.127,0.65,us,us6000kpl2,2023-07-02T09:28:44.040Z,"southern Iran",earthquake,8.08,1.936,0.104,25,reviewed,us,us
