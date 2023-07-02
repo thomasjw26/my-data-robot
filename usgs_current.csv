@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-02T14:46:08.238Z,65.3548,-148.9051,0,0.9,ml,,,,0.24,ak,ak0238evygev,2023-07-02T14:48:28.619Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-07-02T14:43:31.258Z,58.2503,-155.1324,3.4,1,ml,,,,0.16,ak,ak0238evxv1h,2023-07-02T14:45:36.958Z,"85 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-07-02T14:41:42.569Z,60.5174,-152.1861,88.1,1.4,ml,,,,0.26,ak,ak0238evxghc,2023-07-02T14:45:46.024Z,"48 km WSW of Salamatof, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-07-02T14:38:41.541Z,61.5618,-151.6162,71.3,1.1,ml,,,,0.17,ak,ak0238evwt96,2023-07-02T14:40:41.068Z,"49 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-02T14:37:16.960Z,36.6416664,-121.2566681,4.97,1.9,md,19,156,0.05587,0.07,nc,nc73907821,2023-07-02T14:38:54.971Z,"16km NW of Pinnacles, CA",earthquake,0.39,0.9,0.17,18,automatic,nc,nc
 2023-07-02T14:34:45.694Z,63.4605,-145.0133,5.3,0.7,ml,,,,0.41,ak,ak0238evvypq,2023-07-02T14:37:17.733Z,"27 km SW of Dry Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
