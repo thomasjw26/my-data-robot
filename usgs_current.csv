@@ -70,6 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-04T16:24:53.501Z,60.5416,-147.3976,19.6,1.8,ml,,,,0.3,ak,ak0238i83ecm,2023-07-04T16:26:51.066Z,"53 km SW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-04T16:13:05.237Z,60.2879,-152.9682,110,1.9,ml,,,,0.71,ak,ak0238i80xr9,2023-07-04T16:15:52.714Z,"75 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-04T16:05:09.510Z,-33.3988,-177.3789,10,5.2,mb,36,99,4.15,1.93,us,us6000kq1u,2023-07-04T16:27:46.040Z,"south of the Kermadec Islands",earthquake,10.34,1.492,0.103,31,reviewed,us,us
+2023-07-04T15:52:54.430Z,47.395,-122.044,14.75,2.79,ml,23,51,0.02366,0.23,uw,uw61938231,2023-07-05T04:50:11.860Z,"0 km NE of Maple Valley, Washington",earthquake,0.46,0.75,0.18834478261090704,24,reviewed,uw,uw
 2023-07-04T15:52:42.410Z,18.7428333333333,-66.4981666666667,67.15,3.31,md,28,214,0.266,0.16,pr,pr71416233,2023-07-05T04:13:23.937Z,"31 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.9,1.11,0.102889234996568,15,reviewed,pr,pr
 2023-07-04T15:35:43.967Z,57.755,-155.9349,3.9,2.5,ml,,,,0.4,ak,ak0238i7kavw,2023-07-04T19:24:03.040Z,"90 km WNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-04T15:34:57.686Z,63.1071,-149.8311,101.1,1.1,ml,,,,0.7,ak,ak0238i7k488,2023-07-04T15:36:41.731Z,"54 km SW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
