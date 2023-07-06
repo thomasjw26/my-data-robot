@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-06T19:38:42.610Z,36.0258255,-97.91455078,6.49220705,2.24,ml,48,46.3347168,0.09303428233,0.4332470373,ok,ok2023ndil,2023-07-06T19:40:20.858Z,"4 km N of Dover, Oklahoma",earthquake,1.741155702,2.481264409,0.19,21,automatic,ok,ok
 2023-07-06T19:24:55.210Z,19.1936664581299,-155.50666809082,34.1199989318848,1.93,ml,44,70,,0.0900000036,hv,hv73472837,2023-07-06T19:30:25.370Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.45,0.680000007,3.27,7,automatic,hv,hv
-2023-07-06T19:23:54.210Z,36.7423325,-121.5913315,-0.36,1.66,md,13,186,0.0307,0.37,nc,nc73909651,2023-07-06T19:26:51.809Z,"8km ESE of Prunedale, CA",earthquake,1.53,3.47,0.09,4,automatic,nc,nc
+2023-07-06T19:23:54.210Z,36.7423325,-121.5913315,-0.36,1.66,md,13,186,0.0307,0.37,nc,nc73909651,2023-07-06T19:38:11.686Z,"8km ESE of Prunedale, CA",earthquake,1.53,3.47,0.09,4,automatic,nc,nc
 2023-07-06T19:19:25.390Z,38.8185005,-122.8164978,2.97,0.78,md,14,81,0.007005,0.06,nc,nc73909646,2023-07-06T19:21:01.901Z,"7km NW of The Geysers, CA",earthquake,0.35,0.92,0.11,15,automatic,nc,nc
 2023-07-06T19:14:16.430Z,19.19700050354,-155.509170532227,32.8499984741211,2.34,ml,47,124,,0.119999997,hv,hv73472827,2023-07-06T19:19:46.630Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.54,0.680000007,3.14,21,automatic,hv,hv
 2023-07-06T19:13:09.800Z,37.5263329,-118.4723358,7.45,2.31,md,22,113,0.03164,0.04,nc,nc73909641,2023-07-06T19:31:06.988Z,"16km NNW of Dixon Lane-Meadow Creek, CA",earthquake,0.83,1.59,0.15,19,automatic,nc,nc
@@ -89,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-06T09:23:39.025Z,62.9678,-150.6431,104.7,1.3,ml,,,,0.16,ak,ak0238lezt9q,2023-07-06T09:25:52.021Z,"52 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-06T09:14:58.940Z,33.8211667,-117.0006667,12.4,0.91,ml,28,68,0.1128,0.17,ci,ci40504488,2023-07-06T13:05:11.614Z,"6km NW of San Jacinto, CA",earthquake,0.25,0.78,0.187,19,reviewed,ci,ci
 2023-07-06T09:12:27.720Z,38.7878342,-122.7456665,1.15,1.12,md,18,84,0.008361,0.05,nc,nc73909486,2023-07-06T12:39:14.992Z,"2km NE of The Geysers, CA",earthquake,0.26,0.45,0.17,18,automatic,nc,nc
-2023-07-06T09:00:01.170Z,38.774,-122.7248333,1.55,0.33,md,13,71,0.01239,0.02,nc,nc73909481,2023-07-06T19:03:09.340Z,"3km E of The Geysers, CA",earthquake,0.26,0.42,0.213,8,reviewed,nc,nc
+2023-07-06T09:00:01.170Z,38.774,-122.7248333,1.55,0.33,md,13,71,0.01239,0.02,nc,nc73909481,2023-07-06T19:37:13.635Z,"3km E of The Geysers, CA",earthquake,0.26,0.42,0.213,8,reviewed,nc,nc
 2023-07-06T08:49:21.998Z,42.3013,-118.504,0,1.8,ml,4,151.19,0.165,0.209,nn,nn00862227,2023-07-06T15:50:40.556Z,"Oregon",earthquake,,0,0.83,4,reviewed,nn,nn
 2023-07-06T08:46:35.620Z,38.8105011,-122.7981644,1.35,1.09,md,22,35,0.003376,0.05,nc,nc73909476,2023-07-06T09:08:13.776Z,"5km NW of The Geysers, CA",earthquake,0.2,0.43,0.14,21,automatic,nc,nc
 2023-07-06T08:45:35.646Z,61.4026,-150.0704,35.9,1.9,ml,,,,0.36,ak,ak0238lej35o,2023-07-06T08:47:16.003Z,"6 km NW of Point MacKenzie, Alaska",earthquake,,2.5,,,automatic,ak,ak
@@ -225,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T19:44:21.410Z,36.0185,-96.54433333,0,1.59,ml,39,120,0.2024602704,0.28,ok,ok2023nbnd,2023-07-05T20:11:32.122Z,"6 km ENE of Drumright, Oklahoma",quarry blast,,0.4,0.14,8,reviewed,ok,ok
 2023-07-05T19:43:45.820Z,19.1539993286133,-155.468826293945,31.1499996185303,1.99000001,md,37,164,,0.109999999,hv,hv73471737,2023-07-05T19:47:05.990Z,"5 km S of Pāhala, Hawaii",earthquake,0.73,0.800000012,1.04999995,15,automatic,hv,hv
 2023-07-05T19:42:36.290Z,36.1508333,-118.1796667,4.35,1.51,ml,16,126,0.265,0.16,ci,ci40504096,2023-07-05T19:46:16.158Z,"21km SW of Olancha, CA",earthquake,0.35,2.48,0.2,9,automatic,ci,ci
-2023-07-05T19:40:05.000Z,33.887,-116.204,8.6,1.11,ml,30,71,0.04603,0.18,ci,ci40504088,2023-07-05T19:51:07.050Z,"18km N of Indio, CA",earthquake,0.27,0.66,0.2,25,automatic,ci,ci
-2023-07-05T19:39:53.678Z,63.2595,-151.1357,5.2,1.1,ml,,,,0.51,ak,ak0238jxi9ev,2023-07-05T19:42:03.141Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
