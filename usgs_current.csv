@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-07T05:31:48.920Z,33.9003333,-116.908,16.91,0.59,ml,18,130,0.1047,0.18,ci,ci39606298,2023-07-07T05:35:26.660Z,"4km SW of Banning, CA",earthquake,0.45,1.11,0.106,12,automatic,ci,ci
+2023-07-07T05:30:10.052Z,60.3841,-151.3816,59.6,1.2,ml,,,,0.58,ak,ak0238n06v4d,2023-07-07T05:32:04.534Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-07-07T05:20:08.690Z,33.94,-116.0233333,7.9,0.99,ml,15,81,0.06395,0.16,ci,ci39606290,2023-07-07T05:23:40.370Z,"22km SSE of Twentynine Palms, CA",earthquake,0.39,0.84,0.166,16,automatic,ci,ci
 2023-07-07T05:10:34.102Z,58.3727,-153.5214,64.3,1.6,ml,,,,0.18,ak,ak0238n02mnm,2023-07-07T05:12:18.244Z,"50 km NW of Aleneva, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-07-07T05:09:51.240Z,17.9496666666667,-66.8448333333333,16.19,2.27,md,6,213,0.04137,0.07,pr,pr71416628,2023-07-07T05:18:28.150Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.49,0.56,0.0590625622032452,5,reviewed,pr,pr
