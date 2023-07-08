@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-08T09:41:20.679Z,61.1644,-151.1283,62.5,2.6,ml,,,,0.2,ak,ak0238oq6bqb,2023-07-08T09:42:38.755Z,"3 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-07-08T09:51:09.930Z,38.8293343,-122.8141632,2.34,0.88,md,17,52,0.006736,0.01,nc,nc73910196,2023-07-08T09:53:50.269Z,"8km NW of The Geysers, CA",earthquake,0.27,0.68,0.23,17,automatic,nc,nc
+2023-07-08T09:41:20.679Z,61.1644,-151.1283,62.5,2.6,ml,,,,0.2,ak,ak0238oq6bqb,2023-07-08T09:53:21.040Z,"3 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-08T09:40:37.546Z,65.082,-150.1722,14.4,1,ml,,,,0.89,ak,ak0238oq65be,2023-07-08T09:42:32.965Z,"23 km ENE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-08T09:27:42.982Z,61.6897,-150.6872,34.1,1,ml,,,,0.19,ak,ak0238oq3dfe,2023-07-08T09:29:26.834Z,"18 km NNW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-08T08:59:46.272Z,61.8354,-151.9131,108.7,2.3,ml,,,,0.58,ak,ak0238oposyz,2023-07-08T09:01:41.290Z,"32 km WSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -214,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T10:21:52.812Z,42.3246,-120.4417,6.1,0.2,ml,3,278.45,0.117,0.0995,nn,nn00862280,2023-07-07T17:41:18.847Z,"Oregon",earthquake,,4.7,0.5,2,reviewed,nn,nn
 2023-07-07T10:05:26.138Z,61.3551,-141.0964,0,2,ml,,,,0.62,ak,ak0238n30phh,2023-07-07T10:07:40.499Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-07T09:58:25.680Z,37.743,-122.5523333,4.43,1.65,md,45,159,0.08052,0.08,nc,nc73909851,2023-07-07T17:33:14.916Z,"4km WNW of San Francisco Zoo, CA",earthquake,0.22,0.51,0.242,37,reviewed,nc,nc
-2023-07-07T09:54:24.630Z,38.831665,-122.8111649,1.77,0.76,md,13,89,0.008302,0.01,nc,nc73909846,2023-07-07T10:23:14.369Z,"8km NW of The Geysers, CA",earthquake,0.33,0.79,0.11,13,automatic,nc,nc
-2023-07-07T09:52:47.079Z,38.5344,-118.1444,7,0.8,ml,5,206.57,0.4,0.1309,nn,nn00862313,2023-07-08T02:22:46.552Z,"Nevada",earthquake,,2,0.25,2,reviewed,nn,nn
