@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-08T09:51:09.930Z,38.8293343,-122.8141632,2.34,0.88,md,17,52,0.006736,0.01,nc,nc73910196,2023-07-08T12:37:13.818Z,"8km NW of The Geysers, CA",earthquake,0.27,0.68,0.23,17,automatic,nc,nc
 2023-07-08T09:41:20.679Z,61.1644,-151.1283,62.5,2.6,ml,,,,0.2,ak,ak0238oq6bqb,2023-07-08T09:53:21.040Z,"3 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-08T09:40:37.546Z,65.082,-150.1722,14.4,1,ml,,,,0.89,ak,ak0238oq65be,2023-07-08T09:42:32.965Z,"23 km ENE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-08T09:27:42.982Z,61.6897,-150.6872,34.1,1,ml,,,,0.19,ak,ak0238oq3dfe,2023-07-08T09:29:26.834Z,"18 km NNW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
