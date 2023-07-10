@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-10T11:46:48.390Z,33.6376667,-116.6758333,12.99,0.36,ml,13,119,0.07738,0.08,ci,ci39608634,2023-07-10T11:50:16.171Z,"9km N of Anza, CA",earthquake,0.29,0.47,0.138,8,automatic,ci,ci
 2023-07-10T11:39:51.830Z,34.005,-117.2266667,14.35,0.85,ml,22,94,0.07286,0.24,ci,ci39608626,2023-07-10T11:43:26.115Z,"6km SSE of Loma Linda, CA",earthquake,0.42,0.76,0.081,13,automatic,ci,ci
 2023-07-10T11:39:39.091Z,58.1895,-155.2902,7.7,0,ml,,,,0.6,ak,ak0238s2fhyg,2023-07-10T11:41:45.219Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-07-10T11:09:47.255Z,61.5783,-148.0241,14.3,1.2,ml,,,,0.64,ak,ak0238s2932d,2023-07-10T11:11:35.750Z,"32 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
