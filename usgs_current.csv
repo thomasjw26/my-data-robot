@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T13:05:26.071Z,58.1655,-155.3633,0,0.1,ml,,,,0.46,ak,ak0238s3f1rz,2023-07-10T13:06:38.217Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
 2023-07-10T13:02:44.725Z,59.3947,-139.3139,11.8,2.5,ml,,,,0.51,ak,ak0238s3eg2g,2023-07-10T13:05:19.266Z,"28 km SE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-10T13:01:47.914Z,58.1847,-155.2994,1.4,0.6,ml,,,,0.2,ak,ak0238s3e8lj,2023-07-10T13:02:58.036Z,"84 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-07-10T13:01:11.478Z,11.3546,125.3771,71.408,5,mb,145,91,4.262,0.73,us,usd000k1rd,2023-07-10T13:54:30.040Z,"16 km SW of Cabay, Philippines",earthquake,9.14,2.479,0.044,169,reviewed,us,us
+2023-07-10T13:01:11.478Z,11.3546,125.3771,71.408,5,mb,145,91,4.262,0.73,us,usd000k1rd,2023-07-10T14:11:41.946Z,"16 km SW of Cabay, Philippines",earthquake,9.14,2.479,0.044,169,reviewed,us,us
 2023-07-10T13:00:10.360Z,38.8199997,-122.7808304,1.29,0.82,md,13,100,0.006732,0.06,nc,nc73911081,2023-07-10T13:50:13.369Z,"5km W of Cobb, CA",earthquake,0.29,0.79,0.2,14,automatic,nc,nc
 2023-07-10T12:58:24.030Z,58.1766,-155.2359,0,1.2,ml,,,,0.52,ak,ak0238s34yyr,2023-07-10T12:59:48.886Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
 2023-07-10T12:49:55.132Z,37.1967,-114.5834,16,1.3,ml,8,308.18,0.427,0.3331,nn,nn00862376,2023-07-10T12:52:50.408Z,"46 km S of Caliente, Nevada",earthquake,,1.2,0.29,5,automatic,nn,nn
@@ -177,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T17:40:38.870Z,34.0555,-117.2458333,10.06,0.94,ml,28,84,0.1241,0.23,ci,ci39608330,2023-07-09T17:44:10.851Z,"2km ENE of Loma Linda, CA",earthquake,0.35,1.06,0.16,19,automatic,ci,ci
 2023-07-09T17:21:51.602Z,62.3806,-151.0649,69.3,1.4,ml,,,,0.63,ak,ak0238qicx4o,2023-07-09T17:23:48.479Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-09T17:17:25.824Z,62.1445,-150.2989,7.9,2,ml,,,,0.72,ak,ak0238qic0a3,2023-07-09T17:18:50.820Z,"19 km S of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-09T17:11:33.953Z,-33.2122,-70.3268,101.785,5.6,mww,98,42,0.252,0.73,us,us6000kr5g,2023-07-10T13:24:17.615Z,"Region Metropolitana, Chile",earthquake,4.4,3.114,0.052,35,reviewed,us,us
+2023-07-09T17:11:33.953Z,-33.2122,-70.3268,101.785,5.6,mww,98,42,0.252,0.73,us,us6000kr5g,2023-07-10T14:11:17.166Z,"Region Metropolitana, Chile",earthquake,4.4,3.114,0.052,35,reviewed,us,us
 2023-07-09T17:01:40.300Z,57.9361666666667,-155.822166666667,8.44,1.52,ml,6,298,,0.16,av,av91955431,2023-07-09T20:26:33.190Z,"91 km WNW of Karluk, Alaska",earthquake,0.92,0.54,0.339279897188844,6,reviewed,av,av
 2023-07-09T16:56:58.850Z,38.7471657,-122.7296677,0.87,1.47,md,10,163,0.01288,0.03,nc,nc73910791,2023-07-09T19:05:15.784Z,"4km SE of The Geysers, CA",earthquake,0.29,0.43,0.2,8,automatic,nc,nc
 2023-07-09T16:20:44.197Z,63.8743,-149.8237,15.6,0.9,ml,,,,0.63,ak,ak0238qhr98j,2023-07-09T16:22:38.530Z,"38 km WSW of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -211,8 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T14:25:13.340Z,38.8223343,-122.7978363,1.99,0.77,md,10,54,0.009618,0.02,nc,nc73910701,2023-07-09T15:34:13.508Z,"6km NW of The Geysers, CA",earthquake,0.43,1.01,0.15,12,automatic,nc,nc
 2023-07-09T14:20:11.335Z,61.2611,-152.1782,2.3,1.2,ml,,,,0.54,ak,ak0238qgkbhp,2023-07-09T14:21:57.691Z,"60 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-09T14:16:45.144Z,63.3444,-145.5526,14.6,1.2,ml,,,,0.26,ak,ak0238qgjj8i,2023-07-09T14:18:09.139Z,"28 km N of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-09T14:10:45.257Z,60.2835,-152.4375,103.5,1.6,ml,,,,0.37,ak,ak0238qgi8y5,2023-07-09T14:12:39.492Z,"49 km WNW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-07-09T14:10:19.144Z,63.5048,-151.0274,5.6,0.8,ml,,,,0.64,ak,ak0238qgi6wa,2023-07-09T14:12:14.393Z,"34 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-09T14:09:04.193Z,5.3539,94.5693,54.195,5.4,mww,57,158,2.371,0.69,us,us6000kr40,2023-07-09T16:12:20.542Z,"87 km WSW of Banda Aceh, Indonesia",earthquake,10.08,7.182,0.098,10,reviewed,us,us
-2023-07-09T14:06:33.430Z,58.1918333333333,-155.276,2.69,0.93,ml,9,140,,0.08,av,av91955206,2023-07-09T19:56:17.790Z,"84 km NW of Karluk, Alaska",earthquake,0.34,0.42,0.40647256062549,9,reviewed,av,av
-2023-07-09T14:03:52.840Z,51.8968,-171.407,50.157,3.6,mb,30,212,1.69,0.98,us,us6000kr41,2023-07-09T19:06:14.175Z,"194 km E of Atka, Alaska",earthquake,11.56,22.045,0.205,6,reviewed,us,us
