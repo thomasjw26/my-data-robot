@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T14:24:59.922Z,36.9765,-116.0296,6.8,-0.2,ml,19,93.4,0.05,0.1575,nn,nn00862420,2023-07-11T00:04:09.100Z,"55 km NW of Indian Springs, Nevada",earthquake,,1.2,0.27,9,reviewed,nn,nn
 2023-07-10T14:23:53.940Z,33.4888333,-116.4683333,15.24,0.53,ml,19,102,0.112,0.21,ci,ci39608730,2023-07-10T14:27:21.101Z,"20km ESE of Anza, CA",earthquake,0.48,1.35,0.157,13,automatic,ci,ci
 2023-07-10T14:19:58.168Z,-32.6091,179.8145,340.196,4,mb,15,190,5.094,1.13,us,us7000kelf,2023-07-10T16:38:28.040Z,"south of the Kermadec Islands",earthquake,11.67,10.558,0.156,11,reviewed,us,us
-2023-07-10T13:58:06.590Z,38.8701,-119.6403,2.4,0,ml,4,256.39,0.034,0.1391,nn,nn00862419,2023-07-10T23:39:24.315Z,"Nevada",earthquake,,5.4,0,1,reviewed,nn,nn
