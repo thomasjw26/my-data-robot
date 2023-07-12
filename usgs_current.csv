@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-12T04:40:55.200Z,19.1438331604004,-155.357162475586,29.7700004577637,1.97,ml,42,188,,0.100000001,hv,hv73479292,2023-07-12T04:46:26.020Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.72,1,5.14,3,automatic,hv,hv
 2023-07-12T04:34:56.758Z,59.3388,-152.6808,67.3,1.4,ml,,,,0.27,ak,ak0238v9b4gb,2023-07-12T04:36:12.200Z,"43 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-12T04:31:05.239Z,63.1408,-150.869,24,1.4,ml,,,,1.42,ak,ak0238v9adbv,2023-07-12T04:33:00.567Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-12T04:26:00.220Z,40.2405014,-121.1484985,1.16,1.95,md,7,107,0.3165,0.21,nc,nc73911726,2023-07-12T04:36:09.999Z,"4 km NE of Almanor, CA",earthquake,0.99,16.11,,1,automatic,nc,nc
