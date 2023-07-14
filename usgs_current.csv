@@ -257,4 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-13T07:30:47.997Z,36.6588,-116.2616,3.7,-0.5,ml,6,186.09,0.064,0.0693,nn,nn00862528,2023-07-13T14:46:17.903Z,"52 km ESE of Beatty, Nevada",earthquake,,5.4,0,2,reviewed,nn,nn
 2023-07-13T07:28:16.220Z,37.528,-118.8753333,3.18,1.31,md,18,230,0.072,0.04,nc,nc73912146,2023-07-13T18:27:17.907Z,"15 km SE of Mammoth Lakes, CA",earthquake,0.44,0.93,0.106,15,reviewed,nc,nc
 2023-07-13T07:27:29.980Z,46.18383333333333,-122.218,7.51,0.25,ml,9,191,0.01531,0.09,uw,uw61940166,2023-07-13T21:29:19.640Z,"35 km NNE of Amboy, Washington",earthquake,0.67,0.42,0.04823447061592839,4,reviewed,uw,uw
-2023-07-13T07:20:12.860Z,65.2401,-151.1096,8.3,0.5,ml,,,,0.83,ak,ak0238wyjocm,2023-07-13T07:21:58.248Z,"34 km NW of Manley Hot Springs, Alaska",earthquake,,1.7,,,automatic,ak,ak
