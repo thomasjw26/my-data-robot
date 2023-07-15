@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-15T07:20:01.340Z,19.2348,-64.7041,27,3.53,md,10,297,0.9177,0.15,pr,pr2023196001,2023-07-15T07:39:41.454Z,"100 km N of Cruz Bay, U.S. Virgin Islands",earthquake,0.98,11.37,0.07,5,reviewed,pr,pr
-2023-07-15T07:17:38.550Z,38.8204994,-122.7734985,1.07,0.78,md,9,121,0.009154,0.03,nc,nc73913136,2023-07-15T07:19:14.847Z,"4 km W of Cobb, CA",earthquake,0.36,0.67,0.09,12,automatic,nc,nc
+2023-07-15T07:17:38.550Z,38.8204994,-122.7734985,1.07,0.78,md,9,121,0.009154,0.03,nc,nc73913136,2023-07-15T07:42:13.420Z,"4 km W of Cobb, CA",earthquake,0.36,0.67,0.09,12,automatic,nc,nc
 2023-07-15T07:16:11.600Z,34.142,-117.4161667,4.77,0.79,ml,14,113,0.0756,0.2,ci,ci39613466,2023-07-15T07:19:47.151Z,"6km NW of Rialto, CA",earthquake,0.59,1.08,0.306,15,automatic,ci,ci
 2023-07-15T07:14:36.000Z,38.8041649,-122.7763367,2.93,1.05,md,10,83,0.009696,0.01,nc,nc73913131,2023-07-15T07:32:13.366Z,"4 km NNW of The Geysers, CA",earthquake,0.33,0.78,0.19,11,automatic,nc,nc
 2023-07-15T07:04:18.312Z,58.9477,-154.0811,104.3,2,ml,,,,0.27,ak,ak023909iyav,2023-07-15T07:06:00.461Z,"67 km SE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
