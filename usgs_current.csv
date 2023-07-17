@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-17T07:16:52.170Z,38.8308334,-122.819664,1.77,1.09,md,13,53,0.01426,0.02,nc,nc73913871,2023-07-17T07:19:33.307Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.46,0.16,14,automatic,nc,nc
+2023-07-17T07:01:48.390Z,-18.9609,-69.7422,99.347,4.3,mb,33,120,0.817,0.67,us,us7000kgax,2023-07-17T07:21:32.040Z,"51 km ENE of Cuya, Chile",earthquake,4.47,6.894,0.122,19,reviewed,us,us
 2023-07-17T07:01:45.650Z,17.9616666666667,-66.8335,11.93,2.34,md,10,204,0.04554,0.22,pr,pr71418278,2023-07-17T07:13:16.780Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.66,0.66,0.129324385859838,5,reviewed,pr,pr
 2023-07-17T06:56:22.120Z,19.2631664276123,-155.369506835938,30.5900001525879,2.18,ml,47,155,,0.129999995,hv,hv73484747,2023-07-17T07:01:54.220Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.46,0.639999986,2.32,16,automatic,hv,hv
 2023-07-17T06:46:34.078Z,59.8266,-151.8657,64.1,1.1,ml,,,,0.45,ak,ak02393k98z3,2023-07-17T06:48:18.133Z,"5 km NNW of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
