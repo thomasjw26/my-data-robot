@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-18T06:40:54.120Z,33.4106667,-116.8196667,13.34,0.89,ml,34,47,0.06732,0.19,ci,ci39615298,2023-07-18T06:44:33.217Z,"6km SE of Aguanga, CA",earthquake,0.24,0.67,0.199,23,automatic,ci,ci
 2023-07-18T06:25:41.370Z,33.955,-116.7983333,9.86,0.7,ml,18,107,0.08033,0.19,ci,ci39615274,2023-07-18T06:29:15.606Z,"4km NNW of Cabazon, CA",earthquake,0.53,1.01,0.123,13,automatic,ci,ci
 2023-07-18T06:25:23.948Z,64.024,-149.8172,9.3,1.7,ml,,,,0.43,ak,ak023957o2ne,2023-07-18T06:27:36.153Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-18T06:20:47.620Z,19.1291675567627,-155.400497436523,30.8500003814697,1.82000005,md,34,182,,0.100000001,hv,hv73486237,2023-07-18T06:23:52.750Z,"11 km SE of Pāhala, Hawaii",earthquake,0.64,0.920000017,,5,automatic,hv,hv
@@ -174,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T06:56:22.120Z,19.2631664276123,-155.369506835938,30.5900001525879,2.18,ml,47,155,,0.129999995,hv,hv73484747,2023-07-17T07:01:54.220Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.46,0.639999986,2.32,16,automatic,hv,hv
 2023-07-17T06:54:34.592Z,38.5333,-118.1516,7.7,0.9,ml,6,138.23,0.395,0.0694,nn,nn00862879,2023-07-17T20:32:23.461Z,"California-Nevada border region",earthquake,,1.5,0.47,5,reviewed,nn,nn
 2023-07-17T06:46:34.078Z,59.8266,-151.8657,64.1,1.1,ml,,,,0.45,ak,ak02393k98z3,2023-07-17T06:48:18.133Z,"5 km NNW of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-07-17T06:43:45.520Z,36.4675,-98.7605,7.32,1.97,ml,83,71,0.03689276038,0.2,ok,ok2023nwlk,2023-07-17T11:57:29.568Z,"16 km SE of Waynoka, Oklahoma",earthquake,,0.2,0.19,35,reviewed,ok,ok
