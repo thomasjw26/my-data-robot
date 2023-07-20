@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T03:44:55.170Z,19.2413330078125,-155.375839233398,32.2799987792969,2.25999999,md,35,170,,0.119999997,hv,hv73488072,2023-07-19T03:48:11.660Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.55,0.850000024,0.970000029,20,automatic,hv,hv
 2023-07-19T03:26:32.230Z,37.4356667,-121.5218333,8.19,0.61,md,11,73,0.02943,0.05,nc,nc73914436,2023-07-19T18:51:14.886Z,"28 km ENE of Alum Rock, CA",earthquake,0.29,0.51,0.244,9,reviewed,nc,nc
 2023-07-19T03:24:35.845Z,-10.565,-78.4303,60.441,4.6,mb,45,192,2.104,0.85,us,us7000kgru,2023-07-19T03:41:47.040Z,"near the coast of central Peru",earthquake,14.32,11.098,0.081,45,reviewed,us,us
-2023-07-19T02:54:57.210Z,61.8887,-150.2396,66.9,1.4,ml,,,,1.02,ak,ak02396szz21,2023-07-19T02:58:17.932Z,"19 km NW of Willow, Alaska",earthquake,,2,,,automatic,ak,ak
