@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-21T07:54:39.450Z,33.3805008,-116.895668,14.27,1.47,ml,62,25,0.03851,0.18,ci,ci39618234,2023-07-21T07:56:45.867Z,"4 km NW of Palomar Observatory, CA",earthquake,0.21,0.51,0.256,13,automatic,ci,ci
 2023-07-21T07:36:40.790Z,19.1303329467773,-155.407165527344,31.1499996185303,1.80999994,md,33,219,,0.129999995,hv,hv73490957,2023-07-21T07:39:51.150Z,"11 km SE of Pāhala, Hawaii",earthquake,0.97,0.730000019,1.05999994,6,automatic,hv,hv
 2023-07-21T07:36:06.430Z,34.4553333,-117.9506667,9.39,1.05,ml,18,52,0.007485,0.22,ci,ci39618226,2023-07-21T07:39:44.261Z,"7km SW of Pearblossom, CA",earthquake,0.39,0.64,0.377,26,automatic,ci,ci
 2023-07-21T07:32:37.368Z,61.1568,-154.0407,20,1,ml,,,,0.53,ak,ak0239a6x2qp,2023-07-21T07:34:56.870Z,"78 km ESE of Lime Village, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -40,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-21T03:00:10.971Z,63.4765,-151.23,3.1,1.3,ml,,,,0.45,ak,ak0239a4cfex,2023-07-21T03:02:17.294Z,"25 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-21T03:00:00.770Z,19.8101,-64.481,41,3.77,md,4,332,1.703,0.17,pr,pr2023202000,2023-07-21T03:21:14.290Z,"166 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.05,15,0.03,3,reviewed,pr,pr
 2023-07-21T02:56:19.000Z,38.8235016,-122.8088303,2.86,0.77,md,10,75,0.0009773,0.03,nc,nc73915091,2023-07-21T05:11:14.448Z,"7 km NW of The Geysers, CA",earthquake,0.44,1.13,0.12,10,automatic,nc,nc
-2023-07-21T02:32:00.740Z,37.5291667,-118.8775,3.18,1.13,md,22,179,0.0719,0.04,nc,nc73915086,2023-07-21T05:31:10.571Z,"15 km SE of Mammoth Lakes, CA",earthquake,0.59,0.81,0.163,20,reviewed,nc,nc
+2023-07-21T02:32:00.740Z,37.5291667,-118.8775,3.18,1.13,md,22,179,0.0719,0.04,nc,nc73915086,2023-07-21T07:56:15.382Z,"15 km SE of Mammoth Lakes, CA",earthquake,0.59,0.81,0.163,20,reviewed,nc,nc
 2023-07-21T02:25:50.734Z,-11.456,166.4962,156.887,4.5,mb,48,110,9.289,0.66,us,us7000khba,2023-07-21T02:45:02.040Z,"Santa Cruz Islands",earthquake,11.16,6.743,0.057,92,reviewed,us,us
 2023-07-21T02:14:18.240Z,-15.4848,-72.1076,124.761,4.4,mb,19,126,3.276,0.94,us,us7000khb9,2023-07-21T03:10:37.040Z,"southern Peru",earthquake,7.33,9.025,0.079,46,reviewed,us,us
 2023-07-21T02:03:28.761Z,56.9433,-154.1883,0,2.7,ml,,,,0.64,ak,ak0239a3robw,2023-07-21T02:14:54.040Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -221,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T08:07:37.080Z,33.0305,-115.5906667,7.42,1.15,ml,24,57,0.01068,0.18,ci,ci39617258,2023-07-20T18:54:28.917Z,"3km ESE of Westmorland, CA",earthquake,0.29,0.56,0.206,11,reviewed,ci,ci
 2023-07-20T08:06:27.510Z,46.18033333333333,-122.17466666666667,1.54,1.05,ml,9,267,0.02125,0.17,uw,uw61933472,2023-07-20T21:07:56.360Z,"36 km NE of Amboy, Washington",earthquake,0.82,0.32,0.24062240745001773,6,reviewed,uw,uw
 2023-07-20T07:57:41.420Z,33.934,-116.0248333,4.85,1.65,ml,51,54,0.07002,0.13,ci,ci39617250,2023-07-20T15:26:20.620Z,"23km S of Twentynine Palms, CA",earthquake,0.13,0.43,0.158,37,reviewed,ci,ci
-2023-07-20T07:54:46.290Z,33.5921667,-116.7538333,2.97,0.02,ml,16,72,0.008703,0.07,ci,ci39617242,2023-07-20T14:36:53.348Z,"8km WNW of Anza, CA",earthquake,0.13,0.24,0.12,8,reviewed,ci,ci
