@@ -218,7 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T07:16:33.850Z,37.6358333,-119.0546667,-0.81,0.79,md,13,119,0.01992,0.04,nc,nc73914856,2023-07-21T00:23:26.729Z,"7 km W of Mammoth Lakes, CA",earthquake,0.2,0.28,0.343,13,reviewed,nc,nc
 2023-07-20T07:12:51.829Z,62.9689,-149.5882,76.3,0.9,ml,,,,0.19,ak,ak02398j9h32,2023-07-20T07:14:56.805Z,"57 km SW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-20T07:08:04.677Z,62.6415,-148.482,1.1,1.4,ml,,,,0.75,ak,ak02398j8ikz,2023-07-20T07:09:58.730Z,"86 km ENE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-20T07:03:32.225Z,-5.5257,151.8615,35,4.9,mb,46,151,19.104,0.92,us,us7000kh1j,2023-07-20T07:34:07.040Z,"138 km SSW of Kokopo, Papua New Guinea",earthquake,15.67,1.949,0.052,115,reviewed,us,us
-2023-07-20T07:00:37.260Z,33.4925,-116.4396667,14.29,0.8,ml,24,110,0.03295,0.17,ci,ci39617234,2023-07-20T13:34:45.283Z,"22km SSW of La Quinta, CA",earthquake,0.3,0.54,0.171,21,reviewed,ci,ci
-2023-07-20T06:59:09.667Z,62.5204,-150.8054,74.2,1.4,ml,,,,0.59,ak,ak02398iy0vq,2023-07-20T07:01:28.018Z,"3 km NW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-20T06:56:22.500Z,19.602,-64.4203,38,4.05,md,13,309,1.5554,0.42,pr,pr2023201000,2023-07-20T07:40:26.040Z,"146 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,3.03,26.41,0.08,9,reviewed,pr,pr
