@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-22T21:24:29.401Z,60.9019,-150.9874,74.5,1.8,ml,,,,0.8,ak,ak0239c2qrek,2023-07-22T21:26:35.628Z,"16 km W of Point Possession, Alaska",earthquake,,2,,,automatic,ak,ak
+2023-07-22T21:22:53.360Z,32.1498333,-115.8583333,0.87,2.4,ml,9,308,0.4992,0.17,ci,ci39619506,2023-07-22T21:26:46.084Z,"54km SSW of Progreso, B.C., MX",earthquake,8.68,12.62,0.198,29,automatic,ci,ci
 2023-07-22T21:15:15.070Z,19.4173336029053,-155.274826049805,0.409999996423721,2.01,ml,15,66,,0.150000006,hv,hv73493107,2023-07-22T21:20:46.710Z,"5 km WSW of Volcano, Hawaii",earthquake,0.26,0.319999993,0.59,7,automatic,hv,hv
 2023-07-22T21:07:42.548Z,64.8556,-150.6845,13.5,0.9,ml,,,,0.37,ak,ak0239c2n58u,2023-07-22T21:09:28.828Z,"16 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-22T21:04:43.057Z,-31.9039,-72.8145,10,4.3,mb,34,110,1.489,0.53,us,us7000khp7,2023-07-22T21:22:13.040Z,"158 km W of Illapel, Chile",earthquake,3.59,1.977,0.237,5,reviewed,us,us
@@ -8,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T20:36:20.930Z,63.0821,-151.464,0,1.2,ml,,,,0.76,ak,ak0239c27vql,2023-07-22T20:38:23.987Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-22T20:34:46.950Z,38.8363342,-122.8205032,4.52,0.72,md,10,76,0.01192,0.05,nc,nc73915621,2023-07-22T21:22:15.392Z,"9 km W of Cobb, CA",earthquake,0.63,0.55,0.21,8,automatic,nc,nc
 2023-07-22T20:06:59.760Z,36.5786667,-121.2423325,3.41,1.86,md,16,104,0.04635,0.11,nc,nc73915616,2023-07-22T21:12:16.336Z,"10 km WNW of Pinnacles, CA",earthquake,0.36,1.84,0.16,15,automatic,nc,nc
-2023-07-22T19:54:11.340Z,36.7765007,-121.3376694,4.3,1.6,md,11,125,,0.1,nc,nc73915611,2023-07-22T21:01:15.271Z,"2 km SW of Tres Pinos, CA",earthquake,0.4,1.53,0.2,8,automatic,nc,nc
+2023-07-22T19:54:11.340Z,36.7765007,-121.3376694,4.3,1.6,md,11,125,,0.1,nc,nc73915611,2023-07-22T21:28:11.422Z,"2 km SW of Tres Pinos, CA",earthquake,0.4,1.53,0.2,8,automatic,nc,nc
 2023-07-22T19:47:26.615Z,61.6794,-148.1646,24.6,0.9,ml,,,,0.07,ak,ak0239c1otg5,2023-07-22T19:48:30.399Z,"20 km SE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-22T19:37:00.315Z,64.92,-147.9186,13.6,0.6,ml,,,,0.24,ak,ak0239c1mm9b,2023-07-22T19:38:30.340Z,"8 km NW of College, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-22T19:33:50.983Z,36.08879089,-98.51564789,3.430542946,1.81,ml,14,90.3062439,0.1646320969,0.3266352641,ok,ok2023ogoi,2023-07-22T19:37:19.298Z,"5 km SSE of Longdale, Oklahoma",earthquake,4.519066483,2.747744346,0.21,8,automatic,ok,ok
