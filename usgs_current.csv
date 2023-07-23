@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-23T06:37:35.660Z,35.502,-118.3961667,5.53,0.83,ml,19,66,0.1725,0.1,ci,ci39619730,2023-07-23T06:41:08.270Z,"13km SE of Bodfish, CA",earthquake,0.2,1.1,0.158,6,automatic,ci,ci
 2023-07-23T06:37:06.540Z,38.7784996,-122.765831,1.05,0.73,md,10,88,0.02265,0.03,nc,nc73915706,2023-07-23T06:38:42.653Z,"1 km W of The Geysers, CA",earthquake,0.32,0.89,0.28,9,automatic,nc,nc
 2023-07-23T06:27:25.690Z,19.1678333282471,-155.435165405273,1.83000004291534,1.96000004,md,16,220,,0.189999998,hv,hv73493727,2023-07-23T06:29:07.880Z,"6 km SE of Pāhala, Hawaii",earthquake,1.58,16.9099998,1.97000003,4,automatic,hv,hv
 2023-07-23T06:27:20.060Z,19.2563323974609,-155.414505004883,35.689998626709,2.2,ml,50,135,,0.140000001,hv,hv73493732,2023-07-23T06:32:57.010Z,"8 km NE of Pāhala, Hawaii",earthquake,0.48,0.610000014,3.48,22,automatic,hv,hv
