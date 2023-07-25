@@ -212,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T22:21:11.990Z,33.655,-116.7321667,13.42,0.51,ml,17,84,0.058,0.15,ci,ci39621138,2023-07-24T22:24:38.558Z,"10km S of Idyllwild, CA",earthquake,0.34,0.64,0.16,13,automatic,ci,ci
 2023-07-24T22:20:42.210Z,46.186,-122.21916666666667,8.02,0.02,ml,5,185,0.02736,0.21,uw,uw61943541,2023-07-24T23:43:07.060Z,"35 km NNE of Amboy, Washington",earthquake,1.45,1.15,0.12149808243734683,4,reviewed,uw,uw
 2023-07-24T22:08:44.275Z,-31.916,-69.2799,111.328,4.3,mb,36,104,0.628,0.72,us,us7000ki34,2023-07-24T23:05:03.040Z,"65 km SW of Villa Basilio Nievas, Argentina",earthquake,5.79,6.728,0.133,16,reviewed,us,us
-2023-07-24T22:03:27.296Z,65.704,-149.0456,11.2,1.1,ml,,,,0.8,ak,ak0239feadsq,2023-07-24T22:06:40.689Z,"30 km NW of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-24T22:00:58.368Z,64.9143,-151.0411,9.1,0.6,ml,,,,0.7,ak,ak0239fe9t1b,2023-07-24T22:03:13.263Z,"21 km WSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
