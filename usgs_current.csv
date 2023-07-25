@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-25T17:20:26.320Z,38.7791672,-122.7448349,0.25,1.29,md,16,74,0.007529,0.03,nc,nc73916596,2023-07-25T17:22:04.248Z,"1 km ENE of The Geysers, CA",earthquake,0.21,0.52,0.1,16,automatic,nc,nc
+2023-07-25T17:28:30.654Z,60.8654,-150.2194,47.3,1.2,ml,,,,0.82,ak,ak0239gyzxfb,2023-07-25T17:31:09.629Z,"Kenai Peninsula, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-07-25T17:20:26.320Z,38.7791672,-122.7448349,0.25,1.29,md,16,74,0.007529,0.03,nc,nc73916596,2023-07-25T17:31:10.240Z,"1 km ENE of The Geysers, CA",earthquake,0.21,0.52,0.1,16,automatic,nc,nc
 2023-07-25T17:15:46.889Z,39.6111,-119.9653,7.2,2,ml,15,85.98,0.005,0.1491,nn,nn00863251,2023-07-25T17:17:39.390Z,"7 km S of Cold Springs, Nevada",earthquake,,0.5,0.37,9,automatic,nn,nn
 2023-07-25T17:11:50.710Z,38.8264999,-122.8068314,2.77,0.28,md,9,150,0.004003,0.01,nc,nc73916581,2023-07-25T17:13:23.995Z,"7 km NW of The Geysers, CA",earthquake,0.57,1.79,0.11,10,automatic,nc,nc
 2023-07-25T17:09:37.490Z,35.752,-117.5703333,7.9,1.51,ml,20,135,0.06733,0.21,ci,ci39621682,2023-07-25T17:13:17.239Z,"15km W of Searles Valley, CA",earthquake,0.41,1.05,0.175,15,automatic,ci,ci
@@ -208,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T17:52:58.352Z,38.1313,-118.0714,13.4,1.4,ml,7,59.38,0.096,0.1907,nn,nn00863194,2023-07-24T18:25:17.050Z,"28 km S of Mina, Nevada",earthquake,,1.5,0.22,6,reviewed,nn,nn
 2023-07-24T17:48:42.270Z,36.0816667,-120.1843333,6.23,1.15,md,21,243,0.1105,0.08,nc,nc73916216,2023-07-24T22:28:12.510Z,"10 km NNW of Avenal, CA",earthquake,0.38,0.4,0.207,11,reviewed,nc,nc
 2023-07-24T17:47:58.520Z,18.0071666666667,-67.072,10.31,2.42,md,13,125,0.03579,0.13,pr,pr71419168,2023-07-24T17:59:33.140Z,"3 km S of Palmarejo, Puerto Rico",earthquake,0.39,0.42,0.0394879892682567,4,reviewed,pr,pr
-2023-07-24T17:32:37.725Z,61.5064,-147.0775,20,1.5,ml,,,,0.74,ak,ak0239fbhgcc,2023-07-24T17:35:01.413Z,"45 km SE of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
