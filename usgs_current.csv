@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-26T05:37:10.176Z,58.1751,-155.411,0,1.6,ml,,,,0.46,ak,ak0239iffyix,2023-07-26T05:38:53.374Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-07-26T05:31:23.570Z,33.445,-116.6355,4.01,0.28,ml,16,83,0.05685,0.14,ci,ci39622338,2023-07-26T05:35:01.862Z,"13km SSE of Anza, CA",earthquake,0.33,0.64,0.085,8,automatic,ci,ci
 2023-07-26T05:19:57.180Z,34.0456667,-117.2541667,17.45,1.18,ml,44,67,0.1134,0.2,ci,ci39622330,2023-07-26T05:23:35.325Z,"1km ESE of Loma Linda, CA",earthquake,0.25,0.57,0.149,26,automatic,ci,ci
 2023-07-26T05:12:41.730Z,38.538166,-119.5271683,3.99,2.58,md,15,114,0.2008,0.15,nc,nc73916801,2023-07-26T05:34:13.608Z,"5 km WNW of Walker, CA",earthquake,0.47,3.59,0.27,8,automatic,nc,nc
