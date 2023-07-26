@@ -202,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-25T06:53:35.630Z,44.6231666666667,-114.219833333333,4.84,1.63,ml,16,103,0.2728,0.14,mb,mb90022483,2023-07-25T22:48:44.240Z,"13 km N of Challis, Idaho",earthquake,0.47,2.59,0.172654878965245,12,reviewed,mb,mb
 2023-07-25T06:50:08.935Z,60.3896,-147.77,16.2,1.4,ml,,,,0.5,ak,ak0239gsktul,2023-07-25T06:51:43.566Z,"38 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-25T06:41:15.528Z,61.7526,-149.7147,29.4,1.5,ml,,,,0.53,ak,ak0239gsiwww,2023-07-25T06:44:01.407Z,"14 km NNE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-25T06:37:23.515Z,64.9607,-148.9795,10,0.7,ml,,,,0.45,ak,ak0239gsi2nz,2023-07-25T06:39:22.432Z,"27 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
