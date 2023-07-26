@@ -202,6 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-25T07:05:22.920Z,35.7643333,-117.5693333,1.34,0.95,ml,18,129,0.1544,0.21,ci,ci39621354,2023-07-25T15:18:28.394Z,"15km W of Searles Valley, CA",earthquake,0.31,0.44,0.109,4,reviewed,ci,ci
 2023-07-25T07:02:18.669Z,60.3231,-141.4321,30.9,1.3,ml,,,,0.92,ak,ak0239gsvzu2,2023-07-25T07:03:39.441Z,"128 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-25T07:00:56.120Z,37.5466667,-119.0168333,3.55,0.49,md,11,257,0.06363,0.06,nc,nc73916406,2023-07-25T09:29:20.394Z,"11 km SSW of Mammoth Lakes, CA",earthquake,0.75,1.26,0.156,11,reviewed,nc,nc
-2023-07-25T06:58:14.855Z,58.1836,-155.2469,0,0.9,ml,,,,0.6,ak,ak0239gsmk1e,2023-07-25T07:00:32.748Z,"83 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-25T06:54:51.560Z,33.6643333,-116.7771667,15.63,0.27,ml,21,71,0.06815,0.15,ci,ci39621346,2023-07-25T15:11:31.599Z,"10km SSW of Idyllwild, CA",earthquake,0.3,0.58,0.117,6,reviewed,ci,ci
-2023-07-25T06:53:35.630Z,44.6231666666667,-114.219833333333,4.84,1.63,ml,16,103,0.2728,0.14,mb,mb90022483,2023-07-25T22:48:44.240Z,"13 km N of Challis, Idaho",earthquake,0.47,2.59,0.172654878965245,12,reviewed,mb,mb
