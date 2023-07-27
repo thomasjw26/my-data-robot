@@ -41,6 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T21:30:33.120Z,35.9546667,-117.9215,6.73,1.64,ml,32,72,0.05866,0.11,ci,ci39623082,2023-07-26T23:40:23.610Z,"2km NNW of Little Lake, CA",earthquake,0.15,0.34,0.205,12,reviewed,ci,ci
 2023-07-26T21:25:26.160Z,37.5745,-118.8463333,-0.99,0.28,md,8,264,0.02068,0.02,nc,nc73917121,2023-07-26T22:09:57.867Z,"14 km ESE of Mammoth Lakes, CA",earthquake,0.75,0.4,0.197,8,reviewed,nc,nc
 2023-07-26T21:22:26.164Z,61.2433,-147.5216,15.6,1.4,ml,,,,0.33,ak,ak0239iovpp4,2023-07-26T21:24:36.878Z,"62 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-26T21:15:15.690Z,49.3545,-120.51416666666667,-0.37,2.23,ml,13,178,0.5822,0.37,uw,uw61944191,2023-07-27T02:40:23.030Z,"11 km S of Princeton, Canada",explosion,1,31.61,0.1124131607958474,9,reviewed,uw,uw
 2023-07-26T21:14:49.830Z,38.8403333,-122.7448333,1.13,0.45,md,16,188,0.0126,0.05,nc,nc73917116,2023-07-26T22:39:10.811Z,"3 km NW of Cobb, CA",earthquake,0.25,0.31,0.198,14,reviewed,nc,nc
 2023-07-26T21:09:49.580Z,48.553666666666665,-123.62716666666667,-0.21,0.62,md,7,146,0.1142,0.28,uw,uw61944186,2023-07-27T02:35:05.660Z,"14 km NW of Langford, Canada",explosion,1.79,31.61,0.2727939506578515,6,reviewed,uw,uw
 2023-07-26T21:06:30.750Z,34.0096667,-116.661,16.94,0.96,ml,29,75,0.03075,0.13,ci,ci39623050,2023-07-26T23:32:03.350Z,"8km WSW of Morongo Valley, CA",earthquake,0.22,0.42,0.152,18,reviewed,ci,ci
@@ -234,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T02:56:10.459Z,61.9036,-148.3145,32.1,1,ml,,,,0.77,ak,ak0239idrqc5,2023-07-26T02:57:53.808Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-26T02:52:39.730Z,44.7543333,-110.5083333,4.87,2.17,ml,13,95,0.03671,0.18,uu,uu60546222,2023-07-26T13:09:32.220Z,"29 km SSE of Mammoth, Wyoming",earthquake,0.63,0.55,0.508,2,reviewed,uu,uu
 2023-07-26T02:47:15.710Z,19.2293338775635,-155.373168945312,31.0400009155273,2.08,ml,50,153,,0.119999997,hv,hv73497557,2023-07-26T02:52:46.040Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.56,0.670000017,2.99,16,automatic,hv,hv
-2023-07-26T02:41:15.920Z,38.8318329,-122.8141632,1.61,1.42,md,26,43,0.009011,0.02,nc,nc73916771,2023-07-26T03:14:15.832Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.33,0.21,27,automatic,nc,nc
-2023-07-26T02:40:17.335Z,36.7166,-116.274,7.4,-0.4,ml,11,174.54,0.022,0.067,nn,nn00863313,2023-07-26T15:42:42.724Z,"48 km ESE of Beatty, Nevada",earthquake,,1.5,0.6,4,reviewed,nn,nn
