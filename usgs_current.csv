@@ -244,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T06:40:52.290Z,37.563,-118.8481667,-0.53,0.87,md,12,260,0.03094,0.03,nc,nc73916811,2023-07-26T11:59:13.988Z,"14 km SE of Mammoth Lakes, CA",earthquake,1.9,0.4,0.133,12,reviewed,nc,nc
 2023-07-26T06:21:13.270Z,58.2568,-155.2036,1.1,0.1,ml,,,,0.58,ak,ak0239ifxyxo,2023-07-26T06:23:08.971Z,"88 km NNW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-26T05:59:26.593Z,31.8986,131.6664,61.841,4.6,mb,37,133,1.105,1.21,us,us6000kvlk,2023-07-26T06:24:18.040Z,"23 km E of Miyazaki, Japan",earthquake,4.16,8.944,0.098,31,reviewed,us,us
-2023-07-26T05:55:01.770Z,36.28033333,-97.49966667,7.97,1.52,ml,91,26,0.06478728652,0.23,ok,ok2023omvi,2023-07-26T12:06:40.059Z,"4 km W of Lucien, Oklahoma",earthquake,,0.5,0.25,41,reviewed,ok,ok
