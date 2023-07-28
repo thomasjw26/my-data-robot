@@ -198,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T18:59:36.410Z,58.1643333333333,-155.387333333333,2.06,0.01,ml,9,85,,0.07,av,av91979716,2023-07-28T04:12:03.570Z,"86 km NW of Karluk, Alaska",earthquake,0.2,0.62,0.099555696177835,10,reviewed,av,av
 2023-07-27T18:57:31.520Z,34.9876667,-118.2011667,-0.91,1.8,mh,20,53,0.1109,0.2,ci,ci39623826,2023-07-27T21:16:48.932Z,"8 km SSW of Mojave, CA",quarry blast,0.42,31.61,,0,reviewed,ci,ci
 2023-07-27T18:49:53.406Z,55.4976,-158.234,47.2,1.7,ml,,,,1.12,ak,ak0239kaskx5,2023-07-28T12:07:27.518Z,"73 km SE of Perryville, Alaska",earthquake,,5.5,,,reviewed,ak,ak
-2023-07-27T18:48:28.226Z,32.76397705,-100.6465558,7.996704102,2.4,ml,13,84,0.0653782026,0.2,tx,tx2023opqj,2023-07-27T22:20:50.268Z,"17 km NE of Hermleigh, Texas",earthquake,1.39809641,2.398475555,0.2,9,reviewed,tx,tx
-2023-07-27T18:46:23.120Z,49.072833333333335,-122.105,-0.54,1.1,ml,5,301,0.07573,0.19,uw,uw61944416,2023-07-27T21:18:31.210Z,"10 km E of Abbotsford, Canada",explosion,1.64,31.61,0.06128413855696402,4,reviewed,uw,uw
