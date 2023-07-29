@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-29T20:20:45.935Z,61.2977,-152.4389,0.8,1.6,ml,,,,0.88,ak,ak0239nmvxo1,2023-07-29T20:22:46.262Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-29T20:16:32.680Z,37.8689995,-122.2474976,8.77,1.48,md,27,46,0.008583,0.05,nc,nc73917996,2023-07-29T20:18:06.815Z,"2 km E of Berkeley, CA",earthquake,0.19,0.36,0.29,17,automatic,nc,nc
+2023-07-29T20:16:32.680Z,37.8689995,-122.2474976,8.77,1.48,md,27,46,0.008583,0.05,nc,nc73917996,2023-07-29T20:28:10.979Z,"2 km E of Berkeley, CA",earthquake,0.19,0.36,0.29,17,automatic,nc,nc
 2023-07-29T19:59:31.317Z,68.6586,-148.4554,0,2.3,ml,,,,1.14,ak,ak0239nmitrs,2023-07-29T20:02:32.688Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-29T19:56:30.209Z,63.0779,-150.623,112.3,1.4,ml,,,,0.35,ak,ak0239nmi6mk,2023-07-29T19:58:41.615Z,"65 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-29T19:55:35.343Z,68.6738,-148.4295,13.2,1.8,ml,,,,1.56,ak,ak0239nmhzb2,2023-07-29T19:57:53.050Z,"133 km WNW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -196,6 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T20:44:14.000Z,33.471,-116.4711667,12.16,0.63,ml,21,65,0.06461,0.14,ci,ci39624690,2023-07-28T20:58:45.844Z,"21 km ESE of Anza, CA",earthquake,0.24,0.74,0.16,14,reviewed,ci,ci
 2023-07-28T20:41:27.970Z,38.8100014,-122.7598343,0.64,0.74,md,9,105,0.009363,0.01,nc,nc73917726,2023-07-28T21:49:12.892Z,"4 km WSW of Cobb, CA",earthquake,0.38,0.65,0.04,9,automatic,nc,nc
 2023-07-28T20:37:05.771Z,61.5535,-148.3204,17.5,0.5,ml,,,,0.31,ak,ak0239lzg58x,2023-07-28T20:38:12.610Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-28T20:30:32.190Z,58.1622,-155.4059,0,1.5,ml,,,,0.35,ak,ak0239lzep9v,2023-07-29T04:43:23.480Z,"86 km NW of Karluk, Alaska",earthquake,,30,,,automatic,ak,ak
-2023-07-28T20:29:17.460Z,38.8296661,-122.7998352,2.11,1.05,md,16,66,0.01016,0.01,nc,nc73917721,2023-07-28T21:38:11.823Z,"7 km W of Cobb, CA",earthquake,0.27,0.5,0.28,16,automatic,nc,nc
-2023-07-28T20:25:23.700Z,61.2752,-151.5929,77.7,1.4,ml,,,,0.45,ak,ak0239lzdm1e,2023-07-28T20:27:21.536Z,"31 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
