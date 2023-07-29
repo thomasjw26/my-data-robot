@@ -108,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T18:59:53.700Z,34.9856667,-118.1858333,-0.91,1.15,ml,16,74,0.1122,0.21,ci,ci39624586,2023-07-28T20:31:54.137Z,"8 km S of Mojave, CA",quarry blast,0.45,31.61,0.038,8,reviewed,ci,ci
 2023-07-28T18:53:53.420Z,51.6335,-178.798666666667,16.01,0.65,ml,6,176,,0.24,av,av91981396,2023-07-29T04:07:54.880Z,"151 km W of Adak, Alaska",earthquake,3.2,2.01,0.34383883516452,6,reviewed,av,av
 2023-07-28T18:49:14.980Z,37.5736667,-118.8635,4.56,1.28,md,22,192,0.03183,0.02,nc,nc73917676,2023-07-28T23:02:12.343Z,"12 km SE of Mammoth Lakes, CA",earthquake,0.45,0.55,0.163,19,reviewed,nc,nc
-2023-07-28T18:45:40.830Z,37.983,-122.4548333,-0.02,1.52,md,21,84,0.02459,0.12,nc,nc73917671,2023-07-29T06:42:44.906Z,"6 km ESE of Santa Venetia, CA",quarry blast,0.3,31.61,0.186,17,reviewed,nc,nc
+2023-07-28T18:45:40.840Z,37.9843333,-122.4543333,-0.02,1.52,md,20,84,0.02385,0.11,nc,nc73917671,2023-07-29T06:44:15.400Z,"6 km ESE of Santa Venetia, CA",quarry blast,0.25,31.61,0.202,17,reviewed,nc,nc
 2023-07-28T18:31:48.740Z,38.1421667,-122.2305,9.23,2.22,md,87,67,0.03244,0.16,nc,nc73917666,2023-07-28T22:35:14.195Z,"3 km N of Vallejo, CA",earthquake,0.15,0.24,0.119,81,reviewed,nc,nc
 2023-07-28T18:30:17.880Z,32.596,-117.006,-0.43,1.17,ml,13,209,0.06505,0.27,ci,ci39624514,2023-07-28T20:28:02.015Z,"5 km SE of Chula Vista, CA",quarry blast,1.41,31.61,0.113,6,reviewed,ci,ci
 2023-07-28T18:23:26.960Z,52.8106666666667,-169.907,-1.73,0.42,ml,5,175,,0.22,av,av91112028,2023-07-29T04:14:13.990Z,"71 km WSW of Nikolski, Alaska",earthquake,0.29,0.55,0.34183701165959,5,reviewed,av,av
@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T07:13:15.590Z,-30.5055,59.8736,10,5.4,mww,67,55,10.011,0.57,us,us6000kw2y,2023-07-28T09:16:08.827Z,"Southwest Indian Ridge",earthquake,10,1.857,0.098,10,reviewed,us,us
 2023-07-28T07:03:06.610Z,-30.4629,59.8394,10,5.6,mww,108,36,9.961,0.62,us,us6000kw2w,2023-07-28T09:06:08.545Z,"Southwest Indian Ridge",earthquake,6.26,1.835,0.078,16,reviewed,us,us
 2023-07-28T06:56:34.060Z,51.8561666666667,-177.812333333333,3.02,0.25,ml,4,251,,0.06,av,av91980601,2023-07-28T22:48:01.940Z,"81 km W of Adak, Alaska",earthquake,0.54,0.93,0.166890687208154,4,reviewed,av,av
-2023-07-28T06:43:18.300Z,61.7965,-150.7944,47.6,1.3,ml,,,,0.44,ak,ak0239lr5e1i,2023-07-28T06:45:12.885Z,"31 km NNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
