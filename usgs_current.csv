@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-30T11:16:20.810Z,40.246666,-121.1293335,1.08,2.41,md,12,103,0.301,0.18,nc,nc73918256,2023-07-30T11:18:15.741Z,"4 km SW of Hamilton Branch, CA",earthquake,0.57,13.28,0.08,8,automatic,nc,nc
+2023-07-30T11:25:45.605Z,37.3821,-114.8667,16,1.2,ml,11,292.8,0.907,0.4102,nn,nn00863730,2023-07-30T11:27:57.285Z,"26 km E of Alamo, Nevada",earthquake,,2.8,0.24,8,automatic,nn,nn
+2023-07-30T11:16:20.810Z,40.246666,-121.1293335,1.08,2.41,md,12,103,0.301,0.18,nc,nc73918256,2023-07-30T11:23:14.225Z,"4 km SW of Hamilton Branch, CA",earthquake,0.57,13.28,0.08,8,automatic,nc,nc
 2023-07-30T11:12:17.150Z,33.5155,-116.5475,14.32,0.64,ml,24,71,0.05019,0.13,ci,ci39625538,2023-07-30T11:15:47.367Z,"12 km ESE of Anza, CA",earthquake,0.2,0.37,0.107,18,automatic,ci,ci
 2023-07-30T10:58:33.720Z,34.0345,-117.0821667,17.77,0.98,ml,24,68,0.07302,0.15,ci,ci39625530,2023-07-30T11:02:15.397Z,"4 km W of Yucaipa, CA",earthquake,0.28,0.69,0.135,27,automatic,ci,ci
 2023-07-30T10:56:29.560Z,38.8274994,-122.8030014,1.63,0.72,md,13,66,0.006879,0.01,nc,nc73918251,2023-07-30T11:18:13.204Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.52,0.09,16,automatic,nc,nc
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T10:19:50.860Z,18.8226,-65.8445,79,3.57,md,13,251,0.6805,0.57,pr,pr2023211001,2023-07-30T10:56:48.491Z,"43 km N of Suárez, Puerto Rico",earthquake,5.31,5.84,0.09,6,reviewed,pr,pr
 2023-07-30T10:19:07.055Z,61.5352,-146.4493,32.5,1.6,ml,,,,0.64,ak,ak0239p4gne9,2023-07-30T10:21:01.059Z,"45 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-30T10:14:37.484Z,58.1358,-155.5908,21.9,0.7,ml,,,,0.5,ak,ak0239p4fn5w,2023-07-30T10:17:04.655Z,"87 km SE of King Salmon, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-30T10:12:28.490Z,38.8166656,-122.7748337,1.48,0.62,md,8,123,0.005698,0.01,nc,nc73918226,2023-07-30T10:29:16.931Z,"4 km W of Cobb, CA",earthquake,0.58,0.77,0.2,9,automatic,nc,nc
+2023-07-30T10:12:28.490Z,38.8166656,-122.7748337,1.48,0.62,md,8,123,0.005698,0.01,nc,nc73918226,2023-07-30T11:23:14.357Z,"4 km W of Cobb, CA",earthquake,0.58,0.77,0.2,9,automatic,nc,nc
 2023-07-30T10:02:09.341Z,56.8768,-155.9229,13,2.4,ml,,,,0.72,ak,ak0239p4d0ee,2023-07-30T10:45:17.040Z,"106 km W of Akhiok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-30T09:58:20.490Z,17.9366666666667,-67.1146666666667,11.68,2.44,md,11,244,0.06952,0.1,pr,pr71419733,2023-07-30T11:19:05.040Z,"8 km WSW of La Parguera, Puerto Rico",earthquake,0.54,0.29,0.034720882755999,5,reviewed,pr,pr
 2023-07-30T09:51:59.210Z,18.125,-68.5718,105,3.84,md,19,239,0.433,0.22,pr,pr2023211002,2023-07-30T11:01:08.203Z,"28 km S of Boca de Yuma, Dominican Republic",earthquake,1.3,0.99,0.15,15,reviewed,pr,pr
@@ -70,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T04:34:45.430Z,63.3056,-150.0497,94.9,1.7,ml,,,,0.61,ak,ak0239p0zcgv,2023-07-30T04:37:06.062Z,"55 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-30T04:34:29.470Z,19.193000793457,-155.476333618164,33.1699981689453,2.1,ml,38,99,,0.109999999,hv,hv73503092,2023-07-30T04:40:00.550Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.49,0.670000017,0.2,3,automatic,hv,hv
 2023-07-30T04:15:11.479Z,30.3976,94.8046,10,4.9,mb,51,81,9.284,0.7,us,us6000kwm4,2023-07-30T04:33:29.040Z,"211 km NNE of Shi Yomi, India",earthquake,9.88,1.835,0.05,124,reviewed,us,us
-2023-07-30T04:09:46.159Z,61.9718,-149.8381,27.2,3.2,ml,,,,0.79,ak,ak0239p0tzn9,2023-07-30T08:32:57.645Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-30T04:09:46.159Z,61.9718,-149.8381,27.2,3.2,ml,,,,0.79,ak,ak0239p0tzn9,2023-07-30T08:32:57.645Z,"21 km S of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-30T04:07:51.640Z,37.5880013,-118.4645004,6.66,1.64,md,17,190,0.09202,0.04,nc,nc73918146,2023-07-30T07:18:13.905Z,"19 km E of Toms Place, CA",earthquake,1.2,2.36,0.07,14,automatic,nc,nc
 2023-07-30T04:06:57.340Z,38.8346672,-122.8034973,2.18,0.84,md,7,106,0.01093,0.01,nc,nc73918141,2023-07-30T06:50:14.760Z,"7 km WNW of Cobb, CA",earthquake,0.51,1.72,0.27,8,automatic,nc,nc
 2023-07-30T03:57:31.820Z,17.966,-66.8328333333333,15.48,2.24,md,20,183,0.0451,0.18,pr,pr71419693,2023-07-30T04:15:15.750Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.43,0.43,0.100075153962942,4,reviewed,pr,pr
