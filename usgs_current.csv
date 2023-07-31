@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-31T05:43:50.360Z,59.8666,-152.291,91.9,0.3,ml,,,,0.65,ak,ak0239qp61tt,2023-07-31T05:46:11.969Z,"27 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-31T05:26:56.182Z,59.9408,-153.2188,124.3,1.6,ml,,,,0.15,ak,ak0239qp2fo2,2023-07-31T05:28:27.008Z,"52 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-31T05:24:57.650Z,34.1393333,-117.0153333,7.15,1.01,ml,26,39,0.07618,0.18,ci,ci39625930,2023-07-31T05:28:30.022Z,"12 km SE of Running Springs, CA",earthquake,0.26,0.62,0.158,27,automatic,ci,ci
 2023-07-31T05:21:25.716Z,57.9037,-155.0397,78.5,2.7,ml,,,,0.35,ak,ak0239qp1aq4,2023-07-31T05:23:00.538Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
