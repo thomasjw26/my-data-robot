@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T11:27:18.571Z,68.657,-148.4518,0.1,2,ml,,,,1.08,ak,ak0239p53tm4,2023-07-30T11:29:42.532Z,"133 km WNW of Arctic Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-30T11:25:45.605Z,37.3821,-114.8667,16,1.2,ml,11,292.8,0.907,0.4102,nn,nn00863730,2023-07-30T11:27:57.285Z,"26 km E of Alamo, Nevada",earthquake,,2.8,0.24,8,automatic,nn,nn
 2023-07-30T11:16:20.810Z,40.246666,-121.1293335,1.08,2.41,md,12,103,0.301,0.18,nc,nc73918256,2023-07-30T13:40:14.995Z,"4 km SW of Hamilton Branch, CA",earthquake,0.57,13.28,0.08,8,automatic,nc,nc
-2023-07-30T11:12:17.150Z,33.5155,-116.5475,14.32,0.64,ml,24,71,0.05019,0.13,ci,ci39625538,2023-07-30T14:15:13.805Z,"12 km ESE of Anza, CA",earthquake,0.2,0.37,0.107,18,reviewed,ci,ci
