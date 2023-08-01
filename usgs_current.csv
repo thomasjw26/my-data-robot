@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-01T14:28:40.464Z,58.1674,-155.3957,1.1,0,ml,,,,0.66,ak,ak0239shz2tq,2023-08-01T14:31:17.775Z,"86 km NW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2023-08-01T14:27:35.866Z,59.8767,-152.8124,93.4,1.4,ml,,,,0.43,ak,ak0239shyur6,2023-08-01T14:29:49.777Z,"56 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-01T14:20:10.434Z,61.5812,-148.031,14.6,1.1,ml,,,,0.28,ak,ak0239shxas3,2023-08-01T14:21:31.877Z,"32 km SW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-01T14:10:33.551Z,61.3627,-152.585,5.8,1.7,ml,,,,0.61,ak,ak0239shv7ej,2023-08-01T14:11:50.269Z,"84 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-01T14:09:43.418Z,59.9147,-153.1975,8.8,2.7,ml,,,,1.22,ak,ak0239shv0lw,2023-08-01T14:21:30.087Z,"52 km ENE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
