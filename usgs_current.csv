@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-02T20:56:57.160Z,57.4072,-155.6243,90,1.2,ml,,,,0.06,ak,ak0239u992ac,2023-08-02T20:59:03.785Z,"Alaska Peninsula",earthquake,,1.8,,,automatic,ak,ak
 2023-08-02T20:40:43.910Z,38.7900009,-122.7543335,1.82,0.78,md,8,137,0.01141,0.02,nc,nc73919511,2023-08-02T20:42:20.400Z,"1 km N of The Geysers, CA",earthquake,0.55,1.63,0.08,8,automatic,nc,nc
 2023-08-02T20:34:07.825Z,61.2861,-152.5212,17.7,0.7,ml,,,,0.84,ak,ak0239u948so,2023-08-02T20:36:55.945Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-02T20:33:13.217Z,15.2628,39.4446,10,4.4,mb,31,81,4.972,0.46,us,us6000kxe0,2023-08-02T20:47:15.040Z,"38 km S of Massawa, Eritrea",earthquake,4.89,1.879,0.118,21,reviewed,us,us
@@ -84,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T12:33:33.590Z,19.1643333435059,-155.490325927734,36.7599983215332,2.19000006,md,42,115,,0.129999995,hv,hv73507112,2023-08-02T12:36:36.350Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.69,0.959999979,0.129999995,9,automatic,hv,hv
 2023-08-02T12:27:06.610Z,60.7287,-151.5672,84.6,1.1,ml,,,,0.12,ak,ak0239u4b9s5,2023-08-02T12:28:23.400Z,"15 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-02T12:25:45.067Z,39.2115,-120.4576,0,0.8,ml,6,206.85,0.173,0.225,nn,nn00863833,2023-08-02T14:26:32.223Z,"12 km SSW of Kingvale, California",earthquake,,0,0,1,reviewed,nn,nn
-2023-08-02T12:20:10.340Z,36.0313339,-120.6100006,-0.74,1.12,md,11,112,0.03903,0.18,nc,nc73919391,2023-08-02T13:15:15.145Z,"22 km NW of Parkfield, CA",earthquake,0.9,6.08,0.32,4,automatic,nc,nc
+2023-08-02T12:20:10.230Z,36.0315,-120.6083333,-0.73,1.11,md,28,57,0.03851,0.12,nc,nc73919391,2023-08-02T20:55:03.625Z,"22 km NW of Parkfield, CA",earthquake,0.26,0.57,0.207,14,reviewed,nc,nc
 2023-08-02T12:19:58.237Z,40.0731,-119.71,15.8,0.4,ml,4,155.28,0.099,0.0812,nn,nn00863836,2023-08-02T17:01:15.375Z,"16 km NW of Sutcliffe, Nevada",earthquake,,2.5,0.05,2,reviewed,nn,nn
 2023-08-02T12:14:57.900Z,38.8311653,-122.8161697,1.66,1.09,md,19,65,0.009103,0.02,nc,nc73919386,2023-08-02T12:48:14.009Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.49,0.15,19,automatic,nc,nc
 2023-08-02T12:12:54.719Z,65.814,-151.009,5.6,1.4,ml,,,,0.33,ak,ak0239u485r3,2023-08-02T12:15:09.138Z,"51 km NW of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -186,6 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T04:51:10.152Z,61.8987,-150.0205,0,2.2,ml,,,,0.77,ak,ak0239tzoyef,2023-08-02T04:53:23.152Z,"16 km N of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-02T04:42:42.990Z,19.1798324584961,-155.508163452148,33.6399993896484,1.87,md,30,157,,0.140000001,hv,hv73506792,2023-08-02T04:45:56.610Z,"Island of Hawaii, Hawaii",earthquake,0.64,0.850000024,0.870000005,7,automatic,hv,hv
 2023-08-02T04:30:18.290Z,17.9555,-67.0985,11.84,2.71,md,7,270,0.05171,0.12,pr,pr71420113,2023-08-02T04:40:18.870Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.95,0.39,0.012615391057166,4,reviewed,pr,pr
+2023-08-02T04:28:34.917Z,39.6091,-119.9719,7.4,0.1,ml,4,209.6,0.009,0.1062,nn,nn00863854,2023-08-02T20:54:10.630Z,"Nevada",earthquake,,4.8,0,1,reviewed,nn,nn
 2023-08-02T04:28:22.250Z,59.944,-150.1957,53.1,1.8,ml,,,,0.63,ak,ak0239tzk1v5,2023-08-02T04:30:11.225Z,"43 km ENE of Fox River, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-02T04:22:33.230Z,17.9411666666667,-67.1068333333333,11.07,2.42,md,4,277,0.06493,0.09,pr,pr71420108,2023-08-02T04:34:36.620Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,1.62,0.5,0.0541202759394266,3,reviewed,pr,pr
 2023-08-02T04:01:44.840Z,33.1838333,-115.581,2.59,1.47,ml,21,89,0.02974,0.17,ci,ci39627410,2023-08-02T17:06:37.881Z,"8 km SW of Niland, CA",earthquake,0.22,0.25,0.219,9,reviewed,ci,ci
@@ -240,7 +242,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T23:43:20.970Z,39.3248333,-122.7966667,-0.89,1.64,md,24,68,0.1504,0.21,nc,nc73919226,2023-08-02T06:53:14.947Z,"17 km ESE of Lake Pillsbury, CA",earthquake,0.33,0.95,0.156,22,reviewed,nc,nc
 2023-08-01T23:40:21.470Z,46.905,-112.5985,12.75,0.95,ml,10,110,0.04458,0.1,mb,mb90023278,2023-08-02T15:05:11.130Z,"8 km SE of Lincoln, Montana",earthquake,0.51,0.79,0.141346081940571,5,reviewed,mb,mb
 2023-08-01T23:40:06.270Z,46.9038333333333,-112.596166666667,12.29,0.77,ml,10,110,0.04632,0.1,mb,mb90023218,2023-08-02T15:00:02.560Z,"8 km SE of Lincoln, Montana",earthquake,0.49,0.77,0.127862072555223,3,reviewed,mb,mb
-2023-08-01T23:38:23.500Z,38.811,-122.79,2.91,0.45,md,21,44,0.005131,0.02,nc,nc73919221,2023-08-02T20:21:00.198Z,"5 km NW of The Geysers, CA",earthquake,0.24,0.44,0.244,20,reviewed,nc,nc
+2023-08-01T23:38:23.500Z,38.811,-122.79,2.91,0.45,md,21,44,0.005131,0.02,nc,nc73919221,2023-08-02T20:59:15.773Z,"5 km NW of The Geysers, CA",earthquake,0.24,0.44,0.244,20,reviewed,nc,nc
 2023-08-01T23:32:05.552Z,64.4573,-151.4567,11.1,0.9,ml,,,,0.86,ak,ak0239sncrg8,2023-08-01T23:34:17.621Z,"72 km SSW of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-01T23:30:01.910Z,38.8271667,-122.809,3.2,0.31,md,14,41,0.003859,0.02,nc,nc73919216,2023-08-02T02:45:15.465Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.34,0.548,14,reviewed,nc,nc
 2023-08-01T23:27:36.600Z,36.5583333,-121.1295,3,1.24,md,19,130,0.02955,0.11,nc,nc73919211,2023-08-02T06:24:12.768Z,"3 km NNE of Pinnacles, CA",earthquake,0.28,0.44,0.159,14,reviewed,nc,nc
