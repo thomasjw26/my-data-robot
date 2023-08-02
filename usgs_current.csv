@@ -281,4 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T20:05:28.120Z,46.899,-112.592333333333,11.39,0.82,ml,8,108,0.04982,0.08,mb,mb90023138,2023-08-01T20:52:41.980Z,"9 km SE of Lincoln, Montana",earthquake,0.38,0.75,0.0915618325510662,5,reviewed,mb,mb
 2023-08-01T19:58:14.140Z,38.8183333,-122.7981667,2.48,0.45,md,14,61,0.01059,0.01,nc,nc73919126,2023-08-02T00:04:13.572Z,"6 km NW of The Geysers, CA",earthquake,0.34,0.86,0.345,14,reviewed,nc,nc
 2023-08-01T19:50:51.660Z,33.0291667,-116.0026667,7.1,1.37,ml,38,56,0.1447,0.18,ci,ci39627106,2023-08-01T21:13:38.780Z,"18 km SE of Ocotillo Wells, CA",earthquake,0.2,0.83,0.09,25,reviewed,ci,ci
-2023-08-01T19:43:35.170Z,44.7,-110.4773333,5.81,0.76,md,5,174,0.02756,0.13,uu,uu60546747,2023-08-01T20:29:06.040Z,"35 km SSE of Mammoth, Wyoming",earthquake,1.37,0.68,0.395,4,reviewed,uu,uu
