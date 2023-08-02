@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-02T07:29:55.910Z,35.3504982,-118.0743332,9.18,1.2,ml,14,63,0.07257,0.23,ci,ci39627490,2023-08-02T07:32:00.768Z,"26 km NNW of California City, CA",earthquake,0.52,2.2,0.212,3,automatic,ci,ci
+2023-08-02T07:29:17.370Z,38.8349991,-122.8003311,2.19,1.03,md,18,71,0.008511,0.01,nc,nc73919341,2023-08-02T07:30:55.395Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.49,0.1,19,automatic,nc,nc
 2023-08-02T07:21:33.621Z,61.0761,-152.3619,116,1.3,ml,,,,0.41,ak,ak0239u1avjm,2023-08-02T07:24:11.456Z,"66 km W of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-02T07:08:19.080Z,34.0235,-116.8441667,12.83,1.47,ml,59,33,0.03238,0.18,ci,ci39627482,2023-08-02T07:19:31.460Z,"11 km NNE of Banning, CA",earthquake,0.18,0.46,0.211,25,automatic,ci,ci
 2023-08-02T06:44:10.660Z,38.7911682,-122.9049988,4.82,1.04,md,11,215,0.03522,0.02,nc,nc73919331,2023-08-02T07:00:13.999Z,"10 km E of Cloverdale, CA",earthquake,0.79,2.03,0.3,12,automatic,nc,nc
