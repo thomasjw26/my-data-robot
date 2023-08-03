@@ -3,6 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T19:12:23.782Z,60.1163,-152.6346,109,1.6,ml,,,,0.3,ak,ak0239vvxh3e,2023-08-03T19:14:11.129Z,"53 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-03T19:07:07.080Z,59.5063,-152.9532,87.7,1.6,ml,,,,0.26,ak,ak0239vvwd84,2023-08-03T19:08:40.706Z,"60 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-03T19:06:22.364Z,59.7235,-153.2418,103,1.7,ml,,,,0.68,ak,ak0239vvw6os,2023-08-03T19:08:31.037Z,"49 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-08-03T19:03:05.840Z,46.009,-112.464666666667,-2,1.81,ml,15,80,0.06252,0.07,mb,mb90023403,2023-08-03T19:32:49.340Z,"western Montana",quarry blast,0.37,31.61,0.11195391340102,16,reviewed,mb,mb
 2023-08-03T18:26:04.460Z,18.7615,-66.3438333333333,25.49,3.01,md,15,222,0.3332,0.2,pr,pr71420378,2023-08-03T19:24:32.448Z,"Puerto Rico region",earthquake,0.81,3.74,0.0682343220952455,5,reviewed,pr,pr
 2023-08-03T18:11:10.990Z,35.4185,-120.7046667,7.63,1.09,md,27,65,0.08596,0.07,nc,nc73919841,2023-08-03T18:54:14.370Z,"8 km SSW of Atascadero, CA",earthquake,0.17,0.54,0.27,15,reviewed,nc,nc
 2023-08-03T18:05:53.293Z,1.1145,120.289,640.814,4.5,mb,84,54,0.493,0.65,us,us6000kxlu,2023-08-03T18:23:43.040Z,"228 km NNE of Palu, Indonesia",earthquake,10.81,7.185,0.056,95,reviewed,us,us
@@ -10,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T17:44:24.037Z,63.5582,-149.066,1,1.2,ml,,,,0.69,ak,ak0239vuxgtf,2023-08-03T17:46:24.989Z,"19 km NNW of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-03T17:27:53.520Z,36.02,-96.5335,0,1.51,ml,66,132,0.2069593875,0.52,ok,ok2023pcif,2023-08-03T17:36:58.891Z,"7 km ENE of Drumright, Oklahoma",quarry blast,,0.5,0.22,30,reviewed,ok,ok
 2023-08-03T17:20:34.666Z,62.442,-151.2335,79.7,1.2,ml,,,,0.39,ak,ak0239vuscga,2023-08-03T17:23:11.674Z,"24 km WSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-08-03T17:18:45.770Z,46.328,-121.98716666666667,-1.41,1.34,ml,29,101,0.1609,0.24,uw,uw61937692,2023-08-03T19:33:40.990Z,"Washington",explosion,0.41,31.61,0.09891069906666383,21,reviewed,uw,uw
 2023-08-03T17:03:42.840Z,19.3838333333333,-155.281166666667,1.58,1.98,ml,19,70,,0.1,hv,hv73508407,2023-08-03T18:11:33.490Z,"8 km SW of Volcano, Hawaii",earthquake,0.19,0.19,0.211146641808249,14,reviewed,hv,hv
 2023-08-03T16:58:45.840Z,57.6384,-155.8044,122.9,1.8,ml,,,,0.09,ak,ak0239vuf2x4,2023-08-03T17:56:08.040Z,"81 km W of Karluk, Alaska",earthquake,,4.7,,,automatic,ak,ak
 2023-08-03T16:41:09.070Z,35.2441667,-118.499,7.51,1.08,ml,15,89,0.07942,0.13,ci,ci40528912,2023-08-03T17:12:13.221Z,"13 km NNW of Tehachapi, CA",earthquake,0.27,0.87,0.464,5,reviewed,ci,ci
@@ -233,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T19:54:58.670Z,46.17916666666667,-122.20583333333333,6.28,0,ml,9,131,0.01817,0.22,uw,uw61937437,2023-08-02T21:29:44.710Z,"Washington",earthquake,0.85,0.78,0.0789539533352575,5,reviewed,uw,uw
 2023-08-02T19:46:44.580Z,33.874,-116.856,14.16,0.69,ml,16,156,0.06329,0.07,ci,ci39628106,2023-08-03T00:18:09.438Z,"6 km SSE of Banning, CA",earthquake,0.22,0.48,0.025,10,reviewed,ci,ci
 2023-08-02T19:43:31.280Z,46.19016666666667,-122.19183333333334,-1.74,-0.13,mh,6,130,0.00964,0.15,uw,uw61937412,2023-08-02T21:24:13.280Z,"36 km NNE of Amboy, Washington",earthquake,0.79,10.96,,0,reviewed,uw,uw
-2023-08-02T19:34:24.102Z,61.9384,-147.3179,104.9,2.3,ml,,,,1.29,ak,ak0239u8iudm,2023-08-02T19:37:25.401Z,"7 km W of Eureka Roadhouse, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-08-02T19:32:06.047Z,60.9237,-149.5591,30.1,1.1,ml,,,,0.25,ak,ak0239u8idhv,2023-08-02T20:22:52.066Z,"4 km E of Hope, Alaska",earthquake,,0.6,,,reviewed,ak,ak
