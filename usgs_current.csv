@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-04T02:26:14.320Z,17.9161666666667,-66.989,11.59,1.69,md,3,248,0.07463,0.04,pr,pr71420438,2023-08-04T02:48:27.230Z,"Puerto Rico region",earthquake,1.83,0.93,0.0995580628361308,3,reviewed,pr,pr
+2023-08-04T02:23:30.516Z,54.6059,-161.0645,35,3.7,ml,19,193,0.819,0.4,us,us6000kxqj,2023-08-04T02:41:54.040Z,"Alaska Peninsula",earthquake,3.92,1.983,0.105,12,reviewed,us,us
 2023-08-04T02:22:32.786Z,60.2399,-153.0075,130.4,1.9,ml,,,,0.61,ak,ak0239x9em32,2023-08-04T02:36:30.040Z,"72 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-04T02:21:20.621Z,57.6835,-155.9287,31.5,1.1,ml,,,,0.2,ak,ak0239x9edi6,2023-08-04T02:23:03.945Z,"88 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-04T01:13:49.607Z,58.9682,-154.1979,110.5,1.8,ml,,,,0.43,ak,ak0239x8raeo,2023-08-04T01:15:41.733Z,"62 km SSE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
