@@ -142,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T04:34:07.330Z,17.9216666666667,-66.9915,5.85,2.37,md,10,236,0.0691,0.11,pr,pr71420443,2023-08-04T04:44:51.510Z,"8 km SE of La Parguera, Puerto Rico",earthquake,0.53,0.37,0.0179584343556427,3,reviewed,pr,pr
 2023-08-04T04:27:31.590Z,38.8284988,-122.814003,1.21,0.76,md,8,83,0.005949,0.02,nc,nc73920006,2023-08-04T04:44:13.662Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.86,0.3,10,automatic,nc,nc
 2023-08-04T04:24:49.017Z,39.6362,-119.6452,12,1,ml,7,106.81,0.214,0.0836,nn,nn00863962,2023-08-04T19:17:50.794Z,"Nevada",earthquake,,4.7,0.27,6,reviewed,nn,nn
-2023-08-04T04:09:02.470Z,36.4428333,-121.0113333,6.37,1.35,md,32,123,0.03961,0.17,nc,nc73920001,2023-08-04T18:41:14.439Z,"15 km SE of Pinnacles, CA",earthquake,0.36,0.71,0.156,18,reviewed,nc,nc
+2023-08-04T04:09:02.470Z,36.4428333,-121.0113333,6.37,1.35,md,32,123,0.03961,0.17,nc,nc73920001,2023-08-04T20:22:12.009Z,"15 km SE of Pinnacles, CA",earthquake,0.36,0.71,0.156,18,reviewed,nc,nc
 2023-08-04T03:58:09.220Z,40.2117,-119.8271,5.7,0.5,ml,3,249.86,0.084,0.1001,nn,nn00863961,2023-08-04T19:08:31.305Z,"27 km ENE of Herlong, California",earthquake,,9.9,0.28,2,reviewed,nn,nn
 2023-08-04T03:53:57.509Z,40.1952,-119.806,6.8,2.1,ml,9,233.63,0.062,0.1341,nn,nn00863939,2023-08-04T16:17:58.072Z,"28 km ENE of Herlong, California",earthquake,,1.5,0.17,7,reviewed,nn,nn
 2023-08-04T03:48:01.500Z,46.186,-122.22716666666666,4.95,-0.02,ml,6,192,0.03224,0.07,uw,uw61937862,2023-08-04T04:55:44.830Z,"Washington",earthquake,0.64,0.62,0.11187873484526512,4,reviewed,uw,uw
@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T20:31:29.281Z,60.2794,-148.3769,0,1.8,ml,,,,1.04,ak,ak0239vwmzq8,2023-08-03T20:34:10.333Z,"31 km NW of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-03T20:31:23.143Z,-17.4752,-178.7123,539.784,4.8,mb,36,67,3.2,0.8,us,us6000kxmt,2023-08-03T20:45:46.040Z,"219 km ENE of Levuka, Fiji",earthquake,11.29,7.326,0.105,28,reviewed,us,us
 2023-08-03T20:26:44.723Z,-32.8712,-178.4044,35,4.9,mb,23,229,5.399,1.12,us,us6000kxn3,2023-08-03T21:15:30.040Z,"south of the Kermadec Islands",earthquake,6.61,1.966,0.145,15,reviewed,us,us
-2023-08-03T20:25:35.330Z,19.9736666666667,-155.4185,37.99,2.21,md,44,148,,0.13,hv,hv73508647,2023-08-03T21:32:50.150Z,"Hawaii region, Hawaii",earthquake,0.39,0.67,0.222758423096475,19,reviewed,hv,hv
