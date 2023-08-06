@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-06T02:21:22.310Z,35.8286667,-117.6731667,5.46,1.88,ml,22,66,0.07719,0.21,ci,ci40530544,2023-08-06T02:25:17.473Z,"23 km N of Ridgecrest, CA",earthquake,0.36,1.25,0.101,21,automatic,ci,ci
 2023-08-06T02:04:13.400Z,36.027832,-121.5479965,6.72,1.99,md,23,203,0.1139,0.18,nc,nc73920876,2023-08-06T02:16:11.372Z,"2 km ENE of Lopez Point, CA",earthquake,1.17,1.83,0.14,19,automatic,nc,nc
 2023-08-06T01:59:30.044Z,62.0123,-148.2532,20,2.4,ml,,,,0.74,ak,ak023a0k3sul,2023-08-06T02:20:36.040Z,"26 km NNE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-06T01:45:27.210Z,38.7939987,-122.8069992,3.71,0.76,md,12,81,0.006443,0.02,nc,nc73920866,2023-08-06T02:14:13.356Z,"5 km WNW of The Geysers, CA",earthquake,0.42,0.71,0.15,13,automatic,nc,nc
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T00:33:48.320Z,33.0776667,-116.7183333,23.76,0.48,ml,7,147,0.135,0.11,ci,ci40530536,2023-08-06T00:37:19.989Z,"10 km NE of San Diego Country Estates, CA",earthquake,0.85,1.25,0.025,2,automatic,ci,ci
 2023-08-06T00:32:48.085Z,36.4366,70.6884,203.249,5.3,mww,99,55,2.32,0.8,us,us6000ky6s,2023-08-06T02:17:01.515Z,"49 km SSW of Jurm, Afghanistan",earthquake,7.11,6.029,0.061,26,reviewed,us,us
 2023-08-06T00:31:55.229Z,59.6911,-153.2846,105.6,1.6,ml,,,,1.04,ak,ak023a0jcez3,2023-08-06T00:35:01.542Z,"47 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-06T00:17:51.297Z,59.6863,-153.2996,107.6,4.4,ml,,,,0.47,ak,ak023a0j9eo0,2023-08-06T01:22:41.717Z,"46 km ESE of Pedro Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-08-06T00:17:51.297Z,59.6863,-153.2996,107.6,4.4,ml,,,,0.47,ak,ak023a0j9eo0,2023-08-06T02:30:59.798Z,"46 km ESE of Pedro Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-08-06T00:13:49.892Z,58.1741,-155.2558,0.1,1.2,ml,,,,0.5,ak,ak023a0j8jt9,2023-08-06T00:15:40.225Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2023-08-06T00:06:36.170Z,33.0703333,-115.6308333,9.64,1.18,ml,10,131,0.06614,0.15,ci,ci40530528,2023-08-06T00:10:10.769Z,"4 km NNW of Westmorland, CA",earthquake,0.53,0.71,0.282,15,automatic,ci,ci
 2023-08-06T00:05:31.580Z,40.3154984,-124.37117,18.42,1.95,md,8,257,0.03476,0.03,nc,nc73920836,2023-08-06T02:02:14.293Z,"7 km W of Petrolia, CA",earthquake,2.01,1.29,0.06,5,automatic,nc,nc
@@ -190,5 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T03:06:04.587Z,34.8293,72.8165,43.456,5,mb,58,59,1.234,0.62,us,us6000ky0p,2023-08-05T19:49:47.686Z,"22 km NW of Shingli Bala, Pakistan",earthquake,7.01,3.767,0.048,142,reviewed,us,us
 2023-08-05T02:35:07.180Z,38.8271675,-122.8203354,1.85,1.07,md,21,57,0.008856,0.02,nc,nc73920436,2023-08-05T04:31:11.861Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.42,0.12,24,automatic,nc,nc
 2023-08-05T02:34:19.030Z,38.7906685,-122.760498,1.99,0.76,md,12,133,0.009961,0.02,nc,nc73920431,2023-08-05T04:04:11.573Z,"2 km NNW of The Geysers, CA",earthquake,0.35,0.63,0.1,11,automatic,nc,nc
-2023-08-05T02:26:53.806Z,61.7874,-150.146,28.3,1.4,ml,,,,0.46,ak,ak0239ywyv50,2023-08-05T02:28:50.976Z,"7 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-05T02:26:27.091Z,-17.8598,-178.6083,563.37,4.2,mb,37,110,3.183,0.81,us,us6000ky0d,2023-08-05T02:50:34.040Z,"220 km E of Levuka, Fiji",earthquake,12.57,7.111,0.089,36,reviewed,us,us
