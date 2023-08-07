@@ -160,4 +160,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T18:12:41.634Z,30.7637,131.3898,13.247,5.5,mww,100,60,1.095,0.75,us,us6000kyb4,2023-08-06T20:17:19.620Z,"Kyushu, Japan",earthquake,6.15,4.154,0.059,28,reviewed,us,us
 2023-08-06T17:59:47.940Z,19.32200050354,-155.200164794922,3.63000011444092,1.83,ml,28,136,,0.170000002,hv,hv73512562,2023-08-06T18:05:19.210Z,"13 km SSE of Volcano, Hawaii",earthquake,0.46,2.11999989,0.27,5,automatic,hv,hv
 2023-08-06T17:46:37.775Z,60.0791,-153.0396,106.4,1.6,ml,,,,0.29,ak,ak023a0tjysh,2023-08-06T17:48:53.809Z,"67 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-06T17:35:06.861Z,63.4806,-151.1229,2.7,1.5,ml,,,,0.88,ak,ak023a0thjj2,2023-08-06T17:37:24.789Z,"30 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
