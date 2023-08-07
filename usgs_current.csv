@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-07T23:30:04.020Z,39.4386673,-122.6718369,10.38,2.87,ml,6,214,0.4412,0.25,nc,nc73921586,2023-08-07T23:32:05.770Z,"20 km SW of Stony Gorge Reservoir, CA",earthquake,5.7,6.32,0.468,5,automatic,nc,nc
+2023-08-07T23:30:04.020Z,39.4386673,-122.6718369,10.38,2.87,ml,6,214,0.4412,0.25,nc,nc73921586,2023-08-07T23:36:10.266Z,"20 km SW of Stony Gorge Reservoir, CA",earthquake,5.7,6.32,0.468,5,automatic,nc,nc
 2023-08-07T23:29:12.849Z,61.272,-150.6538,61.5,1.2,ml,,,,0.22,ak,ak023a2kk7tg,2023-08-07T23:30:42.123Z,"27 km ENE of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-08-07T23:16:14.822Z,58.1808,-155.3913,1.1,0.6,ml,,,,0.22,ak,ak023a2khfnu,2023-08-07T23:18:07.586Z,"87 km NW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-08-07T23:12:03.530Z,38.8230019,-122.7903366,1.56,0.77,md,9,85,0.01231,0.01,nc,nc73921576,2023-08-07T23:13:37.521Z,"6 km W of Cobb, CA",earthquake,0.43,0.9,0.13,9,automatic,nc,nc
