@@ -174,5 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T09:03:55.757Z,60.8559,-152.4127,106.8,1.6,ml,,,,0.61,ak,ak023a0oja77,2023-08-06T21:23:21.239Z,"Southern Alaska",earthquake,,1.2,,,reviewed,ak,ak
 2023-08-06T08:49:11.335Z,-20.5987,-113.3229,10,4.8,mb,77,153,38.995,0.42,us,us6000ky90,2023-08-06T09:30:30.040Z,"southern East Pacific Rise",earthquake,15,1.915,0.035,258,reviewed,us,us
 2023-08-06T08:47:04.210Z,60.2126,-141.2896,0,1.9,ml,,,,1.01,ak,ak023a0o77h1,2023-08-06T08:49:22.661Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-06T08:32:09.737Z,58.4357,-151.1643,9.3,2.6,ml,,,,0.65,ak,ak023a0o405p,2023-08-06T09:03:31.040Z,"Kodiak Island region, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-06T08:29:36.897Z,60.3505,-152.0881,69.1,1.5,ml,,,,0.46,ak,ak023a0o3f3t,2023-08-06T08:31:57.497Z,"40 km WNW of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
