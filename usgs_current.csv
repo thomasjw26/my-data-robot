@@ -109,7 +109,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T03:27:16.197Z,60.5314,-151.8379,68.8,1.5,ml,,,,0.57,ak,ak023a28n4jn,2023-08-07T03:28:56.779Z,"29 km WSW of Salamatof, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-07T03:25:05.810Z,38.7953339,-122.7833328,3.07,1.99,md,36,76,0.01694,0.03,nc,nc73921276,2023-08-07T05:14:11.851Z,"3 km NW of The Geysers, CA",earthquake,0.18,0.36,0.15,40,automatic,nc,nc
 2023-08-07T03:23:37.729Z,36.27933333,-97.49933333,6.68,1.29,ml,43,66,0.06478728652,0.26,ok,ok2023pioj,2023-08-07T13:52:56.611Z,"Oklahoma",earthquake,,0.6,0.18,3,reviewed,ok,ok
-2023-08-07T03:20:04.340Z,33.3545,-116.3556667,13.04,0.84,ml,23,174,0.02932,0.09,ci,ci40531056,2023-08-07T19:12:19.473Z,"11 km N of Borrego Springs, CA",earthquake,0.27,0.6,0.148,14,reviewed,ci,ci
+2023-08-07T03:20:07.080Z,33.3625,-116.3635,12.14,0.75,ml,11,157,0.03581,0.14,ci,ci37528197,2023-08-07T19:21:02.814Z,"12 km N of Borrego Springs, CA",earthquake,0.38,0.66,0.158,20,reviewed,ci,ci
+2023-08-07T03:20:04.340Z,33.354,-116.3571667,13.04,0.84,ml,24,172,0.02845,0.11,ci,ci40531056,2023-08-07T19:21:22.578Z,"11 km N of Borrego Springs, CA",earthquake,0.29,0.65,0.142,13,reviewed,ci,ci
 2023-08-07T03:00:44.400Z,38.7956657,-122.7825012,3.14,1.83,md,44,75,0.004907,0.04,nc,nc73921261,2023-08-07T03:50:14.361Z,"3 km NW of The Geysers, CA",earthquake,0.18,0.29,0.17,42,automatic,nc,nc
 2023-08-07T02:37:39.630Z,47.67,-120.3405,1.52,0.86,ml,11,97,0.06572,0.06,uw,uw61938777,2023-08-07T04:29:48.620Z,"9 km W of Entiat, Washington",earthquake,0.23,1.47,0.10018701260522223,10,reviewed,uw,uw
 2023-08-07T02:36:48.239Z,58.5147,-153.5727,54.6,1.9,ml,,,,0.46,ak,ak023a283ouv,2023-08-07T02:38:36.044Z,"63 km NW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
