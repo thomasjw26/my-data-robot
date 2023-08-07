@@ -178,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T07:40:43.240Z,33.2993333,-116.2638333,4.59,0.59,ml,12,129,0.1067,0.19,ci,ci40530608,2023-08-06T07:44:17.156Z,"11 km ENE of Borrego Springs, CA",earthquake,0.46,1.5,0.201,9,automatic,ci,ci
 2023-08-06T07:33:39.500Z,38.7840004,-122.7356644,1.69,0.74,md,10,82,0.001126,0.01,nc,nc73920941,2023-08-06T08:07:14.367Z,"2 km ENE of The Geysers, CA",earthquake,0.29,0.72,0.17,10,automatic,nc,nc
 2023-08-06T07:32:10.356Z,47.2433,-113.1586,10,2.5,ml,6,93,0.335,0.44,us,us6000ky8e,2023-08-06T22:32:28.650Z,"24 km N of Ovando, Montana",earthquake,1.72,2.014,0.049,54,reviewed,us,us
-2023-08-06T07:26:17.180Z,60.298,-141.2064,0,1.6,ml,,,,0.53,ak,ak023a0nhaty,2023-08-06T07:28:25.654Z,"117 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
