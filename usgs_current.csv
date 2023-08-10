@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-10T01:34:19.656Z,19.2385,-63.4358,10,4,mb,27,171,1.231,0.66,us,us6000kyzi,2023-08-10T02:24:46.163Z,"Anguilla region, Leeward Islands",earthquake,5.78,1.981,0.259,4,reviewed,us,us
 2023-08-10T01:29:27.277Z,4.2738,126.0738,137.466,4.5,mb,40,93,2.821,0.49,us,us6000kyzh,2023-08-10T01:49:09.040Z,"142 km SSE of Sarangani, Philippines",earthquake,9.35,7.659,0.098,30,reviewed,us,us
 2023-08-10T01:27:28.101Z,65.0538,-148.972,5.9,1.1,ml,,,,0.57,ak,ak023a762bqi,2023-08-10T01:29:17.023Z,"20 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-10T01:23:12.510Z,39.1860008,-120.4633331,-1.22,1.91,md,7,165,0.1619,0.07,nc,nc73922371,2023-08-10T02:18:14.802Z,"26 km W of Sunnyside-Tahoe City, CA",earthquake,0.51,8.03,0.36,5,automatic,nc,nc
+2023-08-10T01:23:12.510Z,39.1860008,-120.4633331,-1.22,1.91,md,7,165,0.1619,0.07,nc,nc73922371,2023-08-10T02:43:10.948Z,"26 km W of Sunnyside-Tahoe City, CA",earthquake,0.51,8.03,0.36,5,automatic,nc,nc
 2023-08-10T01:14:08.198Z,58.5409,-154.2191,248.3,1.3,ml,,,,0.78,ak,ak023a75zhw4,2023-08-10T01:16:42.886Z,"93 km NW of Aleneva, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-08-10T01:06:30.719Z,58.2858,-155.2435,21.8,0.5,ml,,,,0.91,ak,ak023a75xtwf,2023-08-10T01:09:24.821Z,"92 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-10T01:06:22.490Z,37.5275002,-118.8258362,9.1,1.51,md,20,176,0.06247,0.03,nc,nc73922366,2023-08-10T02:15:10.788Z,"13 km WSW of Toms Place, CA",earthquake,0.78,0.74,0.1,17,automatic,nc,nc
@@ -270,5 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T02:54:02.640Z,38.8451653,-122.8168335,0.88,1.83,md,30,44,0.01076,0.03,nc,nc73921996,2023-08-09T05:18:14.426Z,"8 km WNW of Cobb, CA",earthquake,0.17,0.29,0.19,31,automatic,nc,nc
 2023-08-09T02:52:35.560Z,58.1783333333333,-155.364833333333,2.3,-0.05,ml,8,122,,0.06,av,av91995616,2023-08-09T21:09:16.310Z,"Alaska Peninsula",earthquake,0.19,0.38,0.17331521143181,8,reviewed,av,av
 2023-08-09T02:51:58.900Z,43.877833333333335,-122.88383333333333,9.37,0.81,ml,9,157,0.1237,0.17,uw,uw61948541,2023-08-09T06:27:34.370Z,"9 km WSW of Lowell, Oregon",earthquake,0.56,1.56,0.2689024140709586,4,reviewed,uw,uw
-2023-08-09T02:46:55.920Z,58.2331666666667,-155.065,23.81,-0.17,ml,13,113,,0.17,av,av91995606,2023-08-09T21:01:34.160Z,"Alaska Peninsula",earthquake,0.52,0.78,0.199820707121645,11,reviewed,av,av
-2023-08-09T02:40:01.312Z,31.65940073,-104.2766228,6.799975586,2,ml,42,66,0.01578675181,0.2,tx,tx2023pmdz,2023-08-09T18:29:55.028Z,"58 km S of Whites City, New Mexico",earthquake,0.7553985829999998,1.045705588,0.1,7,reviewed,tx,tx
