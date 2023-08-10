@@ -259,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T04:55:10.070Z,47.7636666666667,-113.7085,4.97,0.53,ml,9,135,0.2273,0.21,mb,mb90024063,2023-08-09T16:42:19.330Z,"21 km SSE of Swan Lake, Montana",earthquake,0.62,11.82,0.084288772202052,4,reviewed,mb,mb
 2023-08-09T04:40:42.315Z,65.4174,-144.8,0,1.2,ml,,,,1.09,ak,ak023a5ke3gn,2023-08-09T04:42:50.795Z,"17 km S of Central, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-09T04:39:32.074Z,-33.2727,-71.3932,52.49,3.9,ml,22,157,0.214,0.33,us,us6000kysv,2023-08-09T14:57:18.211Z,"25 km S of Quilpué, Chile",earthquake,3.09,6.6,0.058,39,reviewed,us,us
-2023-08-09T04:30:05.580Z,17.9286666666667,-66.8333333333333,15.32,3.01,md,14,220,0.06356,0.11,pr,pr71420958,2023-08-09T04:57:47.880Z,"7 km SSW of Indios, Puerto Rico",earthquake,0.61,0.48,0.173112784700756,12,reviewed,pr,pr
