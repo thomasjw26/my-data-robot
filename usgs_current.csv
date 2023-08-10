@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-10T05:43:50.856Z,58.215,-155.2514,113.9,0.4,ml,,,,0.72,ak,ak023a78jnih,2023-08-10T05:45:59.701Z,"86 km NNW of Karluk, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2023-08-10T05:33:52.690Z,34.0595,-117.1846667,9.72,0.93,ml,27,102,0.06461,0.2,ci,ci40532992,2023-08-10T05:37:30.547Z,"0 km NNW of Redlands, CA",earthquake,0.33,0.69,0.157,24,automatic,ci,ci
-2023-08-10T05:30:47.880Z,58.6172,-150.7696,22.6,2.3,ml,,,,0.46,ak,ak023a78gqs1,2023-08-10T05:32:58.597Z,"102 km SE of Port Graham, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-08-10T05:30:47.880Z,58.6172,-150.7696,22.6,2.3,ml,,,,0.46,ak,ak023a78gqs1,2023-08-10T05:48:09.040Z,"102 km SE of Port Graham, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-10T05:28:42.870Z,35.9868333,-117.7488333,6.83,1.03,ml,9,164,0.0672,0.07,ci,ci40532976,2023-08-10T05:32:15.194Z,"15 km ENE of Little Lake, CA",earthquake,0.28,0.48,0.266,6,automatic,ci,ci
 2023-08-10T05:23:14.201Z,57.8926,-155.7276,250,1.1,ml,,,,0.97,ak,ak023a78f67w,2023-08-10T05:25:42.495Z,"Alaska Peninsula",earthquake,,4.1,,,automatic,ak,ak
 2023-08-10T05:22:06.980Z,33.8828333,-116.273,6.22,0.86,ml,18,80,0.09311,0.16,ci,ci40532968,2023-08-10T05:25:51.785Z,"13 km ENE of Thousand Palms, CA",earthquake,0.26,1.01,0.143,18,automatic,ci,ci
