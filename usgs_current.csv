@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T11:14:00.931Z,58.1889,-155.356,0,0.1,ml,,,,0.59,ak,ak023a8zh5vh,2023-08-11T11:15:27.877Z,"87 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-08-11T11:11:03.080Z,53.854,-166.802,5.47,-0.43,ml,5,126,,0.06,av,av91997236,2023-08-12T01:45:33.840Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.33,0.87,0.296006135081719,5,reviewed,av,av
 2023-08-11T11:09:55.880Z,38.0018333,-112.4801667,5.35,1.56,ml,18,112,0.237,0.17,uu,uu60547407,2023-08-11T14:24:18.900Z,"20 km N of Panguitch, Utah",earthquake,0.43,2.01,0.176,6,reviewed,uu,uu
-2023-08-11T10:47:31.620Z,33.5791667,-116.81,7.19,-0.09,ml,12,102,0.04096,0.09,ci,ci40534072,2023-08-11T14:59:25.952Z,"13 km WNW of Anza, CA",earthquake,0.28,0.46,0.138,6,reviewed,ci,ci
