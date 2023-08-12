@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-12T13:39:23.300Z,35.256,-119.3211667,20.13,2.31,ml,38,39,0.08329,0.24,ci,ci40535160,2023-08-12T13:43:14.935Z,"18 km NE of Taft, CA",earthquake,0.38,0.99,0.171,26,automatic,ci,ci
+2023-08-12T13:48:05.193Z,36.7479,-116.2819,7.2,-0.2,ml,10,100.18,0.039,0.1227,nn,nn00864368,2023-08-12T13:49:38.817Z,"46 km ESE of Beatty, Nevada",earthquake,,1.1,0.06,7,automatic,nn,nn
+2023-08-12T13:39:23.300Z,35.256,-119.3211667,20.13,2.31,ml,38,39,0.08329,0.24,ci,ci40535160,2023-08-12T13:50:02.910Z,"18 km NE of Taft, CA",earthquake,0.38,0.99,0.171,26,automatic,ci,ci
 2023-08-12T13:20:20.827Z,-0.7392,121.2196,49.223,5.1,mb,47,62,4.33,1.09,us,us6000kzjx,2023-08-12T13:47:22.040Z,"Sulawesi, Indonesia",earthquake,7.62,4.162,0.058,98,reviewed,us,us
 2023-08-12T13:00:43.470Z,33.5046667,-116.5723333,10.82,0.5,ml,20,75,0.02686,0.21,ci,ci40535136,2023-08-12T13:04:19.593Z,"11 km ESE of Anza, CA",earthquake,0.42,0.62,0.139,12,automatic,ci,ci
 2023-08-12T12:07:53.860Z,44.1778333333333,-115.107333333333,12.57,1.75,ml,8,124,0.7937,0.22,mb,mb90024348,2023-08-12T13:14:36.250Z,"14 km WSW of Stanley, Idaho",earthquake,0.79,2.18,0.220735126555334,12,reviewed,mb,mb
@@ -57,6 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T04:56:53.344Z,63.8543,-146.2852,14.7,1,ml,,,,0.82,ak,ak023aaj3l92,2023-08-12T04:59:11.884Z,"33 km SW of Delta Junction, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-12T04:29:17.007Z,36.7673,-116.2515,9.6,-0.1,ml,12,96.69,0.046,0.053,nn,nn00864363,2023-08-12T04:31:05.089Z,"47 km ESE of Beatty, Nevada",earthquake,,1,0.14,7,automatic,nn,nn
 2023-08-12T04:24:26.035Z,29.3595,130.4678,41.552,4.6,mb,43,120,2.143,0.67,us,us6000kzi6,2023-08-12T04:45:21.040Z,"97 km S of Yudomari, Japan",earthquake,7.42,7.69,0.08,47,reviewed,us,us
+2023-08-12T04:23:22.192Z,37.2628,-117.6237,11.5,0.5,ml,7,156.88,0.035,0.1977,nn,nn00864370,2023-08-12T13:53:37.148Z,"54 km S of Silver Peak, Nevada",earthquake,,1.6,0.81,7,reviewed,nn,nn
 2023-08-12T04:18:31.600Z,33.3615,-116.303,10.65,2.27,ml,76,20,0.1334,0.19,ci,ci40534992,2023-08-12T05:20:10.690Z,"14 km NNE of Borrego Springs, CA",earthquake,0.16,0.5,0.112,25,automatic,ci,ci
 2023-08-12T04:17:18.010Z,33.3651667,-116.305,10.96,1.65,ml,62,25,0.1348,0.22,ci,ci40534984,2023-08-12T04:28:09.250Z,"14 km NNE of Borrego Springs, CA",earthquake,0.22,0.52,0.164,25,automatic,ci,ci
 2023-08-12T04:15:05.088Z,61.2883,-152.6144,0,1.9,ml,,,,0.9,ak,ak023aaiuozo,2023-08-12T04:17:04.134Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -138,6 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T19:14:10.580Z,38.7943344,-122.7819977,3.89,0.29,md,13,99,0.004768,0.02,nc,nc73923136,2023-08-11T19:15:43.502Z,"3 km NW of The Geysers, CA",earthquake,0.45,0.97,0.11,13,automatic,nc,nc
 2023-08-11T19:13:04.990Z,38.8033333,-122.8115005,3.87,0.45,md,10,86,0.01348,0.02,nc,nc73923131,2023-08-11T19:14:38.443Z,"6 km WNW of The Geysers, CA",earthquake,0.7,1.55,0.21,12,automatic,nc,nc
 2023-08-11T19:09:32.723Z,63.2728,-150.5025,125.3,1.6,ml,,,,0.49,ak,ak023a947ml4,2023-08-11T19:12:00.488Z,"67 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-08-11T19:02:11.800Z,46.0011666666667,-112.476833333333,-2,1.95,ml,12,111,0.05519,0.06,mb,mb90024323,2023-08-12T13:48:59.910Z,"4 km E of Butte, Montana",quarry blast,0.35,31.61,0.159836285286823,19,reviewed,mb,mb
 2023-08-11T18:59:18.570Z,38.8354988,-122.7996674,1.94,0.44,md,11,63,0.00784,0.01,nc,nc73923121,2023-08-11T19:00:53.578Z,"7 km WNW of Cobb, CA",earthquake,0.34,1.27,0.32,12,automatic,nc,nc
 2023-08-11T18:57:33.470Z,34.9891667,-118.1901667,-0.91,1.56,ml,19,52,0.1145,0.23,ci,ci40534496,2023-08-11T19:06:04.670Z,"7 km SSW of Mojave, CA",quarry blast,0.48,31.61,0.173,18,reviewed,ci,ci
 2023-08-11T18:48:25.600Z,38.7879982,-122.7689972,2.03,0.75,md,9,100,0.01455,0.01,nc,nc73923111,2023-08-11T18:50:03.666Z,"2 km NW of The Geysers, CA",earthquake,0.32,0.74,0.08,10,automatic,nc,nc
