@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-13T04:52:57.070Z,34.1451667,-117.4175,3.72,0.98,ml,20,65,0.04803,0.16,ci,ci40535704,2023-08-13T04:56:33.808Z,"6 km NW of Rialto, CA",earthquake,0.33,0.94,0.231,23,automatic,ci,ci
 2023-08-13T04:43:16.550Z,19.24049949646,-155.364669799805,29.7999992370605,1.9,ml,37,168,,0.109999999,hv,hv73522577,2023-08-13T04:48:46.770Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.56,0.819999993,0.26,5,automatic,hv,hv
 2023-08-13T04:15:03.690Z,38.8131676,-122.8061676,2.13,1.28,md,24,42,0.00995,0.03,nc,nc73923556,2023-08-13T04:49:10.405Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.37,0.13,26,automatic,nc,nc
 2023-08-13T04:09:26.282Z,-6.4099,148.7166,23.796,5.7,mww,54,81,3.351,1.25,us,us6000kzmy,2023-08-13T04:41:19.558Z,"94 km WSW of Kandrian, Papua New Guinea",earthquake,9.64,4.958,0.062,25,reviewed,us,us
@@ -57,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T20:31:45.360Z,33.4716667,-116.5766667,11.59,0.81,ml,25,99,0.03135,0.13,ci,ci40535528,2023-08-12T20:35:22.919Z,"13 km SE of Anza, CA",earthquake,0.28,0.39,0.123,18,automatic,ci,ci
 2023-08-12T20:27:19.210Z,18.2508333333333,-67.8315,89.61,3.37,md,9,318,0.3601,0.41,pr,pr71421398,2023-08-12T20:50:14.850Z,"62 km W of Rincón, Puerto Rico",earthquake,2.99,2.15,0.0455557377032672,7,reviewed,pr,pr
 2023-08-12T20:17:42.552Z,62.0024,-148.7939,49.1,1.6,ml,,,,1.55,ak,ak023aase567,2023-08-12T20:20:11.361Z,"25 km N of Sutton-Alpine, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-08-12T19:38:40.130Z,47.460166666666666,-121.8465,22.3,1.31,ml,20,133,0.03831,0.17,uw,uw61940872,2023-08-12T20:25:16.120Z,"5 km SW of North Bend, Washington",earthquake,0.92,0.51,0.19943113387239086,15,reviewed,uw,uw
+2023-08-12T19:38:40.130Z,47.460166666666666,-121.8465,22.3,1.31,ml,20,133,0.03831,0.17,uw,uw61940872,2023-08-12T20:25:16.120Z,"Washington",earthquake,0.92,0.51,0.19943113387239086,15,reviewed,uw,uw
 2023-08-12T18:49:49.261Z,53.4903,-163.7337,38.301,4.3,mb,28,171,1.162,0.64,us,us6000kzlb,2023-08-12T19:56:38.925Z,"152 km ESE of Akutan, Alaska",earthquake,6.79,9.522,0.133,16,reviewed,us,us
 2023-08-12T18:44:17.440Z,33.6541667,-116.7253333,15.99,0.54,ml,21,80,0.06082,0.18,ci,ci40535448,2023-08-12T18:47:58.425Z,"10 km S of Idyllwild, CA",earthquake,0.48,0.63,0.135,11,automatic,ci,ci
 2023-08-12T18:41:49.200Z,19.4179992675781,-155.280670166016,0.189999997615814,1.86000001,md,13,76,,0.129999995,hv,hv73521557,2023-08-12T18:44:53.200Z,"5 km WSW of Volcano, Hawaii",earthquake,0.3,0.239999995,0.920000017,8,automatic,hv,hv
@@ -164,4 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T05:06:11.096Z,39.1219,-120.0346,8.1,0.2,ml,6,95.88,0.111,0.129,nn,nn00864371,2023-08-12T13:56:44.710Z,"Northern California",earthquake,,3.6,0.17,3,reviewed,nn,nn
 2023-08-12T05:02:36.689Z,63.2106,-149.148,76.2,3.3,ml,,,,0.53,ak,ak023aajdevl,2023-08-12T05:11:06.040Z,"22 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-12T05:00:51.725Z,61.7671,-150.8096,53.6,1.1,ml,,,,0.64,ak,ak023aajd0ms,2023-08-12T05:02:58.827Z,"29 km NNW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-08-12T04:56:53.344Z,63.8543,-146.2852,14.7,1,ml,,,,0.82,ak,ak023aaj3l92,2023-08-12T04:59:11.884Z,"33 km SW of Delta Junction, Alaska",earthquake,,0.3,,,automatic,ak,ak
