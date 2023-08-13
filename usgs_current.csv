@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-13T15:22:50.790Z,33.8768333,-116.2715,3.12,1.14,ml,32,59,0.09003,0.21,ci,ci40535912,2023-08-13T15:26:27.026Z,"13 km ENE of Thousand Palms, CA",earthquake,0.27,1.13,0.165,26,automatic,ci,ci
 2023-08-13T15:19:12.470Z,38.8276672,-122.8013306,2.31,0.54,md,8,129,0.008052,0.04,nc,nc73923656,2023-08-13T15:20:46.560Z,"7 km W of Cobb, CA",earthquake,0.65,1.22,0.27,9,automatic,nc,nc
 2023-08-13T15:13:02.000Z,35.8648333,-117.7208333,9.85,0.75,ml,8,169,0.06659,0.11,ci,ci40535904,2023-08-13T15:16:43.951Z,"18 km ESE of Little Lake, CA",earthquake,0.51,0.91,0.097,4,automatic,ci,ci
 2023-08-13T15:10:09.591Z,58.1842,-155.2754,0,0.8,ml,,,,0.26,ak,ak023accwr33,2023-08-13T15:11:51.840Z,"84 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
