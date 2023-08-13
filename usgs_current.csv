@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-13T22:30:12.200Z,38.824501,-122.8123322,1.48,0.92,md,19,43,0.002081,0.01,nc,nc73923816,2023-08-13T22:31:49.597Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.47,0.21,19,automatic,nc,nc
+2023-08-13T22:28:58.832Z,61.8355,-150.7069,45.1,1.6,ml,,,,0.3,ak,ak023ach6r0b,2023-08-13T22:30:30.524Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-08-13T22:24:49.500Z,19.4039993286133,-155.275665283203,1.29999995231628,1.82,ml,16,45,,0.280000001,hv,hv73523857,2023-08-13T22:30:19.930Z,"6 km SW of Volcano, Hawaii",earthquake,0.37,0.400000006,0.19,5,automatic,hv,hv
 2023-08-13T22:14:47.210Z,38.8250008,-122.8075027,3.26,0.45,md,6,174,0.00257,0.01,nc,nc73923811,2023-08-13T22:16:23.512Z,"7 km NW of The Geysers, CA",earthquake,0.97,2.6,0.16,7,automatic,nc,nc
 2023-08-13T22:12:21.833Z,35.50917053,-96.80200958,2.585897207,2.1,ml,38,69.90261555,0.1440995634,0.5461551175,ok,ok2023puyq,2023-08-13T22:16:57.526Z,"9 km E of Meeker, Oklahoma",earthquake,1.904237452,1.622155383,0.19,25,automatic,ok,ok
 2023-08-13T22:08:48.600Z,36.550499,-121.126503,5.05,1.93,md,16,133,0.05193,0.11,nc,nc73923806,2023-08-13T22:10:23.375Z,"3 km NE of Pinnacles, CA",earthquake,0.49,1.6,0.11,15,automatic,nc,nc
@@ -213,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T23:43:24.298Z,-30.0388,-176.3347,10,4.9,mb,33,77,1.583,0.88,us,us6000kzm7,2023-08-13T00:05:42.040Z,"Kermadec Islands region",earthquake,7.71,1.769,0.101,31,reviewed,us,us
 2023-08-12T22:52:30.396Z,37.0983,-116.218,3.6,0.9,ml,10,134.93,0.144,0.1028,nn,nn00864385,2023-08-12T22:54:31.935Z,"Nevada",earthquake,,0,0.62,7,automatic,nn,nn
 2023-08-12T22:41:26.635Z,-1.4861,145.3651,31.277,4.8,mb,32,121,4.77,0.52,us,us6000kzm4,2023-08-12T23:04:05.040Z,"220 km WNW of Lorengau, Papua New Guinea",earthquake,5.97,5.949,0.105,28,reviewed,us,us
-2023-08-12T22:33:38.848Z,37.1026,-116.2156,0,0.3,ml,10,181.74,0.156,0.3685,nn,nn00864384,2023-08-12T22:35:31.345Z,"52 km ENE of Beatty, Nevada",earthquake,,7.1,0.68,8,automatic,nn,nn
