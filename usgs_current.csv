@@ -99,6 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T21:49:05.260Z,34.4761667,-117.965,8.12,1.19,ml,24,38,0.02829,0.21,ci,ci40536104,2023-08-13T21:52:35.536Z,"5 km SSE of Littlerock, CA",earthquake,0.34,0.64,0.237,30,automatic,ci,ci
 2023-08-13T21:47:26.466Z,58.1793,-155.4026,0,1.1,ml,,,,0.35,ak,ak023acgpbie,2023-08-14T04:52:36.030Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-08-13T21:35:17.410Z,51.8208333333333,-178.797833333333,8.63,0.6,ml,5,213,,0.11,av,av92000301,2023-08-14T04:47:59.540Z,"149 km W of Adak, Alaska",earthquake,1.6,0.86,0.19072675895809,5,reviewed,av,av
+2023-08-13T21:27:51.420Z,53.8581666666667,-166.804,4.54,-0.68,ml,5,130,,0.07,av,av92000286,2023-08-14T09:23:02.850Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.4,1.64,0.187844908659373,5,reviewed,av,av
 2023-08-13T21:09:02.660Z,39.3393326,-123.2440033,5.9,2.37,md,23,78,0.09623,0.07,nc,nc73923776,2023-08-13T22:21:16.633Z,"9 km NNW of Redwood Valley, CA",earthquake,0.2,0.86,0.07,19,automatic,nc,nc
 2023-08-13T21:08:46.599Z,-30.1558,-71.4392,52.437,4.1,mb,27,185,0.294,0.6,us,us6000kzre,2023-08-13T21:20:35.040Z,"24 km SSW of Coquimbo, Chile",earthquake,7.52,15.662,0.37,2,reviewed,us,us
 2023-08-13T21:03:07.790Z,53.8595,-166.792,-3.17,-0.76,ml,4,144,,0.15,av,av92000266,2023-08-14T09:15:23.360Z,"16 km WSW of Dutch Harbor, Alaska",earthquake,0.57,3.49,0.225823585882229,5,reviewed,av,av
@@ -211,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T09:32:49.090Z,19.4141674041748,-155.589828491211,40.1500015258789,2.04,ml,36,58,,0.289999992,hv,hv73522872,2023-08-13T09:46:24.040Z,"26 km NNW of Pāhala, Hawaii",earthquake,0.78,1.13999999,3.13,15,automatic,hv,hv
 2023-08-13T09:29:32.960Z,38.8354988,-122.8003311,1.95,0.32,md,10,70,0.008324,0.02,nc,nc73923611,2023-08-13T11:03:12.653Z,"7 km WNW of Cobb, CA",earthquake,0.36,0.99,0.27,10,automatic,nc,nc
 2023-08-13T09:28:59.640Z,38.8325005,-122.8256683,9.88,0.84,md,10,169,0.009786,0.08,nc,nc73923606,2023-08-13T10:35:14.480Z,"9 km NW of The Geysers, CA",earthquake,1.74,7.59,0.11,12,automatic,nc,nc
-2023-08-13T09:27:58.683Z,39.6611,-118.2892,10.1,0.6,ml,3,241.7,0.212,0.1991,nn,nn00864405,2023-08-14T02:03:59.425Z,"45 km NE of Fallon Station, Nevada",earthquake,,15.6,0.13,2,reviewed,nn,nn
-2023-08-13T09:24:05.070Z,59.973,-152.887,94.6,1.9,ml,,,,0.39,ak,ak023ac9f54r,2023-08-13T09:25:58.598Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
