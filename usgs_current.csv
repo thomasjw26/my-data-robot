@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-16T07:51:01.650Z,59.76,-152.9017,99.2,1.4,ml,,,,0.29,ak,ak023ah703h1,2023-08-16T07:52:51.798Z,"60 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-16T07:39:40.520Z,38.8011665,-122.8010025,1.56,0.49,md,8,89,0.008121,0.01,nc,nc73924666,2023-08-16T07:41:14.715Z,"5 km NW of The Geysers, CA",earthquake,0.37,0.83,0.22,10,automatic,nc,nc
 2023-08-16T07:37:05.641Z,61.2931,-152.4339,0.8,1.3,ml,,,,0.82,ak,ak023ah6x3r8,2023-08-16T07:39:01.950Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-16T07:34:28.000Z,38.8400002,-122.8089981,1.85,0.67,md,7,87,0.01465,0.01,nc,nc73924661,2023-08-16T07:36:03.706Z,"8 km WNW of Cobb, CA",earthquake,0.63,1.38,0.27,10,automatic,nc,nc
+2023-08-16T07:34:35.699Z,49.2796,156.0542,33.703,4.7,mb,53,165,3.971,1.03,us,us7000knm1,2023-08-16T07:55:59.040Z,"155 km S of Severo-Kuril’sk, Russia",earthquake,10.97,6.746,0.065,71,reviewed,us,us
+2023-08-16T07:34:28.000Z,38.8400002,-122.8089981,1.85,0.67,md,7,87,0.01465,0.01,nc,nc73924661,2023-08-16T07:54:13.050Z,"8 km WNW of Cobb, CA",earthquake,0.63,1.38,0.27,10,automatic,nc,nc
 2023-08-16T07:25:31.370Z,35.5058333,-118.3936667,7.51,1.05,ml,15,102,0.1698,0.15,ci,ci40537888,2023-08-16T07:29:01.691Z,"13 km SE of Bodfish, CA",earthquake,0.33,2.31,0.114,11,automatic,ci,ci
 2023-08-16T07:22:34.920Z,19.22483253479,-155.373504638672,29.9799995422363,1.76,ml,10,221,,0.0799999982,hv,hv73529022,2023-08-16T07:28:05.920Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.88,1.11000001,1.03,3,automatic,hv,hv
 2023-08-16T07:20:42.720Z,38.8431664,-122.8306656,1.93,0.7,md,10,89,0.005922,0.03,nc,nc73924656,2023-08-16T07:40:11.966Z,"10 km WNW of Cobb, CA",earthquake,0.33,0.55,0.41,13,automatic,nc,nc
