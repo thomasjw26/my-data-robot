@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-16T20:41:43.130Z,38.8378334,-122.8078308,2.08,1.33,md,23,65,0.01367,0.02,nc,nc73924856,2023-08-16T20:43:17.513Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.39,0.19,25,automatic,nc,nc
 2023-08-16T19:54:23.250Z,34.1471667,-117.4218333,4.08,1.14,ml,25,82,0.04556,0.2,ci,ci40538376,2023-08-16T19:57:58.875Z,"6 km NNE of Fontana, CA",earthquake,0.38,0.89,0.198,25,automatic,ci,ci
 2023-08-16T19:26:44.290Z,19.3958339691162,-155.279495239258,2.21000003814697,1.88999999,md,28,91,,0.379999995,hv,hv73530212,2023-08-16T19:29:51.840Z,"7 km SW of Volcano, Hawaii",earthquake,0.47,0.389999986,0.99000001,16,automatic,hv,hv
 2023-08-16T19:20:52.239Z,62.1715,-150.1019,14.3,1.2,ml,,,,0.57,ak,ak023ahdyqdx,2023-08-16T19:49:49.131Z,"Central Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-08-16T19:16:38.772Z,60.1239,-153.2614,124.1,1.9,ml,,,,0.3,ak,ak023ahdxw0h,2023-08-16T19:44:53.778Z,"59 km E of Port Alsworth, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-08-16T19:04:40.040Z,19.3931666666667,-155.276333333333,6.61,1.72,md,16,51,,0.16,hv,hv73530177,2023-08-16T19:46:26.150Z,"Island of Hawaii, Hawaii",earthquake,0.51,0.62,0.153262426604574,2,reviewed,hv,hv
 2023-08-16T19:00:23.930Z,35.2866667,-119.5366667,7.53,1.56,ml,11,174,0.1496,0.21,ci,ci40538312,2023-08-16T19:04:02.586Z,"14 km SSW of Buttonwillow, CA",earthquake,1.46,6.81,0.249,14,automatic,ci,ci
-2023-08-16T18:45:36.980Z,38.7716675,-122.7474976,-0.82,1.47,md,18,79,0.0143,0.34,nc,nc73924831,2023-08-16T19:27:10.234Z,"1 km SE of The Geysers, CA",earthquake,0.77,1.67,0.14,17,automatic,nc,nc
+2023-08-16T18:45:36.980Z,38.7716675,-122.7474976,-0.82,1.47,md,18,79,0.0143,0.34,nc,nc73924831,2023-08-16T20:38:13.674Z,"1 km SE of The Geysers, CA",earthquake,0.77,1.67,0.14,17,automatic,nc,nc
 2023-08-16T18:43:47.431Z,49.0429,156.2412,37.876,5,mb,132,56,4.173,0.75,us,us7000knu9,2023-08-16T19:06:56.040Z,"181 km S of Severo-Kuril’sk, Russia",earthquake,8.21,3.71,0.043,178,reviewed,us,us
 2023-08-16T18:40:54.033Z,61.9709,-149.8311,33.3,1.5,ml,,,,0.58,ak,ak023ahdhmaj,2023-08-16T18:42:45.729Z,"21 km S of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-16T18:39:37.800Z,33.762,-116.1323333,4.88,0.76,ml,13,178,0.08198,0.14,ci,ci40538288,2023-08-16T18:43:12.469Z,"9 km ENE of Indio, CA",earthquake,0.43,0.88,0.092,12,automatic,ci,ci
