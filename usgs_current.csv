@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-18T16:53:18.650Z,32.3499985,-115.1258316,10.41,3.09,ml,22,116,0.06313,0.29,ci,ci39643994,2023-08-18T16:55:49.001Z,"6 km E of Delta, B.C., MX",earthquake,0.68,0.93,0.205,25,automatic,ci,ci
 2023-08-18T16:35:05.670Z,33.9561667,-116.7838333,2.24,0.85,ml,19,70,0.08126,0.22,ci,ci39643970,2023-08-18T16:38:34.832Z,"4 km N of Cabazon, CA",earthquake,0.41,0.99,0.257,20,automatic,ci,ci
 2023-08-18T16:29:12.461Z,62.4477,-149.3937,13.8,1.2,ml,,,,0.33,ak,ak023aknazzi,2023-08-18T16:31:01.409Z,"36 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-18T16:25:38.060Z,36.46983333,-96.78533333,0,1.32,ml,31,137,0.03779258381,0.64,ok,ok2023qdqs,2023-08-18T16:37:45.649Z,"Oklahoma",quarry blast,,0.8,0.27,13,reviewed,ok,ok
@@ -9,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T16:09:11.598Z,61.3596,-150.9277,61,1.7,ml,,,,0.45,ak,ak023akn6plj,2023-08-18T16:11:17.998Z,"25 km NNE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-18T15:56:04.570Z,33.5026667,-116.898,17.47,0.49,ml,19,90,0.07488,0.34,ci,ci39643922,2023-08-18T15:59:41.601Z,"7 km NNW of Aguanga, CA",earthquake,0.95,1.67,0.131,9,automatic,ci,ci
 2023-08-18T15:35:14.483Z,52.5978,-170.9124,10,3.7,ml,20,185,0.611,0.82,us,us7000kp9v,2023-08-18T16:48:04.040Z,"143 km WSW of Nikolski, Alaska",earthquake,6.3,1.975,0.097,20,reviewed,us,us
+2023-08-18T15:30:27.810Z,44.8771666666667,-111.448166666667,5.38,0.83,ml,7,147,0.04826,0.16,mb,mb90024673,2023-08-18T16:53:47.790Z,"Idaho-Montana border region",earthquake,1.56,2.31,0.171832664992697,5,reviewed,mb,mb
 2023-08-18T15:23:46.191Z,58.8829,-154.4249,121.1,1.8,ml,,,,0.55,ak,ak023akmocqb,2023-08-18T15:26:39.954Z,"65 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-18T15:18:01.628Z,62.644,-149.469,59.2,1.4,ml,,,,0.88,ak,ak023akmn6o2,2023-08-18T15:20:02.677Z,"39 km ENE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-18T15:06:52.770Z,33.5103333,-116.76,8.2,0.84,ml,36,41,0.04104,0.2,ci,ci39643874,2023-08-18T15:10:20.304Z,"9 km WSW of Anza, CA",earthquake,0.25,0.55,0.115,22,automatic,ci,ci
@@ -69,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T07:22:10.830Z,38.8071671,-122.8180008,2.77,1.04,md,22,58,0.008896,0.02,nc,nc73925551,2023-08-18T07:46:11.764Z,"6 km WNW of The Geysers, CA",earthquake,0.23,0.52,0.28,22,automatic,nc,nc
 2023-08-18T06:41:43.780Z,38.8170013,-122.7965012,3.03,0.81,md,7,115,0.009069,0.01,nc,nc73925536,2023-08-18T07:05:13.548Z,"6 km NW of The Geysers, CA",earthquake,0.77,1.99,0.07,9,automatic,nc,nc
 2023-08-18T06:40:54.147Z,9.2651,93.9048,10,4.7,mb,33,136,6.603,0.51,us,us7000kp6j,2023-08-18T07:48:15.040Z,"294 km SSE of Port Blair, India",earthquake,10.97,1.927,0.112,24,reviewed,us,us
-2023-08-18T06:37:35.756Z,9.5343,93.7101,10,4.6,mb,49,70,5.348,0.6,us,us7000kp6n,2023-08-18T08:22:22.040Z,"Nicobar Islands, India region",earthquake,10.29,1.877,0.091,36,reviewed,us,us
+2023-08-18T06:37:35.756Z,9.5343,93.7101,10,4.6,mb,49,70,5.348,0.6,us,us7000kp6n,2023-08-18T08:22:22.040Z,"258 km SSE of Port Blair, India",earthquake,10.29,1.877,0.091,36,reviewed,us,us
 2023-08-18T06:35:02.580Z,34.0633333,-117.1365,10.81,1.26,ml,47,42,0.03424,0.18,ci,ci39643594,2023-08-18T06:45:34.420Z,"1 km SSW of Mentone, CA",earthquake,0.21,0.34,0.243,28,automatic,ci,ci
 2023-08-18T06:26:44.970Z,32.4173333,-115.1538333,1.67,2.29,ml,16,73,0.04877,0.3,ci,ci39643586,2023-08-18T06:30:19.214Z,"8 km NNE of Delta, B.C., MX",earthquake,0.65,1.18,0.048,8,automatic,ci,ci
 2023-08-18T06:25:17.490Z,32.404,-115.1261667,7.36,2.43,ml,16,72,0.04631,0.27,ci,ci39643578,2023-08-18T06:28:45.550Z,"8 km NE of Delta, B.C., MX",earthquake,0.71,1.11,0.157,27,automatic,ci,ci
@@ -114,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T02:44:04.480Z,38.8223343,-122.7723312,0.49,0.56,md,8,131,0.008342,0.02,nc,nc73925441,2023-08-18T04:27:17.639Z,"4 km W of Cobb, CA",earthquake,0.61,1.18,0.17,6,automatic,nc,nc
 2023-08-18T02:37:55.330Z,33.9388333,-116.8026667,18.05,0.92,ml,28,57,0.09617,0.2,ci,ci39643370,2023-08-18T02:41:33.430Z,"3 km NNW of Cabazon, CA",earthquake,0.35,0.63,0.136,21,automatic,ci,ci
 2023-08-18T02:24:59.810Z,38.8278333,-122.8068333,2.2,0.8,md,15,65,0.005104,0.03,nc,nc73925436,2023-08-18T16:34:49.603Z,"7 km NW of The Geysers, CA",earthquake,0.38,0.52,,1,reviewed,nc,nc
-2023-08-18T02:23:05.840Z,38.8313333,-122.8173333,1.94,0.35,md,26,48,0.009746,0.04,nc,nc73925431,2023-08-18T16:26:18.364Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.42,0.217,25,reviewed,nc,nc
+2023-08-18T02:23:05.840Z,38.8313333,-122.8173333,1.94,0.35,md,26,48,0.009746,0.04,nc,nc73925431,2023-08-18T16:50:14.824Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.42,0.217,25,reviewed,nc,nc
 2023-08-18T02:21:56.650Z,39.1433333,-123.4928333,3.23,1.24,md,14,68,0.0219,0.09,nc,nc73925426,2023-08-18T07:13:11.587Z,"18 km NW of Boonville, CA",earthquake,0.21,0.44,0.157,12,reviewed,nc,nc
 2023-08-18T02:20:23.450Z,38.8306656,-122.8170013,2.03,1.34,md,25,63,0.009055,0.02,nc,nc73925421,2023-08-18T03:34:13.353Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.35,0.15,28,automatic,nc,nc
 2023-08-18T02:08:57.282Z,62.0073,-149.5021,20,1.1,ml,,,,0.39,ak,ak023akeuixs,2023-08-18T02:10:23.597Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -196,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T17:07:25.560Z,40.0985,-123.7536667,21.67,1.62,md,24,83,0.02894,0.11,nc,nc73925176,2023-08-17T23:25:20.950Z,"6 km ESE of Redway, CA",earthquake,0.28,0.32,0.215,17,reviewed,nc,nc
 2023-08-17T17:05:44.870Z,38.8043333,-122.7821667,2.89,0.47,md,22,81,0.008988,0.02,nc,nc73925171,2023-08-17T20:57:16.124Z,"4 km NW of The Geysers, CA",earthquake,0.24,0.38,0.121,19,reviewed,nc,nc
 2023-08-17T17:04:49.641Z,4.4177,-73.5111,10,6.3,mww,131,39,0.912,1.35,us,us7000kp2i,2023-08-18T16:26:23.627Z,"16 km N of Cumaral, Colombia",earthquake,7.68,1.839,0.049,40,reviewed,us,us
-2023-08-17T16:51:26.509Z,37.2041,-104.7543,2.869,3.2,ml,30,58,0.085,0.74,us,us7000kp2h,2023-08-17T19:01:04.555Z,"Colorado",earthquake,3.24,6.064,0.069,36,reviewed,us,us
