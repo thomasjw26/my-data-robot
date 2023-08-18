@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-18T09:35:07.049Z,62.2078,-148.6606,31.1,1.2,ml,,,,0.45,ak,ak023akj68mo,2023-08-18T09:37:03.416Z,"46 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-18T09:31:30.459Z,62.5461,-149.3143,43.3,2.6,ml,,,,0.76,ak,ak023akj5fk8,2023-08-18T09:33:35.130Z,"41 km ENE of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-18T09:29:59.380Z,38.7929993,-122.803833,3.11,0.79,md,15,64,0.004704,0.02,nc,nc73925611,2023-08-18T09:31:33.875Z,"4 km WNW of The Geysers, CA",earthquake,0.35,0.71,0.12,17,automatic,nc,nc
-2023-08-18T09:03:38.390Z,36.934166,-121.3499985,6.99,1.63,md,16,93,,0.05,nc,nc73925591,2023-08-18T09:20:11.263Z,"11 km NNE of Hollister, CA",earthquake,0.34,1.06,0.17,15,automatic,nc,nc
+2023-08-18T09:03:38.390Z,36.934166,-121.3499985,6.99,1.63,md,16,93,,0.05,nc,nc73925591,2023-08-18T09:37:10.360Z,"11 km NNE of Hollister, CA",earthquake,0.34,1.06,0.17,15,automatic,nc,nc
 2023-08-18T08:38:35.630Z,33.2901667,-116.3001667,9.82,0.94,ml,23,66,0.1004,0.21,ci,ci39643730,2023-08-18T08:42:14.217Z,"8 km ENE of Borrego Springs, CA",earthquake,0.37,0.93,0.171,18,automatic,ci,ci
 2023-08-18T08:24:20.830Z,38.7946663,-122.7371674,1.84,0.25,md,7,100,0.01142,0.01,nc,nc73925586,2023-08-18T08:55:11.147Z,"3 km NE of The Geysers, CA",earthquake,0.31,1.1,0.03,6,automatic,nc,nc
 2023-08-18T08:17:57.637Z,52.2097,151.1431,594.37,4.5,mb,130,104,4.092,0.63,us,us7000kp6r,2023-08-18T08:31:21.040Z,"Sea of Okhotsk",earthquake,10.79,8.297,0.027,390,reviewed,us,us
@@ -105,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T20:27:26.200Z,34.8891667,-119.0406667,12.12,1.53,ml,28,81,0.08971,0.18,ci,ci39643202,2023-08-17T20:43:03.864Z,"11 km ENE of Pine Mountain Club, CA",earthquake,0.3,0.64,0.169,20,reviewed,ci,ci
 2023-08-17T20:25:15.319Z,39.2038,-116.1133,15.8,3,ml,7,153.81,0.909,0.1747,nn,nn00864609,2023-08-17T21:30:34.040Z,"36 km SSW of Eureka, Nevada",earthquake,,3.8,0.25,4,reviewed,nn,nn
 2023-08-17T20:24:43.859Z,58.2826,-155.1265,1.2,1,ml,,,,0.27,ak,ak023aj24dr5,2023-08-17T20:26:15.536Z,"88 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-17T20:21:48.226Z,63.2225,-150.4987,125.5,1.9,ml,,,,0.36,ak,ak023aj23qxy,2023-08-17T20:24:13.067Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-08-17T20:21:48.226Z,63.2225,-150.4987,125.5,1.9,ml,,,,0.36,ak,ak023aj23qxy,2023-08-17T20:24:13.067Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-17T19:59:12.938Z,58.2723,-155.1113,1.1,2,ml,,,,0.4,ak,ak023aj1qdtp,2023-08-17T20:00:24.445Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-08-17T19:58:59.980Z,34.8986667,-119.039,8.89,3.39,ml,80,26,0.08536,0.29,ci,ci39643162,2023-08-18T04:55:20.461Z,"11 km WSW of Grapevine, CA",earthquake,0.23,0.51,0.163,111,reviewed,ci,ci
 2023-08-17T19:58:17.021Z,38.15,-117.8963,6.1,1,ml,8,171.16,0.085,0.0864,nn,nn00864607,2023-08-17T20:00:53.657Z,"32 km SE of Mina, Nevada",earthquake,,0.6,0.9,6,automatic,nn,nn
