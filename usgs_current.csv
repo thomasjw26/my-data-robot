@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-18T15:23:46.191Z,58.8829,-154.4249,121.1,1.8,ml,,,,0.55,ak,ak023akmocqb,2023-08-18T15:26:39.954Z,"65 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-18T15:18:01.628Z,62.644,-149.469,59.2,1.4,ml,,,,0.88,ak,ak023akmn6o2,2023-08-18T15:20:02.677Z,"39 km ENE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-18T15:06:52.770Z,33.5103333,-116.76,8.2,0.84,ml,36,41,0.04104,0.2,ci,ci39643874,2023-08-18T15:10:20.304Z,"9 km WSW of Anza, CA",earthquake,0.25,0.55,0.115,22,automatic,ci,ci
 2023-08-18T15:06:36.530Z,38.7958336,-122.7693329,3.67,0.33,md,7,116,0.008911,0.01,nc,nc73925701,2023-08-18T15:23:18.290Z,"2 km NNW of The Geysers, CA",earthquake,0.85,2.93,0.11,9,automatic,nc,nc
@@ -29,6 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T10:46:10.430Z,32.3901672,-115.12117,10.69,3.67,mw,32,64,0.05868,0.37,ci,ci39643754,2023-08-18T14:09:15.369Z,"8 km ENE of Delta, B.C., MX",earthquake,0.48,1.05,,4,reviewed,ci,ci
 2023-08-18T10:42:30.510Z,19.4039993286133,-155.299835205078,2.0699999332428,1.83,ml,21,46,,0.150000006,hv,hv73532417,2023-08-18T10:48:01.580Z,"8 km WSW of Volcano, Hawaii",earthquake,0.28,0.330000013,0.16,7,automatic,hv,hv
 2023-08-18T10:27:55.040Z,-16.1071,-75.0833,18.068,5.4,mww,50,120,4.437,1.13,us,us7000kp73,2023-08-18T12:31:26.779Z,"82 km S of San Juan, Peru",earthquake,9.24,5.358,0.066,22,reviewed,us,us
+2023-08-18T10:08:47.860Z,45.866,-111.498333333333,2.72,1.59,ml,15,82,0.2668,0.19,mb,mb90024658,2023-08-18T15:25:46.630Z,"5 km SE of Three Forks, Montana",earthquake,0.5,5.68,0.21468761406504,4,reviewed,mb,mb
 2023-08-18T10:05:06.510Z,36.7775002,-121.3338318,4.57,1.11,md,8,89,,0.07,nc,nc73925616,2023-08-18T11:35:19.031Z,"2 km SW of Tres Pinos, CA",earthquake,0.51,0.76,0.26,7,automatic,nc,nc
 2023-08-18T10:02:18.620Z,33.0125,-116.2906667,9.8,1.5,ml,48,34,0.05872,0.2,ci,ci39643746,2023-08-18T10:13:29.000Z,"21 km SW of Ocotillo Wells, CA",earthquake,0.25,0.58,0.163,26,automatic,ci,ci
 2023-08-18T09:44:18.880Z,33.6385002,-116.6986694,14.1,1.05,ml,14,58,0.07621,0.13,ci,ci39643738,2023-08-18T09:47:50.516Z,"10 km NNW of Anza, CA",earthquake,0.48,0.86,0.482,6,automatic,ci,ci
@@ -160,6 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T18:33:44.150Z,40.745,-122.3053333,-0.58,1.54,md,16,86,0.1371,0.06,nc,nc73925196,2023-08-17T20:22:28.356Z,"9 km NE of Shasta Lake, CA",quarry blast,0.28,31.61,0.157,14,reviewed,nc,nc
 2023-08-17T18:33:13.530Z,40.7435,-122.3053333,-0.58,1.27,md,8,113,0.136,0.09,nc,nc71131234,2023-08-17T20:26:32.828Z,"9 km NE of Shasta Lake, CA",quarry blast,0.51,31.61,0.11,8,reviewed,nc,nc
 2023-08-17T18:15:51.837Z,61.3902,-146.7538,15,2.4,ml,,,,0.93,ak,ak023aj0vlpp,2023-08-17T18:17:34.650Z,"36 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-17T18:08:32.079Z,34.37933333,-96.79983333,0,1.47,ml,21,76,0.1925622127,0.36,ok,ok2023qbyp,2023-08-18T15:31:09.971Z,"3 km SE of Mill Creek, Oklahoma",quarry blast,,0.8,0.33,3,reviewed,ok,ok
 2023-08-17T18:04:16.512Z,62.3913,-150.3462,63.1,1.4,ml,,,,0.54,ak,ak023aj0t643,2023-08-17T18:06:54.312Z,"10 km NW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-17T18:00:02.940Z,33.0468333,-114.9786667,-0.23,1.57,ml,13,59,0.07441,0.33,ci,ci39642978,2023-08-17T20:42:55.224Z,"45 km NNW of Los Algodones, B.C., MX",quarry blast,0.81,31.61,0.191,15,reviewed,ci,ci
 2023-08-17T17:54:47.750Z,35.788,-98.559,7,1.49,ml,29,165,0.1808645082,0.3,ok,ok2023qbye,2023-08-18T14:16:53.682Z,"14 km WSW of Watonga, Oklahoma",earthquake,,1.1,0.39,3,reviewed,ok,ok
