@@ -162,4 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T20:28:03.110Z,44.410833333333336,-120.87383333333334,-1.46,1.92,ml,9,205,0.06611,0.19,uw,uw61942232,2023-08-19T03:13:42.900Z,"12 km NNW of Prineville, Oregon",explosion,1.21,31.61,0.15730843473010303,8,reviewed,uw,uw
 2023-08-18T20:26:03.600Z,35.676,-120.9936667,-0.39,1.22,md,25,73,0.1085,0.09,nc,nc73925751,2023-08-18T21:05:16.744Z,"12 km WSW of Lake Nacimiento, CA",quarry blast,0.18,31.61,0.345,9,reviewed,nc,nc
 2023-08-18T20:20:54.881Z,63.151,-144.441,0,1.2,ml,,,,0.51,ak,ak023akpmw8g,2023-08-18T20:22:53.097Z,"42 km NW of Mentasta Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-18T20:19:26.800Z,36.0701667,-121.602,6.27,1.49,md,25,179,0.115,0.15,nc,nc73925746,2023-08-19T00:30:13.420Z,"6 km NNW of Lopez Point, CA",earthquake,0.45,0.75,0.152,21,reviewed,nc,nc
