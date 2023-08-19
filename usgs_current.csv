@@ -246,6 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T05:14:04.656Z,28.9654541,-97.62477022,2.396565755,3,ml,22,89,0.0966882333,0.2,tx,tx2023qcuo,2023-08-18T20:14:50.438Z,"5 km NNW of Nordheim, Texas",earthquake,1.601828448,1.526454193,0.1,6,reviewed,tx,tx
 2023-08-18T05:07:54.544Z,60.8383,-152.5148,124.5,1.7,ml,,,,0.21,ak,ak023akgmltq,2023-08-18T05:09:54.602Z,"68 km WNW of Nikiski, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-08-18T05:04:44.911Z,61.8561,-148.9698,37.1,3.1,ml,,,,0.5,ak,ak023akglxui,2023-08-19T01:18:22.473Z,"Southern Alaska",earthquake,,0.2,,,reviewed,ak,ak
-2023-08-18T05:01:46.740Z,19.3758335113525,-155.287170410156,2.00999999046326,1.98,ml,18,93,,0.119999997,hv,hv73532197,2023-08-18T05:07:17.820Z,"9 km SW of Volcano, Hawaii",earthquake,0.25,0.300000012,0.19,5,automatic,hv,hv
-2023-08-18T04:58:45.050Z,62.0211,-147.9235,31.4,1.2,ml,,,,0.69,ak,ak023akgc309,2023-08-18T05:00:24.968Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-18T04:57:07.830Z,33.9863333,-116.8331667,12.83,0.91,ml,35,46,0.05306,0.13,ci,ci39643426,2023-08-18T18:28:15.457Z,"8 km NNE of Banning, CA",earthquake,0.19,0.51,0.117,24,reviewed,ci,ci
