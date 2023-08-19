@@ -187,7 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T18:13:34.400Z,32.8201667,-116.5503333,18.02,0.93,ml,15,110,0.1074,0.1,ci,ci39644050,2023-08-18T22:34:11.810Z,"2 km W of Pine Valley, CA",earthquake,0.26,0.58,0.271,5,reviewed,ci,ci
 2023-08-18T18:04:51.040Z,17.9851666666667,-66.8455,17.31,2.16,md,7,178,0.03367,0.12,pr,pr71421743,2023-08-18T18:12:59.130Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.64,0.67,0.0300421433085125,5,reviewed,pr,pr
 2023-08-18T17:59:08.440Z,60.0555,-153.060166666667,2.32,-0.6,ml,5,193,,0.1,av,av92007821,2023-08-19T02:35:50.960Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.71,0.78,0.425991520934017,5,reviewed,av,av
-2023-08-18T17:49:38.224Z,28.2701,87.1572,77.267,4.3,mb,42,79,1.725,0.42,us,us7000kpar,2023-08-18T22:06:49.040Z,"49 km NE of Lobuche, Nepal",earthquake,8.28,7.79,0.081,48,reviewed,us,us
-2023-08-18T17:49:28.750Z,35.053,-118.3456667,-0.93,1.22,ml,17,61,0.06235,0.19,ci,ci39644042,2023-08-18T22:22:27.765Z,"13 km SE of Tehachapi, CA",quarry blast,0.33,31.61,0.085,7,reviewed,ci,ci
-2023-08-18T17:48:13.358Z,57.0329,-157.5975,126,1.2,ml,,,,0.49,ak,ak023ako0i9j,2023-08-18T17:50:35.310Z,"54 km SSW of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-08-18T17:47:44.292Z,-24.2207,-67.2677,191.45,4.4,mb,17,91,1.514,0.85,us,us7000kpaq,2023-08-18T21:51:26.040Z,"96 km W of San Antonio de los Cobres, Argentina",earthquake,9.77,11.898,0.309,4,reviewed,us,us
