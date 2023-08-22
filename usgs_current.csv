@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-22T10:23:54.500Z,19.3915004730225,-155.276168823242,0.699999988079071,2,ml,17,56,,0.150000006,hv,hv73537612,2023-08-22T10:29:25.270Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.270000011,0.25,9,automatic,hv,hv
 2023-08-22T10:10:57.810Z,33.7701667,-116.1478333,5.62,0.76,ml,21,168,0.06687,0.23,ci,ci39647170,2023-08-22T10:14:36.543Z,"8 km NE of Indio, CA",earthquake,0.67,1.91,0.087,15,automatic,ci,ci
 2023-08-22T10:00:15.650Z,38.8376656,-122.8050003,1.54,0.71,md,8,83,0.01479,0.02,nc,nc73927046,2023-08-22T10:16:11.866Z,"7 km WNW of Cobb, CA",earthquake,0.38,1.43,0.23,9,automatic,nc,nc
 2023-08-22T09:56:31.400Z,36.8125,-121.5419998,4.33,2.56,md,50,44,,0.2,nc,nc73927041,2023-08-22T10:25:32.083Z,"4 km S of San Juan Bautista, CA",earthquake,0.28,0.48,0.16,52,automatic,nc,nc
