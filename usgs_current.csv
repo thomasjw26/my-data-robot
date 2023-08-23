@@ -6,6 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T21:16:50.130Z,33.467,-116.4916667,12.41,0.91,ml,29,79,0.07876,0.21,ci,ci39648802,2023-08-23T21:20:21.445Z,"20 km ESE of Anza, CA",earthquake,0.33,0.66,0.16,20,automatic,ci,ci
 2023-08-23T21:11:42.700Z,19.3848333333333,-155.282166666667,1.27,1.42,md,17,75,,0.09,hv,hv73540532,2023-08-23T21:21:42.850Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.14,0.146219593532215,2,reviewed,hv,hv
 2023-08-23T21:09:14.950Z,19.39,-155.279333333333,1.35,0.17,md,10,72,,0.07,hv,hv73540527,2023-08-23T21:19:14.210Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.22,0.010549429229094,2,reviewed,hv,hv
+2023-08-23T21:04:39.120Z,19.4216666666667,-155.2435,2.69,0.78,md,15,158,,0.1,hv,hv73540522,2023-08-23T21:35:41.820Z,"2 km SSW of Volcano, Hawaii",earthquake,0.25,0.26,0.247026102401725,4,reviewed,hv,hv
 2023-08-23T20:58:31.570Z,19.4051666666667,-155.241666666667,1.92,0.52,md,10,93,,0.1,hv,hv73540507,2023-08-23T21:25:07.940Z,"4 km S of Volcano, Hawaii",earthquake,0.28,0.42,0.233777822508442,2,reviewed,hv,hv
 2023-08-23T20:55:04.866Z,36.6789,-116.0163,5.8,0.1,ml,11,163.07,0.047,0.2796,nn,nn00864895,2023-08-23T20:56:55.995Z,"33 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.47,8,automatic,nn,nn
 2023-08-23T20:44:32.900Z,38.8358345,-122.807663,2.28,0.79,md,14,51,0.01256,0.01,nc,nc73927576,2023-08-23T21:03:14.714Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.84,0.11,15,automatic,nc,nc
@@ -329,7 +330,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T22:06:53.890Z,38.8246651,-122.7993317,2.6,1.6,md,31,38,0.008486,0.02,nc,nc73927196,2023-08-23T01:24:13.014Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.36,0.19,30,automatic,nc,nc
 2023-08-22T21:59:42.450Z,19.4053333333333,-155.295166666667,2.19,1.76,ml,28,55,,0.1,hv,hv73538197,2023-08-22T22:19:36.530Z,"7 km WSW of Volcano, Hawaii",earthquake,0.18,0.17,0.0604528585995536,11,reviewed,hv,hv
 2023-08-22T21:53:12.700Z,18.408,-68.2895,132,3.46,md,16,230,0.1402,0.23,pr,pr2023234000,2023-08-23T00:30:28.040Z,"22 km SSE of Punta Cana, Dominican Republic",earthquake,21.18,2.16,0.19,10,reviewed,pr,pr
-2023-08-22T21:39:35.255Z,52.4808,-169.0136,35,3.2,ml,15,252,0.502,0.74,us,us7000kq7u,2023-08-23T00:50:16.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,4.97,2.021,0.128,8,reviewed,us,us
-2023-08-22T21:39:23.893Z,-15.2555,-177.905,439.113,4.3,mb,23,96,4.6,0.68,us,us7000kq7h,2023-08-22T22:34:31.040Z,"106 km SSE of Alo, Wallis and Futuna",earthquake,17.85,7.889,0.142,14,reviewed,us,us
-2023-08-22T21:39:22.247Z,51.5779,178.6723,76.131,3.8,ml,19,228,0.361,0.14,us,us7000kq7i,2023-08-22T22:12:06.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,14.08,17.36,0.081,20,reviewed,us,us
-2023-08-22T21:38:23.384Z,58.8706,-153.9194,16.2,1.4,ml,,,,0.37,ak,ak023archi9u,2023-08-22T21:39:42.070Z,"80 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
