@@ -174,5 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-26T09:31:40.157Z,38.9592,-119.8881,12.8,0.2,ml,8,187.43,0.066,0.1857,nn,nn00865086,2023-08-26T15:06:27.067Z,"2 km SE of Kingsbury, Nevada",earthquake,,1.9,0.15,3,reviewed,nn,nn
 2023-08-26T09:30:33.184Z,65.1175,-148.2742,20,0.7,ml,,,,0.6,ak,ak023axrg00m,2023-08-26T09:35:47.606Z,"32 km NNW of Ester, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-26T09:13:34.649Z,60.1104,-153.1662,117,1.9,ml,,,,0.45,ak,ak023axrccyg,2023-08-26T09:15:30.757Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-26T08:54:42.670Z,33.471,-116.487,13.52,0.51,ml,21,52,0.09378,0.13,ci,ci39651562,2023-08-26T08:58:22.701Z,"20 km ESE of Anza, CA",earthquake,0.29,0.65,0.069,9,automatic,ci,ci
-2023-08-26T08:51:20.890Z,19.3918342590332,-155.249328613281,0.0799999982118607,2.39,ml,33,55,,0.340000004,hv,hv73545272,2023-08-26T08:56:51.540Z,"5 km SSW of Volcano, Hawaii",earthquake,0.31,0.370000005,0.38,18,automatic,hv,hv
