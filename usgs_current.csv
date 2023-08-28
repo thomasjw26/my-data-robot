@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T03:04:31.984Z,61.1745,-151.1679,50.9,1.3,ml,,,,0.51,ak,ak023b0ysiny,2023-08-28T03:06:10.118Z,"5 km NW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-28T03:02:12.514Z,41.7589,-80.9982,5,2.3,mb_lg,20,152,0.834,0.27,us,us7000kres,2023-08-28T09:43:21.841Z,"Ohio",earthquake,1.61,1.984,0.114,20,reviewed,us,us
 2023-08-28T02:55:05.650Z,38.7854996,-122.7088318,0.08,1.84,md,8,84,0.03532,0.05,nc,nc73930051,2023-08-28T05:47:19.671Z,"2 km NW of Anderson Springs, CA",earthquake,0.29,1.04,0.14,10,automatic,nc,nc
-2023-08-28T02:43:26.178Z,41.7374,-80.9694,5,3.6,mwr,76,47,0.824,0.77,us,us7000krer,2023-08-28T09:44:19.703Z,"7 km ESE of Madison, Ohio",earthquake,4.75,1.971,0.041,58,reviewed,us,us
+2023-08-28T02:43:26.178Z,41.7374,-80.9694,5,3.6,mwr,76,47,0.824,0.77,us,us7000krer,2023-08-28T09:49:36.999Z,"7 km ESE of Madison, Ohio",earthquake,4.75,1.971,0.041,58,reviewed,us,us
 2023-08-28T02:43:18.880Z,35.68,-117.5425,2.49,1.49,ml,20,74,0.09785,0.19,ci,ci39652834,2023-08-28T02:46:55.454Z,"14 km ENE of Ridgecrest, CA",earthquake,0.3,0.7,0.125,15,automatic,ci,ci
 2023-08-28T02:42:55.780Z,19.3646659851074,-155.298004150391,2.13000011444092,1.8,ml,14,103,,0.200000003,hv,hv73548772,2023-08-28T02:48:27.220Z,"10 km SW of Volcano, Hawaii",earthquake,0.39,0.569999993,0.19,3,automatic,hv,hv
 2023-08-28T02:33:50.700Z,33.0708333,-116.4248333,14.8,0.99,ml,24,66,0.09947,0.18,ci,ci39652826,2023-08-28T02:37:19.735Z,"16 km E of Julian, CA",earthquake,0.29,0.62,0.185,15,automatic,ci,ci
@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-27T10:10:23.770Z,46.767833333333336,-121.957,9.67,2.86,ml,16,133,0.03914,0.11,uw,uw61953701,2023-08-28T01:46:32.625Z,"5 km E of Ashford, Washington",earthquake,0.35,0.46,0.3103042465135899,9,reviewed,uw,uw
 2023-08-27T10:07:07.290Z,35.6736667,-117.5546667,7.02,0.99,ml,14,122,0.107,0.17,ci,ci39652338,2023-08-27T10:54:49.140Z,"12 km ENE of Ridgecrest, CA",earthquake,0.38,1.09,0.097,8,automatic,ci,ci
 2023-08-27T10:05:17.218Z,36.9086,-115.9884,4.1,0.2,ml,6,185.09,0.005,0.1211,nn,nn00865103,2023-08-27T14:17:24.935Z,"47 km NW of Indian Springs, Nevada",earthquake,,2.1,0.42,5,reviewed,nn,nn
-2023-08-27T09:48:58.140Z,33.1725,-116.0928333,10.05,0.7,ml,15,66,0.09653,0.25,ci,ci39652330,2023-08-27T09:52:30.388Z,"5 km NE of Ocotillo Wells, CA",earthquake,0.68,1.19,0.118,7,automatic,ci,ci
