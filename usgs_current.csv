@@ -45,14 +45,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T09:43:41.575Z,63.0859,-151.3688,0,1.5,ml,,,,0.64,ak,ak023b2q4ugd,2023-08-29T09:45:57.863Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-29T09:36:26.375Z,61.2908,-152.5089,5.3,1.4,ml,,,,0.32,ak,ak023b2q3b9p,2023-08-29T09:49:52.780Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-29T09:29:11.260Z,33.4985,-116.5786667,10.5,0.3,ml,15,116,0.02003,0.21,ci,ci39653938,2023-08-29T09:32:46.302Z,"11 km SE of Anza, CA",earthquake,0.48,0.87,0.122,5,automatic,ci,ci
-2023-08-29T09:20:50.740Z,19.387,-155.276166666667,1.36,2.1,ml,29,57,,0.1,hv,hv73551282,2023-08-29T16:25:29.760Z,"Island of Hawaii, Hawaii",earthquake,0.15,0.13,0.106914622853884,11,reviewed,hv,hv
+2023-08-29T09:20:50.740Z,19.387,-155.276166666667,1.36,2.1,ml,29,57,,0.1,hv,hv73551282,2023-08-29T16:25:29.760Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.13,0.106914622853884,11,reviewed,hv,hv
 2023-08-29T09:19:12.600Z,19.3901666666667,-155.274166666667,1.93,2.42,ml,41,48,,0.1,hv,hv73551277,2023-08-29T16:14:47.560Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.15,0.19444509018501,18,reviewed,hv,hv
 2023-08-29T08:53:59.860Z,44.8006667,-110.8993333,5.97,0.91,ml,13,124,0.03689,0.15,uu,uu60548667,2023-08-29T13:12:22.650Z,"Yellowstone National Park, Wyoming",earthquake,0.47,1.03,0.32,3,reviewed,uu,uu
 2023-08-29T08:53:12.030Z,32.9728333,-117.9915,28.53,1.53,ml,6,248,0.4608,0.13,ci,ci39653930,2023-08-29T16:04:13.941Z,"37 km ENE of San Clemente Is. (SE tip), CA",earthquake,2.76,0.88,0.066,11,automatic,ci,ci
 2023-08-29T08:08:53.410Z,33.0295,-117.8636667,21.24,1.63,ml,8,239,0.5468,0.2,ci,ci39653914,2023-08-29T16:20:01.001Z,"50 km WSW of Carlsbad, CA",earthquake,2.44,12.58,0.066,16,automatic,ci,ci
 2023-08-29T08:08:43.211Z,39.3739,78.0863,10,4.6,mb,35,71,2.362,1.25,us,us7000kru3,2023-08-29T08:51:27.040Z,"76 km NE of Dunbage, China",earthquake,7.69,1.915,0.137,16,reviewed,us,us
 2023-08-29T08:07:23.250Z,18.6481666666667,-65.0856666666667,30.8,3.21,md,13,256,0.6061,0.24,pr,pr71422468,2023-08-29T08:22:54.870Z,"37 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.76,7.4,0.0637371280197674,8,reviewed,pr,pr
-2023-08-29T08:05:33.310Z,33.0018333,-117.9176667,5.98,3.6,mw,80,133,0.4776,0.31,ci,ci39653906,2023-08-29T17:20:17.862Z,"45 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.42,31.61,,4,reviewed,ci,ci
+2023-08-29T08:05:33.310Z,33.0018333,-117.9176667,5.98,3.6,mw,80,133,0.4776,0.31,ci,ci39653906,2023-08-29T17:25:27.612Z,"45 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.42,31.61,,4,reviewed,ci,ci
 2023-08-29T07:58:22.440Z,36.742,-121.3925,10.64,0.59,md,12,196,0.04914,0.09,nc,nc73930451,2023-08-29T09:48:12.022Z,"8 km SSW of Ridgemark, CA",earthquake,0.75,0.57,0.359,10,reviewed,nc,nc
 2023-08-29T07:53:27.420Z,33.5195,-116.5048333,14.19,0.4,ml,14,91,0.04375,0.14,ci,ci39653898,2023-08-29T07:57:04.947Z,"16 km ESE of Anza, CA",earthquake,0.46,0.61,0.07,4,automatic,ci,ci
 2023-08-29T07:38:01.860Z,33.5221667,-116.7546667,3.96,0.25,ml,17,62,0.0394,0.15,ci,ci39653890,2023-08-29T07:41:34.183Z,"8 km WSW of Anza, CA",earthquake,0.3,0.65,0.069,6,automatic,ci,ci
@@ -97,6 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T03:04:17.413Z,31.61440674,-104.5175627,6.465771484,1.7,ml,15,149,0.05614352127,0.1,tx,tx2023qwsu,2023-08-29T14:11:06.681Z,"63 km SSW of Whites City, New Mexico",earthquake,1.773536107,1.079067559,0.1,7,reviewed,tx,tx
 2023-08-29T03:01:17.720Z,33.9563333,-116.9495,11.2,0.5,ml,13,69,0.1373,0.24,ci,ci39653786,2023-08-29T03:04:53.487Z,"4 km NE of Beaumont, CA",earthquake,0.56,2.18,0.143,9,automatic,ci,ci
 2023-08-29T02:58:34.265Z,36.9239,-115.3713,4.7,0.8,ml,10,308.49,0.496,0.1387,nn,nn00865194,2023-08-29T16:11:43.626Z,"47 km NE of Indian Springs, Nevada",earthquake,,13.5,0.1,4,reviewed,nn,nn
+2023-08-29T02:51:29.918Z,40.3829,-119.572,16.5,0.6,ml,5,298.29,0.246,0.0703,nn,nn00865233,2023-08-29T17:25:57.845Z,"28 km SW of Empire, Nevada",earthquake,,5.5,0.16,4,reviewed,nn,nn
 2023-08-29T02:48:45.590Z,38.7573318,-122.7214966,2.75,1.01,md,7,155,0.005002,0.02,nc,nc73930371,2023-08-29T03:18:14.870Z,"3 km SW of Anderson Springs, CA",earthquake,0.72,1.04,0.21,9,automatic,nc,nc
 2023-08-29T02:41:50.136Z,56.3755,-156.7094,13.1,3.6,ml,,,,0.54,ak,ak023b2lyigc,2023-08-29T04:02:17.923Z,"105 km E of Chignik, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2023-08-29T02:38:11.890Z,33.668,-116.7398333,13.71,0.89,ml,34,48,0.05154,0.13,ci,ci39653778,2023-08-29T13:46:21.575Z,"8 km SSW of Idyllwild, CA",earthquake,0.22,0.34,0.154,23,reviewed,ci,ci
@@ -190,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T17:49:15.340Z,51.8841666666667,-177.9055,9.11,-0.13,ml,4,214,,0.11,av,av91114198,2023-08-29T02:05:18.110Z,"87 km W of Adak, Alaska",earthquake,0.81,0.74,0.186152277759252,4,reviewed,av,av
 2023-08-28T17:40:59.298Z,42.5062,-126.3625,10,2.8,ml,45,205,1.504,0.87,us,us7000kriw,2023-08-28T19:47:47.040Z,"155 km W of Port Orford, Oregon",earthquake,8.27,2.011,0.039,88,reviewed,us,us
 2023-08-28T17:34:02.770Z,34.39483333,-96.82566667,0,1.34,ml,16,75,0.2177572686,0.35,ok,ok2023qwaa,2023-08-29T14:05:39.675Z,"1 km S of Mill Creek, Oklahoma",quarry blast,,0.8,0.15,3,reviewed,ok,ok
-2023-08-28T17:24:54.593Z,61.3252,-153.9898,5,1.4,ml,,,,0.68,ak,ak023b178x77,2023-08-28T17:27:07.139Z,"77 km E of Lime Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
