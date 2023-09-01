@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-01T23:30:16.160Z,40.6101685,-121.8249969,11.16,3.2,ml,33,64,0.2098,0.16,nc,nc73931886,2023-09-01T23:37:13.450Z,"14 km NNE of Shingletown, CA",earthquake,0.3,1.27,0.227,17,automatic,nc,nc
+2023-09-01T23:40:51.692Z,64.7097,-151.9974,0,1.9,ml,,,,0.91,ak,ak023b7x2c1d,2023-09-01T23:42:37.393Z,"51 km S of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-01T23:30:16.160Z,40.6101685,-121.8249969,11.16,3.2,ml,33,64,0.2098,0.16,nc,nc73931886,2023-09-01T23:40:59.559Z,"14 km NNE of Shingletown, CA",earthquake,0.3,1.27,0.227,17,automatic,nc,nc
 2023-09-01T23:06:39.000Z,18.0773333333333,-66.9368333333333,6.99,2.25,md,4,203,0.1155,0.15,pr,pr71423103,2023-09-01T23:23:26.330Z,"2 km E of Sabana Grande, Puerto Rico",earthquake,2.02,2.08,0.00445903530942626,3,reviewed,pr,pr
 2023-09-01T23:01:40.164Z,14.8757,-60.5607,59.41,4.4,mwr,79,58,0.321,0.66,us,us7000kss6,2023-09-01T23:38:39.040Z,"45 km ENE of La Trinité, Martinique",earthquake,2.94,5.65,0.046,46,reviewed,us,us
 2023-09-01T22:55:45.231Z,34.53289032,-97.22438049,1.420225739,1.74,ml,21,76.93695068,0.1172951236,0.7541007833,ok,ok2023rdsq,2023-09-01T23:00:04.342Z,"Oklahoma",earthquake,2.604443825,1.985063121,0.32,9,automatic,ok,ok
@@ -139,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T05:27:36.920Z,46.188499450683594,-122.16533660888672,-1.79999995231628,1.61000001,md,25,82,,0.600000024,uw,uw61947352,2023-09-01T05:29:23.910Z,"Mount St. Helens area, Washington",earthquake,1.03,2.02999997,0.529999971,3,automatic,uw,uw
 2023-09-01T05:14:29.390Z,53.3211666666667,-168.216,3.08,1.27,ml,4,335,,0.28,av,av92025701,2023-09-01T19:18:15.710Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,2.72,31.61,0.190113015911163,4,reviewed,av,av
 2023-09-01T04:55:01.760Z,53.3776666666667,-168.248833333333,3.72,1.19,ml,4,293,,0.21,av,av91114508,2023-09-01T19:05:01.890Z,"63 km NE of Nikolski, Alaska",earthquake,1.22,0.88,0.0803440792147967,3,reviewed,av,av
-2023-09-01T04:34:02.890Z,40.6038322,-121.8288345,12.84,2.5,md,24,46,0.1756,0.14,nc,nc73931571,2023-09-01T23:37:52.345Z,"13 km NNE of Shingletown, CA",earthquake,0.32,1.51,0.07,20,automatic,nc,nc
+2023-09-01T04:34:02.890Z,40.6038322,-121.8288345,12.84,2.5,md,24,46,0.1756,0.14,nc,nc73931571,2023-09-01T23:43:16.640Z,"13 km NNE of Shingletown, CA",earthquake,0.32,1.51,0.07,20,automatic,nc,nc
 2023-09-01T04:15:51.170Z,63.508,-147.848,3.3,1.6,ml,,,,0.46,ak,ak023b7llqlp,2023-09-01T04:17:47.121Z,"56 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-01T04:07:53.110Z,32.3861667,-115.1426667,11,2.54,ml,26,68,0.068,0.29,ci,ci39656442,2023-09-01T19:37:00.010Z,"6 km NE of Delta, B.C., MX",earthquake,0.45,0.82,0.083,25,reviewed,ci,ci
 2023-09-01T03:52:18.452Z,63.2599,-150.5534,126.5,1.6,ml,,,,0.32,ak,ak023b7l84yd,2023-09-01T03:54:35.130Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
