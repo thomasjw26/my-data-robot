@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-01T07:38:50.951Z,63.2117,-151.2763,0,1.4,ml,,,,0.74,ak,ak023b7niyvb,2023-09-01T07:41:14.950Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-09-01T07:35:45.130Z,19.3920001983643,-155.278167724609,0.720000028610229,2.35,ml,30,52,,0.159999996,hv,hv73555977,2023-09-01T07:41:16.820Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.159999996,0.31,11,automatic,hv,hv
 2023-09-01T07:35:32.820Z,38.8278351,-122.8036652,1.67,0.76,md,15,66,0.006687,0.02,nc,nc73931606,2023-09-01T07:37:08.377Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.61,0.19,15,automatic,nc,nc
 2023-09-01T07:24:29.040Z,35.5161667,-118.3673333,3.22,1.82,ml,28,63,0.1702,0.17,ci,ci39656530,2023-09-01T07:35:12.420Z,"14 km SE of Bodfish, CA",earthquake,0.23,1.11,0.202,28,automatic,ci,ci
 2023-09-01T07:23:53.710Z,34.3496667,-118.507,2.87,1.28,ml,22,91,0.04696,0.24,ci,ci39656522,2023-09-01T07:27:34.402Z,"7 km NW of Sylmar, CA",earthquake,0.35,0.47,0.141,26,automatic,ci,ci
