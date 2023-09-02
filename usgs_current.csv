@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T07:24:06.040Z,35.3335,-97.941,5.41,0.96,ml,27,56,0.0602881694,0.33,ok,ok2023rcnw,2023-09-01T12:41:41.183Z,"2 km N of Minco, Oklahoma",earthquake,,0.9,0.26,13,reviewed,ok,ok
 2023-09-01T07:23:53.450Z,34.3525,-118.5201667,4.45,1.21,ml,21,64,0.0466,0.14,ci,ci39656522,2023-09-01T19:41:38.130Z,"7 km S of Santa Clarita, CA",earthquake,0.2,0.53,0.08,18,reviewed,ci,ci
 2023-09-01T06:54:54.060Z,38.8128319,-122.8271637,1.69,1.08,md,18,56,0.004259,0.02,nc,nc73931591,2023-09-01T07:14:13.972Z,"7 km WNW of The Geysers, CA",earthquake,0.22,0.43,0.28,19,automatic,nc,nc
-2023-09-01T06:30:00.010Z,37.4153328,-121.3181686,1.37,1.76,md,5,196,,0.12,nc,nc73931586,2023-09-01T07:01:14.894Z,"18 km WSW of Patterson, CA",earthquake,1.26,1.79,0.09,4,automatic,nc,nc
