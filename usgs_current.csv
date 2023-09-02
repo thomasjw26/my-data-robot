@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-02T20:22:03.410Z,38.822834,-122.8178329,3,0.76,md,14,75,0.006087,0.01,nc,nc73932336,2023-09-02T20:23:37.882Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.73,0.16,15,automatic,nc,nc
 2023-09-02T20:14:31.450Z,60.4757,-151.6008,31.8,1.2,ml,,,,1.81,ak,ak023b9inrjd,2023-09-02T20:15:52.533Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-02T20:04:29.920Z,19.3886661529541,-155.276672363281,0.360000014305115,1.84,ml,12,122,,0.159999996,hv,hv73558737,2023-09-02T20:10:01.550Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.189999998,0.25,6,automatic,hv,hv
 2023-09-02T20:02:22.137Z,62.3387,-149.6013,43.9,2.2,ml,,,,0.56,ak,ak023b9il685,2023-09-02T20:04:28.260Z,"23 km NNE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T16:36:36.870Z,19.2094993591309,-155.375839233398,29.1299991607666,2.32999992,md,40,174,,0.129999995,hv,hv73558512,2023-09-02T16:39:51.550Z,"10 km E of Pāhala, Hawaii",earthquake,0.58,0.660000026,1.29999995,23,automatic,hv,hv
 2023-09-02T16:20:24.300Z,38.8359985,-122.7985001,2.54,0.28,md,9,67,0.006809,0.03,nc,nc73932231,2023-09-02T16:45:14.583Z,"7 km WNW of Cobb, CA",earthquake,0.44,1.28,0.15,9,automatic,nc,nc
 2023-09-02T16:16:45.130Z,19.390832901001,-155.274002075195,1.64999997615814,2.07,ml,22,47,,0.170000002,hv,hv73558477,2023-09-02T16:22:15.510Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.25999999,0.27,10,automatic,hv,hv
-2023-09-02T16:09:06.310Z,17.9486666666667,-66.926,16.48,2.38,md,17,209,0.02865,0.12,pr,pr71423243,2023-09-02T16:27:32.910Z,"Puerto Rico region",earthquake,0.42,0.32,0.0822720376077894,8,reviewed,pr,pr
+2023-09-02T16:09:06.310Z,17.9486666666667,-66.926,16.48,2.38,md,17,209,0.02865,0.12,pr,pr71423243,2023-09-02T16:27:32.910Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.42,0.32,0.0822720376077894,8,reviewed,pr,pr
 2023-09-02T15:33:02.848Z,51.8908,135.1984,10,4.4,mb,25,66,15.342,1.13,us,us7000ksvu,2023-09-02T16:40:49.040Z,"40 km NW of Berëzovyy, Russia",earthquake,13.49,1.918,0.115,22,reviewed,us,us
 2023-09-02T15:07:30.830Z,38.8279991,-122.8065033,2.34,1.12,md,26,41,0.005377,0.03,nc,nc73932211,2023-09-02T15:50:13.241Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.46,0.17,27,automatic,nc,nc
 2023-09-02T15:03:05.994Z,43.0251,144.237,104.608,4.6,mb,37,134,1.287,0.43,us,us7000ksvn,2023-09-02T16:37:07.040Z,"12 km WNW of Kushiro, Japan",earthquake,9.45,7.158,0.056,95,reviewed,us,us
@@ -159,7 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T23:46:44.150Z,17.946,-66.9266666666667,16.02,2.48,md,10,210,0.05359,0.11,pr,pr71423113,2023-09-01T23:56:07.080Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.66,0.4,0.267622672038484,9,reviewed,pr,pr
 2023-09-01T23:46:40.450Z,38.8326683,-122.81633,1.67,0.92,md,9,88,0.01047,0.01,nc,nc73931891,2023-09-02T00:01:12.578Z,"8 km NW of The Geysers, CA",earthquake,0.31,0.88,0.22,11,automatic,nc,nc
 2023-09-01T23:40:51.692Z,64.7097,-151.9974,0,1.9,ml,,,,0.91,ak,ak023b7x2c1d,2023-09-01T23:42:37.393Z,"51 km S of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-01T23:30:16.020Z,40.6023333,-121.8291667,14.04,3.06,ml,45,36,0.09811,0.13,nc,nc73931886,2023-09-02T19:39:11.528Z,"13 km NNE of Shingletown, CA",earthquake,0.18,0.52,0.152,36,reviewed,nc,nc
+2023-09-01T23:30:16.020Z,40.6023333,-121.8291667,14.04,3.06,ml,45,36,0.09811,0.13,nc,nc73931886,2023-09-02T20:22:15.799Z,"13 km NNE of Shingletown, CA",earthquake,0.18,0.52,0.152,36,reviewed,nc,nc
 2023-09-01T23:28:22.580Z,51.845,179.572833333333,12.27,0.93,ml,5,290,,0.23,av,av92026276,2023-09-02T00:02:44.950Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.43,1.29,0.47907602689318,5,reviewed,av,av
 2023-09-01T23:12:15.840Z,58.2466666666667,-155.126833333333,3.78,0.62,ml,10,80,,0.13,av,av92026261,2023-09-01T23:55:28.330Z,"Alaska Peninsula",earthquake,0.32,0.58,0.213739546682575,10,reviewed,av,av
 2023-09-01T23:06:39.000Z,18.0773333333333,-66.9368333333333,6.99,2.25,md,4,203,0.1155,0.15,pr,pr71423103,2023-09-01T23:23:26.330Z,"2 km E of Sabana Grande, Puerto Rico",earthquake,2.02,2.08,0.00445903530942626,3,reviewed,pr,pr
