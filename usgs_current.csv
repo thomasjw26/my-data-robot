@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-03T19:11:00.040Z,38.8458328,-122.8134995,1.47,1.1,md,10,233,0.03848,0.07,nc,nc73932681,2023-09-03T19:12:33.866Z,"8 km WNW of Cobb, CA",earthquake,0.84,2.08,0.14,11,automatic,nc,nc
 2023-09-03T19:10:56.710Z,38.8351669,-122.8168335,1.78,1.6,md,16,62,0.01289,0.02,nc,nc73932676,2023-09-03T19:12:34.109Z,"8 km W of Cobb, CA",earthquake,0.22,0.55,0.12,17,automatic,nc,nc
-2023-09-03T18:58:33.250Z,35.7716675,-120.3239975,7.79,1.53,md,24,106,0.01303,0.07,nc,nc73932666,2023-09-03T19:00:19.796Z,"6 km NNW of Cholame, CA",earthquake,0.31,0.36,0.2,10,automatic,nc,nc
+2023-09-03T18:58:33.250Z,35.7716675,-120.3239975,7.79,1.53,md,24,106,0.01303,0.07,nc,nc73932666,2023-09-03T19:18:14.967Z,"6 km NNW of Cholame, CA",earthquake,0.31,0.36,0.2,10,automatic,nc,nc
 2023-09-03T18:49:13.522Z,60.1416,-152.5562,102.6,1.8,ml,,,,0.6,ak,ak023bb57pi0,2023-09-03T18:51:31.080Z,"50 km W of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-03T18:48:05.690Z,38.8338318,-122.8141632,1.08,0.22,md,8,74,0.01732,0.01,nc,nc73932661,2023-09-03T18:49:38.291Z,"8 km W of Cobb, CA",earthquake,0.36,1.1,0.14,9,automatic,nc,nc
 2023-09-03T18:25:34.979Z,62.4101,-149.0918,15.4,1.8,ml,,,,0.11,ak,ak023bb52lyx,2023-09-03T18:26:47.134Z,"48 km NE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T19:30:14.950Z,38.822834,-122.8515015,2.39,0.67,md,12,103,0.006303,0.01,nc,nc73932311,2023-09-02T19:47:19.581Z,"10 km WNW of The Geysers, CA",earthquake,0.44,0.7,0.44,13,automatic,nc,nc
 2023-09-02T19:28:43.330Z,61.9736666666667,-144.512666666667,7.04,0.37,ml,4,206,,0.03,av,av91114728,2023-09-03T05:41:41.240Z,"36 km NE of Kenny Lake, Alaska",earthquake,0.65,0.85,0.303088487555976,4,reviewed,av,av
 2023-09-02T19:28:13.800Z,58.1785,-155.3615,0.94,0.07,ml,8,82,,0.09,av,av92027121,2023-09-03T05:38:14.290Z,"86 km NW of Karluk, Alaska",earthquake,0.24,1.01,0.150129401340937,8,reviewed,av,av
-2023-09-02T19:21:31.209Z,63.0182,-149.7071,73.3,1.1,ml,,,,0.66,ak,ak023b9i3txb,2023-09-02T19:28:12.248Z,"56 km SW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
