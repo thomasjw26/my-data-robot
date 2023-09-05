@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-05T20:27:18.220Z,40.2266655,-121.1573334,-0.07,2.7,md,31,84,0.2411,0.14,nc,nc73933496,2023-09-05T20:28:57.676Z,"2 km ENE of Almanor, CA",earthquake,0.35,3.66,0.09,20,automatic,nc,nc
 2023-09-05T20:17:31.070Z,38.8089981,-122.814003,3.39,1.24,md,28,56,0.01186,0.04,nc,nc73933491,2023-09-05T20:20:27.856Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.45,0.18,28,automatic,nc,nc
 2023-09-05T20:10:21.837Z,62.6267,-149.7198,56.3,1.9,ml,,,,0.45,ak,ak023beh8xev,2023-09-05T20:12:23.745Z,"27 km NE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-05T20:08:21.777Z,61.7263,-150.9406,50.6,1.6,ml,,,,0.7,ak,ak023beh8hz5,2023-09-05T20:10:26.926Z,"30 km NW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -84,6 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T11:00:47.070Z,33.1775,-115.5893333,3.6,1.23,ml,10,146,0.02843,0.14,ci,ci39658586,2023-09-05T11:04:18.000Z,"9 km NW of Calipatria, CA",earthquake,0.48,0.59,0.165,13,automatic,ci,ci
 2023-09-05T10:54:49.670Z,34.137,-118.1261667,4.31,0.6,ml,11,130,0.0001767,0.07,ci,ci39658578,2023-09-05T16:45:39.728Z,"0 km SSW of Caltech, Pasadena, CA",earthquake,0.3,0.19,0.071,4,reviewed,ci,ci
 2023-09-05T10:54:49.340Z,60.9179,-149.3225,23.2,1.4,ml,,,,0.58,ak,ak023bebk38e,2023-09-05T11:03:20.237Z,"6 km ENE of Sunrise, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-05T10:44:42.819Z,36.725,-116.0725,2.5,-0.4,ml,10,89.93,0.031,0.0786,nn,nn00865448,2023-09-05T20:27:09.652Z,"Nevada",earthquake,,1.7,0.02,4,reviewed,nn,nn
 2023-09-05T10:38:35.853Z,60.6103,-151.2044,60.7,3.7,ml,,,,0.77,ak,ak023bebgmhd,2023-09-05T17:46:03.497Z,"6 km E of Salamatof, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-09-05T10:34:10.870Z,46.85333333333333,-121.7575,1.18,0.45,ml,18,73,0.02443,0.08,uw,uw61957321,2023-09-05T17:07:22.660Z,"23 km ENE of Ashford, Washington",earthquake,0.19,0.36,0.3468645010138516,8,reviewed,uw,uw
 2023-09-05T10:27:29.060Z,33.6721667,-116.7058333,14.99,0.5,ml,14,100,0.03951,0.09,ci,ci39658562,2023-09-05T13:17:19.335Z,"8 km S of Idyllwild, CA",earthquake,0.31,0.57,0.107,8,reviewed,ci,ci
