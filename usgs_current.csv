@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T04:30:49.987Z,31.72656872,-104.0971047,6.401501465,2.5,ml,13,71,0.03175223974,0.1,tx,tx2023rlls,2023-09-06T04:50:14.871Z,"47 km W of Mentone, Texas",earthquake,0.6223536864,0.5150593898,0.2,7,reviewed,tx,tx
 2023-09-06T04:30:14.279Z,59.2228,-153.4925,102.3,1.7,ml,,,,0.46,ak,ak023bfvdlyr,2023-09-06T04:32:33.473Z,"67 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-06T04:26:25.828Z,61.0536,-154.4497,6.6,1.7,ml,,,,0.41,ak,ak023bfvcrzq,2023-09-06T04:28:24.835Z,"62 km ESE of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-06T04:17:38.712Z,65.0065,-151.7931,12.3,1.2,ml,,,,0.25,ak,ak023bfvavjj,2023-09-06T04:19:42.932Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-06T04:17:38.712Z,65.0065,-151.7931,12.3,1.2,ml,,,,0.25,ak,ak023bfvavjj,2023-09-06T04:19:42.932Z,"22 km SE of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-06T04:12:03.976Z,61.6223,-146.3233,35.8,2.1,ml,,,,0.61,ak,ak023bfv9qa5,2023-09-06T04:13:36.345Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-06T04:11:20.140Z,33.3513333,-117.9876667,19.19,1.55,ml,20,164,0.3611,0.22,ci,ci39659250,2023-09-06T04:15:02.573Z,"28 km SW of Laguna Beach, CA",earthquake,0.74,1.42,0.186,21,automatic,ci,ci
 2023-09-06T04:07:54.820Z,38.7911667,-122.779,1.94,-0.07,md,17,80,0.007253,0.02,nc,nc73933566,2023-09-06T05:49:33.798Z,"2 km NW of The Geysers, CA",earthquake,0.22,0.38,0.206,16,reviewed,nc,nc
@@ -228,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T06:53:29.500Z,46.19766666666666,-122.20716666666667,3.36,-0.19,ml,11,61,0.01152,0.06,uw,uw61957256,2023-09-05T21:51:32.650Z,"36 km NNE of Amboy, Washington",earthquake,0.48,0.82,0.10388184105107293,3,reviewed,uw,uw
 2023-09-05T06:50:03.220Z,47.3763333333333,-113.025833333333,4.98,0.66,ml,10,107,0.3128,0.05,mb,mb90026423,2023-09-05T20:58:26.830Z,"40 km NNE of Ovando, Montana",earthquake,0.24,6.11,0.0361902092635454,3,reviewed,mb,mb
 2023-09-05T06:45:44.490Z,37.809,-121.9235,7.9,1.08,md,17,82,0.07398,0.06,nc,nc73933286,2023-09-05T10:25:09.534Z,"2 km SW of Blackhawk, CA",earthquake,0.29,0.68,0.244,11,reviewed,nc,nc
-2023-09-05T06:34:53.330Z,38.7746658,-122.7143326,2.01,0.78,md,6,96,0.01343,0.02,nc,nc73933281,2023-09-05T06:36:26.782Z,"2 km W of Anderson Springs, CA",earthquake,0.69,1.72,0.05,7,automatic,nc,nc
-2023-09-05T06:34:38.250Z,38.7775002,-122.7193298,1.32,1.63,md,19,83,0.01475,0.04,nc,nc73933276,2023-09-05T07:43:12.290Z,"2 km W of Anderson Springs, CA",earthquake,0.26,0.45,0.17,18,automatic,nc,nc
