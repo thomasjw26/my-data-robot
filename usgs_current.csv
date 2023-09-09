@@ -197,5 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T23:40:28.210Z,34.0328333,-116.9541667,6.9,3.06,ml,138,19,0.06244,0.16,ci,ci39661746,2023-09-09T18:04:52.302Z,"8 km E of Yucaipa, CA",earthquake,0.08,0.36,0.17,217,reviewed,ci,ci
 2023-09-08T23:35:04.819Z,58.2541,-155.1164,1.2,3.1,ml,,,,0.65,ak,ak023bjhsl5l,2023-09-09T04:00:38.643Z,"85 km NNW of Karluk, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-09-08T23:31:14.380Z,19.3871669769287,-155.274169921875,-0.219999998807907,1.88,ml,18,69,,0.280000001,hv,hv73570507,2023-09-08T23:36:45.210Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.300000012,0.26,8,automatic,hv,hv
-2023-09-08T23:21:57.820Z,46.1845,-123.041,-0.5,1.37,ml,15,70,0.1038,0.34,uw,uw61949502,2023-09-08T23:53:17.160Z,"3 km WNW of West Longview, Washington",explosion,0.55,31.61,0.1748373790522355,7,reviewed,uw,uw
-2023-09-08T23:21:52.860Z,58.1685,-155.348,0.34,0.28,ml,7,82,,0.09,av,av92036161,2023-09-09T03:49:02.670Z,"85 km NW of Karluk, Alaska",earthquake,0.22,1.96,0.204400885637535,8,reviewed,av,av
