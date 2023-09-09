@@ -48,6 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T05:18:27.200Z,33.4868333,-116.44,12.58,1.12,ml,36,65,0.03838,0.26,ci,ci39661786,2023-09-09T05:29:23.440Z,"23 km ESE of Anza, CA",earthquake,0.3,0.73,0.162,27,automatic,ci,ci
 2023-09-09T05:12:22.597Z,8.4316,-82.9299,10,4.5,mb,39,109,0.386,1.07,us,us7000kuiz,2023-09-09T05:28:02.040Z,"8 km NW of Finca Blanco, Panama",earthquake,8.37,1.939,0.11,24,reviewed,us,us
 2023-09-09T05:02:51.052Z,-7.3768,128.5164,152.659,4.8,mb,64,87,4.821,0.6,us,us7000kuiy,2023-09-09T05:21:12.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,8.58,7.564,0.074,57,reviewed,us,us
+2023-09-09T05:00:44.960Z,36.7716667,-121.3233333,3.76,0.85,md,10,169,0.06673,0.06,nc,nc73934931,2023-09-09T10:39:47.969Z,"2 km S of Tres Pinos, CA",earthquake,0.36,1.11,0.123,8,reviewed,nc,nc
 2023-09-09T04:44:09.870Z,38.7915001,-122.9031677,4.98,0.79,md,13,212,0.0248,0.03,nc,nc73934926,2023-09-09T04:45:46.748Z,"10 km E of Cloverdale, CA",earthquake,0.64,1.12,0.18,13,automatic,nc,nc
 2023-09-09T04:19:52.739Z,59.8402,-152.3121,79.1,2,ml,,,,0.38,ak,ak023bktxdjd,2023-09-09T04:21:22.154Z,"27 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-09T04:05:58.819Z,8.597,-83.0321,2.885,4.5,mb,23,81,0.339,1.34,us,us7000kuit,2023-09-09T05:22:03.040Z,"8 km E of Golfito, Costa Rica",earthquake,6.21,6.17,0.128,18,reviewed,us,us
@@ -67,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T02:38:47.293Z,-32.6749,-177.6777,10,4.9,mb,23,121,3.408,1.32,us,us7000kuif,2023-09-09T03:06:39.040Z,"south of the Kermadec Islands",earthquake,5.52,1.888,0.15,14,reviewed,us,us
 2023-09-09T01:59:14.330Z,19.7691,-64.4281,63,3.82,md,12,314,1.512,0.44,pr,pr2023252000,2023-09-09T02:40:55.941Z,"163 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,6.55,28.55,0.09,7,reviewed,pr,pr
 2023-09-09T01:57:48.310Z,18.0235,-66.8126666666667,14.79,2.13,md,4,170,0.07961,0.11,pr,pr71424198,2023-09-09T02:17:18.360Z,"2 km WNW of Guayanilla, Puerto Rico",earthquake,4.31,2.87,0.000747481931209215,3,reviewed,pr,pr
-2023-09-09T01:57:41.920Z,40.9681667,-121.5641667,13.16,2.22,md,34,36,0.09329,0.13,nc,nc73934901,2023-09-09T10:32:17.306Z,"11 km WSW of Fall River Mills, CA",earthquake,0.22,0.43,0.21,42,reviewed,nc,nc
+2023-09-09T01:57:41.920Z,40.9681667,-121.5641667,13.16,2.22,md,34,36,0.09329,0.13,nc,nc73934901,2023-09-09T10:36:10.584Z,"11 km WSW of Fall River Mills, CA",earthquake,0.22,0.43,0.21,42,reviewed,nc,nc
 2023-09-09T01:56:43.931Z,61.753,-149.9965,44.9,1.1,ml,,,,0.59,ak,ak023bksczjd,2023-09-09T01:58:22.257Z,"2 km ENE of Willow, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-09-09T01:37:09.770Z,38.824501,-122.7906647,0.73,1.06,md,16,54,0.01367,0.03,nc,nc73934896,2023-09-09T01:38:43.546Z,"6 km W of Cobb, CA",earthquake,0.22,0.41,0.2,19,automatic,nc,nc
 2023-09-09T01:35:37.828Z,58.2547,-155.1401,0.5,2.2,ml,,,,0.45,ak,ak023bks8h12,2023-09-09T02:16:45.040Z,"86 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -110,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T22:14:57.990Z,33.522,-117.0853333,11.23,0.98,ml,27,66,0.09599,0.19,ci,ci39661706,2023-09-08T23:02:14.186Z,"7 km ENE of Temecula, CA",earthquake,0.24,0.53,0.122,27,reviewed,ci,ci
 2023-09-08T22:11:54.890Z,33.523,-116.7471667,2.87,0.64,ml,18,62,0.04308,0.12,ci,ci39661690,2023-09-08T23:21:24.598Z,"8 km WSW of Anza, CA",earthquake,0.22,0.54,0.153,16,reviewed,ci,ci
 2023-09-08T22:11:28.590Z,58.1766666666667,-155.357166666667,1.65,-0.02,ml,9,120,,0.08,av,av92036106,2023-09-09T03:34:03.796Z,"86 km NW of Karluk, Alaska",earthquake,0.24,0.58,0.112136403263533,9,reviewed,av,av
-2023-09-08T22:11:01.412Z,31.1095,-8.4404,18.535,6.8,mww,158,18,2.349,0.74,us,us7000kufc,2023-09-09T10:32:08.710Z,"56 km W of Oukaïmedene, Morocco",earthquake,7.26,3.525,0.038,67,reviewed,us,us
+2023-09-08T22:11:01.412Z,31.1095,-8.4404,18.535,6.8,mww,158,18,2.349,0.74,us,us7000kufc,2023-09-09T10:37:16.961Z,"56 km W of Oukaïmedene, Morocco",earthquake,7.26,3.525,0.038,67,reviewed,us,us
 2023-09-08T22:09:49.136Z,25.094,124.8015,74.338,4.8,mb,53,87,0.879,0.65,us,us7000kufb,2023-09-08T23:50:51.040Z,"northeast of Taiwan",earthquake,6.49,5.418,0.064,75,reviewed,us,us
 2023-09-08T22:06:10.870Z,58.1696666666667,-155.356,2.51,-0.14,ml,9,76,,0.08,av,av92036096,2023-09-09T03:01:03.850Z,"85 km NW of Karluk, Alaska",earthquake,0.23,0.48,0.188352577378976,9,reviewed,av,av
 2023-09-08T21:58:51.590Z,34.4265,-117.7085,6.36,1.13,ml,17,109,0.05094,0.11,ci,ci39661682,2023-09-08T23:19:24.409Z,"6 km W of Pinon Hills, CA",earthquake,0.21,0.37,0.145,12,reviewed,ci,ci
