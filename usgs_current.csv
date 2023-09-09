@@ -249,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T14:26:11.136Z,-26.0338,178.7678,660.178,4.9,mb,26,114,4.354,0.69,us,us7000ku9j,2023-09-08T14:43:30.040Z,"south of the Fiji Islands",earthquake,13.9,21.941,0.1,31,reviewed,us,us
 2023-09-08T14:14:50.442Z,63.419,-151.6309,6.4,1.1,ml,,,,1.19,ak,ak023bjcbac4,2023-09-08T14:16:47.336Z,"14 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-08T13:47:18.270Z,54.7435,-164.121833333333,1.42,0.89,ml,4,211,,0.15,av,av91115343,2023-09-09T00:19:07.610Z,"47 km WSW of False Pass, Alaska",earthquake,0.65,0.28,0.446700977066615,4,reviewed,av,av
-2023-09-08T13:41:36.390Z,63.6301,-149.9659,123.9,1.2,ml,,,,0.2,ak,ak023bjbvlzb,2023-09-08T13:44:08.819Z,"53 km WSW of Denali Park, Alaska",earthquake,,2.9,,,automatic,ak,ak
