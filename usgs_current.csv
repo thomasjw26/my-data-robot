@@ -162,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T22:14:57.990Z,33.522,-117.0853333,11.23,0.98,ml,27,66,0.09599,0.19,ci,ci39661706,2023-09-08T23:02:14.186Z,"7 km ENE of Temecula, CA",earthquake,0.24,0.53,0.122,27,reviewed,ci,ci
 2023-09-08T22:11:54.890Z,33.523,-116.7471667,2.87,0.64,ml,18,62,0.04308,0.12,ci,ci39661690,2023-09-08T23:21:24.598Z,"8 km WSW of Anza, CA",earthquake,0.22,0.54,0.153,16,reviewed,ci,ci
 2023-09-08T22:11:28.590Z,58.1766666666667,-155.357166666667,1.65,-0.02,ml,9,120,,0.08,av,av92036106,2023-09-09T03:34:03.796Z,"Alaska Peninsula",earthquake,0.24,0.58,0.112136403263533,9,reviewed,av,av
-2023-09-08T22:11:02.401Z,31.07,-8.3815,26.321,6.8,mww,426,12,2.368,0.71,us,us7000kufc,2023-09-09T16:29:18.358Z,"Morocco",earthquake,6,1.591,0.032,95,reviewed,us,us
+2023-09-08T22:11:02.401Z,31.07,-8.3815,26.321,6.8,mww,426,12,2.368,0.71,us,us7000kufc,2023-09-09T16:39:38.309Z,"Morocco",earthquake,6,1.591,0.032,95,reviewed,us,us
 2023-09-08T22:09:49.136Z,25.094,124.8015,74.338,4.8,mb,53,87,0.879,0.65,us,us7000kufb,2023-09-08T23:50:51.040Z,"48 km NNE of Tarama, Japan",earthquake,6.49,5.418,0.064,75,reviewed,us,us
 2023-09-08T22:06:10.870Z,58.1696666666667,-155.356,2.51,-0.14,ml,9,76,,0.08,av,av92036096,2023-09-09T03:01:03.850Z,"85 km NW of Karluk, Alaska",earthquake,0.23,0.48,0.188352577378976,9,reviewed,av,av
 2023-09-08T21:58:51.590Z,34.4265,-117.7085,6.36,1.13,ml,17,109,0.05094,0.11,ci,ci39661682,2023-09-08T23:19:24.409Z,"6 km W of Pinon Hills, CA",earthquake,0.21,0.37,0.145,12,reviewed,ci,ci
@@ -251,6 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T17:13:33.610Z,38.8393333,-122.8021667,2.52,0.2,md,14,66,0.009279,0.04,nc,nc73934636,2023-09-09T05:41:46.638Z,"7 km WNW of Cobb, CA",earthquake,0.3,0.37,0.391,15,reviewed,nc,nc
 2023-09-08T16:43:15.610Z,47.127498626708984,-121.045166015625,28.8899993896484,2.087002396583557,ml,8,136,0.3929,0.349999994,uw,uw61958201,2023-09-09T02:31:31.110Z,"9 km SW of South Cle Elum, Washington",earthquake,1.52,7.53999996,0.32671111822128296,41,reviewed,uw,uw
 2023-09-08T16:42:05.783Z,61.5061,-146.388,26,1.7,ml,,,,0.71,ak,ak023bjdo25e,2023-09-08T16:44:06.145Z,"41 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-08T16:39:13.400Z,51.856,-177.787333333333,-1.77,1.55,ml,6,273,,0.11,av,av92035816,2023-09-09T01:05:24.550Z,"79 km W of Adak, Alaska",earthquake,1.9,2.34,0.1851747506294,6,reviewed,av,av
-2023-09-08T16:37:16.993Z,19.4171,-104.935,53.694,5.8,mww,292,54,3.504,0.78,us,us7000kubt,2023-09-09T14:11:03.670Z,"4 km NE of Emiliano Zapata, Mexico",earthquake,8.26,3.114,0.034,82,reviewed,us,us
-2023-09-08T16:34:49.589Z,-19.0467,-175.5499,220.35,5.2,mb,37,67,1.52,0.9,us,us7000kubs,2023-09-08T16:52:14.040Z,"150 km WNW of Fangale’ounga, Tonga",earthquake,7.59,7.326,0.071,65,reviewed,us,us
