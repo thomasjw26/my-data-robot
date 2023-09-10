@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T08:44:38.810Z,38.833168,-122.8051682,0.35,0.75,md,11,67,0.01048,0.06,nc,nc73934961,2023-09-09T08:46:11.941Z,"7 km W of Cobb, CA",earthquake,0.29,0.99,0.23,12,automatic,nc,nc
 2023-09-09T08:32:54.520Z,33.7113333,-116.754,15.85,0.7,ml,18,65,0.0352,0.22,ci,ci39661842,2023-09-09T08:36:29.953Z,"4 km SW of Idyllwild, CA",earthquake,0.54,0.74,0.098,14,automatic,ci,ci
 2023-09-09T08:29:19.180Z,33.9221667,-117.1028333,15.34,0.82,ml,26,62,0.1017,0.2,ci,ci39661834,2023-09-09T08:32:56.786Z,"9 km SSW of Calimesa, CA",earthquake,0.29,0.72,0.129,17,automatic,ci,ci
-2023-09-09T08:28:34.744Z,2.0776,-101.7565,10,4.6,mb,73,192,11.79,0.42,us,us7000kujs,2023-09-09T08:44:44.040Z,"Galapagos Triple Junction region",earthquake,13.16,1.957,0.065,71,reviewed,us,us
