@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-13T09:41:10.640Z,38.8253326,-122.8293304,0.79,0.58,md,11,56,0.004972,0.01,nc,nc73936291,2023-09-13T09:42:45.918Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.57,0.4,11,automatic,nc,nc
 2023-09-13T09:35:08.184Z,60.2472,-152.2481,94.8,1.4,ml,,,,0.36,ak,ak023brj59k2,2023-09-13T09:37:53.609Z,"38 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-13T09:18:58.649Z,61.1712,-151.7171,74.5,0.8,ml,,,,0.26,ak,ak023brj1qa0,2023-09-13T09:20:17.254Z,"33 km WNW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-13T09:16:08.282Z,48.8938,156.1232,29.328,4.7,mb,91,135,4.336,0.62,us,us7000kvhe,2023-09-13T09:32:38.040Z,"198 km S of Severo-Kuril’sk, Russia",earthquake,10.08,5.727,0.051,117,reviewed,us,us
