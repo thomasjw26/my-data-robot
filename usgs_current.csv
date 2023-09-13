@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T17:11:19.030Z,38.8354988,-122.7891693,2.03,0.75,md,15,72,0.003047,0.02,nc,nc73936386,2023-09-13T17:12:53.566Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.45,0.14,15,automatic,nc,nc
 2023-09-13T17:02:06.384Z,61.3462,-151.9119,44,1,ml,,,,0.17,ak,ak023brnpnmm,2023-09-13T17:03:04.236Z,"50 km WNW of Beluga, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-09-13T16:45:43.940Z,36.418499,-120.9406662,7.55,2.41,md,31,126,0.06357,0.15,nc,nc73936376,2023-09-13T17:19:14.656Z,"22 km SE of Pinnacles, CA",earthquake,0.44,0.73,0.16,37,automatic,nc,nc
-2023-09-13T16:45:03.829Z,-23.0551,170.0714,10,5.2,mb,46,112,2.461,0.7,us,us7000kvj4,2023-09-13T17:04:43.040Z,"267 km E of Vao, New Caledonia",earthquake,10.28,1.893,0.056,105,reviewed,us,us
+2023-09-13T16:45:03.829Z,-23.0551,170.0714,10,5.2,mb,46,112,2.461,0.7,us,us7000kvj4,2023-09-13T17:28:21.040Z,"267 km E of Vao, New Caledonia",earthquake,10.28,1.893,0.056,105,reviewed,us,us
 2023-09-13T16:35:31.930Z,38.8216667,-122.810997,2.76,0.76,md,9,86,0.01837,0.02,nc,nc73936371,2023-09-13T16:37:08.493Z,"7 km NW of The Geysers, CA",earthquake,0.51,1.11,0.23,11,automatic,nc,nc
 2023-09-13T16:28:15.718Z,62.4888,-149.2091,0,1.3,ml,,,,0.37,ak,ak023brn9tcz,2023-09-13T16:30:06.705Z,"46 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-13T16:25:19.890Z,35.6523333,-118.3185,8.51,0.97,ml,14,81,0.0506,0.15,ci,ci39664138,2023-09-13T16:28:49.369Z,"14 km ESE of Wofford Heights, CA",earthquake,0.36,0.75,0.157,5,automatic,ci,ci
@@ -134,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T23:39:56.520Z,34.1071667,-116.904,12.42,1.1,ml,29,80,0.02974,0.12,ci,ci39663738,2023-09-13T00:04:01.491Z,"15 km ENE of Yucaipa, CA",earthquake,0.2,0.38,0.166,26,reviewed,ci,ci
 2023-09-12T23:37:38.070Z,38.8465004,-122.8191681,1.19,0.96,md,18,69,0.008777,0.03,nc,nc73936161,2023-09-12T23:39:13.722Z,"9 km WNW of Cobb, CA",earthquake,0.23,0.44,0.14,19,automatic,nc,nc
 2023-09-12T23:27:38.600Z,33.676,-116.762,14.99,0.52,ml,12,127,0.05647,0.08,ci,ci39663730,2023-09-12T23:51:44.873Z,"8 km SSW of Idyllwild, CA",earthquake,0.3,0.49,0.13,7,reviewed,ci,ci
-2023-09-12T23:17:37.599Z,51.5095,-176.4521,49.956,5,mb,94,144,0.4,0.82,us,us7000kve6,2023-09-13T11:27:44.868Z,"42 km SSE of Adak, Alaska",earthquake,6.43,5.806,0.026,474,reviewed,us,us
+2023-09-12T23:17:37.599Z,51.5095,-176.4521,49.956,5,mb,94,144,0.4,0.82,us,us7000kve6,2023-09-13T17:27:40.814Z,"42 km SSE of Adak, Alaska",earthquake,6.43,5.806,0.026,474,reviewed,us,us
 2023-09-12T23:13:58.990Z,34.083,-117.1493333,14.27,0.49,ml,3,173,0.04845,0.11,ci,ci37529013,2023-09-12T23:50:15.858Z,"2 km NW of Mentone, CA",earthquake,5.09,1.56,0.04,2,reviewed,ci,ci
 2023-09-12T23:13:47.760Z,34.0746667,-117.1463333,12.03,0.38,ml,3,178,0.051,0.01,ci,ci39663722,2023-09-12T23:48:03.849Z,"1 km WNW of Mentone, CA",earthquake,2.61,1.04,0.098,2,reviewed,ci,ci
 2023-09-12T23:12:09.850Z,36.0221672,-120.5824966,3.96,1.61,md,23,54,0.03931,0.06,nc,nc73936156,2023-09-12T23:56:13.792Z,"19 km NW of Parkfield, CA",earthquake,0.27,0.45,0.1,12,automatic,nc,nc
