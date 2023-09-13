@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-13T10:48:19.305Z,61.6381,-150.6886,52.9,1.1,ml,,,,0.55,ak,ak023brjtibu,2023-09-13T10:50:47.228Z,"14 km NW of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-09-13T10:44:10.907Z,61.6004,-149.6929,39.2,1.4,ml,,,,1.53,ak,ak023brjsmte,2023-09-13T10:51:50.717Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-13T10:20:19.708Z,64.4716,-149.4459,8.2,0.7,ml,,,,0.17,ak,ak023brjnib6,2023-09-13T10:21:40.813Z,"18 km NW of Anderson, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-09-13T10:12:50.317Z,63.0691,-148.4492,68.5,1.4,ml,,,,0.65,ak,ak023brjluxz,2023-09-13T10:14:53.750Z,"43 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-13T10:09:10.575Z,61.3402,-149.5267,36.6,1.6,ml,,,,1.2,ak,ak023brjl60k,2023-09-13T10:12:04.975Z,"3 km NE of Eagle River, Alaska",earthquake,,26.1,,,automatic,ak,ak
@@ -168,4 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T11:03:18.873Z,19.2687,121.2178,41.281,6.3,mww,133,21,4.049,0.96,us,us7000kv90,2023-09-13T08:07:01.697Z,"73 km N of Namuac, Philippines",earthquake,8.03,5.112,0.046,46,reviewed,us,us
 2023-09-12T11:02:18.350Z,19.1768333333333,-155.494666666667,34.37,3.12,ml,53,87,,0.12,hv,hv73576197,2023-09-12T20:44:41.540Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.42,0.52,0.202257776170861,38,reviewed,hv,hv
 2023-09-12T11:02:13.070Z,38.8203316,-122.73983,0.98,0.75,md,7,148,0.02507,0.01,nc,nc73936021,2023-09-12T11:03:47.550Z,"2 km W of Cobb, CA",earthquake,0.48,1.75,0.05,8,automatic,nc,nc
-2023-09-12T10:48:59.380Z,32.6308333,-117.1045,11.08,2.03,ml,44,106,0.04479,0.13,ci,ci39663282,2023-09-12T15:31:55.320Z,"5 km S of National City, CA",earthquake,0.17,0.27,0.147,45,reviewed,ci,ci
