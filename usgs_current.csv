@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-15T15:36:51.860Z,35.9225006,-120.470665,5,1.76,md,21,55,0.02416,0.07,nc,nc73937086,2023-09-15T15:38:29.583Z,"4 km NW of Parkfield, CA",earthquake,0.27,0.43,0.13,15,automatic,nc,nc
-2023-09-15T15:35:43.330Z,38.3583336,-122.5695038,10.3,2.48,md,56,29,0.07967,0.08,nc,nc73937081,2023-09-15T15:44:46.890Z,"3 km WSW of Glen Ellen, CA",earthquake,0.16,0.47,0.16,57,automatic,nc,nc
+2023-09-15T15:52:29.868Z,63.1077,-150.7813,113.3,1.3,ml,,,,0.25,ak,ak023buxw973,2023-09-15T15:54:47.454Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-09-15T15:36:51.860Z,35.9225006,-120.470665,5,1.76,md,21,55,0.02416,0.07,nc,nc73937086,2023-09-15T15:54:14.415Z,"4 km NW of Parkfield, CA",earthquake,0.27,0.43,0.13,15,automatic,nc,nc
+2023-09-15T15:35:43.330Z,38.3583336,-122.5695038,10.3,2.48,md,56,29,0.07967,0.08,nc,nc73937081,2023-09-15T15:54:15.414Z,"3 km WSW of Glen Ellen, CA",earthquake,0.16,0.47,0.16,57,automatic,nc,nc
 2023-09-15T15:25:57.150Z,35.4336667,-118.0821667,2.56,0.73,ml,13,69,0.09677,0.24,ci,ci39665954,2023-09-15T15:29:24.815Z,"34 km SW of Inyokern, CA",earthquake,0.51,0.97,0.089,7,automatic,ci,ci
 2023-09-15T15:04:50.470Z,38.8354988,-122.8154984,1.6,1.09,md,21,61,0.01281,0.03,nc,nc73937076,2023-09-15T15:06:24.988Z,"8 km W of Cobb, CA",earthquake,0.23,0.38,0.16,22,automatic,nc,nc
 2023-09-15T14:52:38.330Z,17.9655,-67.0806666666667,7.2,2.75,md,14,220,0.03491,0.11,pr,pr71424833,2023-09-15T15:21:39.810Z,"Puerto Rico region",earthquake,0.4,0.2,0.328408751037825,4,reviewed,pr,pr
@@ -22,6 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T11:38:16.130Z,44.7611667,-111.1488333,5.15,-0.34,md,6,97,0.0353,0.2,uu,uu60550202,2023-09-15T15:39:53.280Z,"3 km ESE of Hebgen Lake Estates, Montana",earthquake,0.67,1.95,0.218,4,reviewed,uu,uu
 2023-09-15T11:36:57.681Z,62.4673,-152.0895,111.1,1.2,ml,,,,0.39,ak,ak023buvf5ag,2023-09-15T11:38:57.308Z,"64 km NW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-15T11:17:34.220Z,34.4028333,-119.2026667,2.25,2.22,ml,23,82,0.06371,0.27,ci,ci39665770,2023-09-15T12:36:08.941Z,"6 km SE of Ojai, CA",earthquake,0.35,0.6,0.207,9,automatic,ci,ci
+2023-09-15T11:17:00.270Z,34.4115,-119.1948333,1.02,2.45,ml,76,54,0.05375,0.31,ci,ci39665762,2023-09-15T15:50:42.770Z,"6 km SE of Ojai, CA",earthquake,0.21,0.43,0.145,41,reviewed,ci,ci
 2023-09-15T10:58:47.890Z,34.4078333,-119.1938333,0.8,2.03,ml,40,66,0.05487,0.33,ci,ci39665746,2023-09-15T11:27:44.167Z,"6 km SE of Ojai, CA",earthquake,0.38,31.61,0.156,28,automatic,ci,ci
 2023-09-15T10:56:08.600Z,33.6765,-116.7926667,16.02,0.71,ml,18,78,0.06531,0.17,ci,ci39665738,2023-09-15T10:59:42.259Z,"10 km SW of Idyllwild, CA",earthquake,0.38,0.67,0.098,13,automatic,ci,ci
 2023-09-15T10:55:24.002Z,64.4913,-147.3386,16.1,1,ml,,,,0.5,ak,ak023buuxppa,2023-09-15T11:05:52.816Z,"21 km W of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -168,6 +170,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T16:45:51.470Z,52.0878333333333,-176.121333333333,11.68,0.45,ml,5,164,,0.08,av,av92044896,2023-09-15T01:39:35.470Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.73,0.77,0.23159105413428,5,reviewed,av,av
 2023-09-14T16:22:38.860Z,38.7849998,-122.7464981,1.29,0.94,md,5,159,0.007838,0.01,nc,nc73936766,2023-09-14T16:24:13.505Z,"1 km NE of The Geysers, CA",earthquake,1.22,0.74,0.25,6,automatic,nc,nc
 2023-09-14T16:11:43.340Z,58.1615,-155.386333333333,1.43,0.07,ml,8,83,,0.07,av,av92044866,2023-09-15T01:36:37.810Z,"86 km NW of Karluk, Alaska",earthquake,0.23,1.25,0.184051581543412,8,reviewed,av,av
-2023-09-14T16:09:39.057Z,59.902,-151.4437,57.7,1.9,ml,,,,0.54,ak,ak023btap51t,2023-09-14T16:11:47.467Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-09-14T16:09:39.057Z,59.902,-151.4437,57.7,1.9,ml,,,,0.54,ak,ak023btap51t,2023-09-14T16:11:47.467Z,"13 km NE of Nikolaevsk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-14T15:59:29.090Z,60.0425,-153.083,-1.93,-0.26,ml,5,95,,0.05,av,av92044851,2023-09-15T01:29:30.200Z,"Southern Alaska",earthquake,0.18,3.42,0.472876894344771,4,reviewed,av,av
-2023-09-14T15:51:22.300Z,36.0965,-120.1545,7.57,1.22,md,22,233,0.1388,0.04,nc,nc73936761,2023-09-14T20:29:19.971Z,"10 km NNW of Avenal, CA",earthquake,1.16,0.46,0.18,10,reviewed,nc,nc
