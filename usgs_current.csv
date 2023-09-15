@@ -189,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T05:57:17.130Z,34.0375,-117.1236667,10.52,0.86,ml,36,42,0.009565,0.16,ci,ci39664642,2023-09-14T14:16:30.771Z,"4 km SSE of Mentone, CA",earthquake,0.17,0.4,0.107,16,reviewed,ci,ci
 2023-09-14T05:55:12.130Z,47.7653333333333,-113.829666666667,15.41,0.59,ml,7,139,0.157,0.08,mb,mb90027223,2023-09-14T22:50:14.410Z,"17 km E of Finley Point, Montana",earthquake,0.56,0.71,0.155964959692165,2,reviewed,mb,mb
 2023-09-14T05:53:16.324Z,30.9682,-8.3749,9.688,4.6,mb,45,48,2.462,1.13,us,us7000kvnm,2023-09-15T00:07:59.407Z,"Morocco",earthquake,8.33,4.332,0.1,30,reviewed,us,us
-2023-09-14T05:26:38.057Z,39.4072,-120.1452,7.7,1,ml,10,159.09,0.142,0.1923,nn,nn00865820,2023-09-15T02:04:29.832Z,"Northern California",earthquake,,3.4,0.61,5,reviewed,nn,nn
