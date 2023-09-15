@@ -170,4 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T07:49:53.047Z,39.57,-118.1203,6.6,0.8,ml,4,171.33,0.234,0.0838,nn,nn00865823,2023-09-15T02:04:35.240Z,"54 km ENE of Fallon Station, Nevada",earthquake,,13.8,0.24,3,reviewed,nn,nn
 2023-09-14T07:44:55.549Z,39.1238,-119.7309,8.4,0.8,ml,10,84.44,0.035,0.1642,nn,nn00865822,2023-09-15T02:04:34.545Z,"5 km SE of Carson City, Nevada",earthquake,,1.4,0.17,2,reviewed,nn,nn
 2023-09-14T07:40:55.780Z,33.4905,-116.7621667,8.19,0.25,ml,22,73,0.04067,0.14,ci,ci39664738,2023-09-14T15:40:32.992Z,"11 km SW of Anza, CA",earthquake,0.19,0.5,0.13,7,reviewed,ci,ci
-2023-09-14T07:32:51.100Z,28.0009,-112.1355,10,4,mb,29,137,0.685,0.56,us,us7000kvns,2023-09-14T08:07:49.040Z,"74 km N of Santa Rosalía, Mexico",earthquake,4.69,2.009,0.172,10,reviewed,us,us
