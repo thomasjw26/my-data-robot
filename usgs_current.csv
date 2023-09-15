@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-15T15:36:51.860Z,35.9225006,-120.470665,5,1.76,md,21,55,0.02416,0.07,nc,nc73937086,2023-09-15T15:38:29.583Z,"4 km NW of Parkfield, CA",earthquake,0.27,0.43,0.13,15,automatic,nc,nc
-2023-09-15T15:35:43.330Z,38.3583336,-122.5695038,10.3,2.48,md,56,29,0.07967,0.08,nc,nc73937081,2023-09-15T15:42:16.349Z,"3 km WSW of Glen Ellen, CA",earthquake,0.16,0.47,0.16,57,automatic,nc,nc
+2023-09-15T15:35:43.330Z,38.3583336,-122.5695038,10.3,2.48,md,56,29,0.07967,0.08,nc,nc73937081,2023-09-15T15:44:46.890Z,"3 km WSW of Glen Ellen, CA",earthquake,0.16,0.47,0.16,57,automatic,nc,nc
 2023-09-15T15:25:57.150Z,35.4336667,-118.0821667,2.56,0.73,ml,13,69,0.09677,0.24,ci,ci39665954,2023-09-15T15:29:24.815Z,"34 km SW of Inyokern, CA",earthquake,0.51,0.97,0.089,7,automatic,ci,ci
 2023-09-15T15:04:50.470Z,38.8354988,-122.8154984,1.6,1.09,md,21,61,0.01281,0.03,nc,nc73937076,2023-09-15T15:06:24.988Z,"8 km W of Cobb, CA",earthquake,0.23,0.38,0.16,22,automatic,nc,nc
 2023-09-15T14:52:38.330Z,17.9655,-67.0806666666667,7.2,2.75,md,14,220,0.03491,0.11,pr,pr71424833,2023-09-15T15:21:39.810Z,"Puerto Rico region",earthquake,0.4,0.2,0.328408751037825,4,reviewed,pr,pr
+2023-09-15T14:25:32.340Z,46.19616666666667,-122.19416666666666,2.48,0.08,ml,11,101,0.004283,0.08,uw,uw61960016,2023-09-15T15:43:12.240Z,"Washington",earthquake,0.41,0.72,0.15907358188314175,9,reviewed,uw,uw
 2023-09-15T14:06:47.900Z,46.55283333333333,-122.42966666666666,14.32,0.85,ml,13,106,0.09505,0.14,uw,uw61960011,2023-09-15T15:37:50.880Z,"4 km ENE of Mossyrock, Washington",earthquake,0.43,1.11,0.15058586726034096,5,reviewed,uw,uw
 2023-09-15T13:48:07.110Z,34.073,-117.2493333,18.04,0.83,ml,19,178,0.1188,0.13,ci,ci39665866,2023-09-15T15:22:08.771Z,"3 km NNE of Loma Linda, CA",earthquake,0.31,0.56,0.071,10,reviewed,ci,ci
 2023-09-15T13:46:48.750Z,33.4353333,-116.3845,9.53,0.61,ml,16,112,0.1689,0.16,ci,ci39665850,2023-09-15T13:50:19.359Z,"20 km N of Borrego Springs, CA",earthquake,0.35,2.11,0.136,15,automatic,ci,ci
@@ -170,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T16:09:39.057Z,59.902,-151.4437,57.7,1.9,ml,,,,0.54,ak,ak023btap51t,2023-09-14T16:11:47.467Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-14T15:59:29.090Z,60.0425,-153.083,-1.93,-0.26,ml,5,95,,0.05,av,av92044851,2023-09-15T01:29:30.200Z,"Southern Alaska",earthquake,0.18,3.42,0.472876894344771,4,reviewed,av,av
 2023-09-14T15:51:22.300Z,36.0965,-120.1545,7.57,1.22,md,22,233,0.1388,0.04,nc,nc73936761,2023-09-14T20:29:19.971Z,"10 km NNW of Avenal, CA",earthquake,1.16,0.46,0.18,10,reviewed,nc,nc
-2023-09-14T15:43:42.720Z,58.188,-155.322333333333,2.38,0.48,ml,13,53,,0.14,av,av92044836,2023-09-15T01:26:04.350Z,"86 km NW of Karluk, Alaska",earthquake,0.23,0.36,0.258162134426942,13,reviewed,av,av
