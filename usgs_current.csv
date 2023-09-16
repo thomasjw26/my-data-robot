@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-16T15:24:50.500Z,36.5731659,-121.2115021,7.57,1.18,md,9,103,0.02106,0.27,nc,nc73937531,2023-09-16T15:26:28.154Z,"8 km NW of Pinnacles, CA",earthquake,1.4,1.92,0.18,7,automatic,nc,nc
+2023-09-16T15:24:50.500Z,36.5731659,-121.2115021,7.57,1.18,md,9,103,0.02106,0.27,nc,nc73937531,2023-09-16T15:42:14.135Z,"8 km NW of Pinnacles, CA",earthquake,1.4,1.92,0.18,7,automatic,nc,nc
 2023-09-16T15:14:45.910Z,38.836834,-122.7988358,2.09,1.02,md,17,67,0.006816,0.01,nc,nc73937521,2023-09-16T15:16:23.241Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.49,0.1,17,automatic,nc,nc
 2023-09-16T15:11:14.330Z,17.8975,-66.8618333333333,12.42,3.26,md,27,221,0.0789,0.15,pr,pr71425038,2023-09-16T15:37:11.650Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.56,0.34,0.0294349855479437,14,reviewed,pr,pr
 2023-09-16T15:07:51.310Z,38.8035011,-122.7914963,0.74,0.78,md,7,108,0.005361,0.05,nc,nc73937516,2023-09-16T15:09:28.091Z,"4 km NW of The Geysers, CA",earthquake,0.44,0.73,0.1,11,automatic,nc,nc
