@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-17T14:20:14.340Z,34.7029991,-120.1856689,16.18,1.44,ml,9,107,0.08417,0.22,ci,ci39667490,2023-09-17T14:22:29.375Z,"8 km WNW of Los Olivos, CA",earthquake,1.05,2.16,0.246,4,automatic,ci,ci
+2023-09-17T14:18:26.680Z,38.8754997,-122.8168335,1.93,0.74,md,14,163,0.00518,0.02,nc,nc73937851,2023-09-17T14:20:02.165Z,"10 km NW of Cobb, CA",earthquake,0.56,0.62,0.19,12,automatic,nc,nc
 2023-09-17T13:55:28.910Z,61.5014,-146.0042,34.7,1.9,ml,,,,0.96,ak,ak023by7spvd,2023-09-17T13:58:34.062Z,"45 km NNE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-17T13:42:22.506Z,61.2769,-150.439,46.7,1.6,ml,,,,0.56,ak,ak023by7px2i,2023-09-17T13:44:11.266Z,"26 km WSW of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-17T13:32:34.594Z,61.6041,-146.5358,33.4,1.9,ml,,,,0.43,ak,ak023by7nsub,2023-09-17T13:33:57.762Z,"44 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-17T13:15:52.810Z,44.2835,-114.831833333333,2.05,2.2,ml,14,64,0.7815,0.22,mb,mb90027513,2023-09-17T14:17:38.160Z,"11 km NE of Stanley, Idaho",earthquake,0.52,3.33,0.19489451620371,13,reviewed,mb,mb
 2023-09-17T13:02:36.867Z,60.7231,-151.9834,73.3,1.6,ml,,,,0.77,ak,ak023by7hdja,2023-09-17T13:05:38.936Z,"38 km W of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-17T12:58:45.533Z,-15.6024,168.1502,10,4.6,mb,26,136,6.142,0.74,us,us7000kwb6,2023-09-17T13:18:56.040Z,"Vanuatu",earthquake,9.4,1.84,0.133,18,reviewed,us,us
 2023-09-17T12:12:18.100Z,33.4938333,-116.5005,11.01,0.67,ml,16,92,0.0691,0.16,ci,ci39667442,2023-09-17T13:54:37.399Z,"17 km ESE of Anza, CA",earthquake,0.29,0.92,0.151,15,reviewed,ci,ci
