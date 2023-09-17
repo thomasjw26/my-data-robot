@@ -136,4 +136,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T18:55:41.430Z,17.9925,-66.9918333333333,10.73,2.54,md,17,142,0.05489,0.16,pr,pr71425048,2023-09-16T19:10:19.820Z,"6 km ENE of La Parguera, Puerto Rico",earthquake,0.39,0.45,0.116899518403001,6,reviewed,pr,pr
 2023-09-16T18:50:37.867Z,61.5634,-150.1055,44.5,1.8,ml,,,,0.7,ak,ak023bwn7hii,2023-09-16T18:52:01.524Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-16T18:34:09.460Z,35.6001667,-117.4843333,2.67,0.96,ml,13,95,0.08147,0.21,ci,ci39667138,2023-09-16T18:37:38.486Z,"18 km E of Ridgecrest, CA",earthquake,0.41,0.86,0.158,6,automatic,ci,ci
-2023-09-16T18:28:20.213Z,45.0339,149.8333,35,4.5,mb,56,104,5.253,0.98,us,us7000kw7z,2023-09-16T22:10:56.040Z,"Kuril Islands",earthquake,11.15,1.926,0.08,46,reviewed,us,us
