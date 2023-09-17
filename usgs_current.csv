@@ -147,4 +147,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T10:01:07.760Z,35.6301667,-117.4581667,9.38,1.41,ml,18,68,0.04476,0.19,ci,ci39666794,2023-09-16T16:11:49.139Z,"16 km SSW of Searles Valley, CA",earthquake,0.34,0.89,0.149,15,reviewed,ci,ci
 2023-09-16T09:57:40.697Z,14.9124,-94.5272,10,4.2,mb,31,151,2.676,0.99,us,us7000kw5s,2023-09-16T10:46:04.040Z,"138 km SW of Cabeza de Toro, Mexico",earthquake,5.22,1.908,0.076,49,reviewed,us,us
 2023-09-16T09:56:40.190Z,17.9431666666667,-66.8808333333333,12.03,2.44,md,12,211,0.03175,0.17,pr,pr71424988,2023-09-16T10:15:49.970Z,"3 km SSE of Maria Antonia, Puerto Rico",earthquake,0.76,0.59,0.0574330348680583,3,reviewed,pr,pr
-2023-09-16T09:53:40.290Z,17.8895,-66.8678333333333,12.88,3.04,md,18,238,0.08578,0.13,pr,pr71424973,2023-09-16T10:15:28.880Z,"10 km SSE of Guánica, Puerto Rico",earthquake,0.55,0.4,0.297217807342181,10,reviewed,pr,pr
