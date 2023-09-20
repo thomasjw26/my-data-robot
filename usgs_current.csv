@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-20T23:44:40.880Z,39.409668,-122.8556671,7.17,1.77,md,7,182,0.5552,0.27,nc,nc73939611,2023-09-20T23:46:15.644Z,"9 km E of Lake Pillsbury, CA",earthquake,5.57,5.58,,1,automatic,nc,nc
 2023-09-20T23:29:04.369Z,63.0991,-149.9817,10.3,1.6,ml,,,,0.73,ak,ak023c3c7gw4,2023-09-20T23:30:53.220Z,"61 km WSW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-20T23:15:47.109Z,63,-150.9146,123.9,3.3,ml,,,,0.32,ak,ak023c3c4k4z,2023-09-20T23:17:48.282Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-20T23:12:28.996Z,59.6864,-153.2834,109.1,2,ml,,,,0.49,ak,ak023c3c3vms,2023-09-20T23:14:09.121Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
