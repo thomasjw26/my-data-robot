@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-21T11:15:30.428Z,34.46061707,-97.76234436,4.409198761,2.14,ml,15,61.16467285,0.151585862,1.027362512,ok,ok2023snjp,2023-09-21T11:18:03.819Z,"8 km W of Velma, Oklahoma",earthquake,3.25176254,2.482559496,0.25,8,automatic,ok,ok
 2023-09-21T11:04:31.902Z,62.6435,-149.7081,10.2,1.4,ml,,,,0.56,ak,ak023c4sgbdu,2023-09-21T11:07:10.986Z,"29 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-21T10:59:21.506Z,34.45410538,-97.742836,1.733554602,2.24,ml,25,35.05210876,0.1642169803,1.01285141,ok,ok2023snjb,2023-09-21T11:03:52.954Z,"6 km W of Velma, Oklahoma",earthquake,2.457135642,1.721062545,0.19,15,automatic,ok,ok
 2023-09-21T10:56:37.580Z,35.6808333,-117.5406667,3.77,1.02,ml,9,135,0.09651,0.13,ci,ci39670146,2023-09-21T11:00:07.265Z,"14 km ENE of Ridgecrest, CA",earthquake,0.58,1.77,0.124,5,automatic,ci,ci
