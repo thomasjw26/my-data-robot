@@ -82,6 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T10:48:38.780Z,48.178333333333335,-121.4965,9.97,0.91,ml,11,108,0.09702,0.18,uw,uw61961181,2023-09-21T17:20:34.780Z,"11 km SE of Darrington, Washington",earthquake,0.46,1.09,0.2310148067392258,2,reviewed,uw,uw
 2023-09-21T10:35:05.310Z,33.4913333,-116.5856667,9.83,0.51,ml,22,73,0.01422,0.12,ci,ci39670138,2023-09-21T14:30:10.503Z,"11 km SE of Anza, CA",earthquake,0.2,0.38,0.226,7,reviewed,ci,ci
 2023-09-21T10:22:25.969Z,36.14516667,-98.09733333,6.91,1.3,ml,45,44,0.2051597407,0.17,ok,ok2023snhv,2023-09-21T20:22:27.708Z,"13 km SE of Ames, Oklahoma",earthquake,,0.4,0.23,6,reviewed,ok,ok
+2023-09-21T10:15:49.160Z,58.2165,-155.1145,4.08,0.21,ml,6,93,,0.13,av,av92052571,2023-09-21T20:46:30.160Z,"82 km NNW of Karluk, Alaska",earthquake,0.32,1.29,0.238362325698514,7,reviewed,av,av
 2023-09-21T10:11:05.100Z,33.6348333,-116.686,13.42,0.33,ml,18,66,0.03547,0.1,ci,ci39670130,2023-09-21T14:25:19.472Z,"9 km N of Anza, CA",earthquake,0.24,0.43,0.109,6,reviewed,ci,ci
 2023-09-21T10:09:24.493Z,-23.2426,-66.7283,204.544,4.5,mb,56,34,1.367,1.16,us,us7000kx27,2023-09-21T10:39:35.040Z,"107 km W of El Aguilar, Argentina",earthquake,7.87,7.616,0.065,70,reviewed,us,us
 2023-09-21T10:07:45.150Z,44.4545,-111.0051667,6.7,0.83,ml,9,130,0.1213,0.25,uu,uu60550547,2023-09-21T13:22:02.980Z,"24 km SSE of West Yellowstone, Montana",earthquake,1.48,7.02,0.251,2,reviewed,uu,uu
@@ -204,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T21:08:05.690Z,38.8443336,-122.8381653,1.67,0.63,md,8,137,0.006106,0.01,nc,nc73939556,2023-09-20T21:09:39.954Z,"10 km WNW of Cobb, CA",earthquake,0.39,0.65,0.15,9,automatic,nc,nc
 2023-09-20T21:01:10.360Z,38.8376656,-122.7985001,2.19,0.21,md,9,70,0.006413,0.02,nc,nc73939551,2023-09-20T21:02:44.711Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.49,0.09,9,automatic,nc,nc
 2023-09-20T20:48:45.218Z,31.64950204,-104.4291219,4.254882812,1.974378152,ml(texnet),17,78.40931208,0.007152892132,0.2259094218,tx,tx2023smgz,2023-09-21T17:43:32.375Z,"58 km S of Whites City, New Mexico",earthquake,1.546488992,1.030026856,0.1073502336,7,reviewed,tx,tx
-2023-09-20T20:41:30.190Z,60.4837,-152.6915,102.8,1.6,ml,,,,0.51,ak,ak023c3ahsnv,2023-09-20T20:43:32.786Z,"74 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
