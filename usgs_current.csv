@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T15:07:53.580Z,37.5948334,-118.8601685,5.84,1.51,md,14,177,0.02422,0.03,nc,nc73939851,2023-09-21T15:09:29.709Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.71,0.99,0.1,15,automatic,nc,nc
 2023-09-21T15:05:14.470Z,37.5948334,-118.8608322,5.73,2.18,md,22,142,0.02418,0.03,nc,nc73939846,2023-09-21T19:45:14.057Z,"11 km ESE of Mammoth Lakes, CA",earthquake,0.29,0.44,0.18,25,automatic,nc,nc
 2023-09-21T15:01:35.680Z,38.8160019,-122.8271637,1.83,0.69,md,6,101,0.007295,0.01,nc,nc73939841,2023-09-21T15:03:09.695Z,"8 km NW of The Geysers, CA",earthquake,0.47,1.03,0.23,9,automatic,nc,nc
-2023-09-21T14:46:12.480Z,51.9201666666667,179.4605,11.3,1.2,ml,6,275,,0.21,av,av92052746,2023-09-21T23:42:34.710Z,"268 km W of Adak, Alaska",earthquake,1.04,1.19,0.257170711432395,6,reviewed,av,av
