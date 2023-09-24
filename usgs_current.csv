@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-24T11:09:43.104Z,58.1771,-155.3991,1.1,0.2,ml,,,,0.16,ak,ak023c9r3g9y,2023-09-24T11:11:39.227Z,"87 km NW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-09-24T10:46:08.110Z,19.156665802002,-155.356994628906,26.5799999237061,2.27,ml,47,182,,0.119999997,hv,hv73584537,2023-09-24T10:52:11.040Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.5,0.889999986,3.54,11,automatic,hv,hv
 2023-09-24T10:42:03.670Z,33.5588333,-116.6506667,2.29,0.78,ml,30,44,0.01852,0.14,ci,ci40571480,2023-09-24T10:45:37.240Z,"2 km ENE of Anza, CA",earthquake,0.16,0.19,0.129,24,automatic,ci,ci
 2023-09-24T10:40:26.630Z,19.1663341522217,-155.488159179688,32.0400009155273,1.78999996,md,30,164,,0.119999997,hv,hv73584532,2023-09-24T10:43:44.750Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.59,0.920000017,0.889999986,3,automatic,hv,hv
@@ -215,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-23T11:27:43.540Z,37.5431667,-118.8385,2.77,0.79,md,9,286,0.04737,0.06,nc,nc73940666,2023-09-23T18:18:30.837Z,"14 km W of Toms Place, CA",earthquake,1.06,1.08,0.1,8,reviewed,nc,nc
 2023-09-23T11:17:30.247Z,62.0355,-147.8024,34,0.9,ml,,,,0.17,ak,ak023c83lsio,2023-09-23T11:18:59.098Z,"26 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-23T11:16:43.220Z,38.8356667,-122.8008347,2.15,0.75,md,16,62,0.008639,0.01,nc,nc73940661,2023-09-23T11:18:16.782Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.63,0.12,15,automatic,nc,nc
-2023-09-23T11:14:06.793Z,59.5454,-153.0178,25.4,2.1,ml,,,,1.09,ak,ak023c83l3k7,2023-09-23T11:16:07.716Z,"65 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-23T11:12:51.151Z,64.4787,-146.9353,10.4,3.9,ml,,,,0.83,ak,ak023c83krjp,2023-09-24T09:14:50.517Z,"5 km SSW of Salcha, Alaska",earthquake,,0.1,,,reviewed,ak,ak
