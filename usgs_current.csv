@@ -189,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T21:48:06.532Z,44.461,-115.195,10,2.5,ml,16,63,0.686,0.24,us,us7000ky20,2023-09-26T19:52:58.720Z,"33 km NW of Stanley, Idaho",earthquake,1.91,2.012,0.081,20,reviewed,us,us
 2023-09-25T21:46:45.960Z,60.0163,-139.5237,0,1.7,ml,,,,0.92,ak,ak023cbkt2u9,2023-09-25T21:49:44.113Z,"53 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-25T21:42:05.940Z,38.8413315,-122.8253326,1.89,1.04,md,14,103,0.00839,0.02,nc,nc73941871,2023-09-25T21:43:40.444Z,"9 km WNW of Cobb, CA",earthquake,0.26,0.47,0.13,15,automatic,nc,nc
-2023-09-25T21:37:54.209Z,31.61,-104.261,6.6714,1.8,ml(texnet),21,70,0.1,0.2,tx,tx2023svmd,2023-09-26T13:26:56.544Z,"55 km NW of Toyah, Texas",earthquake,1.214100441,1.716464403,0,7,reviewed,tx,tx
