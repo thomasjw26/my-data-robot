@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-26T07:02:46.195Z,62.8092,-148.5186,15.9,1.4,ml,,,,0.32,ak,ak023cczqx2j,2023-09-26T07:04:11.192Z,"Central Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-09-26T07:00:16.838Z,62.7389,-148.6271,3.9,1.9,ml,,,,0.62,ak,ak023cczqfbz,2023-09-26T07:01:48.580Z,"74 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-26T06:56:51.491Z,60.4267,-153.9703,46.5,2.4,ml,,,,1.09,ak,ak023cczh2a4,2023-09-26T07:01:52.450Z,"Southern Alaska",earthquake,,4.7,,,automatic,ak,ak
 2023-09-26T06:50:36.670Z,34.0616667,-116.7031667,7.87,1.24,ml,43,36,0.05133,0.17,ci,ci40572600,2023-09-26T06:54:09.637Z,"11 km W of Morongo Valley, CA",earthquake,0.21,0.57,0.151,27,automatic,ci,ci
 2023-09-26T06:42:21.759Z,62.1683,-149.4537,34.6,2.6,ml,,,,0.56,ak,ak023ccze06z,2023-09-26T06:43:50.464Z,"20 km E of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-09-26T06:37:49.160Z,17.9431666666667,-66.848,14.45,2.48,md,12,213,0.04349,0.17,pr,pr71426003,2023-09-26T06:55:51.470Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.87,0.65,0.0735109545834418,5,reviewed,pr,pr
 2023-09-26T06:37:20.080Z,33.2725,-116.7801667,12.34,0.52,ml,17,100,0.0406,0.16,ci,ci40572592,2023-09-26T06:40:47.760Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.35,0.79,0.092,10,automatic,ci,ci
 2023-09-26T06:32:19.900Z,18.4893333333333,-66.1171666666667,103.14,3.22,md,18,187,0.1821,0.14,pr,pr71425993,2023-09-26T06:54:22.190Z,"2 km NNW of San Juan, Puerto Rico",earthquake,1.23,0.67,0.0841071786146323,8,reviewed,pr,pr
 2023-09-26T06:28:45.660Z,38.7773323,-122.7229996,2,0.96,md,7,76,0.01224,0.01,nc,nc73942036,2023-09-26T06:30:23.569Z,"3 km W of Anderson Springs, CA",earthquake,0.99,2.24,0.33,8,automatic,nc,nc
@@ -194,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T07:17:18.200Z,33.5621667,-116.6523333,3.93,-0.11,ml,15,60,0.01873,0.14,ci,ci40572032,2023-09-25T14:31:42.128Z,"2 km ENE of Anza, CA",earthquake,0.24,0.38,0.146,9,reviewed,ci,ci
 2023-09-25T07:11:19.019Z,60.5073,-151.9049,80.6,1.2,ml,,,,0.53,ak,ak023cbc9fx9,2023-09-25T07:13:24.715Z,"34 km WSW of Salamatof, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-09-25T07:10:00.091Z,64.4423,-146.793,12.1,0.7,ml,,,,0.41,ak,ak023cbc93jz,2023-09-25T07:12:03.994Z,"10 km SSE of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-25T06:57:45.899Z,13.8217,-91.8928,35,4.6,mb,129,166,2.054,0.9,us,us7000kxy5,2023-09-25T14:12:41.040Z,"52 km S of Champerico, Guatemala",earthquake,9.99,1.954,0.033,280,reviewed,us,us
