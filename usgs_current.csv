@@ -185,7 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T18:40:34.500Z,33.2076667,-116.0613333,9.41,1.49,ml,42,52,0.07794,0.14,ci,ci40572280,2023-09-25T21:00:15.930Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.16,0.43,0.128,22,reviewed,ci,ci
 2023-09-25T18:40:08.850Z,33.213,-116.0583333,9.28,0.98,ml,16,63,0.07822,0.11,ci,ci40572272,2023-09-25T20:46:11.676Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.23,0.63,0.096,12,reviewed,ci,ci
 2023-09-25T18:24:01.335Z,61.2485,-148.6667,26.9,1.1,ml,,,,0.56,ak,ak023cbivyit,2023-09-25T18:25:46.995Z,"26 km SSE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-25T18:13:02.037Z,61.7781,-149.5171,5.4,0.9,ml,,,,0.58,ak,ak023cbitlp7,2023-09-25T18:14:28.054Z,"15 km WNW of Fishhook, Alaska",earthquake,,3.8,,,automatic,ak,ak
-2023-09-25T18:10:11.669Z,34.07033333,-97.43233333,6.31,2.51,ml,77,46,0,0.37,ok,ok2023svfh,2023-09-25T21:15:16.753Z,"10 km S of Wilson, Oklahoma",earthquake,,0.9,0.24,22,reviewed,ok,ok
-2023-09-25T17:59:04.640Z,38.840332,-122.8246689,1.93,1.03,md,21,90,0.008626,0.02,nc,nc73941831,2023-09-25T18:00:40.544Z,"9 km WNW of Cobb, CA",earthquake,0.22,0.51,0.23,22,automatic,nc,nc
-2023-09-25T17:58:57.836Z,57.6482,-156.1792,2.8,1.2,ml,,,,0.35,ak,ak023cbihxmf,2023-09-25T17:59:57.637Z,"74 km E of Ugashik, Alaska",earthquake,,2.1,,,automatic,ak,ak
