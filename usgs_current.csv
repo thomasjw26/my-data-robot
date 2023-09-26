@@ -34,12 +34,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T12:33:54.360Z,34.0435,-116.8051667,12.9,1.33,ml,56,29,0.008607,0.17,ci,ci40572744,2023-09-26T16:12:35.690Z,"14 km N of Cabazon, CA",earthquake,0.14,0.35,0.149,40,reviewed,ci,ci
 2023-09-26T12:28:16.180Z,35.6773333,-117.5251667,13.05,2.01,ml,24,73,0.0835,0.19,ci,ci40572736,2023-09-26T13:02:41.080Z,"15 km SW of Searles Valley, CA",earthquake,0.33,0.83,0.095,22,reviewed,ci,ci
 2023-09-26T12:25:41.570Z,34.0516667,-116.9641667,15.72,0.81,ml,33,34,0.04792,0.13,ci,ci40572728,2023-09-26T16:00:24.525Z,"8 km ENE of Yucaipa, CA",earthquake,0.17,0.42,0.104,17,reviewed,ci,ci
+2023-09-26T12:21:45.970Z,43.6046666666667,-110.499833333333,1.78,0.57,ml,7,272,0.07591,0.06,mb,mb90028258,2023-09-26T16:59:28.760Z,"10 km ESE of Kelly, Wyoming",earthquake,0.78,0.67,0.137472831418359,5,reviewed,mb,mb
 2023-09-26T12:20:26.620Z,38.8520012,-122.7768326,1.22,0.39,md,8,162,0.009392,0.03,nc,nc73942096,2023-09-26T12:22:00.673Z,"6 km NW of Cobb, CA",earthquake,0.4,0.52,0.29,8,automatic,nc,nc
 2023-09-26T12:13:58.168Z,60.4814,-153.1314,155.3,1.5,ml,,,,0.49,ak,ak023cd2sgw8,2023-09-26T12:16:10.818Z,"72 km ENE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-26T12:10:14.491Z,61.4856,-149.9816,19.7,1.7,ml,,,,0.75,ak,ak023cd2rqej,2023-09-26T12:11:42.401Z,"4 km SSW of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-26T11:56:40.230Z,37.8321648,-121.8024979,0.87,2,md,18,77,0.1126,0.22,nc,nc73942086,2023-09-26T11:58:15.880Z,"9 km E of Blackhawk, CA",earthquake,0.49,2.74,0.16,11,automatic,nc,nc
 2023-09-26T11:50:35.160Z,35.7211667,-117.559,2.29,0.86,ml,12,83,0.1235,0.14,ci,ci40572712,2023-09-26T13:02:15.783Z,"15 km WSW of Searles Valley, CA",earthquake,0.37,0.65,0.104,8,reviewed,ci,ci
-2023-09-26T11:44:47.040Z,35.7798333,-117.603,6.48,2.35,ml,26,92,0.1347,0.15,ci,ci40572704,2023-09-26T11:48:23.669Z,"18 km W of Searles Valley, CA",earthquake,0.26,0.94,0.159,25,automatic,ci,ci
+2023-09-26T11:44:47.010Z,35.7795,-117.6016667,7.18,2.45,ml,32,92,0.1358,0.13,ci,ci40572704,2023-09-26T16:53:48.930Z,"18 km W of Searles Valley, CA",earthquake,0.16,0.48,0.139,61,reviewed,ci,ci
 2023-09-26T11:43:30.514Z,61.7013,-151.9561,94,1.4,ml,,,,0.14,ak,ak023cd2demz,2023-09-26T11:44:50.971Z,"43 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-26T11:28:34.790Z,19.4139995574951,-155.31266784668,3.22000002861023,1.8,ml,31,68,,0.180000007,hv,hv73585767,2023-09-26T11:34:05.120Z,"8 km WSW of Volcano, Hawaii",earthquake,0.32,0.529999971,0.15,5,automatic,hv,hv
 2023-09-26T11:21:01.220Z,33.2738333,-116.7736667,12.84,0.74,ml,24,53,0.109,0.19,ci,ci40572696,2023-09-26T11:24:37.932Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.3,0.86,0.111,20,automatic,ci,ci
@@ -196,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T17:03:19.290Z,17.9885,-66.8541666666667,11.53,2.5,md,4,164,0.02737,0.18,pr,pr71425878,2023-09-25T17:19:51.500Z,"3 km SE of Palomas, Puerto Rico",earthquake,4.72,2.14,0.241869394901518,3,reviewed,pr,pr
 2023-09-25T17:02:40.061Z,57.6633,-156.1812,2.7,2.1,ml,,,,0.77,ak,ak023cbi5w5i,2023-09-25T17:04:27.778Z,"74 km ENE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-25T17:02:36.750Z,35.6746667,-117.5553333,9.4,1.4,ml,22,76,0.09044,0.1,ci,ci40572224,2023-09-25T20:28:26.900Z,"12 km ENE of Ridgecrest, CA",earthquake,0.18,0.5,0.104,13,reviewed,ci,ci
-2023-09-25T16:55:49.390Z,19.1544990539551,-155.499160766602,34.4000015258789,1.91999996,md,37,128,,0.109999999,hv,hv73585192,2023-09-25T16:59:01.680Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.68,1,1.19000006,14,automatic,hv,hv
