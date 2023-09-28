@@ -182,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T08:12:39.650Z,46.18983333333333,-122.207,3.59,0.5700000000000001,ml,8,114,0.01336,0.23,uw,uw61953577,2023-09-27T19:55:07.370Z,"36 km NNE of Amboy, Washington",earthquake,1.11,1.31,0.09352385238193739,6,reviewed,uw,uw
 2023-09-27T08:06:48.790Z,32.0986667,-116.4603333,21.24,2.19,ml,24,109,0.2746,0.21,ci,ci40573288,2023-09-27T16:18:03.189Z,"30 km NNE of Ensenada, B.C., MX",earthquake,0.38,1.16,0.197,10,reviewed,ci,ci
 2023-09-27T07:52:34.060Z,64.8116,-154.7819,0,1.4,ml,,,,1.41,ak,ak023cenkyfl,2023-09-27T07:55:16.137Z,"34 km ENE of Ruby, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-27T07:34:12.540Z,39.1288,-119.6421,7.8,1.5,ml,21,41.55,0.052,0.1236,nn,nn00866416,2023-09-27T16:23:17.936Z,"11 km NE of Johnson Lane, Nevada",earthquake,,0.8,0.17,10,reviewed,nn,nn
-2023-09-27T07:31:54.440Z,38.8246651,-122.8239975,0.89,1.05,md,18,47,0.01095,0.02,nc,nc73942501,2023-09-27T07:33:27.973Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.52,0.21,18,automatic,nc,nc
