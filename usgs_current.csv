@@ -11,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T17:03:42.741Z,60.2601,-140.9261,6.7,1.3,ml,,,,0.59,ak,ak023ci4bi1u,2023-09-29T17:05:44.967Z,"103 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-29T17:02:38.030Z,39.4519997,-121.92733,20.88,2.56,ml,8,182,0.2767,0.16,nc,nc73943431,2023-09-29T17:35:17.290Z,"19 km WNW of Biggs, CA",earthquake,1.53,3.88,0.329,4,automatic,nc,nc
 2023-09-29T17:00:49.140Z,32.6888351,-116.2368317,11.28,1.66,ml,11,149,0.1141,0.25,ci,ci40574504,2023-09-29T17:02:54.575Z,"23 km WSW of Ocotillo, CA",earthquake,0.97,1.69,0.295,11,automatic,ci,ci
+2023-09-29T17:00:26.308Z,31.4282,-115.372,12.95,2.9,ml,34,133,0.354,0.76,us,us6000lbr5,2023-09-29T18:27:20.040Z,"67 km NW of San Felipe, Mexico",earthquake,2.89,6.707,0.048,58,reviewed,us,us
 2023-09-29T16:58:11.360Z,38.7883339,-122.74617,1.56,0.78,md,9,85,0.008966,0.02,nc,nc73943421,2023-09-29T16:59:45.874Z,"2 km NE of The Geysers, CA",earthquake,0.3,1.06,0.16,10,automatic,nc,nc
 2023-09-29T16:51:36.778Z,-8.9321,152.7704,10,5.2,mb,44,71,4.748,0.87,us,us6000lbr4,2023-09-29T17:09:40.040Z,"296 km ENE of Alotau, Papua New Guinea",earthquake,10.44,1.891,0.055,111,reviewed,us,us
 2023-09-29T16:46:37.320Z,35.9370003,-120.4881668,9.69,1.81,md,31,56,0.0165,0.07,nc,nc73943416,2023-09-29T16:49:29.840Z,"7 km NW of Parkfield, CA",earthquake,0.25,0.34,0.19,19,automatic,nc,nc
