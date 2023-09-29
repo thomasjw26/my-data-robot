@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-29T14:46:30.650Z,38.8181648,-122.8011703,2.42,2.13,md,50,33,0.008698,0.06,nc,nc73943366,2023-09-29T14:48:06.496Z,"6 km NW of The Geysers, CA",earthquake,0.15,0.25,0.12,49,automatic,nc,nc
 2023-09-29T14:27:05.780Z,38.8343315,-122.8198318,1.35,0.7,md,7,110,0.01294,0.02,nc,nc73943356,2023-09-29T14:28:39.656Z,"8 km NW of The Geysers, CA",earthquake,0.48,1.52,0.36,8,automatic,nc,nc
 2023-09-29T14:24:21.290Z,19.1700000762939,-155.498992919922,31.1299991607666,2,md,45,203,,0.159999996,hv,hv73588042,2023-09-29T14:27:24.000Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.64,0.689999998,1.69000006,15,automatic,hv,hv
 2023-09-29T14:03:32.000Z,38.8300018,-122.8184967,1.79,2.62,md,53,37,0.009317,0.06,nc,nc73943336,2023-09-29T14:25:14.157Z,"8 km NW of The Geysers, CA",earthquake,0.14,0.21,0.15,66,automatic,nc,nc
@@ -92,6 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T03:07:59.940Z,35.6806667,-117.5693333,2.29,0.86,ml,18,124,0.08169,0.17,ci,ci40574224,2023-09-29T13:57:18.332Z,"12 km NE of Ridgecrest, CA",earthquake,0.28,0.31,0.118,6,reviewed,ci,ci
 2023-09-29T02:59:44.530Z,35.501,-118.4003333,5.6,1.21,ml,23,41,0.1722,0.11,ci,ci40574216,2023-09-29T13:51:19.140Z,"13 km SE of Bodfish, CA",earthquake,0.17,0.84,0.208,9,reviewed,ci,ci
 2023-09-29T02:45:36.155Z,60.6074,-151.7714,78.5,1.1,ml,,,,0.37,ak,ak023chvmzjj,2023-09-29T02:47:23.626Z,"24 km W of Salamatof, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-09-29T02:43:31.930Z,44.1703333333333,-115.112166666667,11.87,1.79,ml,10,75,0.7902,0.31,mb,mb90028878,2023-09-29T14:48:42.520Z,"14 km WSW of Stanley, Idaho",earthquake,0.81,2.52,0.202858248506047,12,reviewed,mb,mb
 2023-09-29T02:35:49.972Z,58.3468,-133.287,0,2.7,ml,,,,0.94,ak,ak023chvkvg5,2023-09-29T02:47:09.040Z,"66 km E of Juneau, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-29T02:34:49.740Z,19.3255,-155.1955,0.62,2.63,ml,56,113,,0.16,hv,hv73587807,2023-09-29T03:08:09.230Z,"13 km SSE of Volcano, Hawaii",earthquake,0.18,0.21,0.198248126570005,33,reviewed,hv,hv
 2023-09-29T02:15:49.920Z,38.0133324,-122.2333298,6.93,0.95,md,7,63,0.06566,0.03,nc,nc73943161,2023-09-29T02:17:24.396Z,"4 km SE of Rodeo, CA",earthquake,0.34,1.17,0.22,7,automatic,nc,nc
@@ -121,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T23:10:28.100Z,46.82366666666667,-121.17516666666667,0.82,1.4000000000000001,ml,32,108,0.2573,0.19,uw,uw61962836,2023-09-29T00:41:49.860Z,"15 km SSW of Cliffdell, Washington",earthquake,0.43,2.75,0.17268333121092028,19,reviewed,uw,uw
 2023-09-28T22:40:40.669Z,63.2381,-150.388,114.1,2,ml,,,,0.49,ak,ak023cgjz8wr,2023-09-29T01:13:46.040Z,"74 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-28T22:40:27.212Z,63.8705,-148.5847,16.8,1.4,ml,,,,0.75,ak,ak023cgjz7vv,2023-09-28T22:42:23.690Z,"18 km E of Healy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-28T22:09:14.530Z,31.66,-104.444,7.1599,2.4,ml(texnet),25,172,0,0.2,tx,tx2023tazs,2023-09-29T11:08:31.292Z,"western Texas",earthquake,1.028627749,0.6979506726,0.1,19,reviewed,tx,tx
+2023-09-28T22:09:14.444Z,31.653,-104.454,6.8514,2.3,ml(texnet),16,72,0,0.2,tx,tx2023tazs,2023-09-29T14:43:33.346Z,"western Texas",earthquake,1.217351433,0.6562259478,0.1,7,reviewed,tx,tx
 2023-09-28T22:01:36.080Z,38.8296661,-122.8321686,6.68,0.28,md,7,199,0.009279,0.01,nc,nc73943136,2023-09-28T22:03:12.969Z,"9 km NW of The Geysers, CA",earthquake,1.14,1.11,0.06,6,automatic,nc,nc
 2023-09-28T22:01:35.430Z,45.5856666666667,-110.101,14.97,1.45,ml,10,85,0.183,0.11,mb,mb90028843,2023-09-28T23:38:57.720Z,"19 km SSE of Springdale, Montana",earthquake,0.41,0.72,0.172337938148877,6,reviewed,mb,mb
 2023-09-28T22:00:19.697Z,60.5153,-150.9859,61,1.1,ml,,,,0.19,ak,ak023cgjqmnl,2023-09-28T22:02:08.411Z,"5 km NE of Soldotna, Alaska",earthquake,,1.7,,,automatic,ak,ak
