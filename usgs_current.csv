@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-30T06:41:35.155Z,60.9969,-150.4579,43.6,1.5,ml,,,,0.17,ak,ak023cjlj7ij,2023-09-30T06:42:58.509Z,"14 km ENE of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-09-30T06:37:29.780Z,59.213,-153.7384,107.3,1.7,ml,,,,0.59,ak,ak023cjlic8j,2023-09-30T06:40:54.860Z,"57 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-30T06:21:26.740Z,36.004,-117.987,1.04,1.44,ml,16,125,0.1439,0.16,ci,ci40574744,2023-09-30T06:25:00.897Z,"6 km SW of Coso Junction, CA",earthquake,0.33,0.5,0.117,10,automatic,ci,ci
 2023-09-30T06:10:41.693Z,-22.4726,171.6455,85.519,4.9,mb,29,125,3.884,0.83,us,us6000lbvg,2023-09-30T06:27:12.040Z,"southeast of the Loyalty Islands",earthquake,11.23,8.003,0.114,24,reviewed,us,us
 2023-09-30T06:08:07.681Z,32.705,-100.698,2.6656,3.1,ml(texnet),11,57,0,0.1,tx,tx2023tdla,2023-09-30T06:30:50.961Z,"9 km NE of Hermleigh, Texas",earthquake,1.010919747,1.466582398,0.2,10,reviewed,tx,tx
