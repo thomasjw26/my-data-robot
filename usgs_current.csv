@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-30T06:44:41.666Z,58.1644,-155.241,0,1,ml,,,,0.67,ak,ak023cjljv5y,2023-09-30T06:46:42.351Z,"81 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-30T06:41:35.155Z,60.9969,-150.4579,43.6,1.5,ml,,,,0.17,ak,ak023cjlj7ij,2023-09-30T06:42:58.509Z,"14 km ENE of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-30T06:37:29.780Z,59.213,-153.7384,107.3,1.7,ml,,,,0.59,ak,ak023cjlic8j,2023-09-30T06:40:54.860Z,"57 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-30T06:21:26.740Z,36.004,-117.987,1.04,1.44,ml,16,125,0.1439,0.16,ci,ci40574744,2023-09-30T06:25:00.897Z,"6 km SW of Coso Junction, CA",earthquake,0.33,0.5,0.117,10,automatic,ci,ci
@@ -245,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T06:58:48.240Z,58.2343333333333,-154.658,29.43,0.5,ml,8,215,,0.25,av,av91117063,2023-09-29T23:04:39.340Z,"75 km N of Karluk, Alaska",earthquake,2.22,2.34,0.271904285540299,8,reviewed,av,av
 2023-09-29T06:58:21.950Z,58.2781666666667,-154.799666666667,30.96,0.48,ml,8,177,,0.18,av,av91117058,2023-09-29T22:57:56.740Z,"81 km NNW of Karluk, Alaska",earthquake,1.87,0.95,0.275925577175951,8,reviewed,av,av
 2023-09-29T06:57:44.950Z,58.2593333333333,-154.751666666667,30.8,0.36,ml,13,192,,0.26,av,av92066661,2023-09-29T23:00:53.420Z,"78 km NNW of Karluk, Alaska",earthquake,1.28,1.09,0.253833438561281,13,reviewed,av,av
-2023-09-29T06:49:02.710Z,38.7991676,-122.7509995,1.8,1.68,md,27,53,0.006962,0.03,nc,nc73943211,2023-09-29T06:50:40.498Z,"2 km N of The Geysers, CA",earthquake,0.23,0.37,0.17,29,automatic,nc,nc
-2023-09-29T06:49:01.969Z,60.5375,-147.4124,19.4,1.4,ml,,,,0.82,ak,ak023chy1i6s,2023-09-29T06:50:34.137Z,"54 km SW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
