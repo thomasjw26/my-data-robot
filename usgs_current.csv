@@ -178,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T09:29:17.510Z,34.441,-116.9255,1.75,1.51,ml,37,48,0.03549,0.2,ci,ci40574784,2023-09-30T16:31:41.802Z,"4 km E of Lucerne Valley, CA",earthquake,0.28,0.47,0.185,28,reviewed,ci,ci
 2023-09-30T09:29:05.984Z,63.149,-152.0873,10.6,1.2,ml,,,,0.53,ak,ak023cjn8vhi,2023-09-30T09:32:08.343Z,"47 km SSW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-30T09:25:12.322Z,38.1448,-117.896,7.3,1.2,ml,9,159.98,0.088,0.1193,nn,nn00866565,2023-09-30T09:28:05.990Z,"Nevada",earthquake,,0.7,0.79,6,automatic,nn,nn
-2023-09-30T09:14:46.990Z,38.6834984,-122.4948349,8.72,1.72,md,16,112,0.09069,0.06,nc,nc73943691,2023-09-30T09:16:23.634Z,"13 km NNW of Angwin, CA",earthquake,0.36,1.43,0.16,17,automatic,nc,nc
