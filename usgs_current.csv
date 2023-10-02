@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-02T19:53:10.850Z,38.6850014,-122.5003357,7.49,1.86,md,24,73,0.09372,0.07,nc,nc73944691,2023-10-02T19:54:48.264Z,"12 km SE of Middletown, CA",earthquake,0.26,1.05,0.15,28,automatic,nc,nc
 2023-10-02T19:31:00.740Z,38.8139992,-122.8294983,1.88,0.65,md,10,94,0.00513,0.01,nc,nc73944681,2023-10-02T19:32:37.948Z,"8 km WNW of The Geysers, CA",earthquake,0.37,0.7,0.33,12,automatic,nc,nc
 2023-10-02T19:30:17.900Z,32.596,-116.9991667,2.71,1.33,ml,22,208,0.05938,0.21,ci,ci40575640,2023-10-02T19:34:06.312Z,"6 km SE of Chula Vista, CA",quarry blast,0.89,1.6,0.158,11,automatic,ci,ci
-2023-10-02T19:24:29.350Z,39.7243347,-120.5018311,25.33,2.64,md,14,84,0.1794,0.29,nc,nc73944676,2023-10-02T19:46:11.556Z,"4 km E of Whitehawk, CA",earthquake,1.04,1.98,0.19,6,automatic,nc,nc
+2023-10-02T19:24:29.350Z,39.7243347,-120.5018311,25.33,2.64,md,14,84,0.1794,0.29,nc,nc73944676,2023-10-02T19:49:17.106Z,"4 km E of Whitehawk, CA",earthquake,1.04,1.98,0.19,6,automatic,nc,nc
 2023-10-02T19:17:08.246Z,62.1366,-149.4674,53.1,1.4,ml,,,,0.55,ak,ak023cn47c3s,2023-10-02T19:18:49.874Z,"20 km E of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-02T19:05:40.816Z,61.7899,-150.6219,46.9,1.6,ml,,,,0.56,ak,ak023cn44u0x,2023-10-02T19:07:37.326Z,"28 km NNW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-10-02T18:57:30.750Z,34.9911667,-118.2191667,0.65,1.27,ml,12,62,0.1005,0.34,ci,ci40575632,2023-10-02T19:01:19.240Z,"8 km SSW of Mojave, CA",earthquake,0.72,1.41,0.11,12,automatic,ci,ci
