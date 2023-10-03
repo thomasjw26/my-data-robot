@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T07:28:33.530Z,43.8455,-121.31883333333333,-0.85,-0.12,ml,8,277,0.04368,0.07,uw,uw61963466,2023-10-02T17:45:33.680Z,"Oregon",earthquake,0.95,0.47,0.07756734968586662,4,reviewed,uw,uw
 2023-10-02T07:27:23.663Z,61.2151,-151.6589,75.2,1.5,ml,,,,0.45,ak,ak023cmx4b72,2023-10-02T07:29:23.366Z,"32 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-02T07:25:32.449Z,62.4206,-149.1664,13.6,1.4,ml,,,,0.29,ak,ak023cmx3wfw,2023-10-02T07:28:10.645Z,"45 km NE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-02T07:23:04.530Z,35.6566666666667,-83.6066666666667,1.93,2.38,md,15,89,0.1363,0.29,se,se60553741,2023-10-02T12:07:31.870Z,"10 km SW of Gatlinburg, Tennessee",earthquake,0.59,2.21,0.0438183554658202,13,reviewed,se,se
