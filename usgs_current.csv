@@ -102,6 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T04:14:23.519Z,-0.5375,97.8626,10,4.6,mb,22,185,1.851,0.55,us,us6000lcel,2023-10-03T05:24:32.040Z,"Kepulauan Batu, Indonesia",earthquake,9.47,1.935,0.182,9,reviewed,us,us
 2023-10-03T04:10:29.940Z,38.8383331,-122.7703323,1.1,0.69,md,8,160,0.007857,0.02,nc,nc73944836,2023-10-03T04:12:06.408Z,"4 km WNW of Cobb, CA",earthquake,0.38,0.71,0.12,9,automatic,nc,nc
 2023-10-03T03:36:52.910Z,38.8441658,-122.8365021,4.44,0.81,md,7,220,0.005625,0.01,nc,nc73944831,2023-10-03T03:38:30.309Z,"10 km WNW of Cobb, CA",earthquake,3.37,6.38,0.39,8,automatic,nc,nc
+2023-10-03T03:21:16.880Z,46.9986666666667,-114.532833333333,13.24,0.42,ml,8,94,0.06851,0.14,mb,mb90029033,2023-10-03T15:48:37.470Z,"western Montana",earthquake,0.5,1.11,0.0851411188738136,2,reviewed,mb,mb
 2023-10-03T03:19:23.731Z,64.8779,-154.642,2.8,1.6,ml,,,,0.49,ak,ak023coi87jp,2023-10-03T03:22:08.333Z,"43 km ENE of Ruby, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-03T03:08:37.830Z,38.8230019,-122.765831,2.04,1.06,md,21,119,0.008111,0.02,nc,nc73944821,2023-10-03T03:10:11.011Z,"4 km W of Cobb, CA",earthquake,0.27,0.43,0.23,21,automatic,nc,nc
 2023-10-03T03:06:15.690Z,33.2735,-116.783,12.02,0.92,ml,36,34,0.04258,0.14,ci,ci40575808,2023-10-03T14:21:55.981Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.16,0.56,0.127,20,reviewed,ci,ci
@@ -198,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T16:06:46.780Z,38.689167,-122.4964981,11.13,0.99,md,7,138,0.09516,0.06,nc,nc73944621,2023-10-02T16:08:21.146Z,"12 km SE of Middletown, CA",earthquake,0.64,1.13,0.02,5,automatic,nc,nc
 2023-10-02T16:06:32.070Z,19.5288333892822,-155.92366027832,10.9099998474121,1.86000001,md,25,217,,0.180000007,hv,hv73589992,2023-10-02T16:09:43.400Z,"0 km N of Kealakekua, Hawaii",earthquake,0.85,0.419999987,1.73000002,6,automatic,hv,hv
 2023-10-02T15:59:02.300Z,38.8320007,-122.8150024,1.85,0.25,md,9,86,0.009416,0.01,nc,nc73944616,2023-10-02T16:00:36.111Z,"8 km NW of The Geysers, CA",earthquake,0.41,0.98,0.15,9,automatic,nc,nc
-2023-10-02T15:46:20.470Z,38.7788315,-122.7583313,1.53,0.68,md,8,103,0.009959,0.02,nc,nc73944611,2023-10-02T15:47:55.769Z,"0 km NW of The Geysers, CA",earthquake,0.32,0.68,0.14,8,automatic,nc,nc
