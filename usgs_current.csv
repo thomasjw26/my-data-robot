@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-04T22:55:05.698Z,63.0181,-151.548,0,1.4,ml,,,,1,ak,ak023cqhagx5,2023-10-04T22:57:24.631Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-04T22:50:08.530Z,36.5618324,-121.1546631,7.48,1.85,md,19,125,0.02663,0.05,nc,nc73945506,2023-10-04T22:51:44.423Z,"4 km NNW of Pinnacles, CA",earthquake,0.28,0.72,0.12,22,automatic,nc,nc
 2023-10-04T22:25:28.076Z,62.1326,-148.0155,36.4,1.2,ml,,,,0.85,ak,ak023cqh4344,2023-10-04T22:27:56.300Z,"40 km NNW of Glacier View, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-04T22:22:38.930Z,33.1558333,-116.4646667,6.76,1.18,ml,28,53,0.1189,0.2,ci,ci40577288,2023-10-04T22:26:37.636Z,"14 km SW of Borrego Springs, CA",earthquake,0.34,1.02,0.281,28,automatic,ci,ci
@@ -238,6 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T23:11:55.560Z,36.37666667,-97.65066667,7,1.8,ml,47,51,0.1475710415,0.18,ok,ok2023tkfg,2023-10-04T14:10:48.967Z,"5 km ENE of Fairmont, Oklahoma",earthquake,,0.4,0.24,6,reviewed,ok,ok
 2023-10-03T23:08:53.120Z,40.5243333,-112.169,-2,1.83,ml,13,92,0.06568,0.12,uu,uu60551477,2023-10-04T15:35:42.450Z,"Utah",quarry blast,0.29,31.61,0.216,8,reviewed,uu,uu
 2023-10-03T23:01:41.031Z,31.681,-104.431,6.1316,2.1,ml(texnet),23,75,0,0.2,tx,tx2023tkey,2023-10-04T17:40:47.959Z,"55 km S of Whites City, New Mexico",earthquake,1.237610779,1.282179224,0,7,reviewed,tx,tx
-2023-10-03T22:55:29.008Z,63.1843,-148.6903,70.5,2.1,ml,,,,0.31,ak,ak023cotr684,2023-10-04T00:09:17.040Z,"26 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-03T22:54:20.580Z,34.2713333,-116.4456667,8.96,1.08,ml,17,89,0.05599,0.09,ci,ci40576504,2023-10-04T00:01:14.860Z,"18 km N of Yucca Valley, CA",earthquake,0.19,0.39,0.128,15,reviewed,ci,ci
-2023-10-03T22:53:51.700Z,38.8143349,-122.8193359,2.43,0.79,md,13,82,0.00943,0.02,nc,nc73945126,2023-10-04T01:53:15.650Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.81,0.16,14,automatic,nc,nc
