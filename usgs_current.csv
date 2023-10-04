@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T06:59:29.980Z,33.2706667,-116.7813333,9.84,1.79,ml,54,34,0.03943,0.21,ci,ci40576624,2023-10-04T07:10:18.840Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.23,0.63,0.197,26,automatic,ci,ci
 2023-10-04T06:39:39.680Z,32.8396667,-116.0483333,1.48,0.73,ml,11,79,0.08154,0.27,ci,ci40576616,2023-10-04T06:43:11.271Z,"13 km NNW of Ocotillo, CA",earthquake,0.56,1.03,0.102,4,automatic,ci,ci
 2023-10-04T06:19:36.394Z,66.3311,-154.7298,0,2,ml,,,,1.39,ak,ak023cq7jvtz,2023-10-04T06:22:05.473Z,"38 km NW of Hughes, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-10-04T06:02:05.934Z,31.359,-104.0542,5,3.1,ml,21,64,0.161,1.18,us,us6000lcqb,2023-10-04T06:20:50.040Z,"western Texas",earthquake,3.9,1.939,0.085,18,reviewed,us,us
+2023-10-04T06:02:01.919Z,31.612,-103.98,6.8514,3,ml(texnet),15,57,0,0.1,tx,tx2023tksr,2023-10-04T09:35:45.901Z,"37 km NNW of Toyah, Texas",earthquake,0.5305099901,0.6522594922,0.1,6,reviewed,tx,tx
 2023-10-04T06:01:38.575Z,31.6118,-103.9377,7.79,2.9,ml,21,100,0.03,0.34,us,us6000lcqa,2023-10-04T06:22:29.040Z,"33 km WSW of Mentone, Texas",earthquake,1.6,5.4,0.066,30,reviewed,us,us
 2023-10-04T05:57:52.720Z,33.0403333,-116.387,10.1,0.98,ml,26,77,0.07116,0.19,ci,ci40576608,2023-10-04T06:01:25.031Z,"20 km ESE of Julian, CA",earthquake,0.31,0.68,0.143,15,automatic,ci,ci
 2023-10-04T05:57:17.542Z,30.786,142.0412,10,5.6,mww,91,66,2.996,1.13,us,us6000lcq8,2023-10-04T06:17:55.599Z,"Izu Islands, Japan region",earthquake,6.52,1.852,0.086,13,reviewed,us,us
