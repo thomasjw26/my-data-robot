@@ -1,7 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-05T14:30:49.987Z,61.902,-149.2736,40.9,1.9,ml,,,,0.44,ak,ak023crzx33a,2023-10-05T14:32:28.045Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
+2023-10-05T14:29:52.901Z,65.8897,-146.965,9.7,1.7,ml,,,,0.89,ak,ak023crzwvlm,2023-10-05T14:32:07.764Z,"55 km SSE of Beaver, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-05T14:24:18.460Z,40.5195007,-124.3983307,18.23,2.01,md,14,292,0.06387,0.08,nc,nc73945766,2023-10-05T14:25:57.486Z,"13 km WSW of Ferndale, CA",earthquake,1.7,0.45,0.03,8,automatic,nc,nc
 2023-10-05T14:22:55.370Z,19.216667175293,-155.366165161133,31.1100006103516,1.80999994,md,40,159,,0.109999999,hv,hv73593402,2023-10-05T14:26:19.580Z,"11 km E of Pāhala, Hawaii",earthquake,0.61,0.819999993,0.899999976,3,automatic,hv,hv
+2023-10-05T14:20:43.480Z,19.3775,-155.281333333333,1.26,0.69,md,22,89,,0.1,hv,hv73593392,2023-10-05T14:35:52.920Z,"8 km SW of Volcano, Hawaii",earthquake,0.22,0.16,0.0902763500635866,4,reviewed,hv,hv
 2023-10-05T14:16:59.040Z,44.5511666666667,-111.469833333333,12.32,1.19,ml,12,102,0.111,0.22,mb,mb90029138,2023-10-05T14:25:15.440Z,"16 km NNW of Island Park, Idaho",earthquake,1.02,4.08,0.203398345743703,4,reviewed,mb,mb
+2023-10-05T14:14:44.166Z,31.634,-104.177,7.7769,3,mlv,44,63,0.1,0.2,tx,tx2023tneo,2023-10-05T14:32:27.538Z,"50 km NW of Toyah, Texas",earthquake,0.7642540299,0.904673394,0.2,32,reviewed,tx,tx
 2023-10-05T14:14:26.130Z,35.9376678,-120.4923325,9.5,1.72,md,26,75,0.01901,0.06,nc,nc73945761,2023-10-05T14:16:02.675Z,"7 km NW of Parkfield, CA",earthquake,0.26,0.31,0.1,14,automatic,nc,nc
 2023-10-05T14:11:36.947Z,37.3604,-115.6385,4.2,0.4,ml,12,187.94,0.39,0.3176,nn,nn00866809,2023-10-05T14:14:00.702Z,"32 km SSE of Rachel, Nevada",earthquake,,3.8,0.9,6,automatic,nn,nn
 2023-10-05T14:08:39.130Z,17.9405,-66.8273333333333,9.17,2.56,md,7,218,0.0602,0.08,pr,pr71427573,2023-10-05T14:22:07.230Z,"5 km S of Indios, Puerto Rico",earthquake,0.6,0.57,0.0918689427577843,4,reviewed,pr,pr
