@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-06T05:30:33.640Z,38.8466682,-122.8308334,14.31,0.95,md,6,195,0.03268,0.12,nc,nc73946086,2023-10-06T05:32:12.077Z,"10 km WNW of Cobb, CA",earthquake,4.66,3.08,0.23,8,automatic,nc,nc
+2023-10-06T05:30:33.640Z,38.8466682,-122.8308334,14.31,0.95,md,6,195,0.03268,0.12,nc,nc73946086,2023-10-06T05:52:14.421Z,"10 km WNW of Cobb, CA",earthquake,4.66,3.08,0.23,8,automatic,nc,nc
 2023-10-06T05:20:57.599Z,29.9773,140.0224,10,5,mb,47,132,3.133,0.9,us,us6000ldds,2023-10-06T05:36:50.040Z,"Izu Islands, Japan region",earthquake,11.66,1.901,0.063,81,reviewed,us,us
 2023-10-06T05:16:08.090Z,33.5048333,-116.8398333,18.66,0.94,ml,8,175,0.1854,0.15,ci,ci40577928,2023-10-06T05:19:40.137Z,"7 km NNE of Aguanga, CA",earthquake,2.08,2.51,0.262,11,automatic,ci,ci
 2023-10-06T05:05:35.560Z,36.5999985,-121.2053299,9.39,2.39,md,37,120,0.03248,0.1,nc,nc73946081,2023-10-06T05:31:16.286Z,"9 km NW of Pinnacles, CA",earthquake,0.3,0.63,0.17,41,automatic,nc,nc
