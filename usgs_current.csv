@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-07T15:29:41.490Z,19.408332824707,-155.280670166016,5.8600001335144,2.18000007,md,32,41,,0.189999998,hv,hv73598802,2023-10-07T15:32:57.150Z,"6 km SW of Volcano, Hawaii",earthquake,0.36,0.469999999,0.200000003,17,automatic,hv,hv
 2023-10-07T14:42:53.297Z,62.8181,-149.4867,71.1,1.4,ml,,,,0.4,ak,ak023cvb2cxd,2023-10-07T14:45:04.511Z,"51 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-07T14:27:48.430Z,61.4056,-147.8371,21.2,1.4,ml,,,,0.57,ak,ak023cvaz4t7,2023-10-07T14:29:49.744Z,"45 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-07T14:26:28.652Z,40.2373,142.2991,53.212,5.1,mb,77,134,1.091,0.66,us,us6000lduu,2023-10-07T14:45:13.040Z,"43 km ENE of Noda, Japan",earthquake,6.46,6.73,0.039,207,reviewed,us,us
@@ -222,7 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T15:39:17.896Z,36.8948,-115.9693,5,1,ml,24,163.55,0.019,0.1574,nn,nn00866906,2023-10-07T02:04:53.564Z,"44 km NW of Indian Springs, Nevada",earthquake,,0.8,0.49,11,reviewed,nn,nn
 2023-10-06T15:38:48.817Z,58.7275,-133.1662,0,2.1,ml,,,,0.53,ak,ak023cto3lb5,2023-10-06T16:19:35.126Z,"87 km ENE of Juneau, Alaska",ice quake,,0,,,reviewed,ak,ak
 2023-10-06T15:35:26.370Z,19.3878326416016,-155.27033996582,1.9099999666214,1.87,ml,19,49,,0.239999995,hv,hv73596722,2023-10-06T15:40:58.020Z,"7 km SSW of Volcano, Hawaii",earthquake,0.47,0.340000004,0.23,7,automatic,hv,hv
-2023-10-06T15:32:46.000Z,19.3676666666667,-155.289166666667,2.09,2.1,ml,17,110,,0.08,hv,hv73596717,2023-10-06T17:17:03.280Z,"10 km SW of Volcano, Hawaii",earthquake,0.24,0.29,0.150025036249818,5,reviewed,hv,hv
-2023-10-06T15:32:04.330Z,19.3864994049072,-155.277160644531,1.00999999046326,2.13000011,md,13,104,,0.109999999,hv,hv73596712,2023-10-06T15:35:01.050Z,"Hawaii region, Hawaii",earthquake,0.23,0.219999999,1.84000003,10,automatic,hv,hv
-2023-10-06T15:31:12.320Z,57.0651666666667,-135.742833333333,6.89,0.88,ml,5,169,,0.23,av,av91117533,2023-10-06T21:23:43.980Z,"Southeastern Alaska",earthquake,1.56,0.99,0.227432986016396,5,reviewed,av,av
-2023-10-06T15:27:26.990Z,40.1481667,-121.7496643,10.42,2.55,md,19,109,0.1517,0.25,nc,nc73946306,2023-10-06T18:44:15.660Z,"28 km SW of Mineral, CA",earthquake,0.68,1.5,0.1,14,reviewed,nc,nc
