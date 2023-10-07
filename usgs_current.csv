@@ -184,7 +184,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T03:07:16.390Z,36.8273315,-121.581665,7.15,1.63,md,27,68,0.02958,0.14,nc,nc73946551,2023-10-07T06:06:12.780Z,"4 km WSW of San Juan Bautista, CA",earthquake,0.34,0.56,0.27,26,automatic,nc,nc
 2023-10-07T03:03:40.720Z,38.824501,-122.7938309,2.77,0.76,md,11,58,0.01274,0.01,nc,nc73946541,2023-10-07T03:27:14.905Z,"6 km W of Cobb, CA",earthquake,0.42,0.91,0.06,13,automatic,nc,nc
 2023-10-07T03:03:28.830Z,37.3343333,-122.1948333,8.98,0.65,md,7,99,0.02637,0.04,nc,nc71131479,2023-10-07T23:19:45.959Z,"7 km SSE of Portola Valley, CA",earthquake,0.37,0.62,0.177,5,reviewed,nc,nc
-2023-10-07T03:03:23.720Z,37.3381667,-122.1968333,9.39,0.77,md,13,65,0.02292,0.08,nc,nc73946546,2023-10-07T23:26:13.647Z,"6 km SSE of Portola Valley, CA",earthquake,0.31,0.64,0.274,7,reviewed,nc,nc
+2023-10-07T03:03:23.720Z,37.3381667,-122.1968333,9.39,0.77,md,13,65,0.02292,0.08,nc,nc73946546,2023-10-07T23:46:15.766Z,"6 km SSE of Portola Valley, CA",earthquake,0.31,0.64,0.274,7,reviewed,nc,nc
 2023-10-07T02:58:03.770Z,63.8513,-149.2638,29.4,1.6,ml,,,,1.09,ak,ak023cv40hax,2023-10-07T03:00:50.119Z,"14 km W of Healy, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2023-10-07T02:57:27.478Z,61.5905,-149.6913,33.6,1.4,ml,,,,0.57,ak,ak023cv40bez,2023-10-07T02:59:08.725Z,"6 km SW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-07T02:56:55.750Z,38.8356667,-122.809166,1.85,0.78,md,15,51,0.01227,0.02,nc,nc73946536,2023-10-07T03:15:13.843Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.73,0.15,16,automatic,nc,nc
