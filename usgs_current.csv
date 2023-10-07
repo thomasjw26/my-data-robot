@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-07T21:50:49.022Z,61.1263,-150.2555,36.7,2.1,ml,,,,0.38,ak,ak023cvfa3k6,2023-10-07T21:52:38.338Z,"21 km WSW of Anchorage, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-10-07T21:48:06.400Z,38.6855011,-122.4931641,6.72,1.41,md,6,127,0.09085,0.05,nc,nc73946821,2023-10-07T21:49:43.518Z,"13 km NNW of Angwin, CA",earthquake,0.5,2.4,0.26,8,automatic,nc,nc
+2023-10-07T21:46:07.332Z,58.1795,-155.4028,0,1.1,ml,,,,0.75,ak,ak023cvf95h9,2023-10-07T21:47:54.818Z,"88 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-07T21:41:28.437Z,36.5804,-115.3279,4.1,1.4,ml,22,131.55,0.157,0.2437,nn,nn00866978,2023-10-07T21:44:03.172Z,"30 km E of Indian Springs, Nevada",earthquake,,1.7,0.76,16,automatic,nn,nn
 2023-10-07T21:37:42.452Z,64.5071,-148.9408,4.4,1.7,ml,,,,0.74,ak,ak023cvf7aqt,2023-10-07T21:40:10.055Z,"9 km SE of Nenana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-07T21:35:54.230Z,64.5168,-148.961,14.4,1.7,ml,,,,0.71,ak,ak023cvf6w7z,2023-10-07T21:37:31.990Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
