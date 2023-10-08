@@ -262,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T19:41:24.470Z,32.704,-115.552,13.62,1.29,ml,18,173,0.0599,0.22,ci,ci40578720,2023-10-08T18:29:29.392Z,"4 km SW of Heber, CA",earthquake,0.54,0.73,0.43,7,reviewed,ci,ci
 2023-10-07T19:40:41.210Z,38.776165,-122.7161636,2.23,1.07,md,9,87,0.01542,0.03,nc,nc73946786,2023-10-07T20:14:12.626Z,"2 km W of Anderson Springs, CA",earthquake,0.53,0.97,0.17,10,automatic,nc,nc
 2023-10-07T19:38:26.820Z,33.5201667,-116.7436667,2.69,0.67,ml,20,50,0.04543,0.11,ci,ci40578712,2023-10-08T18:22:14.352Z,"8 km WSW of Anza, CA",earthquake,0.16,0.21,0.137,12,reviewed,ci,ci
-2023-10-07T19:27:03.597Z,60.6488,-147.7073,14.2,2,ml,,,,0.73,ak,ak023cvdy7dj,2023-10-07T19:29:09.168Z,"55 km ESE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
