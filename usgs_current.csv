@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-08T19:56:38.550Z,38.685833,-122.4958344,8.03,1.36,md,10,112,0.09271,0.06,nc,nc73947436,2023-10-08T19:58:15.109Z,"13 km SE of Middletown, CA",earthquake,0.4,1.99,0.24,10,automatic,nc,nc
 2023-10-08T19:32:10.980Z,38.8361664,-122.8093338,2.19,0.24,md,9,77,0.01277,0.01,nc,nc73947426,2023-10-08T19:33:44.743Z,"8 km WNW of Cobb, CA",earthquake,0.41,1.5,0.14,9,automatic,nc,nc
 2023-10-08T19:29:42.855Z,59.7295,-153.3566,125.1,2,ml,,,,0.55,ak,ak023cx1i2c5,2023-10-08T19:32:22.147Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-08T19:24:35.120Z,19.3549995422363,-155.302001953125,2.00999999046326,1.97000003,md,14,100,,0.100000001,hv,hv73600472,2023-10-08T19:27:37.740Z,"12 km SW of Volcano, Hawaii",earthquake,0.32,0.560000002,0.629999995,14,automatic,hv,hv
@@ -261,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T20:54:11.505Z,38.131,-117.911,0,1.4,ml,9,135,0.089,0.2072,nn,nn00866976,2023-10-07T20:56:56.964Z,"33 km SSE of Mina, Nevada",earthquake,,6.2,0.32,7,automatic,nn,nn
 2023-10-07T20:14:40.320Z,17.9081666666667,-66.9278333333333,13.39,3,md,22,225,0.06626,0.19,pr,pr71427813,2023-10-07T20:44:03.720Z,"7 km SSW of Guánica, Puerto Rico",earthquake,0.58,0.33,0.114878600441292,7,reviewed,pr,pr
 2023-10-07T20:02:20.610Z,33.1891667,-116.0343333,6.93,0.89,ml,18,62,0.04997,0.15,ci,ci40578728,2023-10-08T18:35:25.713Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.22,0.61,0.116,4,reviewed,ci,ci
-2023-10-07T20:01:10.140Z,17.8865,-66.9275,13.66,3.28,md,18,245,0.08711,0.08,pr,pr71427808,2023-10-07T21:55:35.040Z,"9 km SSW of Guánica, Puerto Rico",earthquake,0.58,0.21,0.0660349343433331,9,reviewed,pr,pr
