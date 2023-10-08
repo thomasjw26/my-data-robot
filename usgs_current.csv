@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-08T10:37:10.961Z,19.4701,-155.5936,36.638,2.7,ml,26,78,0.015,0.44,us,us6000le04,2023-10-08T10:42:50.040Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,2.97,3.349,0.056,42,reviewed,us,us
 2023-10-08T10:30:38.688Z,59.4387,-152.8828,78.7,1.8,ml,,,,0.68,ak,ak023cww5da4,2023-10-08T10:33:40.048Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-08T10:14:23.430Z,33.2706667,-116.78,11.22,1.41,ml,44,38,0.0389,0.22,ci,ci40578936,2023-10-08T10:25:31.820Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.26,0.69,0.154,25,automatic,ci,ci
 2023-10-08T10:01:00.030Z,38.6866684,-122.4954987,8.18,1.4,md,11,110,0.09301,0.07,nc,nc73947071,2023-10-08T10:20:11.343Z,"13 km SE of Middletown, CA",earthquake,0.4,1.91,0.09,10,automatic,nc,nc
