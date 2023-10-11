@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-11T14:41:51.980Z,38.8436661,-122.8796692,2.3,1.2,md,18,100,0.006187,0.02,nc,nc73948886,2023-10-11T14:43:24.709Z,"13 km ENE of Cloverdale, CA",earthquake,0.3,0.47,0.14,18,automatic,nc,nc
+2023-10-11T14:48:54.104Z,38.2098,-117.7274,11.1,2.6,ml,30,72.23,0.134,0.3222,nn,nn00867144,2023-10-11T14:53:28.439Z,"38 km ESE of Mina, Nevada",earthquake,,0.4,0.77,18,automatic,nn,nn
+2023-10-11T14:41:51.980Z,38.8436661,-122.8796692,2.3,1.2,md,18,100,0.006187,0.02,nc,nc73948886,2023-10-11T14:51:11.310Z,"13 km ENE of Cloverdale, CA",earthquake,0.3,0.47,0.14,18,automatic,nc,nc
 2023-10-11T14:40:18.460Z,19.204833984375,-155.376007080078,28.9300003051758,1.96,ml,48,161,,0.129999995,hv,hv73605107,2023-10-11T14:45:49.830Z,"10 km E of Pāhala, Hawaii",earthquake,0.51,0.720000029,4.84,5,automatic,hv,hv
 2023-10-11T14:29:54.885Z,39.6326,-119.6527,10,2,ml,10,75.59,0.188,0.2513,nn,nn00867142,2023-10-11T14:32:00.905Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,1.2,0.44,5,automatic,nn,nn
 2023-10-11T14:29:29.848Z,63.4021,-152.0754,4.1,1.1,ml,,,,0.67,ak,ak023d1x4ws0,2023-10-11T14:33:04.094Z,"23 km SW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -166,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T15:26:49.340Z,37.7313347,-122.142334,5.94,2.27,md,55,32,0.01962,0.09,nc,nc73948576,2023-10-11T05:25:31.557Z,"1 km ENE of San Leandro, CA",earthquake,0.14,0.28,0.12,49,automatic,nc,nc
 2023-10-10T15:17:49.706Z,64.842,-151.5343,13.5,1.4,ml,,,,0.47,ak,ak023d0a4gu1,2023-10-10T15:21:03.072Z,"44 km SE of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-10T15:15:31.110Z,65.0032,-147.4892,0,1.2,ml,,,,0.9,ak,ak023d0a3zya,2023-10-10T15:18:00.758Z,"7 km NE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-10T14:48:19.780Z,33.4623333,-116.5668333,13.38,0.67,ml,22,88,0.04377,0.13,ci,ci40580552,2023-10-10T16:31:09.869Z,"14 km SE of Anza, CA",earthquake,0.27,0.52,0.153,11,reviewed,ci,ci
