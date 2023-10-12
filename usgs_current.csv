@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-12T05:25:20.960Z,33.9211655,-118.2941666,19.81,1.5,ml,21,135,0.1309,0.27,ci,ci40581496,2023-10-12T05:27:37.557Z,"4 km W of Willowbrook, CA",earthquake,0.94,0.73,0.153,6,automatic,ci,ci
-2023-10-12T05:13:04.460Z,19.1979999542236,-155.495330810547,35.7200012207031,2.59,ml,52,68,,0.109999999,hv,hv73606227,2023-10-12T05:26:20.862Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.51,0.660000026,3.56,31,automatic,hv,hv
+2023-10-12T05:13:04.460Z,19.1979999542236,-155.495330810547,35.7200012207031,2.59,ml,52,68,,0.109999999,hv,hv73606227,2023-10-12T05:36:39.018Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.51,0.660000026,3.56,31,automatic,hv,hv
 2023-10-12T05:10:53.330Z,38.8251648,-122.7656631,1.92,0.72,md,11,124,0.006252,0.02,nc,nc73946335,2023-10-12T05:27:16.638Z,"4 km W of Cobb, CA",earthquake,0.44,0.61,0.06,12,automatic,nc,nc
 2023-10-12T05:00:21.170Z,-17.8008,-178.655,561.575,4.9,mb,86,32,4.504,0.86,us,us6000lf07,2023-10-12T05:20:54.040Z,"216 km E of Levuka, Fiji",earthquake,9.6,6.855,0.026,474,reviewed,us,us
 2023-10-12T04:47:13.630Z,64.815,-147.2083,12.4,0.7,ml,,,,0.26,ak,ak023d3etqv7,2023-10-12T04:49:03.668Z,"9 km NE of North Pole, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T02:19:11.910Z,34.0576668,-117.2418365,13.43,1.11,ml,27,94,0.09283,0.22,ci,ci40581456,2023-10-12T02:21:30.763Z,"2 km ENE of Loma Linda, CA",earthquake,0.38,1.03,0.186,6,automatic,ci,ci
 2023-10-12T02:17:38.507Z,63.5406,-147.3196,0,1.7,ml,,,,0.41,ak,ak023d3dgi3e,2023-10-12T02:19:28.114Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-12T02:15:41.175Z,62.1149,-147.4062,20,1.9,ml,,,,0.83,ak,ak023d3dg2v9,2023-10-12T02:17:39.101Z,"23 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-12T02:15:02.080Z,38.6778336,-122.4953308,10.17,1.41,md,8,136,0.08781,0.05,nc,nc73946280,2023-10-12T03:06:13.651Z,"12 km NNW of Angwin, CA",earthquake,0.7,2.55,0.18,9,automatic,nc,nc
+2023-10-12T02:15:02.080Z,38.6778336,-122.4953308,10.17,1.41,md,8,136,0.08781,0.05,nc,nc73946280,2023-10-12T05:37:10.690Z,"12 km NNW of Angwin, CA",earthquake,0.7,2.55,0.18,9,automatic,nc,nc
 2023-10-12T02:14:16.970Z,38.822834,-122.8121643,1.82,1.09,md,22,48,0.001726,0.01,nc,nc73946275,2023-10-12T02:54:15.576Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.46,0.16,23,automatic,nc,nc
 2023-10-12T01:51:18.590Z,38.8168335,-122.8001633,2.5,0.4,md,7,93,0.009633,0.02,nc,nc73946270,2023-10-12T02:44:13.387Z,"6 km NW of The Geysers, CA",earthquake,0.57,2.07,0.23,9,automatic,nc,nc
 2023-10-12T01:41:40.981Z,60.2271,-141.0887,1.1,1.4,ml,,,,0.5,ak,ak023d3d07v6,2023-10-12T01:43:37.328Z,"107 km NW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
