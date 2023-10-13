@@ -74,6 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T13:19:54.735Z,36.3836,71.1857,131.652,4.5,mb,23,76,2.538,0.57,us,us6000lfcd,2023-10-13T18:05:19.164Z,"45 km SW of Ashkāsham, Afghanistan",earthquake,7.87,4.981,0.171,10,reviewed,us,us
 2023-10-13T13:14:01.000Z,38.6860008,-122.4971695,7.71,1.64,md,12,72,0.09365,0.06,nc,nc73946730,2023-10-13T16:30:12.559Z,"13 km SE of Middletown, CA",earthquake,0.31,1.42,0.09,15,automatic,nc,nc
 2023-10-13T13:11:55.379Z,31.723,-104.549,5.6431,2.3,ml(texnet),21,84,0,0.1,tx,tx2023ubsm,2023-10-13T17:51:50.094Z,"western Texas",earthquake,1.738970728,1.012368129,0.1,7,reviewed,tx,tx
+2023-10-13T13:11:45.490Z,58.1696666666667,-155.378,1.91,-0.09,ml,11,75,,0.06,av,av91118253,2023-10-13T23:05:07.400Z,"86 km NW of Karluk, Alaska",earthquake,0.17,0.47,0.197624291456313,11,reviewed,av,av
 2023-10-13T13:06:53.852Z,39.3898,-119.7283,4.6,0.5,ml,6,122.25,0.028,0.0847,nn,nn00867238,2023-10-13T14:38:46.018Z,"11 km NW of Virginia City, Nevada",earthquake,,1.6,0.16,2,reviewed,nn,nn
 2023-10-13T12:54:20.370Z,39.3863,-119.7319,6.6,1.3,ml,17,36.63,0.026,0.17,nn,nn00867235,2023-10-13T17:51:43.526Z,"Nevada",earthquake,,0.9,0.22,8,reviewed,nn,nn
 2023-10-13T12:53:52.700Z,19.1786670684814,-155.48567199707,33.6500015258789,2.00999999,md,38,78,,0.109999999,hv,hv73607472,2023-10-13T12:57:00.190Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.67,0.829999983,0.150000006,13,automatic,hv,hv
@@ -180,7 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T02:48:59.054Z,39.6242,-119.6408,9.1,1.6,ml,21,73.47,0.132,0.1671,nn,nn00867230,2023-10-13T17:23:26.714Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,1.6,0.22,8,reviewed,nn,nn
 2023-10-13T02:48:57.572Z,58.1518,-155.4129,0.1,0.3,ml,,,,0.59,ak,ak023d516j99,2023-10-13T19:21:23.560Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
 2023-10-13T02:48:01.900Z,48.498,-125.106,12.61,2.02,ml,13,199,0.3365,0.48,uw,uw61965706,2023-10-13T17:17:32.060Z,"38 km WNW of Neah Bay, Washington",earthquake,1.77,10,0.1655004448137416,9,reviewed,uw,uw
-2023-10-13T02:47:02.775Z,39.6262,-119.64,9.4,2.3,ml,24,73.09,0.134,0.2141,nn,nn00867229,2023-10-13T16:11:58.758Z,"Nevada",earthquake,,1.6,0.26,8,reviewed,nn,nn
+2023-10-13T02:47:02.775Z,39.6262,-119.64,9.4,2.3,ml,24,73.09,0.134,0.2141,nn,nn00867229,2023-10-13T16:11:58.758Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,1.6,0.26,8,reviewed,nn,nn
 2023-10-13T02:47:00.770Z,34.0075,-117.0083333,16.77,1.24,ml,55,27,0.1048,0.14,ci,ci40581912,2023-10-13T18:34:33.053Z,"4 km SE of Yucaipa, CA",earthquake,0.14,0.37,0.208,24,reviewed,ci,ci
 2023-10-13T02:46:49.043Z,39.6207,-119.6414,8.3,2,ml,16,72.6,0.13,0.1599,nn,nn00867228,2023-10-13T16:02:31.245Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,2,0.4,7,reviewed,nn,nn
 2023-10-13T02:36:03.370Z,38.8308334,-122.8181686,1.78,1.09,md,17,68,0.009754,0.02,nc,nc73946590,2023-10-13T05:23:17.683Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.35,0.17,21,automatic,nc,nc
