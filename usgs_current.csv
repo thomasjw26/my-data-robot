@@ -137,6 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T02:06:01.575Z,16.5239,-98.6146,38.94,4.8,mb,50,171,1.034,1.08,us,us6000lfgt,2023-10-14T02:30:59.180Z,"9 km W of El Pitahayo, Mexico",earthquake,10.74,8.188,0.032,303,reviewed,us,us
 2023-10-14T02:03:24.905Z,-21.15,-179.1936,604.338,4.4,mb,43,108,5.484,0.83,us,us6000lfgv,2023-10-14T03:07:47.040Z,"Fiji region",earthquake,12.03,8.495,0.087,41,reviewed,us,us
 2023-10-14T02:00:22.397Z,58.286,-154.8286,97,0.8,ml,,,,0.22,ak,ak023d6ofinz,2023-10-14T02:01:49.094Z,"82 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-10-14T01:54:12.590Z,38.477,-123.2578333,4.06,1.64,md,13,220,0.088,0.07,nc,nc73946985,2023-10-14T21:44:44.066Z,"4 km SSW of Fort Ross, CA",earthquake,0.59,0.78,0.089,18,reviewed,nc,nc
 2023-10-14T01:53:11.680Z,34.1458333,-117.4086667,1.57,1,ml,26,65,0.04918,0.21,ci,ci40582368,2023-10-14T01:56:46.390Z,"6 km NW of Rialto, CA",earthquake,0.31,0.51,0.141,25,automatic,ci,ci
 2023-10-14T01:24:01.720Z,34.1453333,-117.4103333,2.11,1.48,ml,42,41,0.07023,0.19,ci,ci40582360,2023-10-14T01:27:35.880Z,"6 km NW of Rialto, CA",earthquake,0.19,0.4,0.125,25,automatic,ci,ci
 2023-10-14T01:02:33.040Z,61.5084,-150.4203,47.8,0.9,ml,,,,0.62,ak,ak023d6nugxz,2023-10-14T18:47:56.997Z,"Southern Alaska",earthquake,,2,,,reviewed,ak,ak
