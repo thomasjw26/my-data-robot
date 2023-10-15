@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-15T05:10:34.840Z,17.9413333333333,-66.958,5.93,2.48,md,17,216,0.05612,0.23,pr,pr71428638,2023-10-15T05:20:02.360Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.65,0.4,0.0376081199923826,4,reviewed,pr,pr
+2023-10-15T05:05:01.865Z,61.1806,-154.1361,0.7,1.8,ml,,,,0.62,ak,ak023d8ds6yy,2023-10-15T05:07:47.983Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-15T04:39:57.610Z,38.8380013,-122.7708359,0.87,1.1,md,12,146,0.006322,0.02,nc,nc73947375,2023-10-15T04:56:14.518Z,"4 km WNW of Cobb, CA",earthquake,0.28,0.45,0.14,13,automatic,nc,nc
 2023-10-15T04:36:57.597Z,28.5644,-98.5749,8.256,2.5,ml,15,192,0.214,1.36,us,us6000lfnq,2023-10-15T04:49:40.040Z,"11 km NNW of Tilden, Texas",earthquake,3.38,7.4,0.115,10,reviewed,us,us
 2023-10-15T04:17:45.180Z,37.8865013,-121.9968338,9.39,1.25,md,13,116,,0.07,nc,nc73947370,2023-10-15T04:34:14.256Z,"5 km NE of Alamo, CA",earthquake,0.41,0.72,0.16,9,automatic,nc,nc
 2023-10-15T04:12:37.050Z,34.0418333,-117.239,15.22,1.13,ml,44,34,0.1091,0.2,ci,ci40582672,2023-10-15T04:16:18.168Z,"2 km ESE of Loma Linda, CA",earthquake,0.21,0.41,0.206,29,automatic,ci,ci
 2023-10-15T04:10:33.375Z,60.5061,-147.3846,19.3,1.9,ml,,,,0.5,ak,ak023d8d7wdl,2023-10-15T04:12:07.753Z,"55 km SW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-15T03:56:28.863Z,34.5926,62.1483,10,5.4,mww,116,22,5.689,1,us,us6000lfng,2023-10-15T04:40:37.040Z,"27 km N of Herāt, Afghanistan",earthquake,7.23,1.79,0.093,11,reviewed,us,us
+2023-10-15T03:56:28.863Z,34.5926,62.1483,10,5.4,mww,116,22,5.689,1,us,us6000lfng,2023-10-15T05:17:38.191Z,"27 km N of Herāt, Afghanistan",earthquake,7.23,1.79,0.093,11,reviewed,us,us
 2023-10-15T03:46:53.680Z,17.964,-66.9538333333333,13.21,2.72,md,4,193,0.07183,0.1,pr,pr71428613,2023-10-15T04:27:47.380Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.66,1.01,0.0201491434223553,4,reviewed,pr,pr
 2023-10-15T03:45:47.839Z,62.9316,-149.9091,70.7,1.9,ml,,,,0.34,ak,ak023d8ctzy7,2023-10-15T03:47:33.252Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-15T03:36:00.037Z,34.6094,62.1115,6.323,6.3,mww,126,21,5.719,1.2,us,us6000lfn5,2023-10-15T04:59:46.676Z,"30 km NNW of Herāt, Afghanistan",earthquake,7.19,3.138,0.063,24,reviewed,us,us
@@ -164,5 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T05:55:30.358Z,34.49075317,-97.75846863,5.971240044,1.73,ml,13,68.96090698,0.1258587837,0.7845151145,ok,ok2023uczp,2023-10-14T05:59:45.269Z,"Oklahoma",earthquake,3.532529749,3.168562208,0.26,7,automatic,ok,ok
 2023-10-14T05:25:03.079Z,-60.4998,-25.6471,10,4.8,mb,38,95,17.705,0.63,us,us6000lfhc,2023-10-14T05:38:59.040Z,"South Sandwich Islands region",earthquake,5.17,1.911,0.09,38,reviewed,us,us
 2023-10-14T05:24:13.693Z,37.0657,-117.0149,5.8,1.1,ml,12,167.31,0.087,0.1534,nn,nn00867286,2023-10-14T15:49:41.508Z,"28 km NW of Beatty, Nevada",earthquake,,2.2,0.91,7,reviewed,nn,nn
-2023-10-14T05:16:53.590Z,33.6575,-116.7521667,17.6,0.68,ml,20,46,0.06568,0.18,ci,ci40582416,2023-10-14T05:20:27.201Z,"10 km SSW of Idyllwild, CA",earthquake,0.48,0.68,0.15,16,automatic,ci,ci
-2023-10-14T05:13:05.230Z,33.5838333,-116.6211667,11.31,0.58,ml,18,59,0.01883,0.21,ci,ci40582408,2023-10-14T05:16:36.499Z,"6 km ENE of Anza, CA",earthquake,0.45,0.67,0.208,13,automatic,ci,ci
