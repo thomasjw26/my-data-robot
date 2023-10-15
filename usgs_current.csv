@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-15T08:28:26.842Z,57.7869,-154.0651,24,2.2,ml,,,,0.59,ak,ak023d8fph7e,2023-10-15T08:32:05.715Z,"27 km N of Larsen Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-15T08:22:33.459Z,60.3322,-152.1939,84.6,1.7,ml,,,,0.62,ak,ak023d8fo7e9,2023-10-15T08:25:29.866Z,"42 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-15T08:19:18.790Z,38.8160019,-122.8198318,2.78,0.77,md,9,74,0.0102,0.01,nc,nc73947415,2023-10-15T08:30:10.611Z,"7 km NW of The Geysers, CA",earthquake,0.5,1.15,0.27,10,automatic,nc,nc
 2023-10-15T08:17:05.350Z,33.1535,-116.5571667,16.77,1.08,ml,32,51,0.07987,0.19,ci,ci40582688,2023-10-15T08:20:46.181Z,"9 km NNE of Julian, CA",earthquake,0.31,0.59,0.154,27,automatic,ci,ci
