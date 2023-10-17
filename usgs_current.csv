@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T22:30:11.600Z,38.8376656,-122.8113327,0.32,0.85,md,8,107,0.01428,0.02,nc,nc73948395,2023-10-17T22:40:10.319Z,"8 km WNW of Cobb, CA",earthquake,0.3,1.27,0.17,10,automatic,nc,nc
 2023-10-17T21:58:27.730Z,19.1828327178955,-155.500839233398,32.8300018310547,2.0999999,md,34,134,,0.100000001,hv,hv73612437,2023-10-17T22:01:37.160Z,"3 km SW of Pāhala, Hawaii",earthquake,0.52,0.810000002,0.50999999,13,automatic,hv,hv
 2023-10-17T21:52:16.026Z,-29.1866,-176.1218,10,5.2,mb,53,57,1.574,1.07,us,us6000lg8g,2023-10-17T22:15:20.040Z,"Kermadec Islands region",earthquake,10.76,1.806,0.051,126,reviewed,us,us
+2023-10-17T21:45:31.025Z,-24.2046,-66.996,193.742,4.2,ml,24,92,1.653,0.62,us,us6000lg8c,2023-10-17T22:48:25.040Z,"Salta, Argentina",earthquake,9.92,9.861,,,reviewed,us,guc
 2023-10-17T21:19:18.232Z,63.1283,-148.6774,77.6,1.5,ml,,,,0.35,ak,ak023dbyguxb,2023-10-17T21:21:06.584Z,"32 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-17T21:19:13.890Z,38.793499,-122.758667,2.22,1.08,md,15,76,0.007162,0.02,nc,nc73948390,2023-10-17T21:30:10.904Z,"2 km N of The Geysers, CA",earthquake,0.28,0.68,0.05,17,automatic,nc,nc
 2023-10-17T21:16:34.585Z,61.4071,-150.7898,15.9,1.4,ml,,,,0.36,ak,ak023dbyg91e,2023-10-17T21:18:36.915Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
