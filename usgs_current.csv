@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-18T08:21:07.320Z,38.8221664,-122.7639999,2.01,0.29,md,8,121,0.009492,0.01,nc,nc73948550,2023-10-18T08:22:45.066Z,"4 km W of Cobb, CA",earthquake,0.51,1.11,0.09,8,automatic,nc,nc
-2023-10-18T08:11:28.828Z,13.3849,146.2326,10,5.2,mb,70,61,1.343,0.9,us,us6000lgbq,2023-10-18T08:27:00.040Z,"146 km E of Yigo Village, Guam",earthquake,7.23,1.768,0.065,78,reviewed,us,us
+2023-10-18T08:21:07.320Z,38.8221664,-122.7639999,2.01,0.29,md,8,121,0.009492,0.01,nc,nc73948550,2023-10-18T08:31:10.612Z,"4 km W of Cobb, CA",earthquake,0.51,1.11,0.09,8,automatic,nc,nc
+2023-10-18T08:11:28.828Z,13.3849,146.2326,10,5.2,mb,70,61,1.343,0.9,us,us6000lgbq,2023-10-18T08:31:43.088Z,"146 km E of Yigo Village, Guam",earthquake,7.23,1.768,0.065,78,reviewed,us,us
 2023-10-18T08:00:30.408Z,62.2706,-152.0597,249.9,2.5,ml,,,,0.78,ak,ak023dde5l0z,2023-10-18T08:20:41.609Z,"46 km NW of Skwentna, Alaska",earthquake,,9.5,,,automatic,ak,ak
 2023-10-18T07:49:23.604Z,-4.3995,153.4218,115.341,4.9,mb,53,152,1.272,0.66,us,us6000lgbk,2023-10-18T08:12:18.040Z,"128 km E of Kokopo, Papua New Guinea",earthquake,10.91,6.482,0.062,80,reviewed,us,us
 2023-10-18T07:29:47.970Z,38.8149986,-122.8288345,1.45,0.92,md,15,60,0.006128,0.05,nc,nc73948545,2023-10-18T07:48:12.386Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.51,0.26,16,automatic,nc,nc
@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T08:57:28.560Z,18.366,-66.8331666666667,18.83,2.39,md,11,156,0.1531,0.1,pr,pr71428953,2023-10-17T09:35:33.800Z,"Puerto Rico",earthquake,0.49,0.41,0.0681376913646363,9,reviewed,pr,pr
 2023-10-17T08:56:15.720Z,37.5643333,-118.8383333,7.97,0.59,md,16,272,0.02668,0.02,nc,nc73948175,2023-10-17T19:06:11.053Z,"14 km W of Toms Place, CA",earthquake,1.61,1.97,0.167,16,reviewed,nc,nc
 2023-10-17T08:37:43.890Z,18.5731666666667,-66.735,23.1,2.74,md,9,255,0.2171,0.2,pr,pr71428948,2023-10-17T08:55:46.380Z,"11 km N of Arecibo, Puerto Rico",earthquake,1.06,2.38,0.110146256125702,8,reviewed,pr,pr
-2023-10-17T08:29:48.590Z,33.0058333,-117.9086667,0.75,2.98,ml,47,132,0.4699,0.29,ci,ci40583304,2023-10-18T07:26:36.040Z,"46 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.4,1.1,0.141,101,reviewed,ci,ci
