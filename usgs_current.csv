@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-20T07:09:17.420Z,38.6811676,-122.4946671,9.23,1.33,md,11,132,0.08924,0.07,nc,nc73949245,2023-10-20T07:10:55.725Z,"12 km NNW of Angwin, CA",earthquake,0.58,1.92,0.1,10,automatic,nc,nc
+2023-10-20T07:19:50.906Z,35.25524902,-98.03190613,5,2.47,ml,48,48.30841064,0.1648403406,0.8617345746,ok,ok2023uobk,2023-10-20T07:22:29.608Z,"9 km NW of Pocasset, Oklahoma",earthquake,1.722968698,,0.27,17,automatic,ok,ok
+2023-10-20T07:09:17.420Z,38.6811676,-122.4946671,9.23,1.33,md,11,132,0.08924,0.07,nc,nc73949245,2023-10-20T07:19:10.885Z,"12 km NNW of Angwin, CA",earthquake,0.58,1.92,0.1,10,automatic,nc,nc
 2023-10-20T07:01:23.670Z,19.150333404541,-155.359664916992,27.8600006103516,2.17000008,md,45,182,,0.109999999,hv,hv73614692,2023-10-20T07:04:38.300Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.59,1,1.16999996,20,automatic,hv,hv
 2023-10-20T07:00:24.500Z,33.2721667,-116.7806667,11.23,0.56,ml,17,85,0.04049,0.15,ci,ci40584536,2023-10-20T07:04:00.580Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.33,0.98,0.122,8,automatic,ci,ci
 2023-10-20T06:33:47.430Z,36.9109993,-121.5849991,7.4,1.94,md,31,62,0.02707,0.17,nc,nc73949240,2023-10-20T06:49:14.709Z,"6 km ENE of Aromas, CA",earthquake,0.42,0.59,0.16,30,automatic,nc,nc
