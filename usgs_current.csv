@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-20T13:06:35.200Z,38.8051682,-122.8051682,1.64,0.75,md,7,108,0.008199,0.01,nc,nc73949315,2023-10-20T13:08:11.322Z,"5 km NW of The Geysers, CA",earthquake,0.43,0.93,0.26,9,automatic,nc,nc
-2023-10-20T12:54:40.680Z,38.7758331,-122.7174988,0.83,0.97,md,7,97,0.01534,0.02,nc,nc73949305,2023-10-20T13:05:11.946Z,"2 km W of Anderson Springs, CA",earthquake,0.84,1.53,0.22,7,automatic,nc,nc
+2023-10-20T13:06:35.200Z,38.8051682,-122.8051682,1.64,0.75,md,7,108,0.008199,0.01,nc,nc73949315,2023-10-20T13:17:12.016Z,"5 km NW of The Geysers, CA",earthquake,0.43,0.93,0.26,9,automatic,nc,nc
+2023-10-20T12:54:40.680Z,38.7758331,-122.7174988,0.83,0.97,md,7,97,0.01534,0.02,nc,nc73949305,2023-10-20T13:18:13.022Z,"2 km W of Anderson Springs, CA",earthquake,0.84,1.53,0.22,7,automatic,nc,nc
 2023-10-20T12:54:25.039Z,35.265,-98.026,11.91,1.92,ml,87,39,0.1538698055,0.37,ok,ok2023uomk,2023-10-20T13:13:18.419Z,"Oklahoma",earthquake,,1.4,0.24,40,reviewed,ok,ok
 2023-10-20T12:49:03.611Z,39.2731,-119.6653,0,1.1,ml,9,60.44,0.191,0.3093,nn,nn00867654,2023-10-20T12:51:37.880Z,"4 km SSW of Virginia City, Nevada",earthquake,,10.8,0.44,6,automatic,nn,nn
 2023-10-20T12:47:40.000Z,40.2843323,-123.6393356,24.88,1.81,md,8,140,0.09026,0.11,nc,nc73949300,2023-10-20T13:07:11.953Z,"24 km NE of Redway, CA",earthquake,1.8,1.31,0.1,5,automatic,nc,nc
-2023-10-20T12:40:35.250Z,38.8026657,-122.7833328,0.76,0.72,md,7,131,0.01013,0.02,nc,nc73949295,2023-10-20T12:57:12.903Z,"4 km NW of The Geysers, CA",earthquake,0.37,0.72,0.34,9,automatic,nc,nc
+2023-10-20T12:40:35.250Z,38.8026657,-122.7833328,0.76,0.72,md,7,131,0.01013,0.02,nc,nc73949295,2023-10-20T13:17:12.154Z,"4 km NW of The Geysers, CA",earthquake,0.37,0.72,0.34,9,automatic,nc,nc
 2023-10-20T12:28:48.251Z,59.8073,-152.5196,80.9,2.2,ml,,,,0.35,ak,ak023dgrrzq7,2023-10-20T12:49:30.040Z,"38 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-20T12:01:17.233Z,64.8333,-149.1704,20.3,1.2,ml,,,,0.21,ak,ak023dgrm4zv,2023-10-20T12:02:46.701Z,"25 km N of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-20T11:49:40.990Z,38.7960014,-122.7246704,1.87,1.08,md,12,100,0.01585,0.02,nc,nc73949285,2023-10-20T12:49:11.856Z,"3 km S of Cobb, CA",earthquake,0.27,0.91,0.1,11,automatic,nc,nc
@@ -196,5 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T13:37:02.180Z,32.7728333,-115.8138333,7.6,1.58,ml,28,64,0.1057,0.2,ci,ci40584168,2023-10-19T15:31:27.720Z,"17 km ENE of Ocotillo, CA",earthquake,0.27,0.78,0.144,18,reviewed,ci,ci
 2023-10-19T13:34:00.470Z,38.8165016,-122.8190002,2.45,0.48,md,12,91,0.009798,0.01,nc,nc73948955,2023-10-19T15:29:11.454Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.77,0.26,12,automatic,nc,nc
 2023-10-19T13:29:33.990Z,37.2965012,-121.6688309,5.74,1.15,md,9,78,0.04968,0.03,nc,nc73948950,2023-10-19T15:13:11.356Z,"15 km E of Seven Trees, CA",earthquake,0.33,0.93,0.24,6,automatic,nc,nc
-2023-10-19T13:24:11.640Z,35.7903333,-117.5986667,11.71,0.67,ml,14,109,0.1363,0.18,ci,ci40584160,2023-10-19T15:24:45.402Z,"18 km W of Searles Valley, CA",earthquake,0.44,0.91,0.124,4,reviewed,ci,ci
-2023-10-19T13:23:48.940Z,19.1961669921875,-155.485992431641,35.7900009155273,2.58,ml,49,83,,0.109999999,hv,hv73614242,2023-10-19T15:23:23.040Z,"1 km SW of Pāhala, Hawaii",earthquake,0.5,0.629999995,3.11,29,automatic,hv,hv
