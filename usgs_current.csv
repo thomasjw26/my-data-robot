@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-20T03:48:39.470Z,38.7973328,-122.7866669,3.88,0.73,md,8,141,0.004261,0.01,nc,nc73949185,2023-10-20T03:50:15.308Z,"3 km NW of The Geysers, CA",earthquake,0.77,1.39,0.25,7,automatic,nc,nc
+2023-10-20T03:50:09.230Z,19.2523326873779,-155.391006469727,31.6299991607666,1.83000004,md,32,162,,0.129999995,hv,hv73614617,2023-10-20T03:53:31.120Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.800000012,1.73000002,6,automatic,hv,hv
+2023-10-20T03:48:39.470Z,38.7973328,-122.7866669,3.88,0.73,md,8,141,0.004261,0.01,nc,nc73949185,2023-10-20T03:59:11.970Z,"3 km NW of The Geysers, CA",earthquake,0.77,1.39,0.25,7,automatic,nc,nc
 2023-10-20T03:42:54.296Z,67.6064,-156.6298,8.8,3.2,ml,,,,0.54,ak,ak023dgmi3rp,2023-10-20T03:46:45.839Z,"78 km NE of Ambler, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-10-20T03:38:45.440Z,33.5996667,-117.2371667,10.9,1.61,ml,57,36,0.03484,0.25,ci,ci40584504,2023-10-20T03:49:31.000Z,"4 km E of Wildomar, CA",earthquake,0.29,0.55,0.133,27,automatic,ci,ci
 2023-10-20T03:14:10.886Z,35.27168655,-98.00827789,1.337628961,2.21,ml,33,46.19700623,0.1404463947,0.899569618,ok,ok2023unth,2023-10-20T03:18:20.432Z,"7 km SW of Minco, Oklahoma",earthquake,2.125047431,1.525743062,0.27,20,automatic,ok,ok
@@ -226,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T04:24:38.954Z,62.3873,-151.0249,14.6,1.9,ml,,,,0.22,ak,ak023dezgat3,2023-10-19T04:37:17.322Z,"18 km SW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-19T04:20:12.440Z,54.7706666666667,-163.548166666667,4.24,2.12,ml,11,149,,0.13,av,av92087591,2023-10-19T18:16:10.240Z,"12 km SW of False Pass, Alaska",earthquake,0.41,0.83,0.256874221398516,13,reviewed,av,av
 2023-10-19T04:18:39.330Z,17.9071666666667,-66.8365,10.96,2.46,md,8,230,0.07884,0.06,pr,pr71429178,2023-10-19T04:33:00.930Z,"Puerto Rico region",earthquake,0.63,0.41,0.178974892763265,4,reviewed,pr,pr
-2023-10-19T03:53:21.540Z,37.3076668,-121.678833,7.31,1.35,md,11,81,0.04456,0.03,nc,nc73948820,2023-10-19T06:15:13.274Z,"14 km E of Seven Trees, CA",earthquake,0.31,1.16,0.21,7,automatic,nc,nc
