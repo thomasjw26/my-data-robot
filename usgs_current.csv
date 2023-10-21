@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-21T23:41:49.810Z,38.7739983,-122.7365036,0.55,0.67,md,7,99,0.009227,0.01,nc,nc73949835,2023-10-21T23:43:26.782Z,"2 km ESE of The Geysers, CA",earthquake,0.51,1.35,0.13,8,automatic,nc,nc
+2023-10-21T23:35:00.600Z,19.2976665496826,-155.431167602539,27.2099990844727,1.75,md,29,102,,0.109999999,hv,hv73617087,2023-10-21T23:38:21.670Z,"11 km NNE of Pāhala, Hawaii",earthquake,0.42,0.769999981,1.75,4,automatic,hv,hv
 2023-10-21T23:32:59.500Z,37.1786652,-121.6846695,4.52,1.17,md,10,79,0.04676,0.12,nc,nc73949830,2023-10-21T23:34:36.731Z,"6 km NNW of Morgan Hill, CA",earthquake,0.41,1.06,0.24,8,automatic,nc,nc
 2023-10-21T22:54:29.819Z,60.1431,-151.0039,63.7,1.4,ml,,,,0.41,ak,ak023dilf7gl,2023-10-21T22:56:20.294Z,"23 km ESE of Clam Gulch, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-21T22:49:39.929Z,63.4967,-150.874,0,1.4,ml,,,,0.61,ak,ak023dile5ns,2023-10-21T22:51:48.369Z,"42 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
