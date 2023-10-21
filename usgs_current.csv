@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-21T03:42:02.317Z,61.5786,-149.9992,33.2,1.3,ml,,,,0.5,ak,ak023dia1c93,2023-10-21T03:43:39.724Z,"6 km NNW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-21T03:30:11.320Z,38.8391685,-122.8251648,1.59,0.72,md,11,93,0.008082,0.02,nc,nc73949580,2023-10-21T05:08:11.620Z,"9 km WNW of Cobb, CA",earthquake,0.28,0.67,0.17,11,automatic,nc,nc
 2023-10-21T03:30:01.650Z,33.7116667,-116.7791667,16.56,1.6,ml,48,27,0.05612,0.19,ci,ci40584712,2023-10-21T03:40:50.710Z,"6 km WSW of Idyllwild, CA",earthquake,0.22,0.42,0.225,27,automatic,ci,ci
-2023-10-21T02:59:33.530Z,36.187,-89.4506666666667,11.33,3.27,md,50,34,0.04449,0.19,nm,nm60556241,2023-10-21T05:17:19.414Z,"9 km SSE of Ridgely, Tennessee",earthquake,0.26,0.38,0.156149153634409,45,reviewed,nm,nm
+2023-10-21T02:59:33.530Z,36.187,-89.4506666666667,11.33,3.27,md,50,34,0.04449,0.19,nm,nm60556241,2023-10-21T06:07:07.118Z,"9 km SSE of Ridgely, Tennessee",earthquake,0.26,0.38,0.156149153634409,45,reviewed,nm,nm
 2023-10-21T02:42:21.165Z,31.9116,141.8959,10,4.6,mb,35,136,2.13,0.65,us,us6000lh2u,2023-10-21T03:33:23.040Z,"Izu Islands, Japan region",earthquake,10.29,1.898,0.116,23,reviewed,us,us
 2023-10-21T02:29:10.467Z,61.7158,-150.7746,64.8,1.3,ml,,,,0.52,ak,ak023di9d4yu,2023-10-21T02:31:36.811Z,"23 km NW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-21T02:23:16.536Z,-22.4935,-68.5291,131.94,4.5,mb,31,50,0.559,0.63,us,us6000lh2f,2023-10-21T02:41:18.040Z,"40 km E of Calama, Chile",earthquake,6.89,6.774,0.135,17,reviewed,us,us
@@ -226,6 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T06:33:47.410Z,36.9126667,-121.5773333,7.07,1.8,md,56,59,0.0305,0.16,nc,nc73949240,2023-10-20T21:53:19.129Z,"6 km ENE of Aromas, CA",earthquake,0.24,0.4,0.193,49,reviewed,nc,nc
 2023-10-20T06:31:44.840Z,52.0765,-176.1115,1.6,-0.23,ml,5,130,,0.31,av,av92088846,2023-10-20T21:10:22.090Z,"42 km ENE of Adak, Alaska",earthquake,0.98,2.46,0.136714184521585,5,reviewed,av,av
 2023-10-20T06:23:21.760Z,59.3581666666667,-153.4325,-0.76,0.75,ml,6,97,,0.08,av,av92088841,2023-10-20T21:07:06.350Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.16,0.22,0.239299417922501,6,reviewed,av,av
-2023-10-20T06:02:55.590Z,58.2636666666667,-155.065666666667,13.04,-0.36,ml,7,158,,0.27,av,av91118793,2023-10-20T21:26:25.560Z,"85 km NNW of Karluk, Alaska",earthquake,1.77,1.08,0.101657597080939,7,reviewed,av,av
-2023-10-20T06:02:03.218Z,61.3714,-147.4113,19,1.8,ml,,,,0.64,ak,ak023dgo1q01,2023-10-20T06:03:52.606Z,"50 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-20T05:58:41.370Z,38.8409996,-122.8286667,2.47,0.73,md,5,129,0.005845,0.01,nc,nc73949235,2023-10-20T06:31:13.612Z,"9 km WNW of Cobb, CA",earthquake,1.47,3.22,0.17,7,automatic,nc,nc
