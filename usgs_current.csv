@@ -192,7 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-21T07:07:09.099Z,-4.4371,134.5874,10,4.4,mb,10,130,2.778,0.47,us,us6000lh44,2023-10-21T07:22:19.040Z,"156 km SW of Nabire, Indonesia",earthquake,8.21,1.993,0.179,9,reviewed,us,us
 2023-10-21T06:40:33.056Z,61.482,-150.3914,38.5,1.3,ml,,,,1.04,ak,ak023dibta09,2023-10-21T06:42:18.223Z,"9 km SE of Susitna, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2023-10-21T06:38:51.947Z,63.1317,-151.4205,10.3,1.1,ml,,,,0.5,ak,ak023dibsw15,2023-10-21T06:41:07.290Z,"48 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-21T06:38:05.249Z,39.6219,-119.6337,10.8,0.8,ml,8,112.14,0.211,0.0783,nn,nn00867715,2023-10-21T17:31:42.894Z,"7 km ESE of Spanish Springs, Nevada",earthquake,,4.2,0.73,4,reviewed,nn,nn
-2023-10-21T06:36:30.575Z,38.1486,-117.9077,9,1.3,ml,8,124.05,0.079,0.111,nn,nn00867703,2023-10-21T06:39:19.604Z,"32 km SSE of Mina, Nevada",earthquake,,0.6,0.74,5,automatic,nn,nn
-2023-10-21T06:32:37.610Z,38.8370018,-122.8063354,0.93,0.54,md,7,132,0.01257,0.02,nc,nc73949620,2023-10-21T06:53:20.225Z,"7 km WNW of Cobb, CA",earthquake,0.33,0.99,0.41,8,automatic,nc,nc
-2023-10-21T06:32:11.370Z,19.1363334655762,-155.370666503906,30.6800003051758,1.83000004,md,45,185,,0.100000001,hv,hv73615637,2023-10-21T06:35:38.800Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.59,0.810000002,1.03999996,11,automatic,hv,hv
