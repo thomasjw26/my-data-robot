@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-23T10:14:15.310Z,19.3766670227051,-155.27783203125,0.870000004768372,2.07,ml,33,90,,0.289999992,hv,hv73619932,2023-10-23T10:19:47.070Z,"8 km SSW of Volcano, Hawaii",earthquake,0.29,0.349999994,0.35,10,automatic,hv,hv
-2023-10-23T10:10:15.384Z,-29.9476,-177.5191,23.092,6,mww,64,68,0.767,1.18,us,us6000lhgd,2023-10-23T10:27:19.040Z,"Kermadec Islands, New Zealand",earthquake,8.17,4.349,0.056,31,reviewed,us,us
+2023-10-23T10:10:15.384Z,-29.9476,-177.5191,23.092,6,mww,64,68,0.767,1.18,us,us6000lhgd,2023-10-23T10:33:29.755Z,"Kermadec Islands, New Zealand",earthquake,8.17,4.349,0.056,31,reviewed,us,us
 2023-10-23T10:09:49.687Z,66.7617,-153.1875,5.9,2.5,ml,,,,0.7,ak,ak023dlp337f,2023-10-23T10:13:39.895Z,"31 km NW of Alatna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-23T10:09:16.600Z,38.8353348,-122.8166656,1.4,0.73,md,12,88,0.01299,0.01,nc,nc73950300,2023-10-23T10:25:11.251Z,"8 km W of Cobb, CA",earthquake,0.29,0.69,0.34,13,automatic,nc,nc
 2023-10-23T09:48:00.266Z,60.607,-150.2586,62.4,1.4,ml,,,,0.62,ak,ak023dlopx0a,2023-10-23T09:50:44.497Z,"27 km WNW of Cooper Landing, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -180,5 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T10:40:17.190Z,38.6866684,-122.4954987,7.87,1.42,md,11,110,0.09301,0.07,nc,nc73949980,2023-10-23T09:59:12.222Z,"13 km SE of Middletown, CA",earthquake,0.42,1.95,0.2,12,automatic,nc,nc
 2023-10-22T10:40:11.697Z,57.3371,-154.9751,41,3,ml,,,,0.3,ak,ak023dk1qb9t,2023-10-22T10:52:14.040Z,"Kodiak Island region, Alaska",earthquake,,7.6,,,automatic,ak,ak
 2023-10-22T10:38:02.873Z,-22.928,-69.3263,87.396,4.3,mb,22,114,0.317,0.61,us,us6000lhah,2023-10-22T10:48:52.040Z,"66 km SW of Calama, Chile",earthquake,5.38,5.474,0.188,8,reviewed,us,us
-2023-10-22T10:35:57.862Z,60.3676,-152.2948,88.4,2.5,ml,,,,0.41,ak,ak023dk1pc8d,2023-10-22T10:41:06.040Z,"49 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-22T10:31:49.120Z,19.1023330688477,-155.451171875,28.4400005340576,1.76999998,md,45,202,,0.159999996,hv,hv73617737,2023-10-22T10:35:05.070Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.59,0.819999993,1.13999999,7,automatic,hv,hv
