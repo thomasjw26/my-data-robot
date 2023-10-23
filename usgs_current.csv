@@ -176,9 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T08:38:31.387Z,61.869,-149.9029,33,1.6,ml,,,,0.53,ak,ak023dk0j25e,2023-10-22T08:40:20.728Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-22T08:29:03.962Z,39.6067,-119.3705,10.4,0.6,ml,5,205.26,0.105,0.1299,nn,nn00867748,2023-10-22T15:19:28.620Z,"7 km WSW of Wadsworth, Nevada",earthquake,,3.2,0.48,4,reviewed,nn,nn
 2023-10-22T08:28:03.370Z,18.1053,-68.8651,98,3.95,md,9,196,0.6332,0.39,pr,pr2023295000,2023-10-22T08:52:51.774Z,"37 km SSE of La Romana, Dominican Republic",earthquake,5.81,3.25,0.06,6,reviewed,pr,pr
-2023-10-22T08:21:32.520Z,62.3987,-149.1413,35.3,1.4,ml,,,,0.61,ak,ak023dk0ff2c,2023-10-22T08:23:30.816Z,"45 km NE of Susitna North, Alaska",earthquake,,4.7,,,automatic,ak,ak
-2023-10-22T08:20:12.435Z,63.2654,-150.681,130.4,1.5,ml,,,,0.21,ak,ak023dk0f5sr,2023-10-22T08:22:17.140Z,"60 km ESE of Denali National Park, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2023-10-22T08:18:53.700Z,19.1371669769287,-155.482162475586,10.9899997711182,2.18,ml,40,166,,0.219999999,hv,hv73617607,2023-10-22T09:00:57.040Z,"7 km S of Pāhala, Hawaii",earthquake,0.57,0.439999998,4.32,10,automatic,hv,hv
-2023-10-22T08:14:15.280Z,35.263,-118.642,7.63,1.2,ml,17,97,0.04981,0.17,ci,ci40584856,2023-10-22T13:41:11.764Z,"18 km ENE of Arvin, CA",earthquake,0.35,0.93,0.119,11,reviewed,ci,ci
-2023-10-22T08:13:38.944Z,38.9069,22.3607,13.874,4.3,mb,47,54,1.199,0.56,us,us6000lh9v,2023-10-22T08:38:44.040Z,"1 km NW of Stavrós, Greece",earthquake,4.74,4.599,0.168,10,reviewed,us,us
-2023-10-22T08:10:19.060Z,38.0423333333333,-79.0508333333333,3.49,2.42,md,11,54,0.2917,0.12,se,se60501213,2023-10-23T04:59:27.954Z,"2 km NW of Stuarts Draft, Virginia",earthquake,0.36,1.12,0.12850169824745,10,reviewed,se,se
