@@ -187,6 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T22:56:00.579Z,31.713,-104.014,5.8231,1.9,ml(texnet),24,34,0,0.2,tx,tx2023usxi,2023-10-23T14:09:28.283Z,"39 km W of Mentone, Texas",earthquake,0.5926830955,0.7098935172,0,6,reviewed,tx,tx
 2023-10-22T22:52:37.100Z,34.1455,-117.345,4.14,1.11,ml,36,50,0.06295,0.15,ci,ci40585032,2023-10-23T14:23:24.691Z,"1 km S of Muscoy, CA",earthquake,0.16,0.43,0.109,23,reviewed,ci,ci
 2023-10-22T22:45:11.783Z,31.714,-104.01,5.1418,2.3,ml(texnet),21,43,0,0.1,tx,tx2023uswy,2023-10-23T17:33:14.641Z,"38 km W of Mentone, Texas",earthquake,0.447056723,0.6237877211,0.1,7,reviewed,tx,tx
+2023-10-22T22:43:07.660Z,53.9011666666667,-167.932833333333,5.26,2.11,ml,0,142,,0.25,av,av92091966,2023-10-23T21:53:46.080Z,"91 km W of Dutch Harbor, Alaska",earthquake,0.71,1.03,0.296868057887638,17,reviewed,av,av
 2023-10-22T22:39:15.930Z,38.8173332,-122.8081665,3.06,1.85,md,38,41,0.006234,0.04,nc,nc73950135,2023-10-22T23:34:10.508Z,"6 km NW of The Geysers, CA",earthquake,0.17,0.3,0.19,40,automatic,nc,nc
 2023-10-22T22:38:02.891Z,31.713,-104.008,5.7202,2.2,ml(texnet),23,33,0,0.1,tx,tx2023uswp,2023-10-23T18:30:22.528Z,"38 km W of Mentone, Texas",earthquake,0.5312898666,0.6382547545,0,7,reviewed,tx,tx
 2023-10-22T22:32:40.220Z,46.777166666666666,-121.96283333333334,9.05,0.52,ml,23,82,0.03738,0.13,uw,uw61958722,2023-10-23T00:30:24.720Z,"5 km ENE of Ashford, Washington",earthquake,0.34,0.44,0.15184615665732148,7,reviewed,uw,uw
@@ -198,5 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T22:07:55.100Z,38.7838326,-122.7878342,15.06,0.84,md,11,176,0.009333,0.09,nc,nc73950130,2023-10-22T23:08:11.384Z,"3 km WNW of The Geysers, CA",earthquake,2.08,5.72,0.12,12,automatic,nc,nc
 2023-10-22T22:02:12.803Z,58.0214,-154.2461,40.6,1.2,ml,,,,0.64,ak,ak023dk8ndeo,2023-10-22T22:04:14.406Z,"51 km NNE of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-10-22T21:56:51.857Z,31.666,-104.184,4.8976,2.2,ml(texnet),21,67,0.1,0.2,tx,tx2023usvk,2023-10-23T13:18:16.607Z,"53 km NW of Toyah, Texas",earthquake,0.6061440844,1.506037573,0,7,reviewed,tx,tx
-2023-10-22T21:51:01.270Z,57.9002,-155.7653,9.1,1.9,ml,,,,0.24,ak,ak023dk8cezz,2023-10-22T21:53:09.594Z,"86 km WNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-22T21:49:26.930Z,44.8376666666667,-116.069833333333,4.19,2.31,ml,9,76,0.2547,0.2,mb,mb90030578,2023-10-23T14:40:51.150Z,"8 km SSE of McCall, Idaho",earthquake,0.51,2.04,0.254472944402786,21,reviewed,mb,mb
