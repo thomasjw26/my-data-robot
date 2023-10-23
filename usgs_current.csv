@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T06:51:43.770Z,38.7946663,-122.7801666,3.14,1.67,md,36,76,0.006237,0.04,nc,nc73949940,2023-10-22T08:34:10.359Z,"3 km NW of The Geysers, CA",earthquake,0.21,0.35,0.18,37,automatic,nc,nc
 2023-10-22T06:47:38.144Z,39.9586,-119.9621,9.4,0.5,ml,4,204.33,0.106,0.1018,nn,nn00867746,2023-10-22T15:13:14.795Z,"14 km ESE of Doyle, California",earthquake,,4.1,0,1,reviewed,nn,nn
 2023-10-22T06:46:04.065Z,62.2991,-151.4092,93.4,1.2,ml,,,,0.24,ak,ak023djzduk6,2023-10-22T06:48:08.108Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
-2023-10-22T06:19:56.445Z,64.5988,-151.1849,11.6,1.2,ml,,,,0.66,ak,ak023djz869o,2023-10-22T06:24:59.255Z,"51 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
