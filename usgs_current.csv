@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T21:56:03.275Z,60.0507,-151.8265,71.5,2.3,ml,,,,0.46,ak,ak023dnjg6pz,2023-10-24T22:09:53.040Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-24T21:40:57.500Z,17.9628333333333,-66.9348333333333,14.26,2.64,md,18,190,0.02661,0.15,pr,pr71429758,2023-10-24T21:53:01.170Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.49,0.41,0.186767260902191,9,reviewed,pr,pr
 2023-10-24T21:31:34.860Z,19.3861675262451,-155.273498535156,2.0699999332428,1.75999999,md,21,97,,0.280000001,hv,hv73622767,2023-10-24T21:37:06.290Z,"7 km SSW of Volcano, Hawaii",earthquake,0.39,0.360000014,0.829999983,10,automatic,hv,hv
-2023-10-24T21:24:23.910Z,38.6396667,-122.8676667,3.51,1.04,md,28,74,0.02373,0.06,nc,nc73950940,2023-10-24T23:23:07.485Z,"3 km N of Healdsburg, CA",earthquake,0.21,0.54,0.189,25,reviewed,nc,nc
+2023-10-24T21:24:23.910Z,38.6396667,-122.8676667,3.51,1.04,md,28,74,0.02373,0.06,nc,nc73950940,2023-10-24T23:36:10.990Z,"3 km N of Healdsburg, CA",earthquake,0.21,0.54,0.189,25,reviewed,nc,nc
 2023-10-24T21:20:07.770Z,32.9796667,-116.9088333,6.41,0.92,ml,5,121,0.245,0.13,ci,ci40586624,2023-10-24T21:23:42.831Z,"8 km SSW of Ramona, CA",earthquake,1.31,8.46,0.055,2,automatic,ci,ci
 2023-10-24T21:18:29.330Z,33.272,-116.779,11.24,1.2,ml,31,74,0.03973,0.22,ci,ci40586616,2023-10-24T21:29:24.620Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.29,0.81,0.147,25,automatic,ci,ci
 2023-10-24T21:11:43.160Z,38.7836685,-122.7334976,1.98,0.38,md,8,110,0.002559,0.03,nc,nc73950930,2023-10-24T21:30:11.298Z,"2 km ENE of The Geysers, CA",earthquake,0.39,0.83,0.17,6,automatic,nc,nc
@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T18:20:05.750Z,36.8928333,-121.6203333,-0.12,1.49,md,23,75,0.02423,0.1,nc,nc73950830,2023-10-24T22:38:56.551Z,"2 km ENE of Aromas, CA",quarry blast,0.21,31.61,0.236,18,reviewed,nc,nc
 2023-10-24T18:09:53.910Z,37.8771667,-122.251503,9.05,2.59,md,70,31,,0.05,nc,nc73950825,2023-10-24T23:13:50.123Z,"2 km ENE of Berkeley, CA",earthquake,0.13,0.27,0.13,69,automatic,nc,nc
 2023-10-24T18:02:45.917Z,33.5556,87.4205,10.018,4.6,mb,136,69,4.974,0.65,us,us7000l61c,2023-10-24T19:33:55.040Z,"western Xizang",earthquake,8.2,4.157,0.053,111,reviewed,us,us
-2023-10-24T18:00:36.580Z,38.7891667,-122.7678333,2.27,0.39,md,19,78,0.01308,0.02,nc,nc73950820,2023-10-24T23:16:06.112Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.35,0.27,13,reviewed,nc,nc
+2023-10-24T18:00:36.580Z,38.7891667,-122.7678333,2.27,0.39,md,19,78,0.01308,0.02,nc,nc73950820,2023-10-24T23:32:11.134Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.35,0.27,13,reviewed,nc,nc
 2023-10-24T17:59:05.520Z,33.8446667,-117.4916667,-0.51,0.96,ml,28,57,0.0474,0.2,ci,ci40586360,2023-10-24T18:45:19.440Z,"5 km SE of Home Gardens, CA",quarry blast,0.39,31.61,0.023,8,reviewed,ci,ci
 2023-10-24T17:55:37.252Z,60.2612,-151.4913,34.1,1.5,ml,,,,0.44,ak,ak023dnh2b7h,2023-10-24T17:57:28.185Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-10-24T17:45:56.750Z,38.8446655,-122.8306656,1.32,0.5,md,8,122,0.007141,0.02,nc,nc73950815,2023-10-24T17:47:32.569Z,"10 km WNW of Cobb, CA",earthquake,0.32,0.72,0.28,9,automatic,nc,nc
