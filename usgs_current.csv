@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-24T05:26:35.230Z,38.8411674,-122.8368301,1.54,0.69,md,14,115,0.00278,0.01,nc,nc73950580,2023-10-24T05:28:10.769Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.56,0.27,15,automatic,nc,nc
+2023-10-24T05:24:55.599Z,37.2981,-117.5952,0,1.7,ml,25,71.46,0.077,0.2759,nn,nn00867814,2023-10-24T05:27:37.488Z,"50 km S of Silver Peak, Nevada",earthquake,,3.8,0.22,20,automatic,nn,nn
 2023-10-24T05:14:23.615Z,61.6505,-149.5942,31,1.4,ml,,,,0.34,ak,ak023dn9oajd,2023-10-24T05:15:46.074Z,"2 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-10-24T05:13:53.440Z,63.3225,-152.7256,5.4,1.4,ml,,,,0.68,ak,ak023dn9o54z,2023-10-24T05:23:26.041Z,"55 km WSW of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-24T04:47:31.990Z,19.1221675872803,-155.479995727539,29.3299999237061,1.90999997,md,29,177,,0.129999995,hv,hv73621637,2023-10-24T04:50:43.290Z,"8 km S of Pāhala, Hawaii",earthquake,0.92,1.23000002,0.949999988,3,automatic,hv,hv
 2023-10-24T04:33:26.143Z,57.9245,-155.1861,4.8,0.9,ml,,,,0.2,ak,ak023dn96xqe,2023-10-24T04:35:19.419Z,"58 km NW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-10-24T04:33:21.706Z,-20.222,-69.2749,99.902,4.1,mb,20,75,0.556,0.6,us,us7000l5ww,2023-10-24T04:46:49.040Z,"Tarapaca, Chile",earthquake,4.27,6.807,0.174,9,reviewed,us,us
