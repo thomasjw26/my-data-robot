@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-24T10:42:37.630Z,35.899,-117.7013333,4.67,0.84,ml,15,119,0.104,0.17,ci,ci40585960,2023-10-24T10:46:09.316Z,"19 km ESE of Little Lake, CA",earthquake,0.46,0.74,0.14,7,automatic,ci,ci
 2023-10-24T10:10:07.647Z,5.798,-82.4066,10,5,mww,92,146,2.99,0.69,us,us7000l5yb,2023-10-24T10:29:54.040Z,"243 km SSW of Río Grande, Panama",earthquake,9.42,1.93,0.098,10,reviewed,us,us
 2023-10-24T09:38:53.765Z,64.7951,-147.8758,15.8,0.7,ml,,,,0.52,ak,ak023dnc78hn,2023-10-24T09:41:22.250Z,"4 km WSW of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-24T09:38:29.305Z,57.9649,-155.9786,4.9,1.1,ml,,,,0.15,ak,ak023dnc76ky,2023-10-24T09:40:18.035Z,"87 km ESE of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
