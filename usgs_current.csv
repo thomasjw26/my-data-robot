@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-24T18:09:53.910Z,37.8771667,-122.251503,9.05,2.59,md,70,31,,0.05,nc,nc73950825,2023-10-24T18:13:00.944Z,"2 km ENE of Berkeley, CA",earthquake,0.13,0.27,0.13,69,automatic,nc,nc
+2023-10-24T18:25:44.888Z,60.7143,-148.4161,57.3,1.8,ml,,,,1.47,ak,ak023dnhhbx4,2023-10-24T18:27:47.440Z,"16 km ESE of Whittier, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-10-24T18:22:35.230Z,65.0809,-151.1488,12.9,1.2,ml,,,,0.52,ak,ak023dnhgo0z,2023-10-24T18:24:13.035Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-24T18:09:53.910Z,37.8771667,-122.251503,9.05,2.59,md,70,31,,0.05,nc,nc73950825,2023-10-24T18:23:27.882Z,"2 km ENE of Berkeley, CA",earthquake,0.13,0.27,0.13,69,automatic,nc,nc
 2023-10-24T17:55:37.252Z,60.2612,-151.4913,34.1,1.5,ml,,,,0.44,ak,ak023dnh2b7h,2023-10-24T17:57:28.185Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-10-24T17:45:56.750Z,38.8446655,-122.8306656,1.32,0.5,md,8,122,0.007141,0.02,nc,nc73950815,2023-10-24T17:47:32.569Z,"10 km WNW of Cobb, CA",earthquake,0.32,0.72,0.28,9,automatic,nc,nc
 2023-10-24T17:42:44.490Z,38.6728325,-122.5043335,15.29,1.26,md,8,123,0.08771,0.32,nc,nc73950810,2023-10-24T17:59:11.093Z,"12 km NNW of Angwin, CA",earthquake,2.23,7.32,0.06,8,automatic,nc,nc
@@ -223,7 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T18:36:54.560Z,38.8310013,-122.8095016,1.95,1.83,md,36,42,0.007608,0.03,nc,nc73950435,2023-10-23T20:47:12.847Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.29,0.16,39,automatic,nc,nc
 2023-10-23T18:34:22.250Z,18.0478333333333,-65.3833333333333,7.02,2.6,md,10,148,0.3094,0.48,pr,pr71429613,2023-10-23T18:56:32.790Z,"10 km ESE of Esperanza, Puerto Rico",earthquake,1.81,2.63,0.0668525090434697,4,reviewed,pr,pr
 2023-10-23T18:31:39.420Z,42.9543333333333,-111.488833333333,2.78,2,ml,6,263,0.05196,0.04,mb,mb90030623,2023-10-23T19:37:42.890Z,"34 km NNE of Soda Springs, Idaho",earthquake,1.16,0.34,0.217725582890882,20,reviewed,mb,mb
-2023-10-23T18:27:14.700Z,38.8300018,-122.8101654,2.19,1.08,md,25,44,0.006598,0.03,nc,nc73950430,2023-10-23T18:39:54.954Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.44,0.07,25,automatic,nc,nc
-2023-10-23T18:26:58.430Z,44.7921667,-110.8248333,4.61,1.59,ml,16,82,0.01867,0.19,uu,uu60552767,2023-10-23T18:51:08.700Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.38,0.5,0.246,4,reviewed,uu,uu
-2023-10-23T18:26:30.040Z,38.8301659,-122.8098297,1.92,2.4,md,59,23,,0.06,nc,nc73950425,2023-10-23T20:21:11.700Z,"8 km NW of The Geysers, CA",earthquake,0.13,0.19,0.13,66,automatic,nc,nc
-2023-10-23T18:22:59.770Z,46.0255,-112.19,8.23,0.88,ml,16,67,0.1347,0.09,mb,mb90030693,2023-10-23T22:03:07.210Z,"18 km NNW of Whitehall, Montana",earthquake,0.26,1.73,0.0736859316820982,5,reviewed,mb,mb
