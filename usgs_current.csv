@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-25T21:43:42.601Z,37.6226,-97.584,3.691,2.3,mb_lg,30,68,0.249,0.22,us,us7000l6cz,2023-10-25T21:54:20.040Z,"Kansas",earthquake,1.74,1.563,0.128,16,reviewed,us,us
 2023-10-25T21:17:49.460Z,35.7621667,-117.5731667,1.81,0.76,ml,8,166,0.1555,0.12,ci,ci40587648,2023-10-25T21:21:15.688Z,"15 km W of Searles Valley, CA",earthquake,0.47,0.38,0.096,4,automatic,ci,ci
 2023-10-25T21:08:58.940Z,19.2428340911865,-155.203994750977,26.8700008392334,2.3499999,md,19,213,,0.119999997,hv,hv73624167,2023-10-25T21:12:06.900Z,"Hawaii region, Hawaii",earthquake,1.02,1.63,1.16999996,3,automatic,hv,hv
 2023-10-25T20:56:57.930Z,61.1483,-146.8093,15.2,1.4,ml,,,,0.43,ak,ak023dp6e7tt,2023-10-25T20:58:34.623Z,"24 km W of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
