@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-25T23:09:48.890Z,35.5086667,-118.3985,3.84,0.97,ml,14,103,0.1656,0.15,ci,ci40587720,2023-10-25T23:13:16.286Z,"12 km SE of Bodfish, CA",earthquake,0.33,1.12,0.103,7,automatic,ci,ci
+2023-10-25T23:09:48.810Z,35.509,-118.3955,5.66,0.98,ml,17,67,0.1663,0.14,ci,ci40587720,2023-10-25T23:21:53.117Z,"12 km SE of Bodfish, CA",earthquake,0.25,1.06,0.081,8,reviewed,ci,ci
 2023-10-25T23:01:09.132Z,61.4975,-146.6758,32.4,1.1,ml,,,,0.55,ak,ak023dp7umht,2023-10-25T23:03:15.296Z,"44 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-25T22:56:55.990Z,19.3369998931885,-155.30583190918,2.6800000667572,1.81,ml,21,85,,0.109999999,hv,hv73624357,2023-10-25T23:02:26.310Z,"13 km SSW of Volcano, Hawaii",earthquake,0.28,0.560000002,0.61,4,automatic,hv,hv
 2023-10-25T22:51:04.457Z,11.7641,43.0363,15.547,4.4,mb,25,138,0.297,0.52,us,us7000l6dp,2023-10-25T23:17:44.340Z,"16 km E of Tadjourah, Djibouti",earthquake,11.85,6.722,0.126,18,reviewed,us,us
@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T00:04:53.943Z,62.9006,-149.7697,65,1.6,ml,,,,0.78,ak,ak023dou6e6q,2023-10-25T00:07:02.922Z,"53 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-24T23:58:35.190Z,38.8323326,-122.8156662,1.92,0.71,md,7,88,0.009936,0.01,nc,nc73950970,2023-10-25T00:09:11.704Z,"8 km NW of The Geysers, CA",earthquake,0.41,1.47,0.12,9,automatic,nc,nc
 2023-10-24T23:28:37.228Z,62.9656,-150.6613,94.1,1.1,ml,,,,0.48,ak,ak023dnkh4fv,2023-10-24T23:30:54.940Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-10-24T23:24:07.520Z,37.5826667,-121.6981667,4.17,1.06,md,28,60,0.08966,0.09,nc,nc73950960,2023-10-25T04:19:11.183Z,"13 km SSE of Livermore, CA",earthquake,0.2,0.79,0.315,21,reviewed,nc,nc
