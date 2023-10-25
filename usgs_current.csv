@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-25T14:04:58.250Z,64.6048,-146.9135,8.4,1.2,ml,,,,0.81,ak,ak023dp2igzl,2023-10-25T14:07:34.068Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-25T13:55:29.625Z,57.8904,-156.4051,137.5,2.1,ml,,,,0.28,ak,ak023dp27woy,2023-10-25T13:57:30.381Z,"67 km ESE of Egegik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-25T13:38:11.430Z,19.2353324890137,-155.415328979492,34.1699981689453,2.00999999,md,28,161,,0.109999999,hv,hv73623632,2023-10-25T13:41:28.760Z,"Hawaii region, Hawaii",earthquake,0.74,0.99000001,1.33000004,3,automatic,hv,hv
 2023-10-25T13:28:57.060Z,19.3560009002686,-155.294998168945,1.86000001430511,1.84000003,md,28,113,,0.180000007,hv,hv73623607,2023-10-25T13:32:11.710Z,"11 km SSW of Volcano, Hawaii",earthquake,0.3,0.400000006,0.569999993,13,automatic,hv,hv
@@ -35,6 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T10:03:22.590Z,32.7571667,-115.4206667,8.92,1.27,ml,13,93,0.05282,0.27,ci,ci40587016,2023-10-25T10:06:52.143Z,"7 km SSW of Holtville, CA",earthquake,0.87,1.98,0.171,13,automatic,ci,ci
 2023-10-25T10:02:49.990Z,19.1634998321533,-155.489501953125,33.060001373291,1.86000001,md,40,158,,0.140000001,hv,hv73623432,2023-10-25T10:06:06.150Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.57,0.75999999,1.63,6,automatic,hv,hv
 2023-10-25T10:01:22.290Z,36.0121666666667,-83.8131666666667,10.81,2.36,md,18,73,0.1478,0.12,se,se60557091,2023-10-25T11:29:36.160Z,"Kentucky-Tennessee border region",earthquake,0.56,1.13,0.0646563528012094,14,reviewed,se,se
+2023-10-25T09:50:36.580Z,35.6481666666667,-90.3873333333333,12.13,1.72,md,22,84,0.008143,0.13,nm,nm60557086,2023-10-25T14:10:17.180Z,"Arkansas",earthquake,0.28,0.45,0.109428362991667,11,reviewed,nm,nm
 2023-10-25T09:41:04.419Z,64.2923,-149.8588,13,1.1,ml,,,,0.6,ak,ak023dozr4ax,2023-10-25T09:42:51.575Z,"32 km W of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-25T09:37:56.348Z,62.6286,-152.2152,133.2,1.4,ml,,,,0.4,ak,ak023dozqdg2,2023-10-25T09:40:27.959Z,"75 km W of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-25T09:19:44.261Z,63.251,-151.4562,8.6,1.2,ml,,,,0.83,ak,ak023dozmhmi,2023-10-25T09:21:40.794Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -221,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T14:56:37.740Z,46.19133333333333,-122.2105,5.68,0.05,ml,9,174,0.0195,0.12,uw,uw61959027,2023-10-24T19:45:00.780Z,"36 km NNE of Amboy, Washington",earthquake,0.57,0.65,0.08506054265607729,8,reviewed,uw,uw
 2023-10-24T14:55:04.470Z,37.5743333,-112.5298333,1.89,2.08,ml,22,95,0.2647,0.18,uu,uu60552847,2023-10-24T16:43:21.860Z,"11 km SW of Hatch, Utah",earthquake,0.47,1.11,0.145,13,reviewed,uu,uu
 2023-10-24T14:44:10.346Z,62.3889,-148.1984,44.3,0.9,ml,,,,0.66,ak,ak023dnf7lfu,2023-10-24T14:45:52.948Z,"67 km NNE of Chickaloon, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-10-24T14:02:45.080Z,19.3346666666667,-155.308,3.48,2.07,ml,20,98,,0.09,hv,hv73622242,2023-10-24T17:24:17.810Z,"Island of Hawaii, Hawaii",earthquake,0.31,0.86,0.185419505610582,9,reviewed,hv,hv
