@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-25T04:46:09.420Z,38.8266678,-122.8138351,2.1,0.93,md,16,77,0.004394,0.02,nc,nc73951050,2023-10-25T04:47:48.032Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.62,0.2,18,automatic,nc,nc
 2023-10-25T04:00:10.450Z,35.4986667,-118.393,6.52,1.9,ml,36,39,0.1766,0.17,ci,ci40586832,2023-10-25T04:11:27.650Z,"13 km SE of Bodfish, CA",earthquake,0.2,1.03,0.227,26,automatic,ci,ci
 2023-10-25T03:57:46.749Z,-2.849,128.1118,23.875,4.5,mb,24,90,2.442,0.27,us,us7000l65f,2023-10-25T04:16:37.040Z,"93 km N of Ambon, Indonesia",earthquake,8.19,3.561,0.132,17,reviewed,us,us
 2023-10-25T03:51:12.200Z,38.8443336,-122.8314972,1.61,0.65,md,14,122,0.006528,0.03,nc,nc73951025,2023-10-25T04:02:11.070Z,"10 km WNW of Cobb, CA",earthquake,0.31,0.74,0.38,14,automatic,nc,nc
@@ -219,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T05:14:23.615Z,61.6505,-149.5942,31,1.4,ml,,,,0.34,ak,ak023dn9oajd,2023-10-24T05:15:46.074Z,"2 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-24T05:13:53.440Z,63.3225,-152.7256,5.4,1.4,ml,,,,0.68,ak,ak023dn9o54z,2023-10-24T05:23:26.041Z,"55 km WSW of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-24T05:09:12.420Z,33.995,-119.2771667,11.25,1.59,ml,25,211,0.1686,0.21,ci,ci40585888,2023-10-24T16:21:27.671Z,"19 km SSW of Port Hueneme, CA",earthquake,0.83,0.94,0.205,9,reviewed,ci,ci
-2023-10-24T04:47:31.990Z,19.1221675872803,-155.479995727539,29.3299999237061,1.90999997,md,29,177,,0.129999995,hv,hv73621637,2023-10-24T04:50:43.290Z,"8 km S of Pāhala, Hawaii",earthquake,0.92,1.23000002,0.949999988,3,automatic,hv,hv
