@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T18:40:36.110Z,37.9831667,-122.4516667,-0.03,0.87,md,16,54,0.02614,0.11,nc,nc73951325,2023-10-25T19:15:09.395Z,"7 km ESE of Santa Venetia, CA",quarry blast,0.3,31.61,0.279,12,reviewed,nc,nc
 2023-10-25T18:40:24.220Z,63.2545,-150.5635,9.1,1.7,ml,,,,0.54,ak,ak023dp53uk6,2023-10-25T18:42:17.132Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-25T18:29:37.380Z,38.8160019,-122.8191681,2.71,0.75,md,13,62,0.01025,0.02,nc,nc73951300,2023-10-25T18:41:11.231Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.83,0.09,14,automatic,nc,nc
-2023-10-25T18:28:19.290Z,37.0673333,-121.1283333,0.77,1.36,md,22,65,0.05494,0.11,nc,nc71131714,2023-10-25T19:10:38.040Z,"24 km SSW of Gustine, CA",earthquake,0.22,0.63,0.243,16,reviewed,nc,nc
+2023-10-25T18:28:19.290Z,37.0673333,-121.1283333,0.77,1.36,md,22,65,0.05494,0.11,nc,nc71131714,2023-10-25T19:23:12.465Z,"24 km SSW of Gustine, CA",earthquake,0.22,0.63,0.243,16,reviewed,nc,nc
 2023-10-25T18:28:03.360Z,39.4891667,-123.3046667,8.48,1.25,md,14,79,0.03239,0.06,nc,nc73951295,2023-10-25T19:12:11.531Z,"9 km NE of Brooktrails, CA",earthquake,0.21,0.4,0.245,13,reviewed,nc,nc
 2023-10-25T18:24:20.070Z,35.7101667,-117.5606667,2.12,1.72,ml,28,60,0.1202,0.16,ci,ci40587384,2023-10-25T18:38:32.106Z,"14 km NE of Ridgecrest, CA",earthquake,0.24,0.42,0.106,18,reviewed,ci,ci
 2023-10-25T18:17:17.989Z,64.2042,-150.4403,6,1.4,ml,,,,0.36,ak,ak023dp4ywly,2023-10-25T18:19:12.789Z,"61 km W of Clear, Alaska",earthquake,,0.7,,,automatic,ak,ak
