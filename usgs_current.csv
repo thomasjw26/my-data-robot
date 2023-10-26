@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-26T18:33:46.480Z,19.3565006256104,-155.30583190918,0.920000016689301,2.19000006,md,29,88,,0.219999999,hv,hv73625722,2023-10-26T18:36:47.880Z,"12 km SW of Volcano, Hawaii",earthquake,0.31,0.49000001,0.5,17,automatic,hv,hv
 2023-10-26T18:25:33.255Z,61.0435,-147.8805,13.2,1.1,ml,,,,0.96,ak,ak023dqsk00d,2023-10-26T18:27:26.224Z,"52 km NE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-26T18:10:43.810Z,19.3348331451416,-155.299331665039,3.83999991416931,1.95000005,md,24,129,,0.170000002,hv,hv73625677,2023-10-26T18:13:58.730Z,"13 km SSW of Volcano, Hawaii",earthquake,0.4,1.00999999,0.660000026,14,automatic,hv,hv
 2023-10-26T18:05:18.129Z,59.9801,-139.5203,0,1.8,ml,,,,0.74,ak,ak023dqsfois,2023-10-26T18:07:13.260Z,"49 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
