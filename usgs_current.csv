@@ -255,4 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-26T02:37:11.532Z,-31.6851,-69.7719,131.464,4.4,mb,35,76,0.938,0.83,us,us7000l6er,2023-10-26T04:58:29.040Z,"51 km SW of Calingasta, Argentina",earthquake,4.7,4.555,0.202,7,reviewed,us,us
 2023-10-26T02:36:59.932Z,60.0402,-152.465,77.1,1.1,ml,,,,0.55,ak,ak023dqj3h9l,2023-10-26T02:48:44.966Z,"42 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-26T02:31:17.064Z,60.4824,-143.0834,11.3,1.1,ml,,,,0.46,ak,ak023dqj2bdm,2023-10-26T02:33:00.681Z,"106 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-26T02:26:27.480Z,38.847,-122.8173333,1.95,0.34,md,9,74,0.008976,0.02,nc,nc73951445,2023-10-26T05:05:11.773Z,"9 km WNW of Cobb, CA",earthquake,0.51,0.62,0.086,8,reviewed,nc,nc
