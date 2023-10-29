@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-29T16:19:07.825Z,37.4243,-117.9641,2,1.2,ml,8,190.63,0.057,0.3536,nn,nn00868123,2023-10-29T16:21:53.204Z,"California-Nevada border region",earthquake,,30.7,0.42,5,automatic,nn,nn
 2023-10-29T16:18:32.346Z,58.5505,-155.0997,8.4,2.5,ml,,,,0.37,ak,ak023dvpxo76,2023-10-29T16:19:56.016Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
+2023-10-29T16:15:39.030Z,17.9426666666667,-66.9443333333333,10.34,2.51,md,15,217,0.04491,0.12,pr,pr71430318,2023-10-29T16:33:35.160Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.38,0.38,0.274579319899745,7,reviewed,pr,pr
 2023-10-29T16:00:02.800Z,17.8641666666667,-66.917,12.43,2.13,md,6,252,0.1077,0.24,pr,pr71430313,2023-10-29T16:11:06.640Z,"Puerto Rico region",earthquake,2.18,1.24,0.0894250395661638,4,reviewed,pr,pr
 2023-10-29T15:44:39.860Z,17.979,-66.8416666666667,14.21,2.56,md,5,195,0.03599,0.08,pr,pr71430308,2023-10-29T15:54:56.890Z,"2 km SW of Indios, Puerto Rico",earthquake,0.76,0.46,0.0708450591117644,4,reviewed,pr,pr
 2023-10-29T15:38:05.960Z,35.7051659,-121.0486679,8.2,0.94,md,7,91,,0.01,nc,nc73953315,2023-10-29T15:46:10.875Z,"14 km ENE of San Simeon, CA",earthquake,0.41,1.35,0.12,4,automatic,nc,nc
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T17:06:40.430Z,38.5523333,-119.5103333,4.83,2.25,md,16,112,0.03437,0.06,nc,nc73952830,2023-10-29T09:56:10.777Z,"5 km NNW of Walker, CA",earthquake,0.29,0.39,0.226,22,reviewed,nc,nc
 2023-10-28T16:46:32.420Z,19.1601657867432,-155.462493896484,33.75,1.91999996,md,34,172,,0.150000006,hv,hv73629607,2023-10-28T16:49:41.070Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.9,1,1.98000002,4,automatic,hv,hv
 2023-10-28T16:39:36.767Z,58.9818,-136.5545,0,1.9,ml,,,,0.87,ak,ak023du2iu30,2023-10-28T16:41:36.983Z,"57 km SSW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-28T16:34:33.480Z,33.2693333,-116.7816667,11.68,0.97,ml,28,65,0.0384,0.21,ci,ci40590336,2023-10-29T13:31:58.956Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.31,0.78,0.117,22,reviewed,ci,ci
