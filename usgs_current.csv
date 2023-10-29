@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T14:55:16.443Z,61.954,-150.2914,16,1.5,ml,,,,0.53,ak,ak023du1fcrg,2023-10-28T14:57:12.665Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-28T14:45:09.990Z,38.7938347,-122.7648315,21.98,1.11,md,8,218,0.02309,0.15,nc,nc73952785,2023-10-28T15:19:11.157Z,"2 km NNW of The Geysers, CA",earthquake,4.6,3.52,0.18,8,automatic,nc,nc
 2023-10-28T14:34:01.156Z,-7.2867,28.0291,10,4.5,mb,45,83,7.169,0.65,us,us7000l775,2023-10-28T15:06:28.040Z,"Democratic Republic of the Congo",earthquake,10.59,1.875,0.093,37,reviewed,us,us
-2023-10-28T14:30:18.230Z,19.3346672058105,-155.293838500977,3.04999995231628,1.76999998,md,20,137,,0.239999995,hv,hv73629467,2023-10-28T14:33:13.380Z,"13 km SSW of Volcano, Hawaii",earthquake,0.68,1.40999997,0.25,13,automatic,hv,hv
