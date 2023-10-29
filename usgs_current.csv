@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-29T19:42:09.190Z,38.8343315,-122.8181686,2.02,0.72,md,9,61,0.01418,0.02,nc,nc73953380,2023-10-29T19:43:45.964Z,"8 km NW of The Geysers, CA",earthquake,0.38,1.29,0.3,10,automatic,nc,nc
+2023-10-29T19:42:09.190Z,38.8343315,-122.8181686,2.02,0.72,md,9,61,0.01418,0.02,nc,nc73953380,2023-10-29T19:55:10.584Z,"8 km NW of The Geysers, CA",earthquake,0.38,1.29,0.3,10,automatic,nc,nc
 2023-10-29T19:26:01.439Z,62.5337,-149.814,78.2,1.6,ml,,,,1.05,ak,ak023dvrrmcv,2023-10-29T19:27:41.875Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-29T19:19:22.351Z,36.4325,-117.2353,5.1,1.3,ml,12,209.76,0.457,0.2592,nn,nn00868124,2023-10-29T19:21:35.679Z,"Central California",earthquake,,3.5,0.25,11,automatic,nn,nn
 2023-10-29T19:15:49.310Z,19.1856670379639,-155.508331298828,31.3400001525879,1.94000006,md,44,79,,0.180000007,hv,hv73631397,2023-10-29T19:19:06.080Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.55,0.899999976,1.30999994,12,automatic,hv,hv
@@ -181,7 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T23:48:24.170Z,38.7988319,-122.7990036,1.06,1.44,md,31,38,0.00957,0.03,nc,nc73953035,2023-10-29T02:53:11.309Z,"4 km WNW of The Geysers, CA",earthquake,0.17,0.28,0.22,30,automatic,nc,nc
 2023-10-28T23:43:19.799Z,61.02,-151.7723,72,0.7,ml,,,,0.2,ak,ak023du6povf,2023-10-28T23:49:15.892Z,"34 km W of Tyonek, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-10-28T23:33:27.200Z,18.0336666666667,-66.7951666666667,15.74,2.46,md,4,173,0.09901,0.07,pr,pr71430178,2023-10-28T23:41:34.770Z,"Puerto Rico region",earthquake,3.25,1.82,0.118778152144987,4,reviewed,pr,pr
-2023-10-28T23:29:16.600Z,33.9103333,-117.796,5.91,1.1,ml,22,76,0.08195,0.23,ci,ci40590464,2023-10-29T01:53:55.087Z,"3 km NNE of Yorba Linda, CA",earthquake,0.44,1.45,0.257,26,reviewed,ci,ci
+2023-10-28T23:29:16.290Z,33.8993333,-117.8038333,9.57,1,ml,28,70,0.06415,0.18,ci,ci40590464,2023-10-29T19:53:51.728Z,"2 km NE of Yorba Linda, CA",earthquake,0.32,0.53,0.169,12,reviewed,ci,ci
 2023-10-28T23:21:24.390Z,38.8318329,-122.8160019,1.52,0.57,md,11,73,0.009614,0.01,nc,nc73953020,2023-10-28T23:31:10.122Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.75,0.37,11,automatic,nc,nc
 2023-10-28T23:18:36.040Z,46.206,-122.18383333333334,4.74,0.79,ml,24,71,0.005916,0.16,uw,uw61960132,2023-10-29T15:20:17.970Z,"38 km NNE of Amboy, Washington",earthquake,0.34,0.58,0.1030804434158118,17,reviewed,uw,uw
 2023-10-28T23:17:37.940Z,46.199333333333335,-122.18616666666667,5.67,0.9400000000000001,ml,27,58,0.0009828,0.17,uw,uw61960127,2023-10-29T17:16:28.380Z,"37 km NNE of Amboy, Washington",earthquake,0.38,0.44,0.08139851582767477,20,reviewed,uw,uw
@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T20:18:37.382Z,64.9421,-147.3093,0,1.6,ml,,,,0.74,ak,ak023du4s2ii,2023-10-28T20:20:24.326Z,"14 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-28T20:14:54.283Z,-21.2047,-68.6649,119.423,4,mb,17,87,0.784,0.57,us,us7000l78s,2023-10-28T21:39:44.040Z,"42 km W of Ollagüe, Chile",earthquake,5.4,9.049,0.259,4,reviewed,us,us
 2023-10-28T20:00:35.110Z,38.7705002,-122.7423325,0.04,0.81,md,9,85,0.01345,0.02,nc,nc73952890,2023-10-28T20:15:10.886Z,"1 km ESE of The Geysers, CA",earthquake,0.25,0.69,0.18,8,automatic,nc,nc
-2023-10-28T19:58:40.510Z,36.7243347,-121.4306641,6.22,1.93,md,36,46,0.03992,0.21,nc,nc73952885,2023-10-28T21:07:11.158Z,"11 km SSW of Ridgemark, CA",earthquake,0.39,0.86,0.13,30,automatic,nc,nc
