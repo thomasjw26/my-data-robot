@@ -133,6 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T18:16:32.760Z,58.2353333333333,-155.176166666667,3.96,1,ml,8,87,,0.08,av,av92100286,2023-10-29T22:08:44.931Z,"85 km NNW of Karluk, Alaska",earthquake,0.3,0.56,0.333967971378959,8,reviewed,av,av
 2023-10-29T18:14:44.240Z,38.8341675,-122.8170013,1.23,0.72,md,13,59,0.0151,0.05,nc,nc73953345,2023-10-29T18:28:11.072Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.7,0.11,14,automatic,nc,nc
 2023-10-29T18:11:55.970Z,18.1015,-67.2326666666667,99.6,3.05,md,8,194,0.1505,0.15,pr,pr71430333,2023-10-29T18:19:50.150Z,"Mona Passage",earthquake,1.87,0.92,0.0911423801713729,6,reviewed,pr,pr
+2023-10-29T17:58:25.932Z,32.348,-102.117,8.8282,1.9,ml(texnet),26,78,0.1,0.1,tx,tx2023vfhz,2023-10-30T11:00:03.279Z,"39 km N of Midland, Texas",earthquake,0.719290239,1.678571972,0.2,20,reviewed,tx,tx
 2023-10-29T17:55:20.600Z,33.2338333,-116.7963333,3.31,0.86,ml,21,46,0.03156,0.21,ci,ci40590824,2023-10-29T17:58:57.953Z,"3 km WSW of Lake Henshaw, CA",earthquake,0.31,0.92,0.139,15,automatic,ci,ci
 2023-10-29T17:42:22.440Z,60.4804,-152.0258,80.8,1.6,ml,,,,0.6,ak,ak023dvqo8ki,2023-10-29T17:44:42.483Z,"41 km W of Kalifornsky, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-29T17:38:42.760Z,49.12133333333333,-118.61233333333334,-0.68,1.68,ml,6,230,0.4538,0.38,uw,uw61960267,2023-10-30T03:38:53.590Z,"16 km NW of Grand Forks, Canada",explosion,1.71,31.61,0.15614367843754184,3,reviewed,uw,uw
@@ -192,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T11:33:28.790Z,37.6668333,-118.9238333,4.18,0.27,md,13,206,0.01267,0.06,nc,nc73953245,2023-10-29T18:58:11.240Z,"6 km NE of Mammoth Lakes, CA",earthquake,0.79,0.47,0.125,13,reviewed,nc,nc
 2023-10-29T11:20:18.880Z,38.8341675,-122.7809982,0.91,0.7,md,9,89,0.008439,0.02,nc,nc73953240,2023-10-29T11:53:11.478Z,"5 km WNW of Cobb, CA",earthquake,0.67,1.04,0.09,9,automatic,nc,nc
 2023-10-29T11:20:15.360Z,46.19266666666667,-122.18933333333334,1.03,0.28,ml,10,140,0.007193,0.06,uw,uw61960222,2023-10-29T16:39:17.400Z,"37 km NNE of Amboy, Washington",earthquake,0.47,0.83,0.0839548211606731,3,reviewed,uw,uw
-2023-10-29T11:02:20.549Z,20.1214,94.494,85.074,4.2,mb,42,138,1.149,0.64,us,us7000l7da,2023-10-29T11:25:36.040Z,"Myanmar",earthquake,8.48,7.214,0.104,26,reviewed,us,us
-2023-10-29T10:59:30.475Z,38.1128,22.7039,10,4.3,mb,58,66,1.119,0.45,us,us7000l7d9,2023-10-29T11:18:41.040Z,"7 km ENE of Xylókastro, Greece",earthquake,2.63,1.885,0.096,31,reviewed,us,us
