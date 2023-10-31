@@ -199,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T11:34:02.890Z,19.236,-155.393333333333,32.65,1.74,md,28,167,,0.12,hv,hv73632597,2023-10-30T23:26:48.990Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.54,0.64,0.365268820990909,13,reviewed,hv,hv
 2023-10-30T11:13:51.357Z,11.2615,124.6246,11.825,4.6,mb,50,126,4.27,0.75,us,us7000l7jf,2023-10-30T14:09:31.324Z,"3 km SSW of Capoocan, Philippines",earthquake,10.36,4.585,0.087,39,reviewed,us,us
 2023-10-30T11:01:18.370Z,47.67366666666667,-120.306,-0.41,0.9,ml,14,94,0.05441,0.06,uw,uw61960387,2023-10-30T15:36:48.200Z,"7 km W of Entiat, Washington",earthquake,0.18,9.61,0.18907376853217672,11,reviewed,uw,uw
-2023-10-30T10:56:56.777Z,63.8909,-149.2147,3.2,1.4,ml,,,,0.68,ak,ak023dxa4m5p,2023-10-30T10:58:54.387Z,"12 km WNW of Healy, Alaska",earthquake,,2.8,,,automatic,ak,ak
-2023-10-30T10:54:39.820Z,46.17216666666667,-122.2005,6.41,0.3,ml,15,132,0.01286,0.14,uw,uw61960382,2023-10-30T15:43:36.320Z,"34 km NNE of Amboy, Washington",earthquake,0.46,0.52,0.07858579169521446,9,reviewed,uw,uw
-2023-10-30T10:54:16.566Z,61.205,-151.7296,77.8,1.2,ml,,,,0.31,ak,ak023dxa3yxj,2023-10-30T16:34:50.698Z,"35 km WNW of Tyonek, Alaska",earthquake,,0.6,,,reviewed,ak,ak
