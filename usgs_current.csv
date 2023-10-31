@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-31T23:12:34.774Z,60.9699,-150.6692,34.8,4.1,ml,,,,0.59,ak,ak023dz554ac,2023-10-31T23:15:54.833Z,"5 km NNE of Point Possession, Alaska",earthquake,,1805.6,,,automatic,ak,ak
-2023-10-31T23:10:25.690Z,38.8161659,-122.8243332,2.19,0.82,md,16,53,0.008212,0.02,nc,nc73954340,2023-10-31T23:12:04.604Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.68,0.2,17,automatic,nc,nc
+2023-10-31T23:20:30.964Z,38.1589,-118.1744,11.3,1.4,ml,9,73.96,0.154,0.2364,nn,nn00868231,2023-10-31T23:23:14.953Z,"26 km SSW of Mina, Nevada",earthquake,,0.7,0.28,6,automatic,nn,nn
+2023-10-31T23:20:16.970Z,35.3146667,-118.5753333,5.18,1.43,ml,25,82,0.1248,0.17,ci,ci40593272,2023-10-31T23:23:56.310Z,"23 km NNW of Tehachapi, CA",earthquake,0.27,0.84,0.141,19,automatic,ci,ci
+2023-10-31T23:12:34.774Z,60.9699,-150.6692,34.8,4.1,ml,,,,0.59,ak,ak023dz554ac,2023-10-31T23:23:05.040Z,"5 km NNE of Point Possession, Alaska",earthquake,,1805.6,,,automatic,ak,ak
+2023-10-31T23:10:25.690Z,38.8161659,-122.8243332,2.19,0.82,md,16,53,0.008212,0.02,nc,nc73954340,2023-10-31T23:21:11.017Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.68,0.2,17,automatic,nc,nc
 2023-10-31T22:51:40.104Z,60.9368,-151.6267,67.1,1.1,ml,,,,0.71,ak,ak023dz4s1yq,2023-10-31T22:58:14.235Z,"30 km WSW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-31T22:40:38.200Z,17.9953333333333,-66.951,15.66,2.12,md,15,135,0.04641,0.15,pr,pr71430513,2023-10-31T22:56:55.080Z,"3 km WNW of Fuig, Puerto Rico",earthquake,0.41,0.61,0.0695366359476017,4,reviewed,pr,pr
 2023-10-31T22:36:07.595Z,58.9602,-136.4446,0,2.1,ml,,,,1.54,ak,ak023dz4ortk,2023-10-31T22:48:26.956Z,"56 km SSW of Covenant Life, Alaska",earthquake,,0.5,,,automatic,ak,ak
