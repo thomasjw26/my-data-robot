@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-02T02:32:53.860Z,31.6613,-104.1939,5.465,2.5,ml,27,65,0.262,0.61,us,us7000l88e,2023-11-02T02:44:58.040Z,"54 km NW of Toyah, Texas",earthquake,1.08,4.093,0.057,40,reviewed,us,us
+2023-11-02T02:32:54.074Z,31.671,-104.181,3.8461,2.5,ml(texnet),22,103,0.1,0.5,tx,tx2023vllm,2023-11-02T02:53:51.457Z,"54 km NW of Toyah, Texas",earthquake,0,1.229753607,0.2,16,automatic,tx,tx
+2023-11-02T02:32:53.918Z,31.674,-104.181,6.3886,2.6,ml(texnet),25,64,0.1,0.2,tx,tx2023vlln,2023-11-02T02:53:04.458Z,"western Texas",earthquake,0.7204721256,0.9931162644,0.2,32,reviewed,tx,tx
 2023-11-02T02:27:45.510Z,38.8216667,-122.8535004,2.56,0.77,md,17,92,0.006434,0.01,nc,nc73954890,2023-11-02T02:44:12.337Z,"10 km WNW of The Geysers, CA",earthquake,0.27,0.53,0.19,18,automatic,nc,nc
 2023-11-02T02:26:34.670Z,33.6715,-116.7516667,15.08,0.65,ml,23,70,0.05043,0.26,ci,ci40594712,2023-11-02T02:30:12.047Z,"8 km SSW of Idyllwild, CA",earthquake,0.53,0.71,0.096,12,automatic,ci,ci
 2023-11-02T02:25:34.334Z,61.3467,-146.9233,20.7,1.8,ml,,,,0.65,ak,ak023e23shvd,2023-11-02T02:27:29.553Z,"39 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -208,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T03:03:52.150Z,33.3435,-116.9231667,15.19,0.64,ml,18,61,0.1745,0.14,ci,ci40593392,2023-11-01T16:16:39.181Z,"6 km WSW of Palomar Observatory, CA",earthquake,0.25,0.8,0.102,11,reviewed,ci,ci
 2023-11-01T03:00:31.757Z,31.639,-104.176,4.4863,1.8,ml(texnet),25,63,0.1,0.2,tx,tx2023vjqx,2023-11-01T13:14:56.945Z,"western Texas",earthquake,0.5871480856,1.120971258,0.2,19,reviewed,tx,tx
 2023-11-01T02:57:10.340Z,19.407,-155.291666666667,7.4,2,md,13,94,,0.1,hv,hv73635132,2023-11-01T03:40:14.070Z,"7 km WSW of Volcano, Hawaii",earthquake,0.51,0.63,0.00835473475477178,2,reviewed,hv,hv
-2023-11-01T02:51:13.443Z,53.3941,-165.7998,41.2,2.3,ml,,,,0.38,ak,ak023e0gek01,2023-11-01T04:43:47.819Z,"72 km SE of Unalaska, Alaska",earthquake,,0.9,,,reviewed,ak,ak
