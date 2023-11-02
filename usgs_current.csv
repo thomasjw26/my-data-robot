@@ -20,6 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T17:25:32.759Z,31.681,-104.395,4.5303,1.7,ml(texnet),13,118,0,0.2,tx,tx2023vmov,2023-11-02T17:52:47.031Z,"western Texas",earthquake,0,1.524382626,0.2,10,automatic,tx,tx
 2023-11-02T17:25:00.399Z,31.676,-104.396,5.5275,1.9,ml(texnet),17,69,0,0.2,tx,tx2023vmox,2023-11-02T17:52:40.139Z,"western Texas",earthquake,0,2.72280161,0.1,13,automatic,tx,tx
 2023-11-02T17:20:41.450Z,38.7966652,-122.7208328,-0.87,1.13,md,7,127,0.01828,0.16,nc,nc73955145,2023-11-02T17:37:13.746Z,"3 km S of Cobb, CA",earthquake,0.5,6.05,0.14,9,automatic,nc,nc
+2023-11-02T17:12:35.734Z,9.9926,126.1109,75.602,4.5,mb,33,99,2.951,0.92,us,us7000l8eb,2023-11-02T19:26:20.040Z,"Mindanao, Philippines",earthquake,11.13,7.471,0.094,33,reviewed,us,us
 2023-11-02T16:51:29.242Z,32.2344,-102.0039,2.453,3.2,mb_lg,28,37,0.173,0.3,us,us7000l8cx,2023-11-02T17:22:17.496Z,"23 km WNW of Stanton, Texas",earthquake,0.8,7.415,0.047,119,reviewed,us,us
 2023-11-02T16:51:25.560Z,35.9871667,-117.7741667,7.19,1.52,ml,26,76,0.02851,0.1,ci,ci39704738,2023-11-02T17:04:12.580Z,"13 km ENE of Little Lake, CA",earthquake,0.16,0.27,0.192,11,reviewed,ci,ci
 2023-11-02T16:26:53.860Z,38.8325005,-122.8184967,1.47,1.04,md,17,57,0.01122,0.04,nc,nc73955125,2023-11-02T18:42:15.106Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.58,0.08,18,automatic,nc,nc
@@ -218,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T19:31:11.510Z,38.8320007,-122.8144989,1.75,0.47,md,8,86,0.009262,0.01,nc,nc73954695,2023-11-01T19:47:12.924Z,"8 km NW of The Geysers, CA",earthquake,0.36,1.12,0.32,8,automatic,nc,nc
 2023-11-01T19:30:39.960Z,32.6125,-116.978,2.64,1.19,ml,24,109,0.04063,0.16,ci,ci40594240,2023-11-01T20:53:20.446Z,"7 km ESE of Chula Vista, CA",quarry blast,0.44,0.39,0.046,8,reviewed,ci,ci
 2023-11-01T19:28:16.010Z,62.2499,-149.1992,28.2,1.5,ml,,,,0.6,ak,ak023e0qe4e9,2023-11-01T19:30:06.734Z,"35 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-01T19:22:06.410Z,33.8463333,-117.4903333,0.58,1.36,ml,31,49,0.04748,0.18,ci,ci40594224,2023-11-01T20:47:00.523Z,"4 km SE of Home Gardens, CA",quarry blast,0.23,31.61,0.141,21,reviewed,ci,ci
