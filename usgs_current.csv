@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T03:55:23.570Z,33.7676667,-116.9376667,15.27,1.13,ml,45,41,0.04746,0.18,ci,ci40593424,2023-11-01T16:49:33.166Z,"3 km SE of San Jacinto, CA",earthquake,0.23,0.41,0.145,29,reviewed,ci,ci
 2023-11-01T03:53:15.315Z,38.1675,-116.4944,12.2,1.9,ml,12,177.72,0.46,0.1259,nn,nn00868244,2023-11-01T18:45:05.968Z,"65 km E of Tonopah, Nevada",earthquake,,1.7,0.47,5,reviewed,nn,nn
 2023-11-01T03:52:15.100Z,33.0365,-116.4461667,7.55,0.64,ml,18,139,0.07108,0.19,ci,ci40593416,2023-11-01T16:08:16.404Z,"15 km ESE of Julian, CA",earthquake,0.39,1.07,0.149,6,reviewed,ci,ci
-2023-11-01T03:36:00.438Z,38.3589,-118.9052,7.4,1.5,ml,12,67.17,0.332,0.1939,nn,nn00868298,2023-11-01T23:06:18.189Z,"30 km SW of Hawthorne, Nevada",earthquake,,2.6,0.15,5,reviewed,nn,nn
