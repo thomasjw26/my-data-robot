@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-02T18:32:43.080Z,38.8111649,-122.8014984,2.43,1.09,md,26,36,0.005798,0.02,nc,nc73955180,2023-11-02T18:34:22.009Z,"5 km NW of The Geysers, CA",earthquake,0.21,0.39,0.13,27,automatic,nc,nc
+2023-11-02T18:31:37.490Z,38.8103333,-122.8016663,2.53,2.24,md,38,38,0.005504,0.03,nc,nc73955175,2023-11-02T18:34:43.231Z,"5 km NW of The Geysers, CA",earthquake,0.16,0.29,0.18,46,automatic,nc,nc
+2023-11-02T18:28:16.707Z,60.6258,-144.3221,5.5,1.6,ml,,,,0.44,ak,ak023e2dbw26,2023-11-02T18:30:54.586Z,"79 km E of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-02T18:05:44.920Z,34.0476667,-117.266,10.95,1.2,ml,36,51,0.1057,0.21,ci,ci39704906,2023-11-02T18:09:27.082Z,"0 km W of Loma Linda, CA",earthquake,0.27,0.56,0.16,28,automatic,ci,ci
+2023-11-02T18:05:00.361Z,31.671,-104.392,5.902,1.5,ml(texnet),18,69,0,0.3,tx,tx2023vmqg,2023-11-02T18:32:25.789Z,"55 km S of Whites City, New Mexico",earthquake,0,2.478128125,0.1,12,automatic,tx,tx
+2023-11-02T18:04:32.523Z,31.681,-104.397,5.3811,1.6,ml(texnet),10,115,0,0.2,tx,tx2023vmqf,2023-11-02T18:32:16.740Z,"54 km S of Whites City, New Mexico",earthquake,0,3.095155493,0.2,8,automatic,tx,tx
 2023-11-02T17:55:10.580Z,38.8284988,-122.8151703,2.41,0.76,md,14,64,0.006467,0.02,nc,nc73955165,2023-11-02T18:16:12.961Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.94,0.38,16,automatic,nc,nc
 2023-11-02T17:49:27.730Z,38.8284988,-122.8151703,2.27,0.76,md,10,61,0.006467,0.02,nc,nc73955160,2023-11-02T18:06:12.909Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.95,0.07,12,automatic,nc,nc
 2023-11-02T17:43:41.182Z,28.922,-98.257,8.4858,2.6,ml(texnet),16,77,0.1,0.4,tx,tx2023vmpo,2023-11-02T18:20:04.544Z,"southern Texas",earthquake,1.696028396,3.312732872,0.2,13,reviewed,tx,tx
