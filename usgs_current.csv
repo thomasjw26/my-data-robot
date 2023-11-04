@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-04T17:50:49.770Z,38.6878319,-122.4978333,6.47,2.18,md,30,57,,0.11,nc,nc73956045,2023-11-04T17:52:27.804Z,"12 km SE of Middletown, CA",earthquake,0.24,0.85,0.08,34,automatic,nc,nc
 2023-11-04T17:37:58.257Z,37.0857,-116.1903,3.8,0.4,ml,11,69.27,0.13,0.1208,nn,nn00868442,2023-11-04T17:39:51.097Z,"Nevada",earthquake,,0,0.96,8,automatic,nn,nn
+2023-11-04T17:25:39.015Z,31.667,-104.186,4.4005,1.7,ml(texnet),19,62,0.1,0.3,tx,tx2023vqfz,2023-11-04T17:53:30.068Z,"54 km NW of Toyah, Texas",earthquake,0,1.206462837,0.2,14,automatic,tx,tx
 2023-11-04T17:11:33.477Z,57.8236,-153.3854,47.5,2.2,ml,,,,0.39,ak,ak023e5npotz,2023-11-04T17:15:27.650Z,"30 km W of Port Lions, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-11-04T17:08:13.460Z,38.7966652,-122.8154984,3.14,0.74,md,8,92,0.01279,0.02,nc,nc73956025,2023-11-04T17:25:12.776Z,"6 km WNW of The Geysers, CA",earthquake,0.46,1.55,0.44,10,automatic,nc,nc
 2023-11-04T16:59:23.350Z,34.0241667,-117.6051667,3.03,1.54,ml,49,35,0.0411,0.2,ci,ci39707626,2023-11-04T17:10:16.160Z,"4 km SSE of Ontario, CA",earthquake,0.21,0.3,0.168,28,automatic,ci,ci
