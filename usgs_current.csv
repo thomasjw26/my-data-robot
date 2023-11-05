@@ -46,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T05:34:48.350Z,60.5777,-151.2057,26.1,1.8,ml,,,,0.61,ak,ak023e748soz,2023-11-05T05:36:33.140Z,"3 km NE of Kenai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-05T05:31:32.210Z,32.852,-115.744,5.61,0.97,ml,19,101,0.104,0.26,ci,ci39708290,2023-11-05T05:35:14.295Z,"16 km W of Imperial, CA",earthquake,0.47,1.49,0.192,8,automatic,ci,ci
 2023-11-05T05:25:35.930Z,37.5621667,-118.8318333,3.96,-0.02,md,10,206,0.0279,0.03,nc,nc71131779,2023-11-05T07:22:36.535Z,"13 km W of Toms Place, CA",earthquake,1.12,1,0.153,8,reviewed,nc,nc
-2023-11-05T05:25:11.280Z,37.6396667,-119.07,-0.21,0.16,md,6,151,0.01047,0.01,nc,nc71131774,2023-11-05T09:32:14.472Z,"8 km W of Mammoth Lakes, CA",earthquake,0.66,0.65,0.276,7,reviewed,nc,nc
+2023-11-05T05:25:11.280Z,37.6396667,-119.07,-0.21,0.16,md,6,151,0.01047,0.01,nc,nc71131774,2023-11-05T09:42:10.530Z,"8 km W of Mammoth Lakes, CA",earthquake,0.66,0.65,0.276,7,reviewed,nc,nc
 2023-11-05T05:24:29.350Z,36.4393333,-120.3236667,6.03,1.54,md,22,183,0.04812,0.14,nc,nc73956275,2023-11-05T07:58:13.941Z,"7 km S of Cantua Creek, CA",earthquake,0.6,0.31,0.241,16,reviewed,nc,nc
 2023-11-05T05:16:42.756Z,39.884,143.1796,36.777,4.6,mb,33,149,1.852,0.57,us,us7000l8yj,2023-11-05T05:46:15.040Z,"off the east coast of Honshu, Japan",earthquake,7.58,8.474,0.112,25,reviewed,us,us
 2023-11-05T05:14:26.950Z,32.8651667,-115.7466667,9.45,2.65,ml,39,58,0.0212,0.23,ci,ci39708274,2023-11-05T05:34:07.040Z,"17 km W of Imperial, CA",earthquake,0.3,0.66,0.181,30,automatic,ci,ci
@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T04:35:12.436Z,59.0895,-152.2157,67.3,2,ml,,,,0.33,ak,ak023e73ni17,2023-11-05T04:37:35.670Z,"34 km SSW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-05T04:21:58.930Z,33.5283333,-116.5033333,13.56,0.41,ml,18,94,0.03715,0.16,ci,ci39708234,2023-11-05T04:25:41.598Z,"16 km E of Anza, CA",earthquake,0.36,0.5,0.083,7,automatic,ci,ci
 2023-11-05T03:51:21.550Z,38.9508333,-123.1566667,5.72,1.23,md,28,61,0.02979,0.09,nc,nc73956250,2023-11-05T08:09:15.002Z,"19 km ESE of Boonville, CA",earthquake,0.17,0.34,0.227,23,reviewed,nc,nc
-2023-11-05T03:43:03.472Z,31.652,-104.331,4.0766,1.6,mlv,19,69,0.1,0.3,tx,tx2023vrah,2023-11-05T04:09:17.950Z,"58 km S of Whites City, New Mexico",earthquake,0,1.248808579,0.2,14,automatic,tx,tx
+2023-11-05T03:43:03.472Z,31.652,-104.331,4.0766,1.6,mlv,19,69,0.1,0.3,tx,tx2023vrah,2023-11-05T04:09:17.950Z,"western Texas",earthquake,0,1.248808579,0.2,14,automatic,tx,tx
 2023-11-05T03:40:57.850Z,33.465,-116.4786667,15.4,0.64,ml,17,147,0.07315,0.24,ci,ci39708218,2023-11-05T03:44:36.968Z,"21 km ESE of Anza, CA",earthquake,0.74,0.98,0.1,11,automatic,ci,ci
 2023-11-05T03:40:29.510Z,35.9296667,-120.7986667,7.72,0.5,md,22,59,0.1201,0.06,nc,nc73956240,2023-11-05T08:21:13.066Z,"7 km N of Bradley, CA",earthquake,0.25,1.27,0.139,9,reviewed,nc,nc
 2023-11-05T03:38:06.110Z,63.4812,-148.8759,13.2,0.8,ml,,,,0.53,ak,ak023e732p3f,2023-11-05T03:41:04.048Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -202,7 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T10:00:13.370Z,18.0211666666667,-66.7746666666667,14.9,2.84,md,18,152,0.01609,0.15,pr,pr71430743,2023-11-04T10:18:38.320Z,"0 km NW of Magas Arriba, Puerto Rico",earthquake,0.31,0.43,0.146030643841454,8,reviewed,pr,pr
 2023-11-04T09:59:48.016Z,-5.9481,131.1265,101.529,4.5,mb,30,116,1.867,0.57,us,us7000l8up,2023-11-04T10:18:27.040Z,"183 km W of Tual, Indonesia",earthquake,9.46,7.13,0.105,27,reviewed,us,us
 2023-11-04T09:49:43.120Z,38.7913322,-122.7596664,0.85,0.89,md,13,69,0.009279,0.02,nc,nc73955920,2023-11-04T10:30:13.353Z,"2 km N of The Geysers, CA",earthquake,0.23,0.67,0.15,13,automatic,nc,nc
-2023-11-04T09:43:38.320Z,35.5113335,-120.8126678,5.27,1.74,md,17,66,,0.08,nc,nc73955915,2023-11-04T12:40:10.131Z,"10 km NE of Cayucos, CA",earthquake,0.29,1.12,0.14,9,automatic,nc,nc
-2023-11-04T09:40:02.380Z,38.802166,-122.8111649,2.42,0.41,md,6,141,0.01368,0,nc,nc73955910,2023-11-04T12:13:09.980Z,"6 km WNW of The Geysers, CA",earthquake,0.67,1.8,0.16,8,automatic,nc,nc
-2023-11-04T09:39:52.150Z,38.8163338,-122.7953339,2.67,0.77,md,11,64,0.008354,0.01,nc,nc73955905,2023-11-04T12:02:11.925Z,"6 km NW of The Geysers, CA",earthquake,0.37,1.06,0.46,14,automatic,nc,nc
-2023-11-04T09:38:38.192Z,20.1401,147.7574,10,5,mb,64,83,7.077,0.78,us,us7000l8um,2023-11-05T03:48:41.952Z,"Mariana Islands region",earthquake,10.92,1.864,0.033,287,reviewed,us,us
