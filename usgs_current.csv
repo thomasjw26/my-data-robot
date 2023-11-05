@@ -198,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T13:46:37.490Z,40.4883347,-123.7938309,21.83,1.73,md,15,111,0.06512,0.08,nc,nc73955980,2023-11-04T15:01:11.966Z,"26 km E of Rio Dell, CA",earthquake,0.56,0.43,0.16,8,automatic,nc,nc
 2023-11-04T13:22:11.839Z,31.593,-104.256,10.5791,2.4,ml(texnet),18,72,0.1,0.2,tx,tx2023vpxx,2023-11-04T16:47:09.964Z,"53 km NW of Toyah, Texas",earthquake,1.467672791,2.007042521,0.2,12,reviewed,tx,tx
 2023-11-04T13:11:29.986Z,63.1646,-151.2967,9.8,1.6,ml,,,,0.41,ak,ak023e5lby5i,2023-11-04T13:13:04.189Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-04T12:54:03.260Z,33.449,-116.577,11.13,1,ml,34,88,0.05021,0.15,ci,ci39707338,2023-11-04T16:33:14.010Z,"15 km SE of Anza, CA",earthquake,0.23,0.4,0.188,24,reviewed,ci,ci
-2023-11-04T12:53:55.645Z,62.2815,-149.875,19.2,1.2,ml,,,,0.43,ak,ak023e5kzklo,2023-11-04T12:56:34.540Z,"13 km ESE of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
