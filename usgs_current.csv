@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T20:37:12.420Z,34.131,-117.442,6.43,1.73,ml,63,31,0.03147,0.25,ci,ci39707858,2023-11-04T20:48:13.770Z,"4 km NNE of Fontana, CA",earthquake,0.26,0.76,0.181,26,automatic,ci,ci
 2023-11-04T20:32:14.741Z,62.2951,-151.4051,17.8,1.2,ml,,,,0.4,ak,ak023e5pmg8y,2023-11-04T20:34:10.832Z,"33 km N of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-04T20:31:21.001Z,36.4652,-115.7723,10.4,0.2,ml,16,283.17,0.249,0.1634,nn,nn00868450,2023-11-04T22:16:30.485Z,"14 km SW of Indian Springs, Nevada",earthquake,,2.8,0.14,3,reviewed,nn,nn
-2023-11-04T20:28:54.447Z,58.722,-153.7647,15,1.7,ml,,,,0.43,ak,ak023e5plog4,2023-11-04T20:30:35.822Z,"89 km NW of Aleneva, Alaska",earthquake,,0.2,,,automatic,ak,ak
