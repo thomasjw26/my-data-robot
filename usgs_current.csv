@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-06T21:31:03.750Z,40.3844986,-124.3160019,23.44,2.54,md,15,244,0.0221,0.11,nc,nc73957010,2023-11-06T21:48:14.533Z,"7 km NNW of Petrolia, CA",earthquake,1.61,0.96,0.08,11,automatic,nc,nc
+2023-11-06T21:30:59.991Z,-7.4825,156.1122,26.361,5.3,mww,72,61,5.111,0.6,us,us7000l98e,2023-11-06T21:49:11.040Z,"105 km NW of Gizo, Solomon Islands",earthquake,9.22,5.02,0.083,14,reviewed,us,us
 2023-11-06T21:22:54.660Z,38.8343315,-122.8170013,1.29,0.77,md,13,69,0.01219,0.03,nc,nc73957005,2023-11-06T21:48:13.532Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.74,0.12,15,automatic,nc,nc
 2023-11-06T21:21:28.110Z,38.8378334,-122.8255005,1.16,0.63,md,8,88,0.007836,0.02,nc,nc73957000,2023-11-06T21:38:13.472Z,"9 km NW of The Geysers, CA",earthquake,0.36,1,0.05,8,automatic,nc,nc
 2023-11-06T21:18:42.140Z,35.5065002,-118.3844986,8.28,1.69,ml,27,65,0.1722,0.14,ci,ci39709522,2023-11-06T21:20:48.324Z,"13 km SE of Bodfish, CA",earthquake,0.24,1.16,0.142,17,automatic,ci,ci
@@ -221,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T22:22:06.122Z,61.3526,-150.3191,39.3,2.6,ml,,,,0.56,ak,ak023e7eai3r,2023-11-06T13:26:52.857Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-11-05T22:18:41.063Z,61.6707,-151.525,79.1,2,ml,,,,0.47,ak,ak023e7e9pyi,2023-11-05T22:21:17.198Z,"36 km S of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-05T22:15:54.800Z,37.1636658,-121.552002,3.91,1.4,md,18,97,0.05855,0.04,nc,nc73956555,2023-11-06T02:41:18.624Z,"10 km ENE of Morgan Hill, CA",earthquake,0.22,0.69,0.14,12,automatic,nc,nc
-2023-11-05T21:55:27.990Z,39.2514992,-123.1263351,6.91,1.43,md,12,117,0.1219,0.04,nc,nc73956550,2023-11-05T23:07:14.389Z,"7 km ESE of Redwood Valley, CA",earthquake,0.27,1.11,0.21,3,automatic,nc,nc
