@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T08:07:22.370Z,33.063,-116.1408333,12.43,1.09,ml,54,34,0.09519,0.23,ci,ci39709098,2023-11-06T18:31:26.936Z,"9 km S of Ocotillo Wells, CA",earthquake,0.2,0.78,0.134,17,reviewed,ci,ci
 2023-11-06T07:52:11.640Z,47.7965,-122.91833333333334,20.44,1.33,ml,16,164,0.01727,0.24,uw,uw61970636,2023-11-06T18:23:14.960Z,"4 km SW of Quilcene, Washington",earthquake,0.6,0.75,0.2304890821334311,7,reviewed,uw,uw
 2023-11-06T07:51:46.777Z,60.4335,-152.7319,120.7,2.5,ml,,,,0.58,ak,ak023e8t2ng5,2023-11-06T07:54:31.684Z,"72 km NW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-06T07:11:55.800Z,44.6318333333333,-112.491333333333,3.59,1.21,ml,9,79,0.07928,0.08,mb,mb90032108,2023-11-06T23:27:11.560Z,"Idaho-Montana border region",earthquake,0.38,0.5,0.110391828788689,10,reviewed,mb,mb
