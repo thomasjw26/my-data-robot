@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-07T10:14:03.399Z,60.5404,-150.2967,42,1.4,ml,,,,0.51,ak,ak023eai69wz,2023-11-07T10:16:51.815Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-07T10:01:24.150Z,38.8343315,-122.8150024,0.73,0.68,md,11,95,0.01158,0.02,nc,nc73957230,2023-11-07T10:21:11.828Z,"8 km W of Cobb, CA",earthquake,0.23,0.54,0.21,12,automatic,nc,nc
-2023-11-07T09:59:41.580Z,38.7949982,-122.8183365,1.62,1.48,md,26,71,0.01315,0.04,nc,nc73957225,2023-11-07T10:11:11.776Z,"6 km WNW of The Geysers, CA",earthquake,0.21,0.34,0.18,28,automatic,nc,nc
+2023-11-07T09:59:41.580Z,38.7949982,-122.8183365,1.62,1.48,md,26,71,0.01315,0.04,nc,nc73957225,2023-11-07T10:29:19.016Z,"6 km WNW of The Geysers, CA",earthquake,0.21,0.34,0.18,28,automatic,nc,nc
 2023-11-07T09:59:23.720Z,38.793335,-122.8184967,1.77,0.89,md,18,104,0.01292,0.05,nc,nc73957220,2023-11-07T10:19:13.819Z,"6 km WNW of The Geysers, CA",earthquake,0.28,0.56,0.21,19,automatic,nc,nc
 2023-11-07T09:59:01.660Z,38.7936668,-122.8190002,1.54,2.09,md,36,72,0.01253,0.06,nc,nc73957215,2023-11-07T10:06:13.876Z,"6 km WNW of The Geysers, CA",earthquake,0.18,0.27,0.16,39,automatic,nc,nc
 2023-11-07T09:57:50.784Z,63.5642,-150.7747,11.7,1.2,ml,,,,0.79,ak,ak023eahu5rl,2023-11-07T10:02:14.511Z,"47 km E of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
