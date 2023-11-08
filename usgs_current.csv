@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-08T03:09:54.480Z,38.836834,-122.8123322,1.87,0.75,md,11,77,0.01353,0.01,nc,nc73957590,2023-11-08T03:11:29.908Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.97,0.27,11,automatic,nc,nc
+2023-11-08T03:09:54.480Z,38.836834,-122.8123322,1.87,0.75,md,11,77,0.01353,0.01,nc,nc73957590,2023-11-08T03:21:10.565Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.97,0.27,11,automatic,nc,nc
 2023-11-08T03:00:44.120Z,38.8393326,-122.8366699,1.29,0.61,md,12,114,0.001185,0.01,nc,nc73957585,2023-11-08T03:11:11.511Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.51,0.42,12,automatic,nc,nc
 2023-11-08T02:53:34.540Z,38.8156662,-122.8271637,2.35,0.76,md,16,58,0.006968,0.02,nc,nc73957580,2023-11-08T03:20:13.560Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.66,0.13,16,automatic,nc,nc
 2023-11-08T02:34:37.646Z,61.7246,-150.0488,24.6,1.7,ml,,,,0.51,ak,ak023ec12ijg,2023-11-08T03:08:33.380Z,"2 km SSW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
