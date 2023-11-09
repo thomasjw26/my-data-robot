@@ -123,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T13:58:08.905Z,31.615,-104.002,7.764,2.2,ml(texnet),26,54,0,0.1,tx,tx2023vxhg,2023-11-08T18:58:58.777Z,"38 km NNW of Toyah, Texas",earthquake,0.3480116722,0.3239442437,0.1,16,reviewed,tx,tx
 2023-11-08T13:56:20.826Z,21.5708,143.0808,320.395,4.6,mb,157,38,8.119,0.59,us,us7000l9la,2023-11-08T14:51:36.040Z,"Mariana Islands region",earthquake,7.85,5.099,0.035,248,reviewed,us,us
 2023-11-08T13:49:06.667Z,31.634,-103.985,5.6303,2.3,ml(texnet),21,47,0,0.1,tx,tx2023vxhb,2023-11-09T00:53:11.187Z,"37 km WSW of Mentone, Texas",earthquake,0.2880549846,0.3635494,0.2,18,reviewed,tx,tx
-2023-11-08T13:38:26.610Z,36.1541667,-120.3238333,12.65,1.35,md,23,102,0.03579,0.07,nc,nc73957805,2023-11-09T02:30:11.174Z,"3 km ENE of Coalinga, CA",earthquake,0.43,0.3,0.06,12,reviewed,nc,nc
+2023-11-08T13:38:26.610Z,36.1541667,-120.3238333,12.65,1.35,md,23,102,0.03579,0.07,nc,nc73957805,2023-11-09T02:38:12.225Z,"3 km ENE of Coalinga, CA",earthquake,0.43,0.3,0.06,12,reviewed,nc,nc
 2023-11-08T13:37:56.610Z,36.1601667,-120.2953333,13.28,0.99,md,23,149,0.04522,0.07,nc,nc73957800,2023-11-08T22:52:10.913Z,"6 km ENE of Coalinga, CA",earthquake,0.39,0.5,0.202,11,reviewed,nc,nc
 2023-11-08T13:34:59.387Z,31.634,-104.006,5.7717,1.5,ml(texnet),11,94,0,0.2,tx,tx2023vxgn,2023-11-08T17:35:03.282Z,"39 km WSW of Mentone, Texas",earthquake,0.5648376462,0.6021703232,0.2,9,reviewed,tx,tx
 2023-11-08T13:33:39.080Z,36.157,-120.314,12.05,1.35,md,28,80,0.07679,0.15,nc,nc73957795,2023-11-09T02:12:12.082Z,"4 km ENE of Coalinga, CA",earthquake,0.38,0.55,0.061,14,reviewed,nc,nc
