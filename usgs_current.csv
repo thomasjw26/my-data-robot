@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T19:44:25.980Z,19.377,-155.282833333333,1.57,1.85,ml,26,91,,0.09,hv,hv73643227,2023-11-10T20:39:18.170Z,"8 km SW of Volcano, Hawaii",earthquake,0.15,0.18,0.185162474899708,9,reviewed,hv,hv
 2023-11-10T19:42:56.520Z,38.7869987,-122.7711639,1.28,0.8,md,15,102,0.01447,0.03,nc,nc73961086,2023-11-10T20:05:11.561Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.39,0.16,16,automatic,nc,nc
 2023-11-10T19:41:27.920Z,36.5796661,-121.1361694,9.19,1.16,md,8,142,0.07777,0.1,nc,nc73961081,2023-11-10T20:02:11.546Z,"5 km N of Pinnacles, CA",earthquake,0.98,2.56,0.32,5,automatic,nc,nc
-2023-11-10T19:39:34.100Z,36.5699997,-121.1504974,9.63,1.87,md,15,194,0.02815,0.05,nc,nc73961076,2023-11-10T19:55:10.508Z,"4 km N of Pinnacles, CA",earthquake,0.58,1.19,0.16,18,automatic,nc,nc
+2023-11-10T19:39:34.100Z,36.5699997,-121.1504974,9.63,1.87,md,15,194,0.02815,0.05,nc,nc73961076,2023-11-10T23:48:09.725Z,"4 km N of Pinnacles, CA",earthquake,0.58,1.19,0.16,18,automatic,nc,nc
 2023-11-10T19:32:50.560Z,61.7674,-150.1094,76,2,ml,,,,0.85,ak,ak023efm96dc,2023-11-10T20:17:38.142Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-11-10T19:24:21.715Z,61.0128,-147.0513,22.2,1.4,ml,,,,0.48,ak,ak023efm7eez,2023-11-10T19:26:07.695Z,"26 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-10T19:23:59.080Z,38.8404999,-122.8258362,1.61,0.76,md,18,97,0.007775,0.03,nc,nc73961066,2023-11-10T19:33:11.375Z,"9 km WNW of Cobb, CA",earthquake,0.22,0.45,0.15,18,automatic,nc,nc
@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T17:29:54.721Z,-28.6595,-69.8862,108.784,4.5,mb,26,79,0.796,0.76,us,us7000la5m,2023-11-10T22:18:32.040Z,"85 km E of Vallenar, Chile",earthquake,6.35,5.008,0.221,6,reviewed,us,us
 2023-11-10T17:29:32.500Z,38.8291664,-122.8160019,1.68,1.07,md,17,63,0.01604,0.01,nc,nc73961016,2023-11-10T17:39:10.731Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.56,0.23,18,automatic,nc,nc
 2023-11-10T17:25:55.570Z,38.8243332,-122.8533325,2.33,0.37,md,9,118,0.004235,0.01,nc,nc73961011,2023-11-10T19:14:11.262Z,"10 km WNW of The Geysers, CA",earthquake,0.42,0.97,0.22,9,automatic,nc,nc
-2023-11-10T17:22:28.150Z,19.6911,-71.5766,19.047,5,mww,174,48,0.715,0.95,us,us7000la5h,2023-11-10T23:06:44.134Z,"7 km WNW of Las Matas de Santa Cruz, Dominican Republic",earthquake,5.24,3.394,0.066,22,reviewed,us,us
+2023-11-10T17:22:28.150Z,19.6911,-71.5766,19.047,5,mww,174,48,0.715,0.95,us,us7000la5h,2023-11-10T23:43:49.905Z,"7 km WNW of Las Matas de Santa Cruz, Dominican Republic",earthquake,5.24,3.394,0.066,22,reviewed,us,us
 2023-11-10T17:19:34.410Z,19.3825,-155.274,1.62,0.32,md,16,72,,0.12,hv,hv73643072,2023-11-10T17:39:43.020Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.17,0.0177353130683691,3,reviewed,hv,hv
 2023-11-10T17:11:12.030Z,19.253999710083,-155.401840209961,29.9699993133545,1.89999998,md,36,147,,0.129999995,hv,hv73643067,2023-11-10T17:14:35.160Z,"9 km NE of Pāhala, Hawaii",earthquake,0.64,0.850000024,0.819999993,11,automatic,hv,hv
 2023-11-10T17:10:23.450Z,50.8382,155.5712,148.175,4.8,mb,156,131,2.627,0.72,us,us7000la5f,2023-11-10T18:09:52.040Z,"43 km WNW of Severo-Kuril’sk, Russia",earthquake,9.8,5.312,0.041,192,reviewed,us,us
