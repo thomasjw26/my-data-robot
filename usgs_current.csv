@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-09T23:53:30.710Z,38.7915001,-122.7614975,2.86,0.68,md,10,76,0.009218,0.02,nc,nc73960686,2023-11-09T23:55:05.170Z,"2 km NNW of The Geysers, CA",earthquake,0.42,0.94,0.13,10,automatic,nc,nc
 2023-11-09T23:36:04.970Z,19.2373332977295,-155.406829833984,30.7399997711182,2.23000002,md,36,150,,0.119999997,hv,hv73642497,2023-11-09T23:39:26.570Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.52,0.660000026,1.71000004,14,automatic,hv,hv
 2023-11-09T23:30:53.460Z,38.8326683,-122.8014984,2.1,0.27,md,10,74,0.01043,0.01,nc,nc73960676,2023-11-09T23:40:10.375Z,"7 km W of Cobb, CA",earthquake,0.36,1.11,0.17,10,automatic,nc,nc
 2023-11-09T23:30:10.760Z,35.4941673,-118.3996658,4.43,1.45,ml,27,66,0.1788,0.13,ci,ci39710994,2023-11-09T23:36:32.057Z,"13 km SE of Bodfish, CA",earthquake,0.25,1.04,0.129,5,automatic,ci,ci
@@ -220,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T00:18:29.208Z,36.5874,-116.1202,0,-0.2,ml,7,251.1,0.104,0.0653,nn,nn00868650,2023-11-09T15:58:38.684Z,"40 km W of Indian Springs, Nevada",earthquake,,0,0.01,2,reviewed,nn,nn
 2023-11-09T00:16:01.290Z,35.0411667,-117.6615,-0.83,1.5,mh,15,114,0.1103,0.2,ci,ci39710554,2023-11-09T01:11:55.884Z,"5 km NNW of Boron, CA",quarry blast,0.57,31.61,,0,reviewed,ci,ci
 2023-11-09T00:13:15.375Z,63.9843,-22.1579,10.229,4.3,mb,23,121,0.847,0.52,us,us7000l9qw,2023-11-09T01:03:43.617Z,"11 km E of Vogar, Iceland",earthquake,7.17,4.498,0.125,18,reviewed,us,us
-2023-11-08T23:58:51.580Z,56.24,-159.402166666667,20.77,1.38,ml,6,172,,0.1,av,av92111866,2023-11-09T23:31:00.040Z,"37 km N of Ivanof Bay, Alaska",earthquake,0.51,0.9,0.17621588975502,7,reviewed,av,av
