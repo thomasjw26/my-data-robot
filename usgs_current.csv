@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T09:49:19.910Z,38.802166,-122.7926636,7.41,0.31,md,7,155,0.00615,0.01,nc,nc73961496,2023-11-11T10:00:11.085Z,"4 km NW of The Geysers, CA",earthquake,1.44,3.21,0.16,9,automatic,nc,nc
 2023-11-11T09:38:22.020Z,38.8253326,-122.7993317,2.7,1.2,md,28,32,0.008611,0.02,nc,nc73961491,2023-11-11T12:37:10.911Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.42,0.16,27,automatic,nc,nc
 2023-11-11T09:35:50.610Z,38.8236656,-122.7981644,3.24,0.76,md,8,210,0.01583,0.01,nc,nc73961486,2023-11-11T09:49:11.030Z,"6 km NW of The Geysers, CA",earthquake,0.71,0.88,0.07,9,automatic,nc,nc
-2023-11-11T09:28:31.850Z,34.006,-117.1863333,15.26,1.05,ml,60,36,0.05955,0.15,ci,ci39711546,2023-11-11T09:35:04.712Z,"6 km S of Redlands, CA",earthquake,0.13,0.26,0.164,31,automatic,ci,ci
