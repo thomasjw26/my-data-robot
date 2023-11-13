@@ -176,4 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T09:21:15.293Z,63.5365,-148.7126,13.6,1.4,ml,,,,0.76,ak,ak023eirb3pl,2023-11-12T09:23:06.813Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-12T09:11:12.709Z,39.6374,-119.6469,10.6,1.4,ml,12,76.9,0.195,0.2253,nn,nn00868793,2023-11-12T09:13:07.626Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,1.1,0.36,6,automatic,nn,nn
 2023-11-12T08:53:32.317Z,-3.6703,151.4524,11.982,4.9,mb,40,98,0.878,0.74,us,us7000lage,2023-11-12T09:12:05.040Z,"New Ireland region, Papua New Guinea",earthquake,7.21,3.999,0.101,31,reviewed,us,us
-2023-11-12T08:40:15.910Z,46.85,-121.9865,7,1.45,ml,24,69,0.02841,0.12,uw,uw61971986,2023-11-12T18:36:16.270Z,"10 km NNE of Ashford, Washington",earthquake,0.28,0.42,0.14663909547256448,12,reviewed,uw,uw
