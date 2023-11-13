@@ -211,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T21:50:47.857Z,64.3641,-146.7195,19.5,1.1,ml,,,,0.67,ak,ak023eiyml8x,2023-11-12T21:53:26.114Z,"5 km W of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-12T21:37:36.355Z,31.715,-104.549,5.9112,1.9,ml(texnet),9,196,0,0.7,tx,tx2023wfeh,2023-11-12T21:56:20.511Z,"western Texas",earthquake,0,4.718148098,0.3,7,automatic,tx,tx
 2023-11-12T21:31:39.200Z,59.3551,-153.0177,94.1,2,ml,,,,0.27,ak,ak023eiyihz4,2023-11-12T21:33:34.160Z,"62 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-11-12T21:27:06.889Z,36.8868,-116.1639,5,0.4,ml,21,86.36,0.073,0.1091,nn,nn00868810,2023-11-13T00:20:58.915Z,"53 km E of Beatty, Nevada",earthquake,,1.5,0.11,13,reviewed,nn,nn
