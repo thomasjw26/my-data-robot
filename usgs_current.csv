@@ -244,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T05:07:01.453Z,59.2421,-136.2266,0,2.9,ml,,,,0.56,ak,ak023elzx16p,2023-11-14T05:53:59.040Z,"22 km SSW of Covenant Life, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-14T04:51:53.360Z,19.3295,-155.063166666667,1.18,2.12,ml,44,177,,0.17,hv,hv73647322,2023-11-15T00:32:40.720Z,"16 km SSE of Fern Forest, Hawaii",earthquake,0.34,0.27,0.0983486114777428,15,reviewed,hv,hv
 2023-11-14T04:48:29.974Z,-5.7497,-76.6511,9.788,4.6,mb,41,120,4.047,0.71,us,us7000laua,2023-11-15T01:36:00.040Z,"northern Peru",earthquake,9.17,4.317,0.07,61,reviewed,us,us
-2023-11-14T04:43:21.467Z,36.7987,-116.2878,7.4,-0.2,ml,8,101.31,0.051,0.0385,nn,nn00868875,2023-11-14T15:51:19.198Z,"California-Nevada border region",earthquake,,2.3,1.43,4,reviewed,nn,nn
