@@ -5,6 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-16T03:37:24.820Z,19.3974990844727,-155.252838134766,0.409999996423721,1.82,ml,14,58,,0.119999997,hv,hv73649452,2023-11-16T03:42:55.660Z,"5 km SSW of Volcano, Hawaii",earthquake,0.21,0.289999992,0.2,5,automatic,hv,hv
 2023-11-16T03:32:02.647Z,61.1418,-152.1558,104.2,2.5,ml,,,,0.41,ak,ak023ep9y7sq,2023-11-16T03:34:47.753Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-16T03:06:59.036Z,61.0571,-148.4761,0,1.6,ml,,,,0.84,ak,ak023ep9srov,2023-11-16T03:08:37.791Z,"33 km NNE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-11-16T03:05:04.690Z,45.85516666666667,-122.41833333333334,15.05,1.6300000000000001,ml,13,199,0.07735,0.13,uw,uw61972436,2023-11-16T05:49:32.540Z,"1 km SW of Yacolt, Washington",earthquake,1.15,0.66,0.13359712504832966,8,reviewed,uw,uw
 2023-11-16T02:49:28.019Z,30.588,137.8621,476.504,4.4,mb,83,118,3.018,0.77,us,us6000lnr7,2023-11-16T03:03:42.040Z,"Izu Islands, Japan region",earthquake,8.87,8.065,0.036,219,reviewed,us,us
 2023-11-16T02:27:32.120Z,19.4823341369629,-155.79899597168,8.98999977111816,1.86000001,md,20,180,,0.219999999,hv,hv73649427,2023-11-16T02:30:45.240Z,"7 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.59,0.699999988,1.71000004,6,automatic,hv,hv
 2023-11-16T02:22:59.159Z,59.6595,-136.1286,2.7,2.8,ml,,,,0.77,ak,ak023ep9arjv,2023-11-16T03:15:23.040Z,"14 km N of Mosquito Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
