@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-16T07:32:46.760Z,37.4363327,-121.7863312,5.83,1.4,md,9,115,0.0179,0.02,nc,nc73963401,2023-11-16T07:34:24.494Z,"9 km NNE of Alum Rock, CA",earthquake,0.54,0.47,0.06,6,automatic,nc,nc
+2023-11-16T07:32:46.760Z,37.4363327,-121.7863312,5.83,1.4,md,9,115,0.0179,0.02,nc,nc73963401,2023-11-16T07:44:10.224Z,"9 km NNE of Alum Rock, CA",earthquake,0.54,0.47,0.06,6,automatic,nc,nc
 2023-11-16T07:13:50.940Z,33.8828333,-116.919,-0.88,0.75,ml,15,311,0.2174,0.38,ci,ci39713626,2023-11-16T07:20:23.010Z,"6 km SW of Banning, CA",earthquake,11.67,16.22,0.195,8,automatic,ci,ci
 2023-11-16T07:10:24.420Z,32.5858333,-115.665,10.23,1.52,ml,31,50,0.08181,0.26,ci,ci39713618,2023-11-16T07:17:05.339Z,"8 km W of Progreso, B.C., MX",earthquake,0.32,0.56,0.18,16,automatic,ci,ci
 2023-11-16T06:54:44.273Z,36.5033,71.1359,239.519,4.2,mb,36,75,2.598,0.68,us,us6000lnrx,2023-11-16T07:15:20.040Z,"40 km WSW of Ashkāsham, Afghanistan",earthquake,8,8.776,0.141,14,reviewed,us,us
@@ -169,4 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T08:41:52.480Z,19.3806667327881,-155.285339355469,0.319999992847443,1.73000002,md,15,153,,0.200000003,hv,hv73648602,2023-11-15T08:56:22.252Z,"8 km SW of Volcano, Hawaii",earthquake,0.33,0.379999995,0.589999974,15,automatic,hv,hv
 2023-11-15T08:27:15.456Z,31.355,-103.755,2.5324,1.8,ml(texnet),11,55,0.1,0.2,tx,tx2023wjqs,2023-11-15T15:54:00.246Z,"5 km NE of Toyah, Texas",earthquake,0.6559484822,1.272910933,0.2,10,reviewed,tx,tx
 2023-11-15T07:56:13.280Z,46.8785,-112.5205,8.65,0.68,ml,6,155,0.04766,0.07,mb,mb90032888,2023-11-15T15:09:41.780Z,"14 km SE of Lincoln, Montana",earthquake,0.51,0.65,0.284473520878357,4,reviewed,mb,mb
-2023-11-15T07:44:53.035Z,61.6382,-149.7828,32.9,1.9,ml,,,,0.31,ak,ak023enovad3,2023-11-15T07:46:10.981Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
