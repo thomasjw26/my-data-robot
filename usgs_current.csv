@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-17T13:37:26.956Z,61.757,-149.7188,45.3,2,ml,,,,0.44,ak,ak023er3h0yf,2023-11-17T13:39:32.685Z,"15 km NNE of Houston, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-17T13:35:12.067Z,61.7368,-149.7119,40.3,3.2,ml,,,,0.57,ak,ak023er3gkda,2023-11-17T13:41:10.838Z,"13 km NNE of Houston, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-11-17T13:35:12.067Z,61.7368,-149.7119,40.3,3.2,ml,,,,0.57,ak,ak023er3gkda,2023-11-17T13:46:25.161Z,"13 km NNE of Houston, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-11-17T13:24:49.140Z,38.779335,-122.7570038,1.28,1.05,md,9,104,0.01099,0.02,nc,nc73963831,2023-11-17T13:35:10.916Z,"0 km NNW of The Geysers, CA",earthquake,0.31,0.62,0.18,8,automatic,nc,nc
 2023-11-17T13:24:19.600Z,38.7788315,-122.7574997,1.17,1.28,md,17,83,0.01682,0.05,nc,nc73963826,2023-11-17T13:35:10.783Z,"0 km NNW of The Geysers, CA",earthquake,0.27,0.62,0.25,17,automatic,nc,nc
 2023-11-17T13:19:30.737Z,36.3489,27.6585,10,4.1,mb,40,82,0.397,0.68,us,us6000lp37,2023-11-17T13:37:24.040Z,"22 km NW of Émponas, Greece",earthquake,3.66,3.672,0.126,17,reviewed,us,us
