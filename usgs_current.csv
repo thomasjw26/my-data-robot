@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-21T13:55:30.360Z,33.9811668,-116.7249985,14.93,1.55,ml,45,64,0.08328,0.16,ci,ci39716042,2023-11-21T13:57:35.626Z,"9 km NE of Cabazon, CA",earthquake,0.23,0.59,0.279,20,automatic,ci,ci
 2023-11-21T13:36:47.640Z,19.1924991607666,-155.488998413086,33.4000015258789,1.75999999,md,34,139,,0.150000006,hv,hv73655502,2023-11-21T13:39:57.200Z,"1 km SW of Pāhala, Hawaii",earthquake,0.82,1.12,0.75,7,automatic,hv,hv
 2023-11-21T13:32:12.750Z,38.8271675,-122.8016663,1.65,0.58,md,7,136,0.007571,0.01,nc,nc73965301,2023-11-21T13:52:14.520Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.78,0.3,8,automatic,nc,nc
 2023-11-21T13:11:49.210Z,38.8366661,-122.802002,1.61,0.7,md,8,82,0.00927,0.01,nc,nc73965291,2023-11-21T13:30:13.413Z,"7 km WNW of Cobb, CA",earthquake,0.35,1.13,0.43,8,automatic,nc,nc
