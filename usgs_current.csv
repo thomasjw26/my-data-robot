@@ -290,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T12:26:16.409Z,58.8328,-138.1875,0,3,ml,,,,0.96,ak,ak023exoylmw,2023-11-21T12:37:10.040Z,"118 km SE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-21T12:19:36.850Z,44.2121667,-110.7645,1.76,1.36,md,11,75,0.06547,0.18,uu,uu60554762,2023-11-21T14:22:55.060Z,"45 km ENE of Warm River, Idaho",earthquake,0.79,10.28,0.219,6,reviewed,uu,uu
 2023-11-21T12:05:56.780Z,33.2795,-116.7666667,10.5,0.78,ml,18,142,0.04391,0.12,ci,ci39716026,2023-11-21T16:58:51.816Z,"4 km N of Lake Henshaw, CA",earthquake,0.31,0.45,0.09,10,reviewed,ci,ci
-2023-11-21T11:51:40.270Z,19.3108329772949,-155.353164672852,0.589999973773956,2.44,ml,39,106,,0.280000001,hv,hv73655372,2023-11-21T11:57:10.710Z,"17 km NE of Pāhala, Hawaii",earthquake,0.42,0.50999999,4.38,3,automatic,hv,hv
