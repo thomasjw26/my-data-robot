@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-24T22:17:50.680Z,38.8305016,-122.9256668,3.38,0.83,md,6,178,0.02169,0.04,nc,nc73966986,2023-11-24T22:19:25.407Z,"8 km ENE of Cloverdale, CA",earthquake,0.91,2.39,0.37,7,automatic,nc,nc
+2023-11-24T22:17:50.680Z,38.8305016,-122.9256668,3.38,0.83,md,6,178,0.02169,0.04,nc,nc73966986,2023-11-24T22:27:11.222Z,"8 km ENE of Cloverdale, CA",earthquake,0.91,2.39,0.37,7,automatic,nc,nc
+2023-11-24T22:16:26.730Z,34.8266678,-118.2923355,-0.64,1.92,ml,8,213,0.2984,0.23,ci,ci39717578,2023-11-24T22:22:57.364Z,"12 km WSW of Rosamond, CA",earthquake,1.45,5.9,0.329,8,automatic,ci,ci
 2023-11-24T22:14:40.053Z,62.4635,-149.156,49.2,1.4,ml,,,,0.89,ak,ak023f2tgged,2023-11-24T22:16:52.236Z,"Central Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-11-24T22:09:55.296Z,61.7387,-150.0121,35.6,2.1,ml,,,,0.27,ak,ak023f2tfezt,2023-11-24T22:11:11.861Z,"1 km SE of Willow, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2023-11-24T21:52:09.980Z,19.3873333333333,-155.280166666667,1.04,0.59,md,14,107,,0.07,hv,hv73660552,2023-11-24T22:03:22.200Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.18,0.052105266183822,4,reviewed,hv,hv
+2023-11-24T21:50:06.514Z,-22.3263,169.6628,10,5,mb,42,77,2.07,0.78,us,us6000lql2,2023-11-24T22:22:04.040Z,"southeast of the Loyalty Islands",earthquake,8.38,1.829,0.082,47,reviewed,us,us
 2023-11-24T21:41:49.500Z,19.3623333333333,-155.299666666667,2.26,1.36,md,14,135,,0.1,hv,hv73660532,2023-11-24T21:57:21.480Z,"11 km SW of Volcano, Hawaii",earthquake,0.32,0.48,0.404026631415401,2,reviewed,hv,hv
 2023-11-24T21:40:34.950Z,38.7635002,-122.7241669,2.54,0.73,md,8,119,0.00198,0.02,nc,nc73966976,2023-11-24T21:59:13.051Z,"3 km WSW of Anderson Springs, CA",earthquake,0.61,1.09,0.39,9,automatic,nc,nc
 2023-11-24T21:37:40.147Z,-3.594,131.3682,10,4.7,mb,50,50,1.106,0.49,us,us6000lqky,2023-11-24T22:11:27.040Z,"Ceram Sea, Indonesia",earthquake,4.76,1.902,0.092,36,reviewed,us,us
@@ -160,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T08:35:40.600Z,38.8294983,-122.8150024,2.39,0.62,md,11,57,0.007208,0.01,nc,nc73966696,2023-11-24T11:07:09.971Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.87,0.39,11,automatic,nc,nc
 2023-11-24T08:24:36.970Z,37.3439,-116.0712,12.1,0.2,ml,7,307.63,0.146,0.1413,nn,nn00869255,2023-11-24T16:06:37.156Z,"Nevada",earthquake,,5.4,0.31,4,reviewed,nn,nn
 2023-11-24T08:17:03.350Z,20.0875,-156.582333333333,-0.4,3.88,ml,69,175,,0.21,hv,hv73659637,2023-11-24T08:54:33.586Z,"64 km SSW of Mākena, Hawaii",earthquake,0.88,0.22,0.17648422942601,48,reviewed,hv,hv
-2023-11-24T08:16:16.800Z,45.906166666666664,-122.8925,20.9,3.13,ml,37,58,0.1173,0.16,uw,uw61973581,2023-11-24T21:51:05.491Z,"Washington-Oregon border region",earthquake,0.36,0.98,0.14612313749173866,127,reviewed,uw,uw
+2023-11-24T08:16:16.800Z,45.906166666666664,-122.8925,20.9,3.13,ml,37,58,0.1173,0.16,uw,uw61973581,2023-11-24T22:25:05.530Z,"Washington-Oregon border region",earthquake,0.36,0.98,0.14612313749173866,127,reviewed,uw,uw
 2023-11-24T07:51:47.403Z,31.633,-104.383,3.8559,2.2,ml(texnet),18,78,0,0.3,tx,tx2023xabb,2023-11-24T08:34:59.313Z,"western Texas",earthquake,0,1.446454066,0.1,14,automatic,tx,tx
 2023-11-24T07:39:38.440Z,19.1998329162598,-155.488327026367,29.75,2.43,ml,51,75,,0.119999997,hv,hv73659612,2023-11-24T07:45:14.040Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.44,0.610000014,3.02,28,automatic,hv,hv
 2023-11-24T07:37:12.550Z,46.199666666666666,-122.1885,1.15,0.73,ml,17,57,0.01456,0.14,uw,uw61973576,2023-11-24T16:42:25.280Z,"Mount St. Helens area, Washington",earthquake,0.35,0.25,0.13038440357782044,14,reviewed,uw,uw
