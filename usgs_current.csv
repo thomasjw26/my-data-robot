@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-25T05:31:55.510Z,35.6386681,-117.4638367,6.07,1.66,ml,23,65,0.042,0.15,ci,ci39717722,2023-11-25T05:34:14.428Z,"15 km SSW of Searles Valley, CA",earthquake,0.34,0.79,0.187,5,automatic,ci,ci
+2023-11-25T05:31:55.450Z,35.6363333,-117.4601667,6.84,1.63,ml,34,59,0.0413,0.12,ci,ci39717722,2023-11-25T05:38:52.955Z,"15 km SSW of Searles Valley, CA",earthquake,0.15,0.27,0.141,18,automatic,ci,ci
 2023-11-25T05:31:07.360Z,33.9886667,-116.71,9.48,0.92,ml,51,48,0.07162,0.15,ci,ci39717714,2023-11-25T05:37:30.752Z,"11 km NE of Cabazon, CA",earthquake,0.16,0.36,0.148,20,automatic,ci,ci
-2023-11-25T05:22:59.350Z,38.8354988,-122.8186646,1.7,0.68,md,8,79,0.0135,0.01,nc,nc73967096,2023-11-25T05:31:10.247Z,"8 km W of Cobb, CA",earthquake,0.35,0.96,0.45,8,automatic,nc,nc
+2023-11-25T05:22:59.350Z,38.8354988,-122.8186646,1.7,0.68,md,8,79,0.0135,0.01,nc,nc73967096,2023-11-25T05:39:14.284Z,"8 km W of Cobb, CA",earthquake,0.35,0.96,0.45,8,automatic,nc,nc
 2023-11-25T05:18:15.960Z,17.9285,-66.9283333333333,16.56,2.15,md,7,222,0.06577,0.14,pr,pr71432103,2023-11-25T05:34:20.480Z,"Puerto Rico region",earthquake,0.75,0.66,0.11556109844155,5,reviewed,pr,pr
 2023-11-25T04:58:57.860Z,19.328332901001,-155.317504882812,1.16999995708466,1.73,ml,20,83,,0.280000001,hv,hv73661242,2023-11-25T05:04:28.610Z,"Island of Hawaii, Hawaii",earthquake,0.56,1.27999997,3.5,5,automatic,hv,hv
 2023-11-25T04:48:00.879Z,-4.8269,145.3174,147.518,5.1,mb,60,41,4.902,0.59,us,us6000lqmd,2023-11-25T05:10:07.040Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,9.35,6.934,0.054,112,reviewed,us,us
@@ -254,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T05:54:59.380Z,33.8013333,-117.7953333,9.97,1.47,ml,63,34,0.0274,0.21,ci,ci39717258,2023-11-24T06:05:29.800Z,"2 km SE of Villa Park, CA",earthquake,0.19,0.32,0.175,29,automatic,ci,ci
 2023-11-24T05:53:31.010Z,18.1748333333333,-65.9655,77.27,2.65,md,11,146,0.1156,0.17,pr,pr71431983,2023-11-24T06:07:11.380Z,"Puerto Rico region",earthquake,1.29,0.82,0.142501358782976,4,reviewed,pr,pr
 2023-11-24T05:46:41.093Z,61.4088,-147.0292,15,2.3,ml,,,,0.68,ak,ak023f2jiy3w,2023-11-24T05:48:22.738Z,"47 km NW of Valdez, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2023-11-24T05:39:07.410Z,19.3793334960938,-155.237167358398,1.53999996185303,1.91,ml,26,82,,0.209999993,hv,hv73659482,2023-11-24T05:44:38.070Z,"7 km S of Volcano, Hawaii",earthquake,0.32,0.209999993,0.23,8,automatic,hv,hv
