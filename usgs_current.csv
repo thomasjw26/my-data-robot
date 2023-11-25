@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-25T08:37:22.711Z,61.6808,-150.3184,10.6,1.6,ml,,,,0.37,ak,ak023f48smjz,2023-11-25T08:38:57.875Z,"Southern Alaska",earthquake,,5.9,,,automatic,ak,ak
 2023-11-25T08:21:54.020Z,19.3013324737549,-155.249496459961,5.82000017166138,2.02,ml,42,105,,0.150000006,hv,hv73661607,2023-11-25T08:27:25.090Z,"15 km S of Volcano, Hawaii",earthquake,0.33,0.610000014,2,11,automatic,hv,hv
 2023-11-25T08:20:50.980Z,19.3059997558594,-155.255172729492,2.76999998092651,1.84000003,md,43,103,,0.150000006,hv,hv73661602,2023-11-25T08:23:58.920Z,"15 km S of Volcano, Hawaii",earthquake,0.33,1.00999999,0.680000007,24,automatic,hv,hv
 2023-11-25T07:54:09.470Z,19.377,-155.280666666667,0.97,0.27,md,18,90,,0.08,hv,hv73661562,2023-11-25T08:10:04.020Z,"8 km SW of Volcano, Hawaii",earthquake,0.23,0.17,0.0266969494885335,2,reviewed,hv,hv
