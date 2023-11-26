@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-26T18:28:30.080Z,19.2035007476807,-155.377166748047,31.8700008392334,2.25,md,36,170,,0.150000006,hv,hv73664047,2023-11-26T18:31:37.580Z,"Hawaii region, Hawaii",earthquake,0.58,0.829999983,0.200000003,13,automatic,hv,hv
 2023-11-26T18:21:50.637Z,64.8897,-151.4758,5.3,1.5,ml,,,,0.54,ak,ak023f626xsn,2023-11-26T18:23:39.137Z,"41 km WSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-26T17:49:43.920Z,38.8260002,-122.8531647,2.65,1.04,md,8,104,0.003282,0.01,nc,nc73967816,2023-11-26T18:02:10.276Z,"10 km WNW of The Geysers, CA",earthquake,0.45,1.22,0.22,6,automatic,nc,nc
 2023-11-26T17:49:39.520Z,38.8260002,-122.8528366,2.29,1.5,md,20,60,0.00351,0.01,nc,nc73967811,2023-11-26T17:59:12.252Z,"10 km WNW of The Geysers, CA",earthquake,0.25,0.51,0.14,20,automatic,nc,nc
 2023-11-26T17:45:29.220Z,64.9249,-151.4768,20,2.5,ml,,,,0.64,ak,ak023f61qlq2,2023-11-26T17:47:54.875Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-26T17:44:18.440Z,38.8221664,-122.8121643,2.9,0.75,md,16,49,0.002042,0.02,nc,nc73967806,2023-11-26T17:51:10.205Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.73,0.27,17,automatic,nc,nc
+2023-11-26T17:44:18.440Z,38.8221664,-122.8121643,2.9,0.75,md,16,49,0.002042,0.02,nc,nc73967806,2023-11-26T18:30:12.425Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.73,0.27,17,automatic,nc,nc
 2023-11-26T17:41:41.130Z,38.8148346,-122.8191681,0.97,1.14,md,19,50,0.009831,0.02,nc,nc73967801,2023-11-26T18:19:14.364Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.4,0.19,21,automatic,nc,nc
 2023-11-26T17:41:06.506Z,58.2201,-155.2656,2.7,1.1,ml,,,,1.74,ak,ak023f61pp3u,2023-11-26T17:43:13.027Z,"87 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-26T17:40:17.183Z,60.9727,-149.3614,24.1,1.9,ml,,,,0.39,ak,ak023f61pi7q,2023-11-26T17:42:03.837Z,"10 km NNE of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -209,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T19:11:29.402Z,60.466,-143.6573,18,3.2,ml,,,,0.29,ak,ak023f4f6u3w,2023-11-26T06:20:10.040Z,"114 km SSW of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-11-25T18:53:33.210Z,33.0133333,-117.3531667,12.28,1.32,ml,40,226,0.09903,0.14,ci,ci39717898,2023-11-26T16:21:21.037Z,"6 km WSW of Encinitas, CA",earthquake,0.32,0.44,0.19,18,reviewed,ci,ci
 2023-11-25T18:40:07.140Z,19.3423328399658,-155.3056640625,2.75999999046326,1.76,ml,28,60,,0.159999996,hv,hv73662632,2023-11-25T18:45:38.710Z,"13 km SW of Volcano, Hawaii",earthquake,0.33,0.699999988,2.25,7,automatic,hv,hv
-2023-11-25T18:27:32.721Z,31.669,-104.399,4.6075,1.6,ml(texnet),16,70,0,0.3,tx,tx2023xcro,2023-11-25T19:09:14.627Z,"western Texas",earthquake,0,1.37049357,0.2,11,automatic,tx,tx
-2023-11-25T18:27:17.791Z,31.668,-104.373,4.4294,1.5,ml(texnet),6,169,0.1,0.1,tx,tx2023xcrn,2023-11-25T19:09:06.621Z,"western Texas",earthquake,0,2.205683744,0.3,6,automatic,tx,tx
