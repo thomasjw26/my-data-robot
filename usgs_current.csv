@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-27T07:50:25.180Z,38.6566658,-122.7436676,3.95,1.72,md,19,122,0.05503,0.04,nc,nc73968266,2023-11-27T07:51:59.171Z,"12 km ENE of Healdsburg, CA",earthquake,0.37,1.02,0.07,18,automatic,nc,nc
+2023-11-27T07:49:42.710Z,38.8273315,-122.7863312,-0.89,0.4,md,7,87,0.0115,0.01,nc,nc73968261,2023-11-27T07:51:19.063Z,"6 km W of Cobb, CA",earthquake,0.27,1.95,0.2,8,automatic,nc,nc
+2023-11-27T07:48:27.692Z,57.9457,-156.1575,129.9,2.1,ml,,,,0.39,ak,ak023f7jc975,2023-11-27T07:50:30.259Z,"Alaska Peninsula",earthquake,,1.6,,,automatic,ak,ak
 2023-11-27T07:23:22.090Z,18.0315,-66.7685,13.13,2.35,md,16,152,0.02472,0.1,pr,pr71432348,2023-11-27T07:32:41.890Z,"1 km N of Magas Arriba, Puerto Rico",earthquake,0.27,0.38,0.128654565207962,5,reviewed,pr,pr
 2023-11-27T07:19:04.165Z,31.622,-103.975,5.1868,1.8,ml(texnet),16,61,0,0.3,tx,tx2023xfmn,2023-11-27T07:30:15.403Z,"western Texas",earthquake,0,2.124592349,0.1,12,automatic,tx,tx
 2023-11-27T07:07:00.316Z,38.049,-118.7429,1.5,1.6,ml,12,97.42,0.276,0.2881,nn,nn00869332,2023-11-27T07:09:15.735Z,"34 km NW of Benton, California",earthquake,,23.4,0.31,5,automatic,nn,nn
