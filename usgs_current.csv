@@ -211,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T07:38:15.131Z,39.3988,-119.8337,8.4,0.7,ml,8,83.29,0.054,0.1267,nn,nn00869325,2023-11-26T23:40:20.899Z,"14 km S of Reno, Nevada",earthquake,,1.4,0.4,3,reviewed,nn,nn
 2023-11-26T07:21:20.100Z,34.3423333333333,-81.3111666666667,4.04,2.17,md,11,68,0.07392,0.36,se,se60501338,2023-11-27T02:32:39.525Z,"South Carolina",earthquake,0.94,2.37,0.0402242314954284,10,reviewed,se,se
 2023-11-26T07:17:06.390Z,38.8241653,-122.8518295,2.34,0.43,md,9,112,0.005187,0.01,nc,nc73967541,2023-11-26T09:34:14.341Z,"10 km WNW of The Geysers, CA",earthquake,0.37,1.12,0.29,8,automatic,nc,nc
-2023-11-26T07:10:37.690Z,19.7043,-64.5406,39,3.6,md,12,308,1.4144,0.44,pr,pr2023330002,2023-11-26T07:44:01.478Z,"154 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.52,26.71,0.11,4,reviewed,pr,pr
