@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-04T13:43:14.180Z,33.0678333,-116.0385,8.84,0.96,ml,40,47,0.1171,0.17,ci,ci39722626,2023-12-04T13:49:04.735Z,"12 km SE of Ocotillo Wells, CA",earthquake,0.17,0.65,0.075,12,automatic,ci,ci
+2023-12-04T13:40:53.785Z,58.5022,-154.3201,8,1.2,ml,,,,0.25,ak,ak023fj7mmki,2023-12-04T13:42:58.166Z,"96 km WNW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-04T13:39:26.593Z,58.4798,-153.1656,7.8,2.2,ml,,,,0.53,ak,ak023fj7mcr7,2023-12-04T13:42:24.272Z,"Kodiak Island region, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-04T13:32:11.550Z,33.0648333,-116.0365,8.11,1.09,ml,49,47,0.1191,0.16,ci,ci39722618,2023-12-04T13:40:01.675Z,"12 km SE of Ocotillo Wells, CA",earthquake,0.15,0.85,0.128,16,automatic,ci,ci
 2023-12-04T13:22:32.517Z,31.585,-104.53,4.0838,2,ml,9,154,0.1,0.2,tx,tx2023xsta,2023-12-04T13:40:55.745Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.573509014,0.1,7,automatic,tx,tx
@@ -48,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-04T08:19:42.590Z,32.7391667,-115.87,6.47,1.04,ml,23,68,0.1015,0.19,ci,ci39722506,2023-12-04T08:25:40.308Z,"12 km E of Ocotillo, CA",earthquake,0.23,0.94,0.195,6,automatic,ci,ci
 2023-12-04T08:14:30.590Z,32.7383333,-115.8695,4.89,1.07,ml,28,69,0.1009,0.2,ci,ci39722498,2023-12-04T08:20:35.690Z,"12 km E of Ocotillo, CA",earthquake,0.22,0.67,0.193,9,automatic,ci,ci
 2023-12-04T08:07:49.170Z,35.9891663,-120.545166,3.22,1.03,md,9,100,0.0156,0.05,nc,nc73971596,2023-12-04T09:43:14.027Z,"14 km NW of Parkfield, CA",earthquake,0.43,0.77,0.16,4,automatic,nc,nc
-2023-12-04T07:42:19.839Z,40.438,28.8561,6.458,5.1,mww,79,32,1.313,0.64,us,us7000lg2l,2023-12-04T13:35:07.091Z,"7 km NNW of Mudanya, Turkey",earthquake,3.13,3.447,0.093,11,reviewed,us,us
+2023-12-04T07:42:19.839Z,40.438,28.8561,6.458,5.1,mww,79,32,1.313,0.64,us,us7000lg2l,2023-12-04T13:45:05.864Z,"7 km NNW of Mudanya, Turkey",earthquake,3.13,3.447,0.093,11,reviewed,us,us
 2023-12-04T07:26:35.530Z,38.8380013,-122.8085022,1.97,1.51,md,25,36,0.01419,0.02,nc,nc73971591,2023-12-04T09:15:14.863Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.38,0.2,27,automatic,nc,nc
 2023-12-04T07:24:34.000Z,32.7393333,-115.8728333,3.6,1.03,ml,22,47,0.1006,0.2,ci,ci39722490,2023-12-04T07:30:29.484Z,"11 km E of Ocotillo, CA",earthquake,0.23,0.58,0.235,8,automatic,ci,ci
 2023-12-04T07:22:16.840Z,19.2644996643066,-155.399993896484,30.1800003051758,2.1,ml,48,124,,0.119999997,hv,hv73672597,2023-12-04T07:27:47.570Z,"10 km NE of Pāhala, Hawaii",earthquake,0.42,0.589999974,3.55,9,automatic,hv,hv
@@ -236,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T14:03:31.900Z,38.8364983,-122.8358307,1.66,0.77,md,17,88,0.002105,0.01,nc,nc73971181,2023-12-03T16:57:14.978Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.45,0.28,18,automatic,nc,nc
 2023-12-03T14:02:19.623Z,8.1768,126.6404,67.65,4.4,mb,19,118,1.522,0.47,us,us7000lfwe,2023-12-03T15:19:54.040Z,"22 km E of Barcelona, Philippines",earthquake,11.89,6.592,0.149,13,reviewed,us,us
 2023-12-03T13:54:55.960Z,19.4731,-66.2395,32,3.89,md,18,238,1.1745,0.48,pr,pr2023337000,2023-12-03T15:15:45.040Z,"111 km N of Brenas, Puerto Rico",earthquake,2.74,28.95,0.12,17,reviewed,pr,pr
-2023-12-03T13:48:44.180Z,47.192166666666665,-122.11033333333333,11.24,1.31,ml,31,110,0.03925,0.14,uw,uw61966042,2023-12-04T06:02:09.980Z,"4 km N of Prairie Heights, Washington",earthquake,0.34,0.74,0.19956556906512946,16,reviewed,uw,uw
