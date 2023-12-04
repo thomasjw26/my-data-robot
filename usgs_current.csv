@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-04T11:23:20.155Z,61.9604,-148.8765,1,1.8,ml,,,,0.73,ak,ak023fj6c1lb,2023-12-04T11:25:45.649Z,"21 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-04T11:20:38.480Z,35.9593333,-117.927,7.37,0.68,ml,22,78,0.0567,0.1,ci,ci39722554,2023-12-04T11:26:25.155Z,"3 km NW of Little Lake, CA",earthquake,0.15,0.44,0.201,6,automatic,ci,ci
+2023-12-04T11:19:12.043Z,-16.2678,-72.2145,108.083,4.6,mb,41,141,2.752,0.9,us,us7000lg3l,2023-12-04T11:34:50.805Z,"Near the coast of southern Peru",earthquake,8.22,7.5,0.094,34,reviewed,us,us
 2023-12-04T11:18:06.750Z,35.9625,-117.9251667,8.43,1.29,ml,16,160,0.05323,0.11,ci,ci39722546,2023-12-04T11:24:12.831Z,"3 km NNW of Little Lake, CA",earthquake,0.41,0.5,0.15,11,automatic,ci,ci
 2023-12-04T11:00:14.950Z,-7.0334,145.993,161.317,4.7,mb,43,115,2.624,0.5,us,us7000lg3g,2023-12-04T11:15:02.040Z,"near the south coast of New Guinea, Papua New Guinea",earthquake,10.77,7.883,0.078,50,reviewed,us,us
 2023-12-04T10:48:44.728Z,8.4923,126.7604,57.536,4.5,mb,30,126,1.835,0.59,us,us7000lg3b,2023-12-04T11:05:03.040Z,"48 km ENE of Hinatuan, Philippines",earthquake,10.98,7.463,0.131,17,reviewed,us,us
@@ -161,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T19:59:50.062Z,31.635,-104.278,5.0674,1.6,ml,16,69,0,0.4,tx,tx2023xrkq,2023-12-03T20:16:42.272Z,"58 km NW of Toyah, Texas",earthquake,0,2.845373173,0.2,13,automatic,tx,tx
 2023-12-03T19:53:34.650Z,32.7873333,-115.824,5.26,0.7,ml,13,98,0.1022,0.2,ci,ci39722194,2023-12-03T19:59:19.208Z,"17 km ENE of Ocotillo, CA",earthquake,0.41,1.03,0.371,5,automatic,ci,ci
 2023-12-03T19:50:12.910Z,32.7398333,-115.8723333,4.59,1.38,ml,20,54,0.1012,0.17,ci,ci39722186,2023-12-03T19:56:29.376Z,"11 km E of Ocotillo, CA",earthquake,0.21,0.76,0.336,13,automatic,ci,ci
-2023-12-03T19:49:37.281Z,8.9571,126.6277,30.512,6.9,mww,119,43,2.144,1.12,us,us7000lfxx,2023-12-04T04:26:02.807Z,"35 km ENE of Aras-asan, Philippines",earthquake,8.03,4.383,0.05,39,reviewed,us,us
+2023-12-03T19:49:37.281Z,8.9571,126.6277,30.512,6.9,mww,119,43,2.144,1.12,us,us7000lfxx,2023-12-04T11:36:56.802Z,"35 km ENE of Aras-asan, Philippines",earthquake,8.03,4.383,0.05,39,reviewed,us,us
 2023-12-03T19:43:03.550Z,38.8413315,-122.7756653,3.23,0.39,md,7,155,0.001392,0.02,nc,nc73971296,2023-12-03T20:09:19.073Z,"5 km WNW of Cobb, CA",earthquake,0.99,0.72,0.26,7,automatic,nc,nc
 2023-12-03T19:25:59.800Z,31.682,-104.393,6.2136,1.9,ml,15,85,0,0.3,tx,tx2023xrjm,2023-12-03T19:43:40.922Z,"54 km S of Whites City, New Mexico",earthquake,0,2.809313601,0.1,12,automatic,tx,tx
 2023-12-03T19:14:53.819Z,8.8981,126.5952,56.042,4.7,mb,61,95,2.077,0.94,us,us7000lfxs,2023-12-03T21:32:25.040Z,"31 km E of Aras-asan, Philippines",earthquake,10.57,6.465,0.068,67,reviewed,us,us
