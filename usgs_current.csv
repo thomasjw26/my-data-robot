@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-14T20:04:51.300Z,35.6448333,-117.6128333,9.12,1.04,ml,20,104,0.05376,0.16,ci,ci40444271,2023-12-14T22:04:05.412Z,"6 km ENE of Ridgecrest, CA",earthquake,0.3,0.6,0.157,7,reviewed,ci,ci
 2023-12-14T20:02:57.000Z,58.1761666666667,-155.3495,1.92,0.56,ml,9,117,,0.07,av,av92154256,2023-12-15T01:21:03.000Z,"85 km NW of Karluk, Alaska",earthquake,0.29,0.41,0.215452122704174,9,reviewed,av,av
 2023-12-14T19:53:00.920Z,34.2733333,-116.9091667,6.82,0.9,ml,21,109,0.0146,0.11,ci,ci40444111,2023-12-14T21:41:12.657Z,"3 km N of Big Bear Lake, CA",earthquake,0.27,0.3,0.171,9,reviewed,ci,ci
-2023-12-14T19:45:12.017Z,19.8816,145.346,43.313,5.3,mww,51,53,4.635,0.81,us,us7000lj40,2023-12-14T20:17:54.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,9.1,6.328,0.098,10,reviewed,us,us
