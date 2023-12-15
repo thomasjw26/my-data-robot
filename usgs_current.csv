@@ -262,5 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-14T07:57:54.191Z,59.4804,-152.8093,88,2.1,ml,,,,0.27,ak,ak023fznj52z,2023-12-14T08:00:20.481Z,"52 km WNW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-14T07:41:05.492Z,42.0839,-119.3345,7.8,1.4,ml,3,200.54,0.624,0.1343,nn,nn00870179,2023-12-15T00:59:35.076Z,"58 km W of Denio, Nevada",earthquake,,15.8,0.26,2,reviewed,nn,nn
 2023-12-14T07:40:50.210Z,52.7415,-169.939833333333,4.99,1.05,ml,4,290,,0.1,av,av91124463,2023-12-14T20:44:36.620Z,"75 km WSW of Nikolski, Alaska",earthquake,1.09,4.46,0.195794687570168,4,reviewed,av,av
-2023-12-14T07:37:53.380Z,19.333833694458,-155.294326782227,1.57000005245209,2.29,ml,31,127,,0.219999999,hv,hv73684812,2023-12-14T07:43:23.950Z,"13 km SSW of Volcano, Hawaii",earthquake,0.32,0.430000007,0.23,11,automatic,hv,hv
-2023-12-14T07:36:22.840Z,62.2614,-150.3873,58.7,2.1,ml,,,,0.69,ak,ak023fznekmk,2023-12-14T07:49:02.314Z,"10 km SW of Trapper Creek, Alaska",earthquake,,0.8,,,automatic,ak,ak
