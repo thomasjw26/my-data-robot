@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-16T09:16:00.980Z,38.7988319,-122.7764969,3.11,1.03,md,21,69,0.01056,0.02,nc,nc73976966,2023-12-16T09:17:37.142Z,"3 km NW of The Geysers, CA",earthquake,0.28,0.53,0.26,21,automatic,nc,nc
 2023-12-16T09:12:14.286Z,61.5643,-149.8197,34.3,1.7,ml,,,,0.57,ak,ak023g2ziyz8,2023-12-16T09:15:18.498Z,"7 km S of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-16T09:10:44.460Z,19.1966667175293,-155.493667602539,30.2700004577637,1.88999999,md,32,87,,0.129999995,hv,hv73687827,2023-12-16T09:13:48.310Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.63,0.720000029,0.899999976,7,automatic,hv,hv
 2023-12-16T08:58:47.318Z,63.4554,-150.9576,4.2,1.7,ml,,,,1.12,ak,ak023g2z7guz,2023-12-16T09:02:26.685Z,"39 km ESE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
