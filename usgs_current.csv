@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-19T19:54:45.090Z,35.0606651,-118.3330002,-0.16,1.41,ml,13,107,0.07026,0.16,ci,ci40447983,2023-12-19T19:56:49.417Z,"13 km SE of Tehachapi, CA",earthquake,0.7,1,0.329,5,automatic,ci,ci
 2023-12-19T19:49:13.049Z,60.5994,-151.7867,74.4,1.6,ml,,,,0.51,ak,ak023g84b9wo,2023-12-19T19:51:29.114Z,"25 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-19T19:42:26.270Z,38.7943344,-122.7701645,2.64,0.67,md,7,113,0.01392,0.01,nc,nc73978256,2023-12-19T19:43:59.845Z,"2 km NNW of The Geysers, CA",earthquake,0.6,1.97,0.17,8,automatic,nc,nc
 2023-12-19T19:05:14.702Z,62.6215,-149.3146,17.7,1.6,ml,,,,0.41,ak,ak023g841uj2,2023-12-19T19:07:34.130Z,"44 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -200,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-18T20:08:41.777Z,62.3381,-147.7009,34.9,1.6,ml,,,,0.93,ak,ak023g6h4mvl,2023-12-18T20:12:14.884Z,"52 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-18T20:04:14.670Z,33.2338333,-117.1776667,-0.33,1.15,ml,18,103,0.05624,0.24,ci,ci40447183,2023-12-18T20:25:23.234Z,"7 km ENE of Vista, CA",quarry blast,0.54,31.61,0.115,10,reviewed,ci,ci
 2023-12-18T20:00:21.840Z,44.4435,-110.9796667,9.46,0.71,md,10,125,0.1033,0.19,uu,uu60556722,2023-12-18T20:50:38.700Z,"26 km SSE of West Yellowstone, Montana",earthquake,1.13,3.2,0.303,7,reviewed,uu,uu
-2023-12-18T19:58:30.280Z,38.8268318,-122.8083344,1.55,0.62,md,10,94,0.003691,0.02,nc,nc73977866,2023-12-18T22:19:11.391Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.83,0.26,12,automatic,nc,nc
