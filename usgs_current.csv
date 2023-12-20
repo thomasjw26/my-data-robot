@@ -241,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-19T04:01:10.101Z,61.9564,-149.94,25.1,1.6,ml,,,,0.7,ak,ak023g7v3h8i,2023-12-19T04:03:14.446Z,"23 km SSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-19T03:51:22.955Z,61.0797,-146.6677,10.3,1.5,ml,,,,0.58,ak,ak023g7ussfb,2023-12-19T03:53:10.372Z,"18 km WSW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-19T03:34:56.204Z,31.587,-103.979,6.8,1.7,ml,16,54,0,0.1,tx,tx2023ytke,2023-12-19T17:17:55.908Z,"34 km NNW of Toyah, Texas",earthquake,0.9705705324,1.158684347,0.2,14,reviewed,tx,tx
-2023-12-19T03:27:54.775Z,31.553,-104.001,6.2858,1.7,ml,12,57,0,0.1,tx,tx2023ytjz,2023-12-19T16:00:51.485Z,"32 km NW of Toyah, Texas",earthquake,0.9755244753,1.126815099,0.1,8,reviewed,tx,tx
-2023-12-19T03:24:19.242Z,63.04,-151.084,123.6,2.2,ml,,,,0.46,ak,ak023g7umzt0,2023-12-19T03:26:25.956Z,"62 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
