@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-24T07:44:09.558Z,61.4772,-150.1575,31.6,2,ml,,,,0.27,ak,ak023gg6tq9n,2023-12-24T07:46:00.684Z,"11 km WSW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-24T07:43:48.220Z,33.7043333,-117.4213333,7.98,0.94,ml,27,76,0.04695,0.21,ci,ci40450303,2023-12-24T07:50:12.904Z,"10 km WNW of Lake Elsinore, CA",earthquake,0.29,0.52,0.475,8,automatic,ci,ci
 2023-12-24T07:42:38.141Z,62.4079,-149.4178,54.7,2,ml,,,,0.11,ak,ak023gg6td1i,2023-12-24T07:43:57.293Z,"35 km NE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-12-24T07:16:27.562Z,31.614,-104.402,4.1022,1.7,ml,17,91,0,0.2,tx,tx2023zcuz,2023-12-24T07:57:13.719Z,"62 km S of Whites City, New Mexico",earthquake,0,1.395539333,0.1,13,automatic,tx,tx
 2023-12-24T07:07:42.690Z,33.9351667,-116.9363333,6,0.61,ml,36,74,0.03927,0.15,ci,ci40450287,2023-12-24T07:14:07.197Z,"4 km E of Beaumont, CA",earthquake,0.17,0.41,0.15,9,automatic,ci,ci
 2023-12-24T06:54:39.350Z,33.645,-116.693,-1.33,0.27,ml,20,81,0.02872,0.35,ci,ci40450279,2023-12-24T07:00:45.583Z,"10 km N of Anza, CA",earthquake,0.43,3.28,0.228,7,automatic,ci,ci
 2023-12-24T06:49:12.000Z,34.1113333,-116.6361667,9.26,0.75,ml,35,106,0.07329,0.11,ci,ci40450271,2023-12-24T06:55:25.585Z,"9 km NW of Morongo Valley, CA",earthquake,0.19,0.37,0.155,11,automatic,ci,ci
@@ -139,7 +140,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-23T15:42:07.690Z,34.0121651,-116.3440018,2.41,3.11,ml,115,23,0.06858,0.17,ci,ci40449927,2023-12-24T07:32:47.233Z,"14 km SSW of Joshua Tree, CA",earthquake,0.15,0.4,0.235,17,reviewed,ci,ci
 2023-12-23T15:38:06.640Z,38.8263321,-122.8103333,1.42,0.27,md,8,95,0.00294,0.02,nc,nc73979941,2023-12-23T15:55:13.673Z,"7 km NW of The Geysers, CA",earthquake,0.37,1,0.16,8,automatic,nc,nc
 2023-12-23T15:37:00.520Z,37.7561684,-122.5636673,8.67,2.01,md,17,189,0.08041,0.02,nc,nc73979936,2023-12-23T17:44:10.238Z,"6 km WNW of San Francisco Zoo, CA",earthquake,0.62,0.85,0.19,12,automatic,nc,nc
-2023-12-23T15:31:03.763Z,53.9165,168.8183,30.67,4.9,mb,75,97,6.139,0.62,us,us7000ll3j,2023-12-23T15:59:10.040Z,"Komandorskiye Ostrova, Russia region",earthquake,8.97,3.442,0.043,180,reviewed,us,us
+2023-12-23T15:35:31.216Z,58.2399,-155.4332,41.3,1.4,ml,,,,0.82,ak,ak023genzyu9,2023-12-24T07:52:25.711Z,"87 km SE of King Salmon, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-12-23T15:31:03.763Z,53.9165,168.8183,30.67,4.9,mb,75,97,6.139,0.62,us,us7000ll3j,2023-12-24T07:54:37.994Z,"Komandorskiye Ostrova, Russia region",earthquake,8.97,3.442,0.043,180,reviewed,us,us
 2023-12-23T15:28:07.650Z,40.2159996,-124.1374969,12.88,1.54,md,9,167,0.04198,0.07,nc,nc73979931,2023-12-23T17:30:10.161Z,"17 km SE of Petrolia, CA",earthquake,0.62,1.1,0.14,5,automatic,nc,nc
 2023-12-23T15:11:44.590Z,18.0465,-66.807,6,2.38,md,4,179,0.1015,0.18,pr,pr2023357006,2023-12-23T19:19:15.168Z,"3 km NNW of Guayanilla, Puerto Rico",earthquake,4.42,2.26,0.08,3,reviewed,pr,pr
 2023-12-23T15:07:44.700Z,1.3335,128.3279,10,4.7,mb,34,81,1.111,1.04,us,us7000ll3i,2023-12-23T16:06:16.040Z,"56 km SE of Tobelo, Indonesia",earthquake,7.64,1.905,0.108,26,reviewed,us,us
