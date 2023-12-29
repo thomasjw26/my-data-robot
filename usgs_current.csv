@@ -277,4 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T17:47:28.350Z,60.495,-152.6705,6.72,-0.67,ml,6,157,,0.02,av,av91125958,2023-12-29T00:14:23.980Z,"74 km NW of Ninilchik, Alaska",earthquake,0.32,0.52,0.287350995859104,6,reviewed,av,av
 2023-12-28T17:44:18.016Z,61.4931,-150.3685,64.2,1.8,ml,,,,0.44,ak,ak023gmyxgy1,2023-12-28T17:46:28.977Z,"9 km SE of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-28T17:40:41.550Z,38.8221664,-122.7634964,2.1,1.13,md,17,122,0.009689,0.02,nc,nc73982116,2023-12-28T20:05:10.936Z,"4 km W of Cobb, CA",earthquake,0.28,0.49,0.12,18,automatic,nc,nc
-2023-12-28T17:32:23.134Z,39.6151,-119.643,10.2,1.4,ml,10,112.13,0.114,0.1779,nn,nn00870863,2023-12-29T04:49:41.396Z,"6 km SE of Spanish Springs, Nevada",earthquake,,2,0.35,4,reviewed,nn,nn
