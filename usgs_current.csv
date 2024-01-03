@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-02T07:47:55.690Z,37.6056671,-118.9160004,5.91,0.48,md,9,203,0.04155,0.01,nc,nc73984336,2024-01-02T08:05:12.900Z,"6 km ESE of Mammoth Lakes, CA",earthquake,1.05,1.92,0.08,9,automatic,nc,nc
 2024-01-02T07:37:51.310Z,31.9325,-6.3905,10,4.6,mb,54,48,1.243,1.02,us,us6000m13n,2024-01-03T01:05:02.342Z,"25 km N of Ifrane, Morocco",earthquake,4.37,1.813,0.075,53,reviewed,us,us
 2024-01-02T07:21:50.330Z,33.426,-116.9146667,5.54,0.76,ml,50,23,0.05572,0.22,ci,ci40453895,2024-01-02T07:31:32.204Z,"5 km WSW of Aguanga, CA",earthquake,0.18,0.57,0.1,15,automatic,ci,ci
-2024-01-02T07:08:49.082Z,31.622,-104.316,4.2174,1.6,ml,17,72,0.1,0.2,tx,tx2024acjs,2024-01-02T07:33:11.087Z,"60 km NW of Toyah, Texas",earthquake,0,1.400328652,0.2,13,automatic,tx,tx
