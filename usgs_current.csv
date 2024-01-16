@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-16T07:11:57.728Z,60.0237,-153.1486,7.7,1.4,ml,,,,0.54,ak,ak024qku2gs,2024-01-16T07:13:59.217Z,"59 km ENE of Pedro Bay, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-01-16T07:09:44.980Z,35.480999,-117.3300018,7.87,0.99,ml,20,90,0.05212,0.2,ci,ci40460535,2024-01-16T07:11:48.210Z,"30 km ENE of Johannesburg, CA",earthquake,0.46,1.21,0.133,2,automatic,ci,ci
+2024-01-16T07:08:50.100Z,33.3116684,-116.2386703,5.27,1.35,ml,52,53,0.07799,0.23,ci,ci40460527,2024-01-16T07:10:54.204Z,"14 km ENE of Borrego Springs, CA",earthquake,0.28,0.89,0.238,7,automatic,ci,ci
 2024-01-16T07:04:12.850Z,38.8325005,-122.8170013,1.55,0.44,md,8,78,0.01058,0,nc,nc73990001,2024-01-16T07:05:46.543Z,"8 km NW of The Geysers, CA",earthquake,0.43,0.89,0.33,9,automatic,nc,nc
 2024-01-16T06:46:44.960Z,32.6136667,-115.8781667,9.76,0.96,ml,27,59,0.05024,0.16,ci,ci40460519,2024-01-16T06:52:43.446Z,"17 km SE of Ocotillo, CA",earthquake,0.2,0.38,0.356,3,automatic,ci,ci
 2024-01-16T06:38:20.290Z,19.1576671600342,-155.487838745117,31.4099998474121,1.74000001,md,34,125,,0.129999995,hv,hv73719302,2024-01-16T06:41:27.420Z,"5 km S of Pāhala, Hawaii",earthquake,0.51,0.769999981,1.74000001,6,automatic,hv,hv
