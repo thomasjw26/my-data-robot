@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-18T04:11:12.950Z,33.8818333,-116.8676667,13.89,1.41,ml,65,24,0.07575,0.14,ci,ci40461959,2024-01-18T04:21:38.900Z,"5 km S of Banning, CA",earthquake,0.11,0.28,0.163,27,automatic,ci,ci
 2024-01-18T03:57:38.087Z,64.3427,-149.7189,7,1.7,ml,,,,0.42,ak,ak024ttsugg,2024-01-18T03:59:44.063Z,"25 km W of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-18T03:53:34.952Z,31.588,-104.544,3.39,1.5,ml,13,161,0.1,0.3,tx,tx2024bfjg,2024-01-18T04:14:26.499Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.809514909,0.1,10,automatic,tx,tx
-2024-01-18T03:47:41.020Z,48.235166666666665,-122.6815,55.81,3.2600000000000002,ml,78,28,0.0412,0.2,uw,uw61980351,2024-01-18T12:09:10.346Z,"1 km NNE of Coupeville, Washington",earthquake,0.33,0.46,0.1735694612696903,72,reviewed,uw,uw
+2024-01-18T03:47:41.020Z,48.235166666666665,-122.6815,55.81,3.2600000000000002,ml,78,28,0.0412,0.2,uw,uw61980351,2024-01-18T13:01:52.049Z,"1 km NNE of Coupeville, Washington",earthquake,0.33,0.46,0.1735694612696903,72,reviewed,uw,uw
 2024-01-18T03:41:29.791Z,56.6318,-148.6212,5,3,ml,,,,0.49,ak,ak024ttpe14,2024-01-18T08:11:53.719Z,"247 km ESE of Chiniak, Alaska",earthquake,,0,,,reviewed,ak,ak
 2024-01-18T03:35:56.972Z,-8.4074,119.9648,192.673,4.7,mb,23,102,2.204,0.99,us,us6000m4c2,2024-01-18T03:52:42.040Z,"12 km NE of Labuan Bajo, Indonesia",earthquake,8.61,9.442,0.175,11,reviewed,us,us
 2024-01-18T03:32:54.985Z,36.45236206,-98.74567413,3.695762396,1.72,ml,10,124.4170074,0.04469428957,0.6694724684,ok,ok2024bfio,2024-01-18T09:44:49.657Z,"18 km SE of Waynoka, Oklahoma",earthquake,3.922619754,2.922226063,0.23,7,automatic,ok,ok
@@ -187,7 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-17T13:37:28.707Z,31.677,-104.338,4.2292,1.5,ml,20,67,0.1,0.2,tx,tx2024beha,2024-01-17T16:38:37.365Z,"55 km S of Whites City, New Mexico",earthquake,1.049757921,1.495361297,0.1,6,reviewed,tx,tx
 2024-01-17T13:34:39.203Z,38.1635,-117.9313,13.4,1.5,ml,11,98.87,0.055,0.1479,nn,nn00871767,2024-01-17T19:06:21.622Z,"29 km SSE of Mina, Nevada",earthquake,,1.1,0.87,6,reviewed,nn,nn
 2024-01-17T13:32:52.530Z,38.8306656,-122.8166656,1.71,0.77,md,13,82,0.0162,0.01,nc,nc73990611,2024-01-17T16:14:10.423Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.68,0.17,14,automatic,nc,nc
-2024-01-17T13:00:48.890Z,17.1758,145.9771,143.071,5,mb,30,99,1.932,0.55,us,us6000m46a,2024-01-18T07:11:01.410Z,"218 km N of Saipan, Northern Mariana Islands",earthquake,11.96,5.69,0.111,26,reviewed,us,us
-2024-01-17T13:00:36.860Z,33.4591667,-116.4671667,12.04,1.02,ml,51,64,0.07283,0.17,ci,ci40461431,2024-01-17T22:34:19.762Z,"22 km ESE of Anza, CA",earthquake,0.19,0.44,0.139,17,reviewed,ci,ci
-2024-01-17T12:53:36.530Z,38.8326683,-122.8153305,1.79,0.48,md,8,89,0.01013,0.01,nc,nc73990601,2024-01-17T13:37:12.431Z,"8 km NW of The Geysers, CA",earthquake,0.4,1.02,0.34,8,automatic,nc,nc
-2024-01-17T12:52:50.840Z,38.8339996,-122.8166656,1.63,1.13,md,23,47,0.01177,0.03,nc,nc73990596,2024-01-17T15:47:19.270Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.39,0.17,23,automatic,nc,nc
