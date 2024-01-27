@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-27T23:53:43.720Z,19.3778324127197,-155.282165527344,0.720000028610229,2.25,md,23,54,,0.180000007,hv,hv73729077,2024-01-27T23:56:48.170Z,"8 km SW of Volcano, Hawaii",earthquake,0.23,0.25,1.13,17,automatic,hv,hv
 2024-01-27T23:48:36.740Z,19.3856658935547,-155.278335571289,1.33000004291534,1.75,md,13,74,,0.109999999,hv,hv73729062,2024-01-27T23:51:41.130Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.379999995,1,14,automatic,hv,hv
 2024-01-27T23:45:58.080Z,19.3853340148926,-155.27783203125,1.11000001430511,2.04,ml,16,63,,0.119999997,hv,hv73729052,2024-01-27T23:51:28.770Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.239999995,0.21,5,automatic,hv,hv
 2024-01-27T23:45:49.800Z,19.3858337402344,-155.277328491211,0.879999995231628,1.97,ml,9,141,,0.129999995,hv,hv73729047,2024-01-27T23:51:20.910Z,"7 km SW of Volcano, Hawaii",earthquake,0.31,0.449999988,0.25,6,automatic,hv,hv
@@ -240,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-27T00:50:42.390Z,32.9766667,-116.282,11.24,0.97,ml,15,131,0.02841,0.13,ci,ci39757946,2024-01-27T01:16:16.872Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.26,0.37,0.227,5,reviewed,ci,ci
 2024-01-27T00:37:22.871Z,41.1297,78.4915,10,4.2,mb,23,148,1.371,0.51,us,us7000lu8z,2024-01-27T00:53:17.040Z,"139 km W of Aykol, China",earthquake,5.62,1.971,0.199,7,reviewed,us,us
 2024-01-27T00:24:28.730Z,38.8231659,-122.8420029,1.96,0.62,md,7,233,0.005447,0,nc,nc73994871,2024-01-27T00:44:11.004Z,"9 km NW of The Geysers, CA",earthquake,1.41,1.46,0.35,8,automatic,nc,nc
-2024-01-26T23:53:19.110Z,38.8040009,-122.7710037,1.18,1.57,md,26,80,0.009445,0.03,nc,nc73994851,2024-01-27T01:06:18.137Z,"3 km NNW of The Geysers, CA",earthquake,0.2,0.31,0.14,26,automatic,nc,nc
