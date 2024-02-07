@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-07T19:12:30.380Z,38.8188324,-122.8190002,2.62,0.81,md,10,84,0.01323,0.01,nc,nc73999296,2024-02-07T19:14:04.123Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.87,0.18,11,automatic,nc,nc
+2024-02-07T19:11:29.370Z,46.75199890136719,-121.5425033569336,5.17999982833862,3.1353683471679688,ml,65,63,,0.189999998,uw,uw61982146,2024-02-07T19:15:12.430Z,"18 km NNE of Packwood, Washington",earthquake,0.35,0.600000024,0.3252321779727936,166,automatic,uw,uw
+2024-02-07T19:07:53.341Z,61.5768,-146.4632,29.4,1.6,ml,,,,0.6,ak,ak0241r5s1dy,2024-02-07T19:09:39.839Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-07T18:59:47.410Z,33.494,-116.4865,14.34,0.84,ml,26,62,0.05865,0.1,ci,ci40663800,2024-02-07T19:05:57.744Z,"19 km ESE of Anza, CA",earthquake,0.17,0.28,0.195,20,automatic,ci,ci
 2024-02-07T18:20:56.740Z,19.3941669464111,-155.258834838867,1.55999994277954,1.75999999,md,12,74,0.01116,0.129999995,hv,hv74100406,2024-02-07T18:22:33.550Z,"5 km SSW of Volcano, Hawaii",earthquake,0.24,0.449999988,0.379999995,12,automatic,hv,hv
 2024-02-07T18:20:37.908Z,62.9463,-151.2217,106.7,1.2,ml,,,,0.31,ak,ak0241r59cwe,2024-02-07T18:23:20.462Z,"55 km NNW of Petersville, Alaska",earthquake,,2.1,,,automatic,ak,ak
