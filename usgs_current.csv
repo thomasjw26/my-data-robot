@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-06T10:51:06.880Z,19.3511657714844,-155.30583190918,3.00999999046326,1.98,ml,29,59,0.01606,0.170000002,hv,hv74098121,2024-02-06T10:55:46.220Z,"12 km SW of Volcano, Hawaii",earthquake,0.31,0.629999995,0.04,3,automatic,hv,hv
 2024-02-06T10:46:40.070Z,19.3579998016357,-155.279830932617,0.709999978542328,1.8,ml,16,70,0.02052,0.189999998,hv,hv74098111,2024-02-06T10:51:20.760Z,"10 km SSW of Volcano, Hawaii",earthquake,0.29,0.50999999,0.09,5,automatic,hv,hv
 2024-02-06T10:40:56.885Z,61.6519,-146.5184,33.4,1.7,ml,,,,0.83,ak,ak0241pd2vco,2024-02-06T10:42:41.357Z,"40 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-02-06T10:35:44.708Z,-17.8451,-69.297,145.604,4.3,mb,41,82,0.308,0.61,us,us7000lxaf,2024-02-07T08:43:16.040Z,"70 km E of Palca, Peru",earthquake,7.42,7.952,0.1,30,reviewed,us,us
