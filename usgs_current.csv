@@ -219,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-07T03:50:52.370Z,33.3026667,-116.2285,10.16,0.85,ml,48,32,0.09031,0.2,ci,ci40663616,2024-02-07T14:51:48.965Z,"15 km ENE of Borrego Springs, CA",earthquake,0.21,0.5,0.084,12,reviewed,ci,ci
 2024-02-07T03:40:12.510Z,57.0405,-135.654333333333,7.13,-0.43,ml,4,177,,0.08,av,av91130833,2024-02-07T21:07:09.340Z,"19 km W of Sitka, Alaska",earthquake,1.1,0.83,0.046461483238584,3,reviewed,av,av
 2024-02-07T03:33:18.960Z,38.8190002,-122.7630005,2.09,1.06,md,10,117,0.01266,0.02,nc,nc73999141,2024-02-07T05:28:13.877Z,"4 km W of Cobb, CA",earthquake,0.53,1.21,0.13,8,automatic,nc,nc
-2024-02-07T03:24:11.599Z,58.1875,-155.269,0,0.8,ml,,,,0.46,ak,ak0241qwcnnr,2024-02-07T20:53:11.250Z,"84 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-07T03:23:13.530Z,33.2571667,-116.4318333,3.46,1.21,ml,63,25,0.0165,0.2,ci,ci40663608,2024-02-07T14:51:51.458Z,"5 km W of Borrego Springs, CA",earthquake,0.14,0.26,0.131,28,reviewed,ci,ci
