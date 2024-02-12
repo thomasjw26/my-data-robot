@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-12T21:36:11.570Z,33.3066673,-116.2426682,5.79,0.96,ml,25,61,0.0789,0.25,ci,ci40668400,2024-02-12T21:38:19.245Z,"14 km ENE of Borrego Springs, CA",earthquake,0.44,0.83,0.231,4,automatic,ci,ci
+2024-02-12T21:38:04.880Z,59.1912,-153.1561,64.9,2.1,ml,,,,0.32,ak,ak0241zgu6iw,2024-02-12T21:39:33.285Z,"72 km WSW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
+2024-02-12T21:36:11.580Z,33.3148333,-116.2408333,2.99,0.94,ml,47,45,0.07458,0.2,ci,ci40668400,2024-02-12T21:42:15.553Z,"14 km ENE of Borrego Springs, CA",earthquake,0.2,0.34,0.087,20,automatic,ci,ci
+2024-02-12T21:35:53.060Z,19.1698341369629,-155.48616027832,28.5699996948242,2.14,ml,16,180,0.02688,0.119999997,hv,hv74109041,2024-02-12T21:40:49.070Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.99,1.51999998,0.21,5,automatic,hv,hv
 2024-02-12T21:31:59.060Z,38.831665,-122.819664,1.75,0.31,md,8,94,0.01115,0.01,nc,nc74001901,2024-02-12T21:33:36.491Z,"8 km NW of The Geysers, CA",earthquake,0.65,0.82,0.16,7,automatic,nc,nc
 2024-02-12T21:23:37.100Z,38.8333321,-122.7998352,2.06,1.33,md,25,49,0.00898,0.02,nc,nc74001896,2024-02-12T21:37:09.802Z,"7 km W of Cobb, CA",earthquake,0.2,0.37,0.13,26,automatic,nc,nc
-2024-02-12T21:23:00.780Z,36.4603333,-117.9455,4.28,1.98,ml,26,106,0.1105,0.19,ci,ci40668384,2024-02-12T21:29:14.992Z,"18 km SE of Lone Pine, CA",earthquake,0.33,0.81,0.189,26,automatic,ci,ci
+2024-02-12T21:23:00.780Z,36.4603333,-117.9455,4.28,1.98,ml,26,106,0.1105,0.19,ci,ci40668384,2024-02-12T21:44:44.313Z,"18 km SE of Lone Pine, CA",earthquake,0.33,0.81,0.189,26,reviewed,ci,ci
 2024-02-12T21:04:11.075Z,64.4814,-146.9819,7.5,1.9,ml,,,,0.45,ak,ak0241zgmwnn,2024-02-12T21:06:01.592Z,"6 km SW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-02-12T20:59:08.850Z,33.3093333,-116.2448333,4.24,0.91,ml,45,44,0.07575,0.22,ci,ci40668336,2024-02-12T21:05:24.374Z,"14 km ENE of Borrego Springs, CA",earthquake,0.23,0.63,0.098,19,automatic,ci,ci
+2024-02-12T20:59:08.850Z,33.3093333,-116.2448333,4.24,0.91,ml,45,44,0.07575,0.22,ci,ci40668336,2024-02-12T21:44:47.764Z,"14 km ENE of Borrego Springs, CA",earthquake,0.23,0.63,0.098,19,reviewed,ci,ci
 2024-02-12T20:58:25.150Z,35.0531667,-118.3403333,0.37,1.2,ml,26,47,0.06243,0.16,ci,ci40668328,2024-02-12T21:04:51.289Z,"13 km SE of Tehachapi, CA",earthquake,0.27,0.49,0.186,23,automatic,ci,ci
 2024-02-12T20:55:25.749Z,31.639,-104.396,6.2802,1.6,ml,14,90,0,0.7,tx,tx2024daio,2024-02-12T21:14:21.159Z,"59 km S of Whites City, New Mexico",earthquake,0,3.03444574,0.1,12,automatic,tx,tx
 2024-02-12T20:53:34.130Z,38.8354988,-122.7978363,1.77,1.03,md,15,63,0.006533,0.04,nc,nc74001876,2024-02-12T21:23:13.716Z,"7 km WNW of Cobb, CA",earthquake,0.27,0.81,0.15,16,automatic,nc,nc
@@ -448,4 +450,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-11T22:12:00.010Z,37.3341675,-122.1999969,8.87,1.07,md,9,77,0.02745,0.06,nc,nc74001326,2024-02-12T00:32:11.177Z,"6 km SSE of Portola Valley, CA",earthquake,0.51,1.29,0.21,9,automatic,nc,nc
 2024-02-11T22:04:11.015Z,63.5848,-148.0394,19.8,1.2,ml,,,,0.4,ak,ak0241xtozrh,2024-02-11T22:06:54.899Z,"46 km ESE of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-11T22:03:08.260Z,38.8263321,-122.8056641,2.68,0.75,md,18,58,0.004524,0.01,nc,nc74001321,2024-02-11T22:20:12.368Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.62,0.19,19,automatic,nc,nc
-2024-02-11T21:39:55.290Z,36.2251663,-120.2979965,10.9,1.22,md,10,149,0.0441,0.04,nc,nc74001306,2024-02-12T00:19:13.094Z,"11 km NNE of Coalinga, CA",earthquake,0.5,0.6,0.07,4,automatic,nc,nc
