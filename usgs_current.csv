@@ -447,4 +447,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T06:49:55.119Z,36.7239,-116.1136,2,-0.3,ml,7,98.18,0.013,0.1065,nn,nn00873307,2024-02-13T02:04:32.613Z,"43 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.04,3,reviewed,nn,nn
 2024-02-12T06:46:30.557Z,39.4216,-119.9374,8.2,1,ml,19,91.91,0.094,0.1285,nn,nn00873291,2024-02-13T02:04:20.797Z,"7 km ENE of Floriston, California",earthquake,,1.1,0.38,6,reviewed,nn,nn
 2024-02-12T06:42:34.045Z,60.2499,-152.6702,87.1,1.9,ml,,,,1,ak,ak0241z7xlkc,2024-02-12T06:44:43.473Z,"59 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-02-12T06:35:51.820Z,62.5902,-152.1011,2.9,1.9,ml,,,,0.59,ak,ak0241z7w4xa,2024-02-12T06:40:02.902Z,"69 km W of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
