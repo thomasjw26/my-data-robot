@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-14T20:52:32.590Z,17.8995,-66.9661666666667,14.11,1.68,md,4,261,0.1018,0.02,pr,pr71439908,2024-02-14T21:09:12.450Z,"10 km SW of Guánica, Puerto Rico",earthquake,0.67,0.78,0.230882677218607,3,reviewed,pr,pr
+2024-02-14T20:45:46.605Z,52.2037,159.7606,43.169,4.5,mb,75,140,1.064,0.87,us,us7000lz8p,2024-02-14T21:19:38.040Z,"122 km SE of Vilyuchinsk, Russia",earthquake,8.28,7.121,0.066,67,reviewed,us,us
 2024-02-14T20:42:41.930Z,38.8144989,-122.8164978,2.25,1.27,md,17,60,0.0102,0.03,nc,nc74002846,2024-02-14T21:05:13.007Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.61,0.17,17,automatic,nc,nc
 2024-02-14T20:23:19.360Z,38.8264999,-122.7863312,0.89,1.35,md,23,66,0.0123,0.05,nc,nc74002836,2024-02-14T20:54:11.940Z,"6 km W of Cobb, CA",earthquake,0.19,0.41,0.14,23,automatic,nc,nc
 2024-02-14T20:20:16.436Z,-19.6795,-177.5216,564.182,4.5,mb,40,94,2.631,0.68,us,us7000lz8n,2024-02-14T20:47:06.040Z,"284 km NW of Houma, Tonga",earthquake,13.19,7.098,0.104,27,reviewed,us,us
