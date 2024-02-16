@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-15T06:40:16.140Z,35.67133333,-97.41416667,7.43,1.46,ml,87,29,0.04049205408,0.14,ok,ok2024desv,2024-02-15T13:13:03.264Z,"6 km ENE of Edmond, Oklahoma",earthquake,,0.3,0.25,39,reviewed,ok,ok
 2024-02-15T06:39:02.089Z,64.1072,-149.2785,7.5,1.4,ml,,,,0.21,ak,ak024246ikdp,2024-02-15T06:40:46.602Z,"12 km NW of Ferry, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2024-02-15T06:38:56.044Z,26.1448,-110.7808,10,5.1,mww,76,181,1.754,0.95,us,us7000lzcc,2024-02-15T23:21:44.795Z,"58 km ENE of Loreto, Mexico",earthquake,9.37,1.934,0.043,51,reviewed,us,us
-2024-02-15T06:29:42.681Z,37.534,137.6025,10,5,mb,72,101,0.724,0.77,us,us7000lzc9,2024-02-15T19:20:42.173Z,"59 km NNW of Itoigawa, Japan",earthquake,3.39,1.861,0.05,128,reviewed,us,us
