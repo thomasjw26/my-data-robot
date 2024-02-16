@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-16T11:25:36.940Z,19.1786670684814,-155.497329711914,34.0999984741211,1.79999995,md,35,141,0.04054,0.150000006,hv,hv74113861,2024-02-16T11:27:37.050Z,"3 km SW of Pāhala, Hawaii",earthquake,0.69,0.629999995,0.230000004,3,automatic,hv,hv
+2024-02-16T11:20:09.600Z,35.6743333,-117.4956667,5.52,0.47,ml,19,122,0.05931,0.11,ci,ci40671352,2024-02-16T11:26:32.495Z,"13 km SW of Searles Valley, CA",earthquake,0.22,0.65,0.112,5,automatic,ci,ci
+2024-02-16T11:19:33.278Z,59.772,-152.0867,69.2,1.9,ml,,,,0.48,ak,ak02425wx81b,2024-02-16T11:21:58.379Z,"14 km W of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-02-16T11:10:35.530Z,19.0888328552246,-155.369506835938,31.2700004577637,2.5,ml,48,217,0.1098,0.219999999,hv,hv74113856,2024-02-16T11:13:12.450Z,"17 km SE of Pāhala, Hawaii",earthquake,0.69,0.839999974,0.24,12,automatic,hv,hv
 2024-02-16T11:10:16.350Z,19.1840000152588,-155.5,35.6300010681152,2.37,ml,43,134,0.04573,0.209999993,hv,hv74113851,2024-02-16T11:12:54.880Z,"3 km SW of Pāhala, Hawaii",earthquake,0.59,0.879999995,0.21,15,automatic,hv,hv
 2024-02-16T11:06:28.895Z,60.744,-147.3138,17,1.9,ml,,,,0.76,ak,ak02425wufe1,2024-02-16T11:08:24.831Z,"37 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
