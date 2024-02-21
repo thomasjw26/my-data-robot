@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-21T11:17:09.460Z,35.3908348,-118.2174988,7.21,2.04,ml,37,36,0.1585,0.16,ci,ci40673552,2024-02-21T11:19:28.446Z,"33 km SE of Bodfish, CA",earthquake,0.24,1.65,0.27,29,automatic,ci,ci
+2024-02-21T11:14:22.220Z,34.5696678,-118.9496689,8.51,1.73,ml,39,56,0.09416,0.19,ci,ci40673544,2024-02-21T11:16:36.316Z,"19 km N of Fillmore, CA",earthquake,0.27,1.03,0.278,24,automatic,ci,ci
 2024-02-21T11:07:15.221Z,61.5547,-146.3426,25.2,2,ml,,,,0.63,ak,ak0242e6jciq,2024-02-21T11:08:59.088Z,"47 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-21T10:52:12.770Z,38.8404999,-122.8223343,2.09,0.74,md,19,85,0.01045,0.02,nc,nc74005506,2024-02-21T11:04:10.702Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.55,0.13,18,automatic,nc,nc
 2024-02-21T10:51:54.220Z,38.7811661,-122.7456665,0.27,1.25,md,12,76,0.007288,0.03,nc,nc74005501,2024-02-21T11:11:12.740Z,"1 km ENE of The Geysers, CA",earthquake,0.22,0.58,0.16,11,automatic,nc,nc
@@ -223,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-20T11:49:44.010Z,19.1863327026367,-155.472503662109,34.2099990844727,2.29999995,md,49,90,0.03229,0.129999995,hv,hv74117076,2024-02-20T11:51:23.970Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.44,0.639999986,0.159999996,11,automatic,hv,hv
 2024-02-20T11:41:10.360Z,57.027,-135.635666666667,5.71,0.26,ml,4,192,,0.09,av,av91132843,2024-02-21T00:46:15.320Z,"18 km W of Sitka, Alaska",earthquake,1.19,1.43,0.125074780178387,4,reviewed,av,av
 2024-02-20T11:22:20.130Z,38.814167,-122.8071671,0.81,1.41,md,27,43,0.00949,0.03,nc,nc74005016,2024-02-20T13:46:13.835Z,"6 km NW of The Geysers, CA",earthquake,0.15,0.32,0.2,27,automatic,nc,nc
-2024-02-20T11:18:40.633Z,31.715,-104.49,6.0999,1.6,ml,17,72,0,0.2,tx,tx2024dofq,2024-02-20T16:47:59.588Z,"52 km SSW of Whites City, New Mexico",earthquake,1.1705142885194717,0.8976641303188995,0.2,13,reviewed,tx,tx
