@@ -2,13 +2,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-21T14:40:43.520Z,65.4248,-148.0618,12,3,ml,,,,0.26,ak,ak0242e8is6y,2024-02-21T14:41:58.909Z,"24 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-21T14:27:14.664Z,61.5785,-149.9594,32.2,1.5,ml,,,,0.71,ak,ak0242e8fxm2,2024-02-21T14:29:18.939Z,"6 km N of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-21T14:22:51.730Z,19.7723331451416,-154.992492675781,45.0299987792969,2.63,ml,58,194,0.07653,0.129999995,hv,hv74118096,2024-02-21T14:25:29.630Z,"10 km E of Pāpa‘ikou, Hawaii",earthquake,0.49,0.660000026,0.38,23,automatic,hv,hv
-2024-02-21T14:21:40.790Z,35.351,-118.6201667,4.81,1.53,ml,38,44,0.1322,0.17,ci,ci40673608,2024-02-21T14:28:23.648Z,"25 km NE of Arvin, CA",earthquake,0.17,0.59,0.231,26,automatic,ci,ci
-2024-02-21T14:21:31.270Z,38.8201675,-122.7870026,1.29,1.62,md,29,60,0.008482,0.03,nc,nc74005591,2024-02-21T14:37:11.139Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.28,0.14,28,automatic,nc,nc
+2024-02-21T14:21:40.790Z,35.351,-118.6201667,4.81,1.53,ml,38,44,0.1322,0.17,ci,ci40673608,2024-02-21T14:47:12.282Z,"25 km NE of Arvin, CA",earthquake,0.17,0.59,0.231,26,reviewed,ci,ci
+2024-02-21T14:21:31.270Z,38.8201675,-122.7870026,1.29,1.62,md,29,60,0.008482,0.03,nc,nc74005591,2024-02-21T14:47:19.086Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.28,0.14,28,automatic,nc,nc
 2024-02-21T14:19:44.400Z,38.8191681,-122.8160019,2.63,0.75,md,14,65,0.006266,0.02,nc,nc74005581,2024-02-21T14:35:18.010Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.83,0.12,16,automatic,nc,nc
 2024-02-21T14:18:00.049Z,64.6827,-148.327,15.9,1.9,ml,,,,0.87,ak,ak0242e8duda,2024-02-21T14:20:40.103Z,"23 km SW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-21T14:08:15.274Z,60.026,-152.8432,102.4,2.2,ml,,,,0.79,ak,ak0242e8bv4x,2024-02-21T14:11:08.611Z,"62 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-02-21T14:07:34.425Z,-20.7967,-176.8814,279.113,5.4,mww,108,37,1.611,0.89,us,us7000m0jz,2024-02-21T14:34:56.040Z,"169 km WNW of Houma, Tonga",earthquake,11.38,4.826,0.098,10,reviewed,us,us
-2024-02-21T14:01:32.530Z,35.8651657,-120.4153366,8.63,3.74,ml,48,107,0.03057,0.07,nc,nc74005576,2024-02-21T14:41:10.653Z,"4 km SSE of Parkfield, CA",earthquake,0.16,0.31,0.219,33,reviewed,nc,nc
+2024-02-21T14:07:34.425Z,-20.7967,-176.8814,279.113,5.4,mww,108,37,1.611,0.89,us,us7000m0jz,2024-02-21T14:45:29.569Z,"169 km WNW of Houma, Tonga",earthquake,11.38,4.826,0.098,10,reviewed,us,us
+2024-02-21T14:01:32.530Z,35.8651657,-120.4153366,8.63,3.74,ml,48,107,0.03057,0.07,nc,nc74005576,2024-02-21T14:46:15.213Z,"4 km SSE of Parkfield, CA",earthquake,0.16,0.31,0.219,33,reviewed,nc,nc
 2024-02-21T13:53:02.520Z,38.8118324,-122.8293304,1.92,0.55,md,8,73,0.002962,0,nc,nc74005571,2024-02-21T14:13:13.875Z,"7 km WNW of The Geysers, CA",earthquake,0.4,0.93,0.2,10,automatic,nc,nc
 2024-02-21T13:46:10.080Z,38.8213348,-122.8503342,2.54,1.59,md,34,55,0.008034,0.03,nc,nc74005566,2024-02-21T14:02:12.814Z,"10 km WNW of The Geysers, CA",earthquake,0.19,0.31,0.13,34,automatic,nc,nc
 2024-02-21T13:46:02.057Z,63.3005,-151.4452,4.5,1.3,ml,,,,1.16,ak,ak0242e7yjn1,2024-02-21T13:49:37.906Z,"30 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -41,8 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-21T10:47:30.702Z,60.3699,-153.0606,137.9,4,ml,,,,0.64,ak,ak0242e66il5,2024-02-21T12:24:15.440Z,"71 km ENE of Port Alsworth, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-02-21T10:46:48.060Z,40.3186684,-124.4588318,8.6,2.33,md,12,269,0.09389,0.07,nc,nc74005496,2024-02-21T14:07:13.841Z,"15 km W of Petrolia, CA",earthquake,1.88,0.83,0.11,8,automatic,nc,nc
 2024-02-21T10:42:24.071Z,62.9715,-151.1377,127,1.5,ml,,,,0.25,ak,ak0242e65flh,2024-02-21T10:44:45.297Z,"56 km NNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-02-21T10:16:33.990Z,33.2783333,-116.348,-0.2,1.24,ml,6,124,0.05086,0.15,ci,ci40673528,2024-02-21T10:22:41.800Z,"4 km NE of Borrego Springs, CA",earthquake,1.11,13.41,0.17,26,automatic,ci,ci
-2024-02-21T10:16:33.240Z,33.2618332,-116.4218369,4.43,1.47,ml,58,39,0.007461,0.21,ci,ci40673536,2024-02-21T10:27:35.030Z,"4 km W of Borrego Springs, CA",earthquake,0.25,0.57,0.314,13,automatic,ci,ci
+2024-02-21T10:16:33.230Z,33.261,-116.4251667,4.39,1.47,ml,76,23,0.009827,0.19,ci,ci40673536,2024-02-21T14:48:52.180Z,"5 km W of Borrego Springs, CA",earthquake,0.13,0.33,0.314,13,reviewed,ci,ci
 2024-02-21T09:55:55.300Z,38.8383331,-122.8115005,1.89,1.11,md,23,55,0.01496,0.03,nc,nc74005486,2024-02-21T13:27:12.604Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.39,0.17,24,automatic,nc,nc
 2024-02-21T09:54:01.250Z,37.7490005,-122.564003,9,1.78,md,24,188,0.08434,0.03,nc,nc74005481,2024-02-21T12:58:11.422Z,"6 km WNW of San Francisco Zoo, CA",earthquake,0.38,0.61,0.26,19,automatic,nc,nc
 2024-02-21T09:49:38.936Z,62.0524,-148.3329,38.7,1.8,ml,,,,0.67,ak,ak0242e5lj7p,2024-02-21T09:52:25.556Z,"29 km NNE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -234,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-20T14:57:29.711Z,23.6748,123.3215,19.337,5,mww,142,56,0.838,1.07,us,us7000m0cb,2024-02-20T16:18:04.570Z,"93 km SSE of Yonakuni, Japan",earthquake,3.92,3.595,0.065,23,reviewed,us,us
 2024-02-20T14:52:42.730Z,33.9795,-117.2038333,11.88,1.15,ml,47,63,0.04114,0.18,ci,ci40673144,2024-02-20T14:59:22.727Z,"6 km NNE of Moreno Valley, CA",earthquake,0.18,0.44,0.248,29,automatic,ci,ci
 2024-02-20T14:51:05.490Z,33.6736667,-116.763,12.8,0.52,ml,23,70,0.05529,0.11,ci,ci40673136,2024-02-20T14:57:18.430Z,"8 km SSW of Idyllwild, CA",earthquake,0.24,0.44,0.104,10,automatic,ci,ci
-2024-02-20T14:42:19.894Z,36.5057,-115.8042,12.2,0.8,ml,18,299.12,0.201,0.1216,nn,nn00873672,2024-02-20T18:56:00.716Z,"13 km WSW of Indian Springs, Nevada",earthquake,,2.1,0.06,7,reviewed,nn,nn
