@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-24T13:13:33.603Z,58.2357,-155.1354,38.5,0.4,ml,,,,0.27,ak,ak0242j6dkxc,2024-02-24T13:14:47.585Z,"84 km NNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2024-02-24T13:07:19.600Z,38.8166656,-122.8069992,1.9,0.78,md,9,77,0.01261,0.03,nc,nc74007046,2024-02-24T13:08:54.102Z,"6 km NW of The Geysers, CA",earthquake,0.38,0.9,0.15,10,automatic,nc,nc
+2024-02-24T13:07:19.600Z,38.8166656,-122.8069992,1.9,0.78,md,9,77,0.01261,0.03,nc,nc74007046,2024-02-24T13:18:11.554Z,"6 km NW of The Geysers, CA",earthquake,0.38,0.9,0.15,10,automatic,nc,nc
 2024-02-24T12:57:16.880Z,38.8458328,-122.8164978,1.46,1.03,md,20,67,0.01031,0.02,nc,nc74007041,2024-02-24T13:09:10.512Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.51,0.21,20,automatic,nc,nc
 2024-02-24T12:53:36.160Z,38.783165,-122.7444992,0.15,1.6,md,26,72,0.006077,0.04,nc,nc74007036,2024-02-24T13:13:12.535Z,"1 km ENE of The Geysers, CA",earthquake,0.22,0.45,0.13,27,automatic,nc,nc
 2024-02-24T12:53:18.178Z,63.09,-151.6914,19.5,1.4,ml,,,,0.93,ak,ak0242j60ort,2024-02-24T12:55:52.401Z,"50 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
