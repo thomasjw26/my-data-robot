@@ -223,7 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-26T11:50:51.150Z,35.3195,-118.5638333,2.94,1.8,ml,52,33,0.1203,0.17,ci,ci40676528,2024-02-26T14:08:54.140Z,"23 km NNW of Tehachapi, CA",earthquake,0.16,0.46,0.194,27,reviewed,ci,ci
 2024-02-26T11:45:06.852Z,64.932,-152.0715,33.4,1.8,ml,,,,1,ak,ak0242mgg7jx,2024-02-26T11:47:36.904Z,"26 km S of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-26T11:29:23.049Z,29.5534,88.0462,10,4.5,mb,40,90,2.686,1.22,us,us7000m1ln,2024-02-26T13:20:15.040Z,"87 km WNW of Rikaze, China",earthquake,5.76,1.908,0.102,28,reviewed,us,us
-2024-02-26T11:26:56.010Z,34.226,-116.8735,4.54,0.97,ml,40,98,0.05332,0.13,ci,ci40676520,2024-02-26T19:22:03.624Z,"4 km ESE of Big Bear Lake, CA",earthquake,0.17,0.64,0.134,20,reviewed,ci,ci
-2024-02-26T11:26:29.779Z,58.4337,-154.7782,6.5,1.2,ml,,,,0.48,ak,ak0242mgc6pt,2024-02-26T11:28:37.792Z,"98 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-26T11:21:41.410Z,44.7811666666667,-111.095,15.45,-0.09,md,5,187,0.01709,0.18,uu,uu80000533,2024-02-26T16:55:35.820Z,"7 km E of Hebgen Lake Estates, Montana",earthquake,5.25,1.94,0.185187495969844,4,reviewed,uu,uu
-2024-02-26T11:21:16.380Z,38.5015,-112.878833333333,1.98,-0.11,md,6,105,0.006127,0.13,uu,uu80049371,2024-02-26T16:48:35.520Z,"16 km NE of Milford, Utah",earthquake,0.56,0.63,0.791554372177249,3,reviewed,uu,uu
