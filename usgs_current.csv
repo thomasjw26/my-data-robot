@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-29T22:51:12.306Z,60.4781,-143.8271,0,2.4,ml,,,,0.7,ak,ak0242rlnbdv,2024-02-29T22:53:17.899Z,"106 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-29T22:35:46.323Z,62.9772,-151.2881,16.9,2.1,ml,,,,0.78,ak,ak0242rljyko,2024-02-29T22:38:10.248Z,"59 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-02-29T22:24:40.154Z,65.4097,-153.3918,1.1,1.8,ml,,,,0.44,ak,ak0242rlhlbq,2024-02-29T22:27:57.892Z,"66 km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-29T22:23:41.433Z,38.787,-117.9598,4,2.4,ml,10,121.9,0.284,0.2393,nn,nn00874077,2024-02-29T22:26:42.039Z,"9 km SSW of Gabbs, Nevada",earthquake,,1.7,0.43,8,automatic,nn,nn
@@ -254,4 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-28T22:58:11.570Z,33.0718333,-116.4751667,12.1,1.39,ml,56,24,0.03151,0.18,ci,ci40678456,2024-02-29T15:54:14.400Z,"12 km E of Julian, CA",earthquake,0.2,0.53,0.156,30,reviewed,ci,ci
 2024-02-28T22:57:57.530Z,60.7146666666667,-152.691666666667,13.4,0.38,ml,4,321,,0.15,av,av92218581,2024-02-29T01:14:46.400Z,"75 km W of Salamatof, Alaska",earthquake,1.23,1.73,0.149677715680314,5,reviewed,av,av
 2024-02-28T22:57:05.850Z,33.0713333,-116.4778333,11.54,2.4,ml,91,17,0.03381,0.21,ci,ci40678448,2024-02-29T15:42:53.110Z,"12 km E of Julian, CA",earthquake,0.13,0.5,0.189,114,reviewed,ci,ci
-2024-02-28T22:53:25.510Z,38.492,-112.898333333333,2.63,0.91,md,15,50,0.008922,0.08,uu,uu80052816,2024-02-28T23:20:37.920Z,"14 km NE of Milford, Utah",earthquake,0.28,0.41,0.327995976915305,5,reviewed,uu,uu
