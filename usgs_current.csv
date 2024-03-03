@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-03T02:37:19.980Z,33.9066658,-117.0336685,19.74,1.21,ml,26,51,0.1497,0.23,ci,ci40680248,2024-03-03T02:39:23.110Z,"6 km WSW of Beaumont, CA",earthquake,0.37,1.14,0.261,6,automatic,ci,ci
+2024-03-03T02:35:19.460Z,19.1731662750244,-155.49299621582,33.0900001525879,2.28999996,md,35,92,0.03412,0.140000001,hv,hv74127106,2024-03-03T02:37:07.350Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.67,0.620000005,0.100000001,5,automatic,hv,hv
 2024-03-03T02:32:55.880Z,38.7949982,-122.8096695,3.25,0.76,md,9,86,0.008425,0.01,nc,nc74010901,2024-03-03T02:34:29.906Z,"5 km WNW of The Geysers, CA",earthquake,0.59,1.36,0.15,11,automatic,nc,nc
 2024-03-03T02:28:18.410Z,38.7803345,-122.7256699,1.01,1.5,md,18,137,0.009114,0.04,nc,nc74010896,2024-03-03T02:29:54.874Z,"3 km E of The Geysers, CA",earthquake,0.31,0.46,0.13,18,automatic,nc,nc
 2024-03-03T02:10:47.129Z,62.5648,-148.3205,36,1.9,ml,,,,1.09,ak,ak0242w83z48,2024-03-03T02:13:50.183Z,"85 km N of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
