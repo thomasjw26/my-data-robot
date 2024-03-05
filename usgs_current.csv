@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-05T19:46:20.580Z,38.8311653,-122.8186646,1.51,0.73,md,12,78,0.01026,0.01,nc,nc74012181,2024-03-05T19:47:54.632Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.63,0.35,12,automatic,nc,nc
-2024-03-05T19:19:34.840Z,31.673,-104.372,4.7668,2.4,ml,19,57,0.1,0.2,tx,tx2024eokl,2024-03-05T19:42:40.620Z,"55 km S of Whites City, New Mexico",earthquake,0.8143023993379135,1.0586877758146094,0.2,17,reviewed,tx,tx
+2024-03-05T19:19:34.840Z,31.673,-104.372,4.7668,2.4,ml,19,57,0.1,0.2,tx,tx2024eokl,2024-03-05T19:53:53.040Z,"55 km S of Whites City, New Mexico",earthquake,0.8143023993379135,1.0586877758146094,0.2,17,reviewed,tx,tx
+2024-03-05T19:13:31.589Z,31.621,-104.115,6.933,1.8,ml,15,56,0,0.1,tx,tx2024eokh,2024-03-05T19:50:34.660Z,"45 km NW of Toyah, Texas",earthquake,0.5038595767247526,0.5271163876240008,0.2,11,reviewed,tx,tx
 2024-03-05T19:12:54.200Z,35.8043333,-117.537,0.08,1.33,ml,25,75,0.1667,0.17,ci,ci40681480,2024-03-05T19:19:15.284Z,"13 km WNW of Searles Valley, CA",earthquake,0.35,0.57,0.097,18,automatic,ci,ci
 2024-03-05T18:56:51.810Z,36.142,-117.8646667,3.2,0.94,ml,24,91,0.02563,0.24,ci,ci40681472,2024-03-05T19:03:48.330Z,"13 km NE of Coso Junction, CA",earthquake,0.35,0.58,0.266,10,automatic,ci,ci
 2024-03-05T18:55:18.800Z,38.8110008,-122.8184967,2.92,1.08,md,27,54,0.008613,0.05,nc,nc74012176,2024-03-05T18:56:54.186Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.48,0.12,27,automatic,nc,nc
@@ -69,6 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T12:09:27.406Z,31.565,-104.191,7.8943,2.1,ml,17,73,0.1,0.1,tx,tx2024enwh,2024-03-05T17:46:05.933Z,"46 km NW of Toyah, Texas",earthquake,0.866442951062857,1.0146431593987397,0.2,14,reviewed,tx,tx
 2024-03-05T12:09:12.228Z,39.4071,-119.6918,9.1,1,ml,8,209.1,0.059,0.1667,nn,nn00874200,2024-03-05T17:52:09.372Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.6,0.31,4,reviewed,nn,nn
 2024-03-05T12:04:48.940Z,19.2738342285156,-155.391830444336,31.4200000762939,2.1500001,md,43,123,0.05954,0.140000001,hv,hv74128846,2024-03-05T12:06:33.190Z,"12 km NE of Pāhala, Hawaii",earthquake,0.47,0.600000024,0.209999993,6,automatic,hv,hv
+2024-03-05T11:58:02.576Z,40.0737,-119.6792,16,-0.1,ml,4,170.81,0.105,0.049,nn,nn00874217,2024-03-05T19:53:32.360Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,3.5,0,1,reviewed,nn,nn
 2024-03-05T11:57:03.416Z,60.8223,-150.9386,61.4,1.4,ml,,,,0.67,ak,ak0242zotjtx,2024-03-05T11:59:56.715Z,"17 km SW of Point Possession, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-03-05T11:57:02.890Z,19.1743335723877,-155.458999633789,33.1199989318848,2.08999991,md,34,125,0.01905,0.129999995,hv,hv74128836,2024-03-05T11:58:48.100Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.65,0.75,0.189999998,3,automatic,hv,hv
 2024-03-05T11:56:40.211Z,64.5866,-150.2739,4.4,1.2,ml,,,,0.11,ak,ak0242zoteyd,2024-03-05T11:58:05.197Z,"49 km SSE of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -119,6 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T06:36:10.770Z,18.0265,-66.752,16.07,2.48,md,14,126,0.03817,0.22,pr,pr71442103,2024-03-05T06:57:24.700Z,"2 km ENE of Magas Arriba, Puerto Rico",earthquake,0.57,0.96,0.0896097292544478,6,reviewed,pr,pr
 2024-03-05T06:31:37.410Z,38.8079987,-122.7686691,0.68,1.05,md,12,138,0.01016,0.03,nc,nc74011971,2024-03-05T06:33:11.219Z,"4 km NNW of The Geysers, CA",earthquake,0.26,0.54,0.14,12,automatic,nc,nc
 2024-03-05T06:28:11.560Z,33.6381667,-116.7073333,13.53,0.65,ml,34,54,0.0415,0.12,ci,ci40681072,2024-03-05T14:46:29.928Z,"10 km NNW of Anza, CA",earthquake,0.16,0.29,0.222,7,reviewed,ci,ci
+2024-03-05T06:05:24.732Z,37.3617,-114.7946,14.6,-0.1,ml,4,330.98,0.209,0.0835,nn,nn00874216,2024-03-05T19:50:25.305Z,"32 km E of Alamo, Nevada",earthquake,,6.4,0,1,reviewed,nn,nn
 2024-03-05T06:05:00.950Z,17.9856666666667,-66.7865,15.29,2.24,md,9,193,0.03448,0.1,pr,pr71442093,2024-03-05T06:35:59.580Z,"3 km ESE of Indios, Puerto Rico",earthquake,0.72,0.52,0.0393061533877783,5,reviewed,pr,pr
 2024-03-05T05:43:04.625Z,31.653,-104.22,6.6638,1.8,ml,24,59,0,0.2,tx,tx2024enjn,2024-03-05T14:28:55.732Z,"55 km NW of Toyah, Texas",earthquake,1.0532264318873874,0.8199942326032059,0.2,15,reviewed,tx,tx
 2024-03-05T05:38:11.110Z,34.0333333,-116.8555,12.74,1.02,ml,46,44,0.03967,0.14,ci,ci40681056,2024-03-05T15:57:55.463Z,"12 km N of Banning, CA",earthquake,0.13,0.38,0.11,19,reviewed,ci,ci
