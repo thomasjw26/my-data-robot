@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-05T21:46:02.620Z,33.270668,-116.4308319,4.35,1.2,ml,30,47,0.01172,0.19,ci,ci40681712,2024-03-05T21:48:19.022Z,"5 km WNW of Borrego Springs, CA",earthquake,0.31,0.55,0.33,6,automatic,ci,ci
+2024-03-05T21:46:02.600Z,33.2713333,-116.4321667,3.7,1.13,ml,45,30,0.01295,0.24,ci,ci40681712,2024-03-05T21:52:06.635Z,"6 km WNW of Borrego Springs, CA",earthquake,0.19,0.31,0.147,28,automatic,ci,ci
 2024-03-05T21:37:13.700Z,38.8273315,-122.8026657,1.51,0.72,md,8,80,0.006995,0.01,nc,nc74012251,2024-03-05T21:38:49.769Z,"7 km NW of The Geysers, CA",earthquake,0.61,1.39,0.24,10,automatic,nc,nc
 2024-03-05T21:36:57.330Z,38.7698326,-122.7021637,1.79,1.05,md,7,107,0.002795,0.01,nc,nc74012246,2024-03-05T21:38:34.741Z,"1 km WSW of Anderson Springs, CA",earthquake,0.38,0.5,0.21,6,automatic,nc,nc
 2024-03-05T21:34:39.140Z,38.7956657,-122.731163,-0.34,0.89,md,9,103,0.02285,0.03,nc,nc74012236,2024-03-05T21:36:14.698Z,"3 km NE of The Geysers, CA",earthquake,0.28,1.96,0.19,9,automatic,nc,nc
@@ -226,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-04T22:05:51.420Z,36.6023331,-121.2498322,3.91,1.5,md,13,133,0.05286,0.13,nc,nc74011821,2024-03-04T22:07:25.872Z,"12 km NW of Pinnacles, CA",earthquake,0.52,1.9,0.31,13,automatic,nc,nc
 2024-03-04T22:01:31.794Z,-19.1969,-69.4188,105.645,4.9,mb,66,101,0.515,1.09,us,us6000mgrm,2024-03-05T00:49:23.763Z,"12 km N of Camiña, Chile",earthquake,5.02,4.867,0.044,165,reviewed,us,us
 2024-03-04T22:00:35.490Z,33.2656667,-116.4241667,4.82,0.94,ml,28,50,0.006391,0.17,ci,ci40680912,2024-03-04T23:27:49.178Z,"5 km WNW of Borrego Springs, CA",earthquake,0.21,0.44,0.07,13,reviewed,ci,ci
-2024-03-04T21:52:28.799Z,31.675,-104.396,6.9202,1.7,ml,19,69,0,0.2,tx,tx2024emtz,2024-03-05T21:24:17.247Z,"55 km S of Whites City, New Mexico",earthquake,0.7793566066643249,0.8510637038467905,0.1,15,reviewed,tx,tx
