@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T20:06:30.760Z,59.365,-153.436333333333,-1.11,-0.04,ml,7,147,,0.18,av,av91135568,2024-03-07T00:46:01.490Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.19,0.77,0.440366104104759,7,reviewed,av,av
 2024-03-06T20:04:56.986Z,31.738,-104.113,6.51,2.3,ml,21,53,0,0.2,tx,tx2024eqhl,2024-03-07T16:58:34.771Z,"48 km W of Mentone, Texas",earthquake,0.6835018473191607,1.427244936162236,0.1,7,reviewed,tx,tx
 2024-03-06T20:00:53.290Z,58.2921666666667,-154.991166666667,3.11,-0.06,ml,7,130,,0.11,av,av91135563,2024-03-07T00:42:18.570Z,"86 km NNW of Karluk, Alaska",earthquake,0.35,0.77,0.16899379300447,7,reviewed,av,av
-2024-03-06T19:48:34.600Z,36.6739998,-121.3466644,2.73,1.57,md,10,62,0.0334,0.15,nc,nc74012766,2024-03-06T19:50:08.182Z,"13 km S of Tres Pinos, CA",earthquake,0.54,1.18,0.26,8,automatic,nc,nc
