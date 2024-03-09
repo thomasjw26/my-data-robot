@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-09T09:41:50.220Z,61.0214,-148.3441,1.1,1.6,ml,,,,0.78,ak,ak024369oqr2,2024-03-09T09:43:30.177Z,"33 km NE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-09T09:40:45.053Z,62.2947,-150.014,4.3,1.8,ml,,,,0.86,ak,ak024369oimx,2024-03-09T09:42:31.926Z,"5 km ESE of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-09T09:30:13.233Z,64.4514,-146.9082,6.8,1.1,ml,,,,0.41,ak,ak024369mb0r,2024-03-09T09:31:28.522Z,"8 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-09T09:29:57.730Z,38.8313332,-122.8191681,2.01,0.86,md,8,132,0.01064,0.01,nc,nc74014346,2024-03-09T09:31:31.059Z,"8 km NW of The Geysers, CA",earthquake,0.46,1.42,0.17,7,automatic,nc,nc
