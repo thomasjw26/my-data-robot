@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-15T15:50:31.627Z,-23.6007,179.5192,550.303,4.4,mb,30,91,5.45,0.89,us,us6000mj33,2024-03-15T16:08:43.040Z,"south of the Fiji Islands",earthquake,14.25,14.041,0.1,29,reviewed,us,us
 2024-03-15T15:38:13.600Z,39.383,-119.7589,0,1,ml,6,163.73,0.009,0.133,nn,nn00874835,2024-03-15T21:02:39.841Z,"12 km NW of Virginia City, Nevada",earthquake,,2.4,0.51,2,reviewed,nn,nn
 2024-03-15T15:37:47.360Z,38.8358345,-122.7991638,3.53,0.84,md,9,114,0.007352,0.02,nc,nc74017916,2024-03-15T15:39:22.192Z,"7 km WNW of Cobb, CA",earthquake,0.58,0.89,0.25,10,automatic,nc,nc
-2024-03-15T15:27:19.660Z,39.3211666666667,-111.152833333333,-1.89,2.12,ml,19,70,0.0474,0.09,uu,uu80062811,2024-03-15T16:15:21.200Z,"13 km NW of Orangeville, Utah",earthquake,0.25,0.22,0.0521580233656938,7,reviewed,uu,uu
