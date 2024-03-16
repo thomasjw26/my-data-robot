@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-16T22:43:40.430Z,37.0084991,-121.4321671,4.67,1.47,md,5,226,0.307,0.17,nc,nc74018551,2024-03-16T22:45:14.596Z,"12 km E of Gilroy, CA",earthquake,2.95,15.09,0.16,2,automatic,nc,nc
 2024-03-16T22:38:29.707Z,58.962,-155.5145,7.1,2.2,ml,,,,0.4,ak,ak0243i264ca,2024-03-16T22:40:23.187Z,"46 km SSE of Igiugig, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-16T22:26:07.740Z,38.8083344,-122.8089981,3.17,0.77,md,14,68,0.01071,0.03,nc,nc74018536,2024-03-16T22:27:40.413Z,"6 km NW of The Geysers, CA",earthquake,0.35,0.79,0.18,15,automatic,nc,nc
 2024-03-16T22:12:07.440Z,38.8370018,-122.8073349,2.03,0.45,md,12,59,0.01334,0.01,nc,nc74018526,2024-03-16T22:13:40.250Z,"8 km WNW of Cobb, CA",earthquake,0.38,0.79,0.28,12,automatic,nc,nc
