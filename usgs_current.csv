@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-21T14:49:26.821Z,63.5324,-150.1687,25.3,1.7,ml,,,,1.22,ak,ak0243q75qmi,2024-03-21T14:51:51.159Z,"62 km WNW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-03-21T14:45:55.660Z,35.9968333,-117.9513333,1.33,1.12,ml,30,67,0.05059,0.13,ci,ci40520791,2024-03-21T14:51:51.129Z,"5 km S of Coso Junction, CA",earthquake,0.16,0.24,0.153,16,automatic,ci,ci
 2024-03-21T14:41:54.140Z,19.2406673431396,-155.390670776367,31.4400005340576,2.21,ml,55,140,0.09236,0.150000006,hv,hv74144157,2024-03-21T14:44:32.110Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.5,0.540000021,0.37,16,automatic,hv,hv
-2024-03-21T14:24:45.680Z,38.7576675,-122.7241669,2.83,0.94,md,10,148,0.003957,0.02,nc,nc74021426,2024-03-21T14:26:22.078Z,"3 km SW of Anderson Springs, CA",earthquake,0.37,0.71,0.23,10,automatic,nc,nc
+2024-03-21T14:24:45.680Z,38.7576675,-122.7241669,2.83,0.94,md,10,148,0.003957,0.02,nc,nc74021426,2024-03-21T14:48:59.452Z,"3 km SW of Anderson Springs, CA",earthquake,0.37,0.71,0.23,10,automatic,nc,nc
 2024-03-21T14:22:41.930Z,36.14120483,-98.3134613,2.917331696,1.78,ml,16,61.99278259,0.1248636693,0.6110835515,ok,ok2024frgs,2024-03-21T14:26:51.512Z,"2 km N of Okeene, Oklahoma",earthquake,2.827859141,2.835493524,0.54,4,automatic,ok,ok
 2024-03-21T14:05:53.850Z,61.2237,-147.8093,28.3,1.8,ml,,,,0.98,ak,ak0243q6wd7d,2024-03-21T14:08:29.548Z,"64 km ESE of Knik River, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-21T14:03:10.950Z,38.8190002,-122.7839966,9.87,0.72,md,8,111,0.00629,0.04,nc,nc74021411,2024-03-21T14:04:46.901Z,"5 km NNW of The Geysers, CA",earthquake,1.63,1.91,0.32,8,automatic,nc,nc
@@ -254,6 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-20T15:07:59.570Z,58.1731666666667,-155.356833333333,2.46,0.34,ml,8,189,,0.09,av,av92236826,2024-03-21T00:48:01.080Z,"85 km NW of Karluk, Alaska",earthquake,0.27,0.33,0.238915598322954,8,reviewed,av,av
 2024-03-20T15:06:12.980Z,33.1618333,-116.4648333,10.03,1.04,ml,35,47,0.08722,0.18,ci,ci40691080,2024-03-20T19:53:13.769Z,"13 km SW of Borrego Springs, CA",earthquake,0.2,0.55,0.246,19,reviewed,ci,ci
 2024-03-20T15:05:35.300Z,38.7923317,-122.7590027,0.15,1.33,md,18,72,0.0083,0.07,nc,nc74020711,2024-03-20T15:07:11.052Z,"2 km N of The Geysers, CA",earthquake,0.24,0.5,0.17,18,automatic,nc,nc
-2024-03-20T14:53:41.570Z,33.483,-116.5543333,6.57,0.73,ml,30,49,0.04167,0.13,ci,ci40691064,2024-03-20T15:36:00.352Z,"14 km SE of Anza, CA",earthquake,0.15,0.34,0.126,16,reviewed,ci,ci
-2024-03-20T14:53:15.210Z,19.3403339385986,-155.176330566406,1.41999995708466,1.81,ml,46,78,0.04975,0.180000007,hv,hv74142967,2024-03-20T14:55:54.020Z,"12 km SSE of Volcano, Hawaii",earthquake,0.26,0.379999995,0.23,11,automatic,hv,hv
-2024-03-20T14:50:53.750Z,38.8144989,-122.8288345,2.02,1,md,19,60,0.005629,0.02,nc,nc74020706,2024-03-20T14:52:25.879Z,"8 km WNW of The Geysers, CA",earthquake,0.21,0.52,0.25,20,automatic,nc,nc
