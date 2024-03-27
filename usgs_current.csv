@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-27T04:53:45.640Z,38.8223343,-122.7623367,1.61,0.76,md,12,125,0.01005,0.03,nc,nc74024746,2024-03-27T04:55:21.409Z,"3 km W of Cobb, CA",earthquake,0.3,0.58,0.12,14,automatic,nc,nc
 2024-03-27T04:45:06.040Z,19.4815006256104,-155.49983215332,0.0700000002980232,2.32,ml,40,61,0.06312,0.370000005,hv,hv74150932,2024-03-27T04:47:43.010Z,"28 km W of Volcano, Hawaii",earthquake,0.47,1.42999995,0.41,16,automatic,hv,hv
 2024-03-27T04:40:31.840Z,38.7978325,-122.7686691,-0.78,0.89,md,9,99,0.007534,0.08,nc,nc74024741,2024-03-27T04:42:06.263Z,"2 km NNW of The Geysers, CA",earthquake,0.3,1.2,0.19,9,automatic,nc,nc
 2024-03-27T04:35:00.244Z,62.5235,-151.4401,88.4,2,ml,,,,0.47,ak,ak0243zycfgo,2024-03-27T04:37:52.070Z,"34 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
