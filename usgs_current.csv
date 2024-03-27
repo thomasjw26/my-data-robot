@@ -260,5 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-26T22:58:10.390Z,38.8125,-122.8190002,2.61,0.74,md,17,55,0.00874,0.02,nc,nc74024631,2024-03-26T22:59:43.850Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.56,0.18,17,automatic,nc,nc
 2024-03-26T22:50:38.422Z,63.031,-148.3099,53.7,1.5,ml,,,,0.29,ak,ak0243ylm6jm,2024-03-26T22:53:04.249Z,"51 km SE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-26T22:49:14.350Z,38.8230019,-122.7606659,2.49,0.23,md,9,129,0.01038,0.01,nc,nc74024621,2024-03-26T22:50:48.746Z,"3 km W of Cobb, CA",earthquake,1.03,1.23,0.1,9,automatic,nc,nc
-2024-03-26T22:44:07.458Z,62.3425,-148.308,26.3,1.9,ml,,,,0.54,ak,ak0243ylkttk,2024-03-26T22:45:51.102Z,"61 km N of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-26T22:43:47.910Z,38.8165016,-122.8191681,2.47,0.82,md,15,65,0.009892,0.02,nc,nc74024616,2024-03-26T22:45:23.737Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.62,0.26,17,automatic,nc,nc
