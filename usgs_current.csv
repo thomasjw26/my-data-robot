@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-27T19:48:15.240Z,19.3810005187988,-155.231338500977,2.61999988555908,2.3,ml,26,83,0.01146,0.209999993,hv,hv74151582,2024-03-27T19:50:53.570Z,"6 km S of Volcano, Hawaii",earthquake,0.38,0.310000002,0.31,17,automatic,hv,hv
+2024-03-27T19:45:30.276Z,61.4213,-146.9764,10.2,1.2,ml,,,,0.76,ak,ak024407c50j,2024-03-27T19:47:34.283Z,"46 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-27T19:33:05.680Z,38.7965012,-122.7699966,-0.35,0.93,md,6,114,0.00903,0.09,nc,nc74025136,2024-03-27T19:34:41.710Z,"2 km NNW of The Geysers, CA",earthquake,0.48,0.81,0.17,6,automatic,nc,nc
 2024-03-27T19:26:33.350Z,44.4395,-110.993166666667,4.31,0.03,md,7,195,0.1133,0.29,uu,uu80000643,2024-03-27T19:41:46.250Z,"26 km SSE of West Yellowstone, Montana",earthquake,1.92,2.51,0.66935669533779,3,reviewed,uu,uu
 2024-03-27T19:26:08.350Z,44.432,-110.976666666667,10.77,0.59,md,8,191,0.1027,0.19,uu,uu80063371,2024-03-27T19:39:04.390Z,"27 km SSE of West Yellowstone, Montana",earthquake,1.37,2.24,0.241952332431301,6,reviewed,uu,uu
