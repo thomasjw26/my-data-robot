@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-30T20:03:40.130Z,34.6511667,-116.2916667,3.09,2.55,ml,29,42,0.1199,0.15,ci,ci40702464,2024-03-30T20:41:07.040Z,"14 km WSW of Ludlow, CA",earthquake,0.16,0.88,0.187,27,automatic,ci,ci
 2024-03-30T19:39:53.074Z,61.574,-149.6265,29.6,1.7,ml,,,,0.49,ak,ak024455wxyj,2024-03-30T19:42:17.514Z,"5 km SSW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-30T19:30:51.880Z,34.1113333,-117.317,17,3.09,ml,136,15,0.01845,0.19,ci,ci40702456,2024-03-31T15:38:09.480Z,"3 km SW of San Bernardino, CA",earthquake,0.11,0.23,0.158,229,reviewed,ci,ci
-2024-03-30T19:26:40.700Z,38.8409996,-122.8253326,2.04,0.77,md,8,112,0.008287,0.01,nc,nc74026506,2024-03-30T19:28:16.549Z,"9 km WNW of Cobb, CA",earthquake,0.8,1.89,0.36,8,automatic,nc,nc
