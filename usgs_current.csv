@@ -103,7 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-04T07:50:48.060Z,38.5018333333333,-112.8785,1.76,0.44,md,16,53,0.006393,0.22,uu,uu80064051,2024-04-04T12:23:41.780Z,"16 km NE of Milford, Utah",earthquake,0.65,0.89,0.705688194694024,6,reviewed,uu,uu
 2024-04-04T07:38:05.254Z,12.8883,-88.8859,56.143,5.1,mww,137,119,0.796,0.81,us,us7000m9u3,2024-04-04T11:41:36.532Z,"56 km SW of Puerto El Triunfo, El Salvador",earthquake,6.51,5.155,0.055,32,reviewed,us,us
 2024-04-04T07:24:00.286Z,36.6995,-116.0683,1.4,-0.3,ml,8,285.99,0.025,0.0525,nn,nn00875823,2024-04-04T14:14:33.076Z,"38 km WNW of Indian Springs, Nevada",earthquake,,3.7,0.25,4,reviewed,nn,nn
-2024-04-04T07:17:26.130Z,33.8413333,-116.7175,15.03,1.58,ml,75,26,0.06693,0.17,ci,ci40705072,2024-04-04T07:24:13.616Z,"11 km SE of Cabazon, CA",earthquake,0.12,0.3,0.172,26,automatic,ci,ci
+2024-04-04T07:17:26.130Z,33.8413333,-116.7175,15.03,1.58,ml,75,26,0.06693,0.17,ci,ci40705072,2024-04-04T17:26:59.916Z,"11 km SE of Cabazon, CA",earthquake,0.12,0.3,0.172,26,automatic,ci,ci
 2024-04-04T07:13:10.000Z,38.809166,-122.8193359,2.22,0.88,md,7,119,0.007695,0.01,nc,nc74029021,2024-04-04T07:14:42.459Z,"6 km WNW of The Geysers, CA",earthquake,0.62,1.33,0.13,8,automatic,nc,nc
 2024-04-04T07:10:25.599Z,60.5067,-143.0363,0,1.5,ml,,,,0.83,ak,ak0244d8a7a7,2024-04-04T07:12:26.482Z,"103 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-04T07:06:00.440Z,38.8096657,-122.8180008,2.44,1.51,md,22,55,0.008769,0.04,nc,nc74029011,2024-04-04T07:07:37.447Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.46,0.14,23,automatic,nc,nc
