@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T11:17:13.760Z,33.6295,-116.6906667,14.33,0.96,ml,21,66,0.04174,0.11,ci,ci40706336,2024-04-06T11:23:15.846Z,"8 km N of Anza, CA",earthquake,0.21,0.35,0.196,7,automatic,ci,ci
 2024-04-06T11:06:57.770Z,38.814167,-122.8255005,1.06,1.02,md,14,80,0.006021,0.09,nc,nc74030131,2024-04-06T11:08:32.712Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.51,0.25,14,automatic,nc,nc
 2024-04-06T11:05:46.190Z,52.4161666666667,-173.878666666667,31.18,1.74,ml,5,322,0.1274,0.18,av,av93080111,2024-04-07T04:40:49.400Z,"32 km NE of Atka, Alaska",earthquake,2.86,2.09,0.161011703698319,5,reviewed,av,av
-2024-04-06T10:51:39.665Z,59.3928,-152.9171,79.2,2.5,ml,,,,0.41,ak,ak0244gle0j4,2024-04-06T12:05:52.040Z,"56 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
