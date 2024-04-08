@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-08T09:49:13.838Z,65.045,-148.7451,5.9,1.1,ml,,,,0.94,ak,ak0244jvushj,2024-04-08T09:50:55.033Z,"30 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-08T09:30:56.920Z,33.412,-116.6465,5.38,0.67,ml,41,34,0.09041,0.16,ci,ci40707328,2024-04-08T09:36:55.232Z,"14 km N of Warner Springs, CA",earthquake,0.16,0.77,0.103,14,automatic,ci,ci
 2024-04-08T09:28:14.802Z,65.1095,-148.6586,4.4,1.5,ml,,,,0.83,ak,ak0244jvqaiw,2024-04-08T09:30:10.163Z,"32 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-08T09:26:54.800Z,38.8195,-122.8259964,2.41,1.07,md,12,78,0.0109,0.02,nc,nc74031181,2024-04-08T09:28:28.249Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.93,0.16,13,automatic,nc,nc
