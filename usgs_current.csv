@@ -189,5 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-07T19:58:41.180Z,23.8864,121.6985,39.501,4.3,mb,35,130,0.614,0.45,us,us7000mani,2024-04-08T13:02:14.040Z,"13 km SE of Hualien City, Taiwan",earthquake,3.73,9.547,0.113,22,reviewed,us,us
 2024-04-07T19:40:53.370Z,33.631,-116.685,15.25,0.46,ml,17,73,0.03894,0.1,ci,ci40707008,2024-04-08T18:47:09.906Z,"8 km N of Anza, CA",earthquake,0.25,0.37,0.077,8,reviewed,ci,ci
 2024-04-07T19:35:08.154Z,54.6788,-163.1174,94.65,2.7,ml,19,182,0.249,0.47,us,us7000manj,2024-04-08T12:53:58.040Z,"27 km SE of False Pass, Alaska",earthquake,8.36,6.86,0.101,13,reviewed,us,us
-2024-04-07T19:23:21.109Z,35.53933333,-96.75516667,6.89,1.42,ml,43,39,0.01439717478,0.16,ok,ok2024gwse,2024-04-08T17:07:49.080Z,"8 km NW of Prague, Oklahoma",earthquake,,0.3,0.25,19,reviewed,ok,ok
-2024-04-07T19:21:19.510Z,18.0451666666667,-66.8235,15.93,2.46,md,14,89,0.03939,0.11,pr,pr71445078,2024-04-07T19:57:36.850Z,"3 km ENE of Yauco, Puerto Rico",earthquake,0.3,0.73,0.0448937908216465,7,reviewed,pr,pr
