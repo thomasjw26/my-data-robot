@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-09T07:15:55.630Z,46.856666564941406,-121.76300048828125,0.529999971389771,0.769999981,md,23,75,,0.0500000007,uw,uw61995336,2024-04-09T07:17:30.160Z,"23 km ENE of Ashford, Washington",earthquake,0.2,0.860000014,,1,automatic,uw,uw
 2024-04-09T07:12:10.210Z,38.7946663,-122.7458344,-0.83,0.36,md,8,95,0.01237,0.09,nc,nc74031666,2024-04-09T07:13:45.919Z,"2 km NNE of The Geysers, CA",earthquake,0.32,2.04,0.18,8,automatic,nc,nc
 2024-04-09T07:04:45.660Z,36.6856651,-121.3651657,1.79,1.49,md,8,96,0.02642,0.13,nc,nc74031661,2024-04-09T07:06:21.848Z,"12 km SSW of Tres Pinos, CA",earthquake,0.87,0.92,0.31,6,automatic,nc,nc
 2024-04-09T06:59:12.311Z,36.7218,-116.3093,9.6,-0.1,ml,13,126.05,0.058,0.0601,nn,nn00875939,2024-04-09T07:00:52.295Z,"45 km ESE of Beatty, Nevada",earthquake,,0.9,0.17,7,automatic,nn,nn
@@ -212,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-08T07:50:25.740Z,32.9376667,-116.2475,10.71,0.8,ml,29,55,0.04993,0.16,ci,ci40707304,2024-04-08T14:08:51.245Z,"25 km SSW of Ocotillo Wells, CA",earthquake,0.19,0.46,0.154,13,reviewed,ci,ci
 2024-04-08T07:50:19.990Z,18.0375,-66.823,16.27,2.09,md,7,133,0.082,0.19,pr,pr71445158,2024-04-08T08:06:18.690Z,"2 km E of Yauco, Puerto Rico",earthquake,0.72,1.49,0.226283058071417,3,reviewed,pr,pr
 2024-04-08T07:39:17.660Z,47.2831666666667,-113.288666666667,1.24,0.92,ml,9,255,0.1404,0.05,mb,mb90045643,2024-04-08T14:40:42.890Z,"18 km NE of Seeley Lake, Montana",earthquake,1,0.86,0.154823245013741,4,reviewed,mb,mb
-2024-04-08T07:20:03.290Z,38.833168,-122.7979965,1.9,0.51,md,8,123,0.007944,0.01,nc,nc74031151,2024-04-08T07:21:37.294Z,"7 km W of Cobb, CA",earthquake,0.46,0.87,0.37,9,automatic,nc,nc
