@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-10T23:55:35.350Z,34.8983333,-116.4956667,12.83,1.29,ml,16,70,0.1284,0.13,ci,ci40710464,2024-04-11T00:44:32.723Z,"36 km WNW of Ludlow, CA",earthquake,0.21,0.53,0.167,11,reviewed,ci,ci
 2024-04-10T23:54:57.090Z,35.6681667,-117.474,8.05,1,ml,17,121,0.04106,0.12,ci,ci40710456,2024-04-11T00:41:47.538Z,"13 km SSW of Searles Valley, CA",earthquake,0.3,0.56,0.217,7,reviewed,ci,ci
 2024-04-10T23:41:13.288Z,52.2419,-171.5408,46.429,4.7,mb,67,144,1.635,0.7,us,us7000mbak,2024-04-11T03:30:48.208Z,"181 km E of Atka, Alaska",earthquake,10.16,7.663,0.042,169,reviewed,us,us
-2024-04-10T23:38:20.382Z,64.013,-148.7472,0.1,1.5,ml,,,,0.56,ak,ak0244nf77km,2024-04-10T23:39:54.380Z,"18 km E of Ferry, Alaska",earthquake,,0.6,,,automatic,ak,ak
