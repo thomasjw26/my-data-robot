@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-16T16:50:39.912Z,61.7247,-148.1651,13.6,1.4,ml,,,,0.38,ak,ak0244x8bvef,2024-04-16T16:52:32.345Z,"17 km ESE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-16T16:38:15.300Z,38.8396683,-122.8769989,2.78,0.66,md,10,147,0.00655,0.03,nc,nc74035406,2024-04-16T16:39:47.803Z,"12 km WNW of The Geysers, CA",earthquake,0.54,0.8,0.35,11,automatic,nc,nc
 2024-04-16T16:29:15.750Z,38.8113327,-122.8201675,2.63,0.75,md,7,102,0.007458,0.01,nc,nc74035401,2024-04-16T16:30:52.718Z,"7 km NW of The Geysers, CA",earthquake,0.77,1.51,0.2,8,automatic,nc,nc
 2024-04-16T16:26:41.400Z,19.3680000305176,-155.278167724609,0.560000002384186,1.95,ml,21,65,0.01433,0.180000007,hv,hv74173567,2024-04-16T16:29:19.430Z,"9 km SSW of Volcano, Hawaii",earthquake,0.21,0.25,0.25,8,automatic,hv,hv
@@ -29,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-16T15:23:03.890Z,36.1215,-117.8923333,4.35,3.35,ml,36,49,0.03059,0.16,ci,ci40714048,2024-04-16T16:29:31.175Z,"10 km NNE of Coso Junction, CA",earthquake,0.21,0.44,0.181,37,reviewed,ci,ci
 2024-04-16T15:22:57.190Z,36.1010017,-117.9036636,4.79,1.05,ml,19,67,0.04284,0.21,ci,ci40714040,2024-04-16T15:37:52.335Z,"7 km NNE of Coso Junction, CA",earthquake,0.41,1.28,0.352,6,automatic,ci,ci
 2024-04-16T15:22:32.430Z,36.1181667,-117.884,7.42,0.98,ml,20,91,0.0236,0.14,ci,ci40714032,2024-04-16T15:35:22.053Z,"10 km NE of Coso Junction, CA",earthquake,0.26,0.46,0.317,13,automatic,ci,ci
-2024-04-16T15:19:10.730Z,33.9951667,-118.3551667,11.35,2.8,ml,116,35,0.007138,0.24,ci,ci40714024,2024-04-16T16:45:42.248Z,"1 km W of View Park-Windsor Hills, CA",earthquake,0.14,0.24,0.207,25,automatic,ci,ci
+2024-04-16T15:19:10.730Z,33.9951667,-118.3551667,11.35,2.8,ml,116,35,0.007138,0.24,ci,ci40714024,2024-04-16T16:51:13.570Z,"1 km W of View Park-Windsor Hills, CA",earthquake,0.14,0.24,0.207,25,automatic,ci,ci
 2024-04-16T15:18:32.691Z,60.1896,-151.2078,67.3,1.8,ml,,,,0.14,ak,ak0244x7jkbp,2024-04-16T15:19:57.630Z,"11 km ESE of Clam Gulch, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-04-16T15:10:13.800Z,36.1191667,-117.895,4.48,1.06,ml,24,49,0.03254,0.24,ci,ci40714000,2024-04-16T15:16:15.752Z,"10 km NNE of Coso Junction, CA",earthquake,0.32,0.51,0.256,15,automatic,ci,ci
 2024-04-16T15:09:30.697Z,64.9709,-147.3176,1.7,1.5,ml,,,,0.83,ak,ak0244x7hmq5,2024-04-16T15:11:00.297Z,"14 km E of Fox, Alaska",earthquake,,3.5,,,automatic,ak,ak
