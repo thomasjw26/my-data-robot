@@ -236,5 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-17T11:51:31.190Z,19.3974990844727,-155.275665283203,1.13999998569489,1.75,md,14,52,0.002853,0.129999995,hv,hv74174797,2024-04-17T11:52:51.900Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.300000012,0.349999994,11,automatic,hv,hv
 2024-04-17T11:50:55.430Z,62.1607,-152.0723,103.7,2.1,ml,,,,0.46,ak,ak0244ysw32f,2024-04-17T11:53:38.867Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-17T11:49:37.600Z,38.8251648,-122.8046646,1.21,0.85,md,9,182,0.00458,0.03,nc,nc74035916,2024-04-17T11:51:13.874Z,"7 km NW of The Geysers, CA",earthquake,1.1,0.82,0.25,10,automatic,nc,nc
-2024-04-17T11:24:55.840Z,54.123,-165.943333333333,1.85,-0.26,ml,4,122,0.01156,0.04,av,av93003014,2024-04-18T04:13:17.280Z,"11 km W of Akutan, Alaska",earthquake,0.3,0.37,0.554398924752497,4,reviewed,av,av
-2024-04-17T11:24:05.050Z,38.7994995,-122.7839966,3.31,0.56,md,6,122,0.007016,0.02,nc,nc74035906,2024-04-17T11:25:37.640Z,"3 km NW of The Geysers, CA",earthquake,0.89,1.76,0.32,7,automatic,nc,nc
