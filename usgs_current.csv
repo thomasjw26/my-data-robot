@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-23T16:42:43.600Z,38.7526665,-122.7105026,1.74,1.06,md,6,193,0.01433,0.02,nc,nc74039866,2024-04-23T16:44:19.782Z,"3 km SSW of Anderson Springs, CA",earthquake,1.03,0.97,0.19,7,automatic,nc,nc
+2024-04-23T16:21:21.290Z,44.8011666666667,-111.055,6.4,0.32,md,11,155,0.037,0.15,uu,uu80067171,2024-04-23T16:49:04.010Z,"11 km ENE of Hebgen Lake Estates, Montana",earthquake,0.48,0.94,0.228210945465464,8,reviewed,uu,uu
 2024-04-23T16:13:47.960Z,33.7361667,-117.6865,9.46,1.5,ml,39,42,0.05391,0.22,ci,ci40556023,2024-04-23T16:20:39.143Z,"6 km NNW of Foothill Ranch, CA",earthquake,0.28,0.47,0.228,31,automatic,ci,ci
 2024-04-23T16:13:34.810Z,38.8445015,-122.8168335,1.99,0.78,md,12,85,0.01135,0.01,nc,nc74039861,2024-04-23T16:15:08.465Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.77,0.23,13,automatic,nc,nc
 2024-04-23T16:10:43.870Z,38.8311653,-122.8088303,2.15,0.71,md,12,65,0.00782,0.01,nc,nc74039856,2024-04-23T16:12:19.416Z,"8 km W of Cobb, CA",earthquake,0.31,0.89,0.11,12,automatic,nc,nc
@@ -264,4 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T17:04:53.060Z,32.726,-115.8446667,13,0.76,ml,8,211,0.102,0.14,ci,ci40554943,2024-04-22T17:10:56.835Z,"14 km E of Ocotillo, CA",earthquake,1.88,2.88,0.089,7,automatic,ci,ci
 2024-04-22T17:01:05.630Z,-6.1965,150.7761,10,4.4,mb,24,79,4.795,0.5,us,us6000mt00,2024-04-22T17:34:15.040Z,"100 km SE of Kimbe, Papua New Guinea",earthquake,10.59,1.902,0.126,18,reviewed,us,us
 2024-04-22T16:56:37.943Z,62.23,-149.7127,9.1,1.5,ml,,,,0.71,ak,ak024575l8ia,2024-04-22T16:58:34.626Z,"10 km NE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-04-22T16:55:53.200Z,19.0491666666667,-155.3865,35.68,2.22,md,43,206,0.1276,0.11,hv,hv74181212,2024-04-23T15:12:14.040Z,"19 km SSE of Pāhala, Hawaii",earthquake,0.46,0.75,0.162715347777276,22,reviewed,hv,hv
