@@ -304,5 +304,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T04:44:23.310Z,38.8343315,-122.8099976,2.18,1.09,md,16,51,0.01092,0.01,nc,nc74038991,2024-04-22T04:45:57.022Z,"8 km W of Cobb, CA",earthquake,0.27,0.71,0.36,19,automatic,nc,nc
 2024-04-22T04:40:25.160Z,37.5250015,-118.7928314,7.58,1.39,md,9,228,0.07103,0.02,nc,nc74038981,2024-04-22T04:42:01.970Z,"11 km WSW of Toms Place, CA",earthquake,1.17,2.17,0.1,9,automatic,nc,nc
 2024-04-22T04:39:56.430Z,38.8168335,-122.8198318,2.4,1.95,md,39,46,0.01005,0.04,nc,nc74038976,2024-04-22T04:43:30.740Z,"7 km NW of The Geysers, CA",earthquake,0.15,0.27,0.14,37,automatic,nc,nc
-2024-04-22T04:37:35.900Z,38.8148346,-122.8193359,2.7,1.08,md,15,56,0.009727,0.03,nc,nc74038971,2024-04-22T04:39:12.932Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.7,0.17,18,automatic,nc,nc
-2024-04-22T04:34:52.170Z,38.8148346,-122.8193359,2.43,0.76,md,9,161,0.009727,0.02,nc,nc74038966,2024-04-22T04:36:27.846Z,"7 km NW of The Geysers, CA",earthquake,1.05,1.41,0.19,11,automatic,nc,nc
