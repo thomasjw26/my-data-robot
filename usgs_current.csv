@@ -53,6 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-24T12:40:32.580Z,36.7723,-116.2543,10.2,0.9,ml,27,64.13000000000002,0.05,0.1928,nn,nn00876783,2024-04-24T12:42:34.200Z,"47 km ESE of Beatty, Nevada",earthquake,,0.4,0.28,16,reviewed,nn,nn
 2024-04-24T12:39:55.534Z,60.258,-141.8407,5.5,1,ml,,,,0.27,ak,ak0245ae6l9d,2024-04-24T12:41:33.003Z,"142 km WNW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-24T12:39:09.439Z,36.7734,-116.2495,9.2,-0.4,ml,8,128.51999999999998,0.039,0.0628,nn,nn00876788,2024-04-24T13:56:21.614Z,"47 km ESE of Beatty, Nevada",earthquake,,1.8,0.2,4,reviewed,nn,nn
+2024-04-24T12:32:19.400Z,47.7775,-122.4595,28.35,0.67,ml,11,152,0.04497,0.14,uw,uw61503068,2024-04-24T16:48:40.680Z,"3 km SE of Kingston, Washington",earthquake,0.69,1.04,0.1894777855649821,4,reviewed,uw,uw
 2024-04-24T12:30:59.951Z,36.7632,-116.2529,13.3,1.8,ml,26,69.00999999999999,0.047,0.2375,nn,nn00876780,2024-04-24T12:32:53.706Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.29,18,reviewed,nn,nn
 2024-04-24T12:30:12.703Z,36.732,-116.2653,16,-0.4,ml,8,147.72999999999996,0.043,0.1584,nn,nn00876779,2024-04-24T12:32:09.918Z,"48 km ESE of Beatty, Nevada",earthquake,,2.3,1.02,4,reviewed,nn,nn
 2024-04-24T12:25:57.240Z,44.7988333333333,-111.062,8.76,2.14,ml,26,82,0.03179,0.14,uu,uu80067326,2024-04-24T13:11:59.470Z,"10 km ENE of Hebgen Lake Estates, Montana",earthquake,0.38,0.6,0.149600202215389,6,reviewed,uu,uu
