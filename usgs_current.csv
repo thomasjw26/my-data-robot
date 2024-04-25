@@ -240,5 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-24T18:10:46.445Z,36.7717,-116.2537,9.7,0.3,ml,28,60.620000000000005,0.036,0.1204,nn,nn00876801,2024-04-24T18:45:18.226Z,"47 km ESE of Beatty, Nevada",earthquake,,0.7,0.23,11,reviewed,nn,nn
 2024-04-24T18:01:29.000Z,38.8371658,-122.8168335,6.27,0.44,md,7,102,0.01464,0.06,nc,nc74040421,2024-04-24T18:03:03.950Z,"8 km WNW of Cobb, CA",earthquake,1.11,2.94,0.17,8,automatic,nc,nc
 2024-04-24T17:59:44.670Z,38.8235016,-122.8525009,2.59,0.32,md,8,174,0.005288,0.01,nc,nc74040416,2024-04-24T18:01:18.928Z,"10 km WNW of The Geysers, CA",earthquake,1.09,0.9,0.2,9,automatic,nc,nc
-2024-04-24T17:56:06.500Z,38.7906685,-122.7275009,1.2,1.8,md,29,54,0.01035,0.03,nc,nc74040411,2024-04-24T17:57:38.949Z,"3 km ENE of The Geysers, CA",earthquake,0.2,0.34,0.11,30,automatic,nc,nc
-2024-04-24T17:55:35.630Z,38.8243332,-122.7713318,1.44,0.2,md,7,116,0.006228,0.02,nc,nc74040406,2024-04-24T17:57:08.817Z,"4 km W of Cobb, CA",earthquake,0.99,1.74,0.03,8,automatic,nc,nc
