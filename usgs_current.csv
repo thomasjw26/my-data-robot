@@ -328,6 +328,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-28T07:28:55.884Z,67.8768,-160.967,5.3,2.1,ml,,,,1.17,ak,ak0245gxagcl,2024-04-28T07:31:53.696Z,"82 km ESE of Red Dog Mine, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-28T07:22:49.600Z,19.3651676177979,-155.286163330078,0.170000001788139,1.96,ml,16,70,0.02166,0.159999996,hv,hv74191317,2024-04-28T07:30:08.666Z,"10 km SSW of Volcano, Hawaii",earthquake,0.18,0.25999999,0.24,8,automatic,hv,hv
 2024-04-28T07:21:58.246Z,36.5861,-116.3898,1.6,0.3,ml,13,187.13,0.072,0.1177,nn,nn00876926,2024-04-28T07:23:50.542Z,"44 km ENE of Furnace Creek, California",earthquake,,3.8,0.16,6,automatic,nn,nn
-2024-04-28T07:12:25.756Z,59.1957,-151.306,41.1,1.6,ml,,,,0.26,ak,ak0245gx6ykv,2024-04-28T07:15:10.668Z,"34 km ESE of Port Graham, Alaska",earthquake,,2.8,,,automatic,ak,ak
-2024-04-28T07:11:15.421Z,-24.3505,-66.9947,170.061,4.3,mb,18,94,1.765,0.83,us,us6000muk1,2024-04-28T11:24:37.040Z,"70 km WSW of San Antonio de los Cobres, Argentina",earthquake,11.74,12.354,0.178,9,reviewed,us,us
-2024-04-28T07:10:07.405Z,67.8975,-160.9606,12.4,2.9,ml,,,,0.83,ak,ak0245gx6hpw,2024-04-28T11:22:50.040Z,"82 km ESE of Red Dog Mine, Alaska",earthquake,,0.9,,,automatic,ak,ak
