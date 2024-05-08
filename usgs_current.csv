@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-08T07:13:25.623Z,64.8938,-149.1655,15,1.4,ml,,,,0.36,ak,ak0245xgkn82,2024-05-08T07:14:50.797Z,"29 km SSE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-05-08T07:13:24.360Z,19.363166809082,-155.29216003418,0.400000005960464,1.97000003,md,17,60,0.02525,0.109999999,hv,hv74220542,2024-05-08T07:14:43.360Z,"10 km SW of Volcano, Hawaii",earthquake,0.2,0.330000013,0.129999995,10,automatic,hv,hv
 2024-05-08T06:58:13.220Z,38.8368339538574,-122.799499511719,2.32999992370605,0.52,md,9,68,0.007321,0.01,nc,nc75003226,2024-05-08T06:59:48.302Z,"7 km WNW of Cobb, CA",earthquake,0.37,1.95000005,0.35,10,automatic,nc,nc
 2024-05-08T06:37:44.653Z,64.0912,-145.5748,32.6,0.5,ml,,,,0.71,ak,ak0245xg4f5b,2024-05-08T06:40:23.274Z,"9 km NE of Delta Junction, Alaska",earthquake,,5,,,automatic,ak,ak
 2024-05-08T06:28:02.870Z,38.7471656799316,-122.701667785645,1.32000005245209,1.41,md,13,115,0.02106,0.05,nc,nc75003211,2024-05-08T06:29:37.917Z,"3 km SSW of Anderson Springs, CA",earthquake,0.28,0.430000007,0.26,12,automatic,nc,nc
