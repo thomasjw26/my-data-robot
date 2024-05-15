@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-05-15T22:25:10.407Z,60.0981,-153.1672,125.1,1.4,ml,,,,0.22,ak,ak02469ac468,2024-05-15T22:26:48.486Z,"62 km ENE of Pedro Bay, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2024-05-15T22:14:20.227Z,-26.4219,-11.4418,10,5.3,mb,75,50,26.221,0.8,us,us6000myub,2024-05-15T22:30:03.040Z,"southern Mid-Atlantic Ridge",earthquake,11.78,1.855,0.05,135,reviewed,us,us
 2024-05-15T21:56:47.630Z,59.9066,-153.6022,154.5,1.7,ml,,,,0.89,ak,ak024699xemz,2024-05-15T21:59:50.645Z,"31 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-05-15T21:55:52.790Z,38.8216667175293,-122.832000732422,4.40999984741211,0.72,md,7,142,0.002774,0.01,nc,nc75007241,2024-05-15T21:57:27.033Z,"8 km NW of The Geysers, CA",earthquake,1.76,3.86999989,0.23,8,automatic,nc,nc
+2024-05-15T21:42:03.820Z,18.6181666666667,-66.827,77.08,3.04,md,16,231,0.3085,0.17,pr,pr71448943,2024-05-15T22:29:18.260Z,"14 km N of Hatillo, Puerto Rico",earthquake,0.87,0.77,0.0410700837286757,6,reviewed,pr,pr
 2024-05-15T21:32:26.362Z,-23.9393,-179.9333,534.901,4.4,mb,29,131,12.803,0.91,us,us6000myua,2024-05-15T22:15:46.040Z,"south of the Fiji Islands",earthquake,13.12,8.801,0.117,21,reviewed,us,us
 2024-05-15T21:31:48.245Z,37.0807,-116.3092,10.7,-0.1,ml,9,59.70999999999998,0.037,0.1273,nn,nn00877701,2024-05-15T22:18:58.757Z,"44 km ENE of Beatty, Nevada",earthquake,,1.6,0.4,5,reviewed,nn,nn
 2024-05-15T21:30:57.880Z,64.6935,-146.6156,0,1,ml,,,,0.73,ak,ak024699rusj,2024-05-15T21:33:58.057Z,"21 km E of Eielson Air Force Base, Alaska",earthquake,,1.1,,,automatic,ak,ak
