@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-18T11:45:37.960Z,32.9323349,-115.5416641,9.82,2.08,ml,37,75,0.0347,0.28,ci,ci40589639,2024-05-18T11:47:42.519Z,"5 km SSW of Brawley, CA",earthquake,0.38,0.76,0.285,23,automatic,ci,ci
 2024-05-18T11:40:43.530Z,38.8176651000977,-122.821830749512,2.14000010490417,1.07,md,21,58,0.01082,0.02,nc,nc75008646,2024-05-18T11:42:19.538Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.409999996,0.1,22,automatic,nc,nc
 2024-05-18T11:36:11.880Z,34.5473333,-118.8501667,-0.27,1.07,ml,23,52,0.08735,0.22,ci,ci40589631,2024-05-18T11:42:18.836Z,"16 km NNW of Piru, CA",earthquake,0.26,0.67,0.289,22,automatic,ci,ci
 2024-05-18T11:35:11.900Z,38.8386650085449,-122.769836425781,1.04999995231628,1.14,md,24,148,0.006459,0.03,nc,nc75008636,2024-05-18T11:36:49.448Z,"4 km NW of Cobb, CA",earthquake,0.2,0.300000012,0.15,24,automatic,nc,nc
@@ -313,4 +314,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-17T11:53:57.180Z,41.5845,-112.4305,4.38,0.9,md,9,97,0.01225,0.14,uu,uu80069711,2024-05-17T14:05:34.660Z,"16 km SW of Thatcher, Utah",earthquake,0.6,1.35,0.11486168991328,5,reviewed,uu,uu
 2024-05-17T11:53:47.770Z,60.0293333333333,-153.083833333333,-0.34,-0.91,ml,6,105,0.02989,0.11,av,av93129566,2024-05-18T01:21:40.230Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.27,1.53,0.140757043505245,6,reviewed,av,av
 2024-05-17T11:50:52.101Z,64.7894,-155.0495,5.8,1,ml,,,,0.28,ak,ak0246cf0hme,2024-05-17T11:55:49.444Z,"21 km ENE of Ruby, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-17T11:48:52.220Z,38.8116683959961,-122.820335388184,2.74000000953674,0.8,md,9,66,0.007453,0.01,nc,nc75008231,2024-05-17T11:50:26.724Z,"7 km NW of The Geysers, CA",earthquake,0.53,1.16999996,0.31,10,automatic,nc,nc
