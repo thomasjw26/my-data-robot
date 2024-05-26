@@ -171,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-25T14:59:44.920Z,34.159,-118.5531667,9.16,1.24,ml,20,85,0.01616,0.14,ci,ci40599967,2024-05-25T15:05:55.488Z,"2 km S of Tarzana, CA",earthquake,0.22,0.42,0.312,24,automatic,ci,ci
 2024-05-25T14:31:02.700Z,36.7193,21.658,48.185,4.2,mb,25,150,0.506,0.89,us,us6000n0yk,2024-05-25T14:48:58.040Z,"11 km SSW of Methóni, Greece",earthquake,7.73,10.067,0.132,16,reviewed,us,us
 2024-05-25T14:24:37.514Z,64.333,-148.2994,22.1,2.9,ml,,,,0.27,ak,ak0246poxynb,2024-05-25T15:55:03.813Z,"42 km E of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-05-25T14:16:18.257Z,58.9427,-153.9982,13.3,1.4,ml,,,,0.12,ak,ak0246pow7fl,2024-05-25T14:18:08.092Z,"70 km SE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
