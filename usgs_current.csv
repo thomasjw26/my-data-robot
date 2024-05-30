@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-30T03:49:15.710Z,17.959,-66.952,11.27,2.5,md,13,201,0.04331,0.2,pr,pr71450928,2024-05-30T04:00:21.140Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.62,0.48,0.0966278890458869,6,reviewed,pr,pr
 2024-05-30T03:36:27.964Z,63.4569,-151.5885,5.9,1.2,ml,,,,0.86,ak,ak0246xs5hbg,2024-05-30T03:39:21.973Z,"11 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-30T03:31:19.239Z,28.648,-99.211,3.5859,1.6,ml,6,138,0.4,0.5,tx,tx2024koil,2024-05-30T03:57:39.107Z,"4 km WSW of Dilley, Texas",earthquake,0,2.5926131549151,0.3,6,automatic,tx,tx
-2024-05-30T03:24:57.330Z,35.9846649169922,-89.8966674804688,12.4200000762939,2.4000001,md,22,114,0.1506,0.239999995,nm,nm60583861,2024-05-30T03:31:23.300Z,"6 km NNE of Blytheville, Arkansas",earthquake,0.76,2.43000007,0.939999998,18,reviewed,nm,nm
+2024-05-30T03:24:57.330Z,35.9846649169922,-89.8966674804688,12.4200000762939,2.4000001,md,22,114,0.1506,0.239999995,nm,nm60583861,2024-05-30T13:20:03.353Z,"6 km NNE of Blytheville, Arkansas",earthquake,0.76,2.43000007,0.939999998,18,reviewed,nm,nm
 2024-05-30T03:12:06.670Z,65.9317,-147.665,11.3,1.2,ml,,,,1.32,ak,ak0246xs0ahn,2024-05-30T03:17:18.338Z,"49 km SSW of Beaver, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-30T03:07:09.510Z,41.953,-112.4995,0.77,0.88,md,8,125,0.1326,0.15,uu,uu80070636,2024-05-30T13:14:43.580Z,"17 km E of Snowville, Utah",earthquake,0.66,9.82,0.402590327032954,6,reviewed,uu,uu
 2024-05-30T02:48:38.712Z,61.5372,-146.2917,33.4,2,ml,,,,0.66,ak,ak0246xrmn4q,2024-05-30T02:59:13.420Z,"45 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -123,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-29T21:30:26.100Z,19.1595001220703,-155.477996826172,30.4899997711182,1.86000001,md,30,119,0.01556,0.189999998,hv,hv74252876,2024-05-29T21:32:12.340Z,"4 km S of Pāhala, Hawaii",earthquake,0.9,0.730000019,0.209999993,6,automatic,hv,hv
 2024-05-29T21:28:27.989Z,35.0165,-97.738,6.71,1.79,ml,87,35,0.118776692,0.25,ok,ok2024knwl,2024-05-29T22:40:05.853Z,"10 km W of Dibble, Oklahoma",earthquake,,0.4,0.21,40,reviewed,ok,ok
 2024-05-29T21:26:26.220Z,19.1066,-108.8822,10,4.3,mb,25,206,6.936,0.79,us,us7000mnve,2024-05-29T22:25:44.040Z,"Revilla Gigedo Islands region",earthquake,11.56,1.975,0.058,85,reviewed,us,us
-2024-05-29T21:15:28.630Z,33.5283333,-116.3751667,10.31,0.95,ml,28,67,0.0425,0.16,ci,ci40606239,2024-05-29T21:21:26.043Z,"16 km SSW of La Quinta, CA",earthquake,0.22,0.37,0.202,7,automatic,ci,ci
+2024-05-29T21:15:28.630Z,33.5283333,-116.3751667,10.31,0.69,ml,28,67,0.0425,0.16,ci,ci40606239,2024-05-30T13:17:54.607Z,"16 km SSW of La Quinta, CA",earthquake,0.22,0.37,0.111,16,reviewed,ci,ci
 2024-05-29T21:14:07.022Z,62.9519,-151.2197,133.5,1.7,ml,,,,0.22,ak,ak0246wf76ce,2024-05-29T21:16:10.757Z,"55 km NNW of Petersville, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-05-29T20:51:12.811Z,64.3012,-149.7729,7.6,1.6,ml,,,,0.6,ak,ak0246wetooh,2024-05-29T20:53:09.689Z,"28 km W of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-29T20:50:53.990Z,49.09883333333333,-122.13483333333333,-0.09,1.1,ml,8,192,0.06607,0.26,uw,uw62010436,2024-05-29T23:57:18.580Z,"9 km ENE of Abbotsford, Canada",earthquake,1.81,1.23,0.06099355444259624,3,reviewed,uw,uw
@@ -180,5 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-29T13:41:44.919Z,31.684,-104.406,6.0486,1.9,ml,15,66,0,0.2,tx,tx2024knhb,2024-05-29T19:07:59.210Z,"54 km S of Whites City, New Mexico",earthquake,0.8687038542149509,0.779549888417652,0.1,13,reviewed,tx,tx
 2024-05-29T13:37:50.195Z,64.6219,-151.0701,6.5,1,ml,,,,0.25,ak,ak0246wakqaz,2024-05-29T13:39:42.167Z,"47 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-29T13:28:05.636Z,39.9836,-119.9371,9.5,0.5,ml,4,149.71,0.095,0.2383,nn,nn00878363,2024-05-30T02:04:34.143Z,"15 km ESE of Doyle, California",earthquake,,8,0.24,4,reviewed,nn,nn
-2024-05-29T13:21:00.273Z,59.6939,-151.6216,57.1,1.1,ml,,,,0.37,ak,ak0246wah6zv,2024-05-29T13:22:47.988Z,"4 km WNW of Diamond Ridge, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2024-05-29T13:19:55.311Z,31.68,-104.405,6.0999,2.4,ml,16,69,0,0.3,tx,tx2024kngi,2024-05-29T16:58:48.209Z,"55 km S of Whites City, New Mexico",earthquake,0.9134721994628354,0.9055793642475795,0.1,12,reviewed,tx,tx
