@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-31T10:36:47.240Z,33.2706667,-116.3016667,12.06,1.31,ml,55,29,0.07831,0.2,ci,ci40608143,2024-05-31T10:43:09.283Z,"7 km ENE of Borrego Springs, CA",earthquake,0.18,0.45,0.164,27,automatic,ci,ci
+2024-05-31T10:44:40.610Z,38.8286666870117,-122.797996520996,2.22000002861023,0.77,md,12,57,0.0108,0.01,nc,nc75013792,2024-05-31T10:46:16.515Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.860000014,0.22,13,automatic,nc,nc
+2024-05-31T10:36:47.240Z,33.2706667,-116.3016667,12.06,1.31,ml,55,29,0.07831,0.2,ci,ci40608143,2024-05-31T10:47:31.560Z,"7 km ENE of Borrego Springs, CA",earthquake,0.18,0.45,0.164,27,automatic,ci,ci
 2024-05-31T10:35:36.967Z,62.9399,-150.6785,97.4,2.1,ml,,,,0.31,ak,ak0246zjuo0w,2024-05-31T10:37:44.299Z,"49 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-05-31T10:08:24.040Z,38.7883338928223,-122.769836425781,1.23000001907349,0.71,md,14,83,0.0146,0.03,nc,nc75013777,2024-05-31T10:10:00.506Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.50999999,0.41,14,automatic,nc,nc
 2024-05-31T10:08:04.750Z,34.821,-118.9615,5.03,2.27,ml,78,23,0.1026,0.27,ci,ci40608135,2024-05-31T10:43:20.523Z,"2 km W of Frazier Park, CA",earthquake,0.2,0.94,0.202,27,automatic,ci,ci
