@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-06-01T09:49:41.370Z,35.5325012,-117.3963318,8.46,1.78,ml,29,66,0.02701,0.19,ci,ci40609615,2024-06-01T09:51:49.761Z,"26 km S of Trona, CA",earthquake,0.3,0.67,0.085,3,automatic,ci,ci
-2024-06-01T09:49:07.490Z,35.6816673,-117.5479965,8.93,1.61,ml,33,102,0.09827,0.15,ci,ci40609607,2024-06-01T09:51:30.800Z,"13 km ENE of Ridgecrest, CA",earthquake,0.27,0.81,0.141,9,automatic,ci,ci
+2024-06-01T09:55:30.350Z,38.8153343200684,-122.818496704102,2.6800000667572,0.96,md,16,51,0.0104,0.02,nc,nc75014167,2024-06-01T09:57:07.381Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.689999998,0.25,17,automatic,nc,nc
+2024-06-01T09:49:41.330Z,35.5315,-117.395,8.94,1.47,ml,31,65,0.0257,0.11,ci,ci40609615,2024-06-01T09:56:56.831Z,"26 km S of Trona, CA",earthquake,0.14,0.28,0.164,22,automatic,ci,ci
+2024-06-01T09:49:07.480Z,35.6803333,-117.5503333,8.67,1.52,ml,32,101,0.09603,0.13,ci,ci40609607,2024-06-01T09:55:37.940Z,"13 km ENE of Ridgecrest, CA",earthquake,0.16,0.4,0.203,24,automatic,ci,ci
 2024-06-01T09:38:19.490Z,33.4163333,-116.3825,11.21,1.61,ml,72,32,0.08134,0.19,ci,ci40609599,2024-06-01T09:48:59.630Z,"18 km N of Borrego Springs, CA",earthquake,0.13,0.31,0.173,27,automatic,ci,ci
 2024-06-01T09:33:28.840Z,33.743,-118.06,13.24,1.31,ml,35,89,0.03486,0.26,ci,ci40609591,2024-06-01T09:47:45.631Z,"4 km E of Seal Beach, CA",earthquake,0.43,0.53,0.273,32,automatic,ci,ci
 2024-06-01T09:30:45.460Z,34.0168333,-117.2278333,-0.77,0.61,ml,12,209,0.1248,0.16,ci,ci40609583,2024-06-01T09:47:43.781Z,"5 km SE of Loma Linda, CA",earthquake,0.85,1.61,0.204,13,automatic,ci,ci
