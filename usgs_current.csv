@@ -228,6 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-01T05:29:30.487Z,55.5479,-159.0173,44.1,1.9,ml,,,,0.13,ak,ak024714djp4,2024-06-01T05:31:33.317Z,"41 km S of Perryville, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-06-01T05:20:34.112Z,-7.1997,-13.1626,10,4.9,mb,29,67,1.393,0.72,us,us7000mpey,2024-06-01T05:45:38.040Z,"159 km ENE of Georgetown, Saint Helena",earthquake,10.23,1.865,0.088,40,reviewed,us,us
 2024-06-01T05:10:09.920Z,60.8026,-148.3033,0.8,2.2,ml,,,,0.51,ak,ak0247149fi8,2024-06-01T05:12:09.292Z,"21 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-06-01T04:53:56.372Z,31.69,-104.406,6.087,2.9,ml,36,60,0,0.1,tx,tx2024ksce,2024-06-02T00:49:48.715Z,"53 km S of Whites City, New Mexico",earthquake,0.5226058017982926,0.4921262325495734,0.1,41,reviewed,tx,tx
-2024-06-01T04:53:25.461Z,31.664,-104.197,11.8626,2,ml,6,133,0.1,1.1,tx,tx2024kscd,2024-06-01T05:20:13.556Z,"54 km NW of Toyah, Texas",earthquake,0,5.67458612890623,0.8,6,automatic,tx,tx
-2024-06-01T04:49:52.740Z,38.8313331604004,-122.875831604004,2.66000008583069,0.51,md,12,124,0.009097,0.02,nc,nc75014107,2024-06-01T04:51:30.970Z,"12 km NW of The Geysers, CA",earthquake,0.35,0.74000001,0.38,13,automatic,nc,nc
