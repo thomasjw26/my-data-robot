@@ -282,5 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T19:38:00.100Z,46.459,-122.2935,3.86,2.0100000000000002,ml,54,60,0.1082,0.11,uw,uw62006107,2024-06-11T19:45:02.100Z,"11 km S of Morton, Washington",earthquake,0.27,0.85,0.2792321820853654,40,reviewed,uw,uw
 2024-06-11T19:35:59.130Z,57.0925,-135.747166666667,5.6,-0.02,ml,4,274,0.0328,0.1,av,av93160041,2024-06-12T02:39:34.000Z,"25 km W of Sitka, Alaska",earthquake,1.32,0.78,0.338017689086523,4,reviewed,av,av
 2024-06-11T19:28:52.109Z,36.7115,-97.1395,7.8,1.13,ml,39,110,0.07828463788,0.23,ok,ok2024llmb,2024-06-12T14:55:43.286Z,"4 km W of Ponca City, Oklahoma",earthquake,,0.6,0.19,19,reviewed,ok,ok
-2024-06-11T19:26:15.910Z,51.9725,178.443166666667,2.93,0.15,ml,4,334,0.04444,0.17,av,av93160031,2024-06-12T02:44:19.230Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.73,2.07,0.267415410199402,4,reviewed,av,av
-2024-06-11T19:24:29.330Z,35.544,-117.3836667,6.25,0.5,mh,5,161,0.0246,0.07,ci,ci40619951,2024-06-11T20:48:57.791Z,"24 km S of Trona, CA",earthquake,0.31,0.45,,0,reviewed,ci,ci
