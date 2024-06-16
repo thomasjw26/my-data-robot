@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-16T05:49:56.240Z,37.5699996948242,-113.052169799805,1,3.09,ml,28,71,0.03784,0.300000012,uu,uu80073776,2024-06-16T05:53:38.560Z,"11 km S of Cedar City, Utah",earthquake,0.48,0.970000029,0.3,24,automatic,uu,uu
 2024-06-16T05:37:05.650Z,32.658,-115.8965,8.8,1.88,ml,46,59,0.02412,0.23,ci,ci40800208,2024-06-16T05:47:48.560Z,"12 km SE of Ocotillo, CA",earthquake,0.25,0.51,0.161,28,automatic,ci,ci
 2024-06-16T05:19:28.460Z,33.9083333,-117.9296667,2.69,1.03,ml,10,107,0.03729,0.31,ci,ci40800200,2024-06-16T05:31:15.317Z,"3 km WSW of Brea, CA",earthquake,1.94,0.85,0.331,27,automatic,ci,ci
 2024-06-16T05:17:03.864Z,63.5639,-150.7717,1.8,1.3,ml,,,,0.84,ak,ak0247pxd4gi,2024-06-16T05:19:53.315Z,"47 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
