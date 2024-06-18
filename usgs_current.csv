@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-18T09:32:27.620Z,19.1958332061768,-155.501998901367,30.6299991607666,1.76999998,md,36,80,0.05235,0.159999996,hv,hv74281711,2024-06-18T09:34:05.760Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.51,0.769999981,0.0900000036,3,automatic,hv,hv
+2024-06-18T09:20:57.917Z,60.1129,-140.7773,10.1,1.6,ml,,,,0.92,ak,ak0247taub77,2024-06-18T09:27:54.989Z,"86 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-18T09:00:51.650Z,33.5876667,-116.8105,7.31,0.23,ml,17,69,0.03919,0.15,ci,ci40801608,2024-06-18T09:06:48.496Z,"13 km WNW of Anza, CA",earthquake,0.31,0.54,0.145,6,automatic,ci,ci
 2024-06-18T08:56:49.490Z,17.8163333333333,-66.8745,13.87,2.61,md,7,233,0.1579,0.09,pr,pr71453173,2024-06-18T09:15:22.020Z,"17 km SSE of Guánica, Puerto Rico",earthquake,0.75,0.45,0.0577780928357754,4,reviewed,pr,pr
 2024-06-18T08:46:12.701Z,60.0377,-152.626,104.6,2,ml,,,,0.46,ak,ak0247taecp8,2024-06-18T08:49:49.429Z,"50 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
