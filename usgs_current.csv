@@ -276,4 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-27T23:08:49.350Z,38.8361663818359,-122.801002502441,2.33999991416931,1.02,md,15,62,0.00862,0.01,nc,nc75028086,2024-06-27T23:10:26.462Z,"7 km WNW of Cobb, CA",earthquake,0.28,0.709999979,0.26,17,automatic,nc,nc
 2024-06-27T23:02:17.150Z,34.0246667,-117.2375,16.99,1.45,ml,49,49,0.08889,0.14,ci,ci40812384,2024-06-28T19:16:09.170Z,"3 km SE of Loma Linda, CA",earthquake,0.16,0.3,0.196,21,reviewed,ci,ci
 2024-06-27T22:58:35.060Z,59.6824,-152.5944,86.8,1.4,ml,,,,0.24,ak,ak02488en5xu,2024-06-27T23:00:00.228Z,"44 km WSW of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-06-27T22:52:43.020Z,35.678,-117.5136667,5.23,0.16,ml,3,183,0.1005,0.07,ci,ci40812360,2024-06-28T18:57:31.952Z,"14 km SW of Searles Valley, CA",earthquake,1.78,31.61,0.156,1,reviewed,ci,ci
