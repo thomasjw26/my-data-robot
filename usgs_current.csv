@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-06-29T05:46:47.030Z,34.0341682,-117.2125015,17,1.14,ml,16,146,0.1413,0.15,ci,ci40813472,2024-06-29T05:48:49.481Z,"4 km SW of Redlands, CA",earthquake,0.48,1.16,0.231,4,automatic,ci,ci
+2024-06-29T05:46:47.480Z,34.0171667,-117.1961667,4.18,0.92,ml,26,54,0.07192,0.25,ci,ci40813472,2024-06-29T05:53:23.824Z,"4 km SSW of Redlands, CA",earthquake,0.36,1.42,0.336,19,automatic,ci,ci
 2024-06-29T05:41:03.010Z,38.7994995117188,-122.739334106445,2,0.73,md,11,104,0.01596,0.02,nc,nc75028726,2024-06-29T05:42:41.018Z,"3 km NE of The Geysers, CA",earthquake,0.31,0.819999993,0.07,11,automatic,nc,nc
 2024-06-29T05:38:34.807Z,64.8335,-149.1239,21,0.7,ml,,,,0.34,ak,ak0248bfh7av,2024-06-29T05:41:10.279Z,"25 km N of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-29T05:35:49.120Z,35.8641667,-117.6843333,9.15,1.01,ml,19,112,0.0858,0.14,ci,ci40813464,2024-06-29T05:41:47.413Z,"22 km ESE of Little Lake, CA",earthquake,0.23,0.53,0.207,10,automatic,ci,ci
