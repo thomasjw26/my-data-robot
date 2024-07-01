@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-01T23:21:04.770Z,33.4765015,-116.5065002,12,0.7,ml,21,57,0.08201,0.09,ci,ci40816456,2024-07-01T23:24:31.324Z,"18 km ESE of Anza, CA",earthquake,0.31,0.71,0.124,20,automatic,ci,ci
 2024-07-01T23:19:33.560Z,19.19700050354,-155.466003417969,32.9099998474121,1.99000001,md,28,106,0.04153,0.119999997,hv,hv74310296,2024-07-01T23:21:18.720Z,"1 km ESE of Pāhala, Hawaii",earthquake,0.6,0.819999993,0.189999998,5,automatic,hv,hv
 2024-07-01T23:13:32.530Z,35.038,-116.9885,2.81,1.21,ml,16,82,0.1624,0.13,ci,ci40816440,2024-07-01T23:19:36.294Z,"16 km NNE of Barstow, CA",earthquake,0.22,0.99,0.179,10,automatic,ci,ci
 2024-07-01T22:56:15.040Z,19.2070007324219,-155.48649597168,28.1399993896484,2.03999996,md,29,82,0.05625,0.159999996,hv,hv74310256,2024-07-01T22:57:54.890Z,"0 km WNW of Pāhala, Hawaii",earthquake,0.75,0.970000029,0.180000007,6,automatic,hv,hv
