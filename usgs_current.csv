@@ -7,6 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-02T16:38:48.790Z,34.63,-117.1255,-0.98,1.56,ml,31,77,0.182,0.19,ci,ci40645791,2024-07-02T17:51:17.455Z,"15 km NNE of Apple Valley, CA",quarry blast,0.32,31.61,0.137,54,reviewed,ci,ci
 2024-07-02T16:34:49.460Z,17.9651666666667,-66.9545,14.43,3.13,md,16,184,0.0442,0.11,pr,pr71454463,2024-07-02T17:16:06.360Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.62,0.57,0.105979470870318,9,reviewed,pr,pr
 2024-07-02T16:27:17.295Z,68.6098,-146.2629,0,2.7,ml,,,,0.52,ak,ak0248gkkm7l,2024-07-02T16:29:26.554Z,"61 km NNW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-07-02T16:22:30.531Z,40.1049,-132.8181,10,3.9,mb,53,215,6.66,0.86,us,us6000n9u1,2024-07-02T18:21:28.040Z,"North Pacific Ocean",earthquake,12.59,2.003,0.194,8,reviewed,us,us
 2024-07-02T16:07:42.958Z,57.9821,-153.2828,44.8,1.4,ml,,,,0.4,ak,ak0248gkgdvb,2024-07-02T16:09:02.144Z,"23 km WSW of Aleneva, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2024-07-02T16:03:44.580Z,37.4505,-121.374666666667,2.11,1.22,md,15,83,0.06587,0.14,nc,nc75029936,2024-07-02T17:20:51.525Z,"19 km WSW of Westley, CA",earthquake,0.3,1.71,0.139,14,reviewed,nc,nc
 2024-07-02T16:02:20.520Z,37.2874,-117.6012,0.1,1.1,ml,9,99.69,0.065,0.3878,nn,nn00880280,2024-07-02T16:04:37.976Z,"51 km S of Silver Peak, Nevada",earthquake,,5.1,0.64,5,automatic,nn,nn
@@ -38,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-02T12:38:22.730Z,34.0465,-118.7358333,7.29,1.75,ml,48,78,0.03377,0.21,ci,ci40816952,2024-07-02T12:45:15.675Z,"5 km WNW of Malibu Beach, CA",earthquake,0.21,0.37,0.197,32,automatic,ci,ci
 2024-07-02T12:38:20.640Z,38.7680015563965,-122.732498168945,1.21000003814697,1.12,md,9,171,0.02613,0.03,nc,nc75029886,2024-07-02T12:39:56.060Z,"2 km SE of The Geysers, CA",earthquake,0.62,0.75999999,0.08,9,automatic,nc,nc
 2024-07-02T12:25:33.670Z,38.8296661376953,-122.853332519531,1.96000003814697,1.05,md,12,108,0.003483,0.01,nc,nc75029881,2024-07-02T12:27:11.026Z,"10 km NW of The Geysers, CA",earthquake,0.4,0.560000002,0.33,15,automatic,nc,nc
-2024-07-02T12:13:03.120Z,35.6916667,-117.5546667,2.55,1,ml,25,106,0.09709,0.14,ci,ci40816936,2024-07-02T12:19:03.403Z,"14 km NE of Ridgecrest, CA",earthquake,0.2,0.41,0.182,9,automatic,ci,ci
+2024-07-02T12:13:03.110Z,35.6896667,-117.5565,2.48,0.9,ml,22,104,0.1109,0.1,ci,ci40816936,2024-07-02T18:29:09.634Z,"13 km NE of Ridgecrest, CA",earthquake,0.18,0.33,0.156,16,reviewed,ci,ci
 2024-07-02T12:11:29.695Z,61.2897,-151.8891,83.3,1.5,ml,,,,0.6,ak,ak0248gi3hah,2024-07-02T12:13:13.426Z,"46 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-02T12:01:50.497Z,62.7246,-151.1132,36.1,1.6,ml,,,,1.33,ak,ak0248gi1dkr,2024-07-02T12:04:07.561Z,"31 km NW of Petersville, Alaska",earthquake,,4.9,,,automatic,ak,ak
 2024-07-02T11:53:52.770Z,31.4965,-115.6153333,7.35,2.2,ml,7,110,0.1782,0.13,ci,ci40816904,2024-07-02T12:04:59.565Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.3,1.71,0.242,9,automatic,ci,ci
@@ -215,7 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-01T18:54:06.620Z,45.9071666666667,-113.205166666667,3.89,1.7,ml,25,86,0.2135,0.14,mb,mb90055703,2024-07-01T23:22:18.940Z,"31 km SW of Anaconda, Montana",earthquake,0.38,8.87,0.162329728714641,19,reviewed,mb,mb
 2024-07-01T18:53:12.650Z,35.3993333,-118.2226667,8.02,1.32,ml,35,46,0.1526,0.15,ci,ci40816048,2024-07-02T13:37:18.986Z,"32 km SE of Bodfish, CA",earthquake,0.17,0.69,0.175,26,reviewed,ci,ci
 2024-07-01T18:45:16.028Z,65.5831,-147.9537,6.5,2.5,ml,,,,0.65,ak,ak0248eybzpu,2024-07-01T19:00:01.040Z,"28 km ENE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-07-01T18:32:15.160Z,59.7944,-153.3897,131.511,2.8,ml,27,82,0.617,0.49,us,us6000n9nh,2024-07-01T18:55:01.040Z,"40 km E of Pedro Bay, Alaska",earthquake,5.22,7.171,0.045,66,reviewed,us,us
-2024-07-01T18:31:55.260Z,38.824333190918,-122.851333618164,2.21000003814697,0.96,md,9,168,0.01279,0.01,nc,nc75029586,2024-07-01T18:33:30.515Z,"10 km NW of The Geysers, CA",earthquake,0.49,1.16999996,0.31,9,automatic,nc,nc
-2024-07-01T18:23:07.650Z,35.6946667,-117.555,1.42,0.68,ml,14,122,0.1109,0.16,ci,ci40815936,2024-07-02T13:37:35.082Z,"14 km NE of Ridgecrest, CA",earthquake,0.35,0.47,0.209,7,reviewed,ci,ci
-2024-07-01T18:21:36.030Z,38.8468322753906,-122.817665100098,1.88999998569489,0.62,md,7,137,0.008988,0.01,nc,nc75029581,2024-07-01T18:23:11.408Z,"9 km WNW of Cobb, CA",earthquake,0.47,0.959999979,0.27,8,automatic,nc,nc
