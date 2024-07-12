@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-12T19:17:56.970Z,38.7888336181641,-122.733833312988,2.04999995231628,1,md,9,91,0.0234,0.01,nc,nc75034137,2024-07-12T19:19:30.742Z,"2 km ENE of The Geysers, CA",earthquake,0.34,1.35000002,0.28,10,automatic,nc,nc
 2024-07-12T19:08:50.800Z,37.5463333129883,-118.878997802734,6.19000005722046,2.53,md,22,172,0.05894,0.03,nc,nc75034132,2024-07-12T19:11:55.890Z,"13 km SSE of Mammoth Lakes, CA",earthquake,0.4,0.74000001,0.16,26,automatic,nc,nc
 2024-07-12T19:04:35.442Z,56.4653,-158.3241,94,2.4,ml,,,,0.41,ak,ak0248x5lhw8,2024-07-12T19:06:49.924Z,"19 km NNE of Chignik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-12T18:48:01.470Z,19.386999130249,-155.247665405273,0.150000005960464,2.15,ml,25,59,0.003746,0.239999995,hv,hv74330841,2024-07-12T18:50:40.200Z,"6 km SSW of Volcano, Hawaii",earthquake,0.21,0.209999993,0.37,14,automatic,hv,hv
@@ -16,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-12T17:42:23.100Z,37.5794982910156,-121.69750213623,5.63000011444092,2.5,md,45,59,0.08666,0.07,nc,nc75034077,2024-07-12T17:45:33.100Z,"13 km SSE of Livermore, CA",earthquake,0.16,0.769999981,0.15,55,automatic,nc,nc
 2024-07-12T17:33:50.710Z,33.3885,-116.876,9.03,0.45,ml,30,42,0.03655,0.19,ci,ci40657871,2024-07-12T17:39:49.789Z,"4 km NNW of Palomar Observatory, CA",earthquake,0.22,0.61,0.165,9,automatic,ci,ci
 2024-07-12T17:18:28.151Z,64.2636,-148.947,11.5,1.1,ml,,,,0.75,ak,ak0248x4hm5b,2024-07-12T17:20:36.765Z,"11 km E of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-07-12T17:12:48.942Z,-3.7984,151.3829,10.256,5.6,mww,119,37,6.972,0.73,us,us7000myx6,2024-07-12T19:15:29.940Z,"97 km WNW of Rabaul, Papua New Guinea",earthquake,5.13,4.425,0.068,21,reviewed,us,us
+2024-07-12T17:12:48.942Z,-3.7984,151.3829,10.256,5.6,mww,119,37,6.972,0.73,us,us7000myx6,2024-07-12T19:17:04.301Z,"97 km WNW of Rabaul, Papua New Guinea",earthquake,5.13,4.425,0.068,21,reviewed,us,us
 2024-07-12T17:08:05.440Z,19.4925,-155.712,2.07,2.16,ml,26,60,0.01465,0.21,hv,hv74330691,2024-07-12T18:22:11.310Z,"16 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.43,0.89,0.120723661491065,5,reviewed,hv,hv
 2024-07-12T17:03:32.010Z,19.2596664428711,-155.39599609375,30.9500007629395,2.02,ml,45,128,0.07399,0.140000001,hv,hv74330681,2024-07-12T17:06:12.730Z,"10 km NE of Pāhala, Hawaii",earthquake,0.43,0.529999971,0.1,4,automatic,hv,hv
 2024-07-12T17:02:25.960Z,33.4663333,-116.5613333,10.12,0.55,ml,29,48,0.04435,0.13,ci,ci40657823,2024-07-12T17:08:17.763Z,"14 km SE of Anza, CA",earthquake,0.16,0.37,0.111,15,automatic,ci,ci
