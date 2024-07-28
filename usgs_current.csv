@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-27T10:58:16.325Z,31.619,-103.968,5.3436,1.9,ml,22,67,0,0.1,tx,tx2024oqwj,2024-07-27T13:29:09.715Z,"36 km WSW of Mentone, Texas",earthquake,0.31175929307837147,0.4211194345349107,0.2,18,reviewed,tx,tx
 2024-07-27T10:53:54.820Z,47.82483333333333,-120.72266666666667,5.25,0.62,ml,9,140,0.1126,0.09,uw,uw62021172,2024-07-27T17:36:22.670Z,"25 km N of Leavenworth, Washington",earthquake,0.5,0.81,0.17931944138247954,3,reviewed,uw,uw
 2024-07-27T10:53:05.014Z,63.0825,-150.6787,122.8,1.6,ml,,,,0.73,ak,ak0249ltl8lh,2024-07-27T10:55:22.993Z,"65 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-07-27T10:47:52.370Z,46.2025,-122.20283333333333,-1.76,-0.16,mh,6,98,0.008752,0.12,uw,uw62021167,2024-07-27T17:00:57.670Z,"37 km NNE of Amboy, Washington",earthquake,0.31,11.46,,0,reviewed,uw,uw
