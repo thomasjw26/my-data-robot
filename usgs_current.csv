@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-29T17:23:32.330Z,38.8216667175293,-122.764663696289,1.99000000953674,1.29,md,21,104,0.009701,0.03,nc,nc75040992,2024-07-29T17:25:10.652Z,"4 km W of Cobb, CA",earthquake,0.26,0.379999995,0.21,21,automatic,nc,nc
 2024-07-29T17:19:05.580Z,38.798999786377,-122.775329589844,3.21000003814697,0.86,md,12,87,0.01143,0.01,nc,nc75040987,2024-07-29T17:20:39.759Z,"3 km NNW of The Geysers, CA",earthquake,0.36,0.74000001,0.22,14,automatic,nc,nc
 2024-07-29T17:17:04.570Z,38.8201675415039,-122.764663696289,1.78999996185303,1.99,md,42,52,0.01108,0.05,nc,nc75040977,2024-07-29T17:20:32.060Z,"4 km W of Cobb, CA",earthquake,0.19,0.25999999,0.12,41,automatic,nc,nc
 2024-07-29T17:14:48.955Z,61.9195,-144.0393,2,1.1,ml,,,,0.25,ak,ak0249p8lpa7,2024-07-29T17:16:17.216Z,"49 km NNE of Chitina, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -101,6 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T07:23:08.042Z,38.1385,-118.2313,7.8,1.1,ml,8,59.49000000000001,0.203,0.0872,nn,nn00881616,2024-07-29T16:21:56.106Z,"29 km SSW of Mina, Nevada",earthquake,,6.3,0.09,5,reviewed,nn,nn
 2024-07-29T07:18:13.564Z,63.1372,-150.2283,85.8,1.7,ml,,,,0.52,ak,ak0249p2o5d8,2024-07-29T07:20:36.465Z,"70 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-07-29T07:17:02.384Z,63.305,-151.752,5,1.4,ml,,,,0.99,ak,ak0249p2nwse,2024-07-29T07:19:03.112Z,"26 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-29T07:06:06.970Z,48.74483333333333,-121.84316666666666,-0.08,1.37,ml,5,110,0.07563,0.1,uw,uw62021677,2024-07-29T17:23:44.490Z,"17 km SSE of Glacier, Washington",earthquake,0.71,1.91,0.08484885629778138,5,reviewed,uw,uw
 2024-07-29T06:59:44.480Z,33.4811667,-116.4443333,12.57,0.77,ml,41,74,0.04491,0.19,ci,ci40674495,2024-07-29T07:05:47.055Z,"23 km ESE of Anza, CA",earthquake,0.22,0.48,0.134,18,automatic,ci,ci
 2024-07-29T06:51:54.090Z,35.5361667,-118.4115,3.11,1.97,ml,39,35,0.1362,0.15,ci,ci40674487,2024-07-29T06:58:32.522Z,"9 km SE of Bodfish, CA",earthquake,0.15,0.63,0.239,26,automatic,ci,ci
 2024-07-29T06:51:34.680Z,19.3840007781982,-155.152160644531,3.10999989509583,1.87,ml,43,77,0.0168,0.340000004,hv,hv74372051,2024-07-29T06:54:19.040Z,"9 km S of Fern Forest, Hawaii",earthquake,0.65,0.899999976,0.18,10,automatic,hv,hv
@@ -218,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T17:43:38.551Z,55.5537,-158.7073,33.9,1.9,ml,,,,0.55,ak,ak0249nl8jr3,2024-07-28T17:45:06.058Z,"48 km SE of Perryville, Alaska",earthquake,,7.2,,,automatic,ak,ak
 2024-07-28T17:43:14.754Z,61.3849,-150.081,43.6,1.2,ml,,,,0.69,ak,ak0249nl8hwz,2024-07-28T17:45:08.489Z,"6 km WNW of Point MacKenzie, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-07-28T17:36:23.430Z,33.2266667,-116.041,3.31,1.08,ml,48,58,0.07054,0.23,ci,ci40673975,2024-07-28T17:47:10.060Z,"11 km SW of Salton City, CA",earthquake,0.19,0.36,0.133,27,automatic,ci,ci
-2024-07-28T17:24:17.026Z,39.3415,-120.0265,4.3,1.1,ml,11,124.09,0.049,0.1274,nn,nn00881591,2024-07-28T17:26:11.281Z,"5 km S of Floriston, California",earthquake,,0.8,0.2,7,automatic,nn,nn
