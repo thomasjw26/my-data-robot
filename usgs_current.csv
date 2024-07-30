@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-30T07:10:17.680Z,34.0644989,-117.3000031,17.08,2.76,ml,113,16,0.03155,0.17,ci,ci40675807,2024-07-30T07:12:29.114Z,"2 km SE of Colton, CA",earthquake,0.19,0.4,0.308,19,automatic,ci,ci
 2024-07-30T06:42:52.640Z,19.3858337402344,-155.249496459961,-0.25,2.06,ml,28,56,0.001742,0.25,hv,hv74373721,2024-07-30T06:45:30.550Z,"6 km SSW of Volcano, Hawaii",earthquake,0.15,0.109999999,0.22,16,automatic,hv,hv
 2024-07-30T06:42:28.360Z,19.4705,-155.598666666667,-0.57,0.67,md,6,126,0.01461,0.08,hv,hv74373716,2024-07-30T07:06:15.170Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.63,0.26,0.135883909372642,5,reviewed,hv,hv
 2024-07-30T06:42:22.500Z,37.3838348388672,-122.15950012207,1.21000003814697,1.99,md,32,55,0.02379,0.28,nc,nc75041352,2024-07-30T07:09:26.843Z,"2 km WNW of Los Altos Hills, CA",earthquake,0.36,1.00999999,0.1,22,automatic,nc,nc
