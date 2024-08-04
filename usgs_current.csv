@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-04T07:39:02.720Z,38.83,-122.81,1.4,0.78,md,16,48,0.004867,0.02,nc,nc75043337,2024-08-04T07:40:46.079Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.460000008,0.15,18,automatic,nc,nc
+2024-08-04T07:39:02.720Z,38.83,-122.81,1.4,0.78,md,16,48,0.004867,0.02,nc,nc75043337,2024-08-04T07:57:14.987Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.460000008,0.15,18,automatic,nc,nc
+2024-08-04T07:21:14.562Z,31.674,-104.187,4.1889,2.2,ml,18,75,0.1,0.3,tx,tx2024pfff,2024-08-04T07:59:01.052Z,"54 km NW of Toyah, Texas",earthquake,0,1.2194825440675,0.2,14,automatic,tx,tx
 2024-08-04T07:07:39.390Z,35.7453333,-117.5601667,2.18,1.27,ml,28,67,0.1268,0.13,ci,ci40861536,2024-08-04T07:19:53.764Z,"14 km W of Searles Valley, CA",earthquake,0.16,0.37,0.172,19,automatic,ci,ci
 2024-08-04T07:05:53.340Z,38.83,-122.79,1.57,0.78,md,13,49,0.00842,0.01,nc,nc75043322,2024-08-04T07:40:42.496Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.689999998,0.26,16,automatic,nc,nc
 2024-08-04T07:03:55.751Z,61.2306,-150.4408,43.5,1.3,ml,,,,0.75,ak,ak0249yzt3uf,2024-08-04T07:05:53.764Z,"28 km WSW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
