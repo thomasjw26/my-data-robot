@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-07T07:11:23.210Z,35.0853348,-119.1073303,13.06,1.82,ml,31,49,0.03292,0.21,ci,ci40866456,2024-08-07T07:13:32.193Z,"23 km NW of Grapevine, CA",earthquake,0.4,0.84,0.32,24,automatic,ci,ci
+2024-08-07T07:11:21.752Z,35.1815,-119.2655,8,4,mw,4,,,,ew,ew1723014690,2024-08-07T07:11:31.295Z,"12 km ESE of Dustin Acres, California",earthquake,20.161,5,0.4,4,automatic,ew,ew
+2024-08-07T07:10:32.450Z,35.0893326,-119.117836,11.25,1.65,ml,20,92,0.04147,0.18,ci,ci40866448,2024-08-07T07:12:36.701Z,"24 km NW of Grapevine, CA",earthquake,0.69,1.11,0.293,10,automatic,ci,ci
+2024-08-07T07:10:05.970Z,35.0970001,-119.1255035,12.99,1.33,ml,17,93,0.05136,0.11,ci,ci40866440,2024-08-07T07:12:16.183Z,"25 km NW of Grapevine, CA",earthquake,0.64,0.75,0.361,5,automatic,ci,ci
 2024-08-07T07:06:14.680Z,35.0913315,-119.1119995,11.81,2.3,ml,68,31,0.04002,0.31,ci,ci40866432,2024-08-07T07:08:35.161Z,"23 km NW of Grapevine, CA",earthquake,0.3,0.93,0.457,24,automatic,ci,ci
 2024-08-07T07:06:03.800Z,35.0950012,-119.1115036,4.8,1.32,ml,21,102,0.04284,0.19,ci,ci40866424,2024-08-07T07:08:20.159Z,"24 km NW of Grapevine, CA",earthquake,0.5,0.92,0.423,3,automatic,ci,ci
 2024-08-07T07:04:22.700Z,32.8886681,-116.2093353,11.39,1.02,ml,23,97,0.135,0.18,ci,ci40866416,2024-08-07T07:06:27.145Z,"26 km NW of Ocotillo, CA",earthquake,0.4,0.96,0.339,3,automatic,ci,ci
@@ -100,13 +104,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T05:03:44.640Z,35.0999985,-119.0686646,9.77,3.21,ml,72,36,0.04313,0.34,ci,ci40865656,2024-08-07T05:54:07.040Z,"22 km NW of Grapevine, CA",earthquake,0.26,0.69,0.386,24,automatic,ci,ci
 2024-08-07T05:03:31.970Z,35.0916672,-119.1119995,11.82,2.27,ml,63,33,0.04029,0.3,ci,ci40865648,2024-08-07T05:14:38.050Z,"23 km NW of Grapevine, CA",earthquake,0.27,0.89,0.39,27,automatic,ci,ci
 2024-08-07T05:01:39.540Z,35.1073341,-119.1253357,9.43,2.01,ml,18,94,0.2398,0.17,ci,ci40865640,2024-08-07T05:03:46.000Z,"26 km NW of Grapevine, CA",earthquake,0.54,1.36,0.436,5,automatic,ci,ci
-2024-08-07T05:01:03.680Z,35.0993347,-119.1126633,12.77,2.3,ml,61,25,0.04703,0.28,ci,ci40865632,2024-08-07T05:03:34.321Z,"24 km NW of Grapevine, CA",earthquake,0.27,0.89,0.29,26,automatic,ci,ci
+2024-08-07T05:01:03.410Z,35.1038333,-119.1096667,3.16,2.32,ml,52,23,0.04987,0.28,ci,ci40865632,2024-08-07T07:12:34.547Z,"24 km NW of Grapevine, CA",earthquake,0.25,1.25,0.181,25,automatic,ci,ci
 2024-08-07T04:58:48.290Z,35.1031667,-119.1158333,12.96,1.75,ml,17,196,0.05165,0.15,ci,ci40865624,2024-08-07T07:09:06.164Z,"24 km NW of Grapevine, CA",earthquake,1.07,0.58,0.163,27,automatic,ci,ci
 2024-08-07T04:58:08.662Z,31.661,-104.358,4.273,1.5,ml,15,69,0.1,0.2,tx,tx2024pknb,2024-08-07T05:24:48.219Z,"57 km S of Whites City, New Mexico",earthquake,0,1.3530520130938497,0.2,12,automatic,tx,tx
 2024-08-07T04:57:19.370Z,35.083,-119.0851667,12.55,2.09,ml,48,36,0.02437,0.28,ci,ci40865616,2024-08-07T07:05:28.955Z,"21 km NW of Grapevine, CA",earthquake,0.26,0.61,0.183,29,automatic,ci,ci
 2024-08-07T04:56:43.970Z,35.0945,-119.1055,7.65,2.15,ml,44,71,0.04,0.23,ci,ci40865608,2024-08-07T07:01:35.178Z,"23 km NW of Grapevine, CA",earthquake,0.31,1.06,0.191,26,automatic,ci,ci
 2024-08-07T04:55:26.140Z,34.1515,-117.4188333,4.33,1.33,ml,44,42,0.04161,0.15,ci,ci40865600,2024-08-07T06:53:51.789Z,"7 km NW of Rialto, CA",earthquake,0.19,0.32,0.167,29,automatic,ci,ci
-2024-08-07T04:54:23.550Z,35.1016667,-119.104,3.14,2.7,ml,60,24,0.04605,0.27,ci,ci40865592,2024-08-07T06:49:53.172Z,"24 km NW of Grapevine, CA",earthquake,0.21,1.09,0.139,25,automatic,ci,ci
+2024-08-07T04:54:23.550Z,35.1016667,-119.104,3.14,2.7,ml,60,24,0.04605,0.27,ci,ci40865592,2024-08-07T07:11:08.027Z,"24 km NW of Grapevine, CA",earthquake,0.21,1.09,0.139,25,automatic,ci,ci
 2024-08-07T04:53:29.500Z,35.1078333,-119.1216667,2.34,2.64,ml,53,30,0.05811,0.29,ci,ci40865584,2024-08-07T06:55:09.876Z,"25 km NW of Grapevine, CA",earthquake,0.29,1.15,0.155,27,automatic,ci,ci
 2024-08-07T04:52:20.090Z,35.1036682,-119.1106644,9.74,3.02,ml,72,30,0.05007,0.36,ci,ci40865576,2024-08-07T05:06:42.920Z,"24 km NW of Grapevine, CA",earthquake,0.31,0.76,0.389,24,reviewed,ci,ci
 2024-08-07T04:52:05.090Z,35.0828333,-119.0851667,0.96,2.03,ml,28,69,0.0242,0.22,ci,ci40865568,2024-08-07T06:44:15.560Z,"21 km NW of Grapevine, CA",earthquake,0.29,1.28,0.267,26,automatic,ci,ci
@@ -131,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T04:36:36.550Z,35.0766667,-119.0965,1.11,2.2,ml,32,103,0.02082,0.22,ci,ci40865416,2024-08-07T05:38:04.112Z,"21 km NW of Grapevine, CA",earthquake,0.31,1.01,0.106,27,automatic,ci,ci
 2024-08-07T04:36:22.880Z,35.0835,-119.0925,0.41,2.23,ml,42,36,0.02585,0.29,ci,ci40865408,2024-08-07T05:34:54.381Z,"22 km NW of Grapevine, CA",earthquake,0.33,1.18,0.138,26,automatic,ci,ci
 2024-08-07T04:35:21.860Z,35.0805,-119.0881667,2.32,2.5,ml,58,22,0.02214,0.26,ci,ci40865400,2024-08-07T06:46:53.068Z,"21 km NW of Grapevine, CA",earthquake,0.22,1.07,0.168,25,automatic,ci,ci
-2024-08-07T04:33:31.550Z,35.099,-119.087,1.29,2.42,ml,40,105,0.04039,0.26,ci,ci40865392,2024-08-07T05:29:54.635Z,"22 km NW of Grapevine, CA",earthquake,0.32,1.23,0.159,25,automatic,ci,ci
+2024-08-07T04:33:31.550Z,35.099,-119.087,1.29,2.42,ml,40,105,0.04039,0.26,ci,ci40865392,2024-08-07T07:12:42.824Z,"22 km NW of Grapevine, CA",earthquake,0.32,1.23,0.159,25,automatic,ci,ci
 2024-08-07T04:32:09.680Z,35.094,-119.0833333,-0.99,2.45,ml,54,43,0.03532,0.33,ci,ci40865384,2024-08-07T05:28:03.105Z,"22 km NW of Grapevine, CA",earthquake,0.31,0.96,0.145,26,automatic,ci,ci
 2024-08-07T04:30:46.220Z,35.1041667,-119.102,0.36,2.45,ml,45,31,0.04785,0.26,ci,ci40865376,2024-08-07T05:26:26.073Z,"24 km NW of Grapevine, CA",earthquake,0.25,1.06,0.149,31,automatic,ci,ci
 2024-08-07T04:30:27.920Z,51.791,178.4828,106.9,2.1,ml,,,,0.16,ak,ak024a3wsllm,2024-08-07T06:15:02.614Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.8,,,reviewed,ak,ak
