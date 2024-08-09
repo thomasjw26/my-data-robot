@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-09T19:44:14.070Z,36.0763321,-117.9059982,4.16,1.93,ml,28,64,0.05839,0.18,ci,ci40695639,2024-08-09T19:46:42.169Z,"5 km NE of Coso Junction, CA",earthquake,0.29,0.63,0.251,22,automatic,ci,ci
-2024-08-09T19:41:07.730Z,35.1003342,-119.1053314,9.25,1.66,ml,18,92,0.2241,0.18,ci,ci40695631,2024-08-09T19:43:37.154Z,"24 km NW of Grapevine, CA",earthquake,0.5,2.23,0.306,8,automatic,ci,ci
+2024-08-09T19:44:14.070Z,36.0743333,-117.9056667,4.99,1.87,ml,30,57,0.05963,0.15,ci,ci40695639,2024-08-09T19:50:57.106Z,"5 km NE of Coso Junction, CA",earthquake,0.18,0.46,0.166,26,automatic,ci,ci
+2024-08-09T19:41:07.860Z,35.089,-119.0893333,10.18,1.47,ml,29,82,0.2071,0.22,ci,ci40695631,2024-08-09T19:47:42.987Z,"22 km NW of Grapevine, CA",earthquake,0.3,0.85,0.246,31,automatic,ci,ci
 2024-08-09T19:39:55.366Z,58.3182,-155.2554,76,1.3,ml,,,,0.73,ak,ak024a7gurbk,2024-08-09T19:41:40.197Z,"91 km ESE of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-09T19:39:53.258Z,66.1692,-147.9549,9.8,1.3,ml,,,,0.85,ak,ak024a7gur5p,2024-08-09T19:41:55.367Z,"32 km SW of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-09T19:35:28.637Z,36.5495,-115.5453,2.7,0.6,ml,12,318.44000000000005,0.353,0.1891,nn,nn00882144,2024-08-09T19:37:25.746Z,"11 km ESE of Indian Springs, Nevada",earthquake,,12.6,0.24,8,automatic,nn,nn
@@ -264,4 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T20:16:48.860Z,38.79,-122.78,1.71,1.52,md,27,79,0.008566,0.03,nc,nc75045907,2024-08-08T22:15:59.550Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.330000013,0.13,26,automatic,nc,nc
 2024-08-08T20:06:12.587Z,43.759,86.3093,10,4.4,mb,65,101,4.154,0.68,us,us6000niyn,2024-08-09T14:57:12.040Z,"64 km SSE of Shihezi, China",earthquake,9.74,1.898,0.068,62,reviewed,us,us
 2024-08-08T19:53:58.610Z,53.2901666666667,-168.158,23.43,0.9,ml,7,308,0.06651,0.27,av,av93224281,2024-08-09T01:06:34.440Z,"61 km NE of Nikolski, Alaska",earthquake,2.15,1.34,0.312981988187378,6,reviewed,av,av
-2024-08-08T19:47:53.819Z,31.9401,131.4443,33.144,4.3,mb,41,124,5.573,0.84,us,us6000niyp,2024-08-09T15:24:22.040Z,"3 km NE of Miyazaki, Japan",earthquake,12.32,7.311,0.097,30,reviewed,us,us
