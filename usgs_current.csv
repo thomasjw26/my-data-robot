@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-10T09:55:34.021Z,64.7718,-149.0049,21.5,1.5,ml,,,,0.47,ak,ak024a8yj5kq,2024-08-10T09:57:58.056Z,"19 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-10T09:54:51.500Z,35.0938339,-119.1100006,13.7,1.52,ml,14,125,0.0412,0.13,ci,ci40696159,2024-08-10T09:57:14.327Z,"23 km NW of Grapevine, CA",earthquake,0.62,1.04,0.307,4,automatic,ci,ci
 2024-08-10T09:46:50.270Z,38.87,-122.81,0.72,1.1,md,16,133,0.01034,0.03,nc,nc75046627,2024-08-10T09:48:26.973Z,"9 km NW of Cobb, CA",earthquake,0.43,0.579999983,0.15,16,automatic,nc,nc
 2024-08-10T09:44:58.060Z,19.17799949646,-155.485000610352,29.9400005340576,1.95000005,md,43,86,0.03119,0.140000001,hv,hv74393886,2024-08-10T09:46:41.780Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.58,0.829999983,0.0500000007,4,automatic,hv,hv
 2024-08-10T09:34:32.494Z,62.5672,-151.0089,78,1.6,ml,,,,0.41,ak,ak024a8yenf5,2024-08-10T09:37:16.502Z,"14 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
