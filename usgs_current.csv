@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-12T04:39:42.970Z,35.090332,-119.1013336,13.87,1.68,ml,15,133,0.03477,0.16,ci,ci40698215,2024-08-12T04:42:05.545Z,"23 km NW of Grapevine, CA",earthquake,0.66,1.41,0.234,3,automatic,ci,ci
 2024-08-12T04:33:28.450Z,38.84,-122.81,2.03,0.72,md,11,80,0.01223,0.02,nc,nc75047512,2024-08-12T04:35:08.071Z,"8 km WNW of Cobb, CA",earthquake,0.37,0.800000012,0.45,13,automatic,nc,nc
 2024-08-12T04:28:42.970Z,67.8392,-160.8283,4.7,1.8,ml,,,,0.42,ak,ak024ac6gww9,2024-08-12T04:30:59.588Z,"89 km ESE of Red Dog Mine, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-12T04:27:31.030Z,58.7886,-153.1335,48.8,2,ml,,,,0.82,ak,ak024ac6go9b,2024-08-12T04:29:19.994Z,"82 km N of Aleneva, Alaska",earthquake,,1,,,automatic,ak,ak
