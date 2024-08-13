@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-12T23:47:57.270Z,33.4226685,-116.4335022,11.83,1.22,ml,34,43,0.1198,0.18,ci,ci40699583,2024-08-12T23:53:30.934Z,"19 km NNW of Borrego Springs, CA",earthquake,0.32,0.97,0.236,12,automatic,ci,ci
-2024-08-12T23:46:59.660Z,35.086,-119.1393333,12.05,1.52,ml,33,78,0.05312,0.26,ci,ci40699575,2024-08-12T23:53:35.784Z,"24 km E of Maricopa, CA",earthquake,0.31,0.85,0.184,27,automatic,ci,ci
+2024-08-12T23:52:19.677Z,35.34797287,-97.92726898,7.151576042,1.6,ml,14,92.4803009,0.04328227788,0.7283143811,ok,ok2024pvby,2024-08-13T00:00:43.367Z,"4 km NNE of Minco, Oklahoma",earthquake,3.426282016,3.882290664,0.2,10,automatic,ok,ok
+2024-08-12T23:47:57.370Z,33.4238333,-116.4371667,11.12,1.07,ml,49,30,0.1132,0.19,ci,ci40699583,2024-08-12T23:54:13.288Z,"20 km NNW of Borrego Springs, CA",earthquake,0.19,0.35,0.161,27,automatic,ci,ci
+2024-08-12T23:46:59.660Z,35.086,-119.1393333,12.05,1.52,ml,33,78,0.05312,0.26,ci,ci40699575,2024-08-12T23:54:07.071Z,"24 km E of Maricopa, CA",earthquake,0.31,0.85,0.184,27,automatic,ci,ci
 2024-08-12T23:28:43.060Z,19.154167175293,-155.398330688477,31.3600006103516,2.35,ml,60,174,0.06031,0.129999995,hv,hv74396961,2024-08-12T23:31:22.430Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.43,0.540000021,0.4,26,automatic,hv,hv
 2024-08-12T23:21:14.580Z,34.086,-118.1916667,10.41,1.55,ml,39,46,0.05012,0.14,ci,ci40699551,2024-08-12T23:48:10.427Z,"4 km S of Highland Park, CA",earthquake,0.18,0.29,0.163,30,automatic,ci,ci
 2024-08-12T23:03:58.710Z,34.0915,-118.1871667,9.99,1.63,ml,47,36,0.03004,0.21,ci,ci40699535,2024-08-12T23:47:19.233Z,"3 km SSE of Highland Park, CA",earthquake,0.23,0.36,0.176,29,automatic,ci,ci
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T21:43:53.500Z,19.4591674804688,-155.88883972168,7.44000005722046,1.75,md,21,162,0.03916,0.25,hv,hv74396791,2024-08-12T21:45:35.700Z,"2 km W of Honaunau-Napoopoo, Hawaii",earthquake,0.71,0.639999986,0.0799999982,3,automatic,hv,hv
 2024-08-12T21:40:58.992Z,53.6517,-167.0519,5.9,1.9,ml,,,,0.58,ak,ak024acgnw1z,2024-08-12T21:49:17.675Z,"42 km SW of Unalaska, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2024-08-12T21:29:59.620Z,37.7538333333333,-113.208333333333,9.27,0.85,ml,8,107,0.129,0.11,uu,uu80078331,2024-08-12T22:48:58.080Z,"15 km WNW of Cedar City, Utah",earthquake,0.79,2.09,0.104245349269006,4,reviewed,uu,uu
-2024-08-12T21:23:04.310Z,34.0861667,-118.1955,11.08,1.23,ml,21,72,0.02136,0.15,ci,ci40699415,2024-08-12T23:46:15.616Z,"4 km S of Highland Park, CA",earthquake,0.31,0.38,0.146,15,reviewed,ci,ci
+2024-08-12T21:23:04.310Z,34.0861667,-118.1955,11.08,1.23,ml,21,72,0.02136,0.15,ci,ci40699415,2024-08-12T23:56:14.764Z,"4 km S of Highland Park, CA",earthquake,0.31,0.38,0.146,15,reviewed,ci,ci
 2024-08-12T21:17:56.832Z,60.5263,-143.042,0,2,ml,,,,0.59,ak,ak024acgiydf,2024-08-12T21:19:43.490Z,"101 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-12T21:10:15.190Z,46.142833333333336,-119.12116666666667,-0.24,1.6600000000000001,ml,12,176,0.1448,0.27,uw,uw62035186,2024-08-12T23:41:47.459Z,"1 km NNW of Highland, Washington",explosion,1.24,31.61,0.025902510011454605,3,reviewed,uw,uw
 2024-08-12T21:01:32.940Z,34.0813333,-118.1943333,10.36,0.97,ml,11,130,0.04618,0.11,ci,ci40699375,2024-08-12T21:46:49.388Z,"4 km S of Highland Park, CA",earthquake,0.41,0.77,0.128,10,reviewed,ci,ci
@@ -53,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T19:30:11.850Z,19.3864994049072,-155.126831054688,1.99000000953674,1.71,ml,14,131,0.0021,0.129999995,hv,hv74396586,2024-08-12T19:32:49.740Z,"8 km S of Fern Forest, Hawaii",earthquake,0.85,0.25,0.31,3,automatic,hv,hv
 2024-08-12T19:23:19.181Z,61.8586,-150.5966,57.2,1.3,ml,,,,0.24,ak,ak024acfdajy,2024-08-12T19:25:17.059Z,"31 km WNW of Willow, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-08-12T19:22:43.320Z,34.0853333,-118.1838333,10.46,2.05,ml,22,69,0.02979,0.16,ci,ci40699215,2024-08-12T20:47:17.655Z,"4 km SSE of Highland Park, CA",earthquake,0.3,0.54,0.161,19,reviewed,ci,ci
-2024-08-12T19:20:24.670Z,34.0825,-118.1788333,10.98,4.39,mw,192,24,0.03299,0.24,ci,ci40699207,2024-08-12T23:51:46.731Z,"4 km SSE of Highland Park, CA",earthquake,0.12,0.22,,6,reviewed,ci,ci
+2024-08-12T19:20:24.670Z,34.0825,-118.1788333,10.98,4.39,mw,192,24,0.03299,0.24,ci,ci40699207,2024-08-12T23:57:16.091Z,"4 km SSE of Highland Park, CA",earthquake,0.12,0.22,,6,reviewed,ci,ci
 2024-08-12T19:12:12.545Z,-5.495,128.7465,326.354,4.9,mb,72,30,4.33,0.48,us,us6000njny,2024-08-12T19:31:20.040Z,"208 km SSE of Ambon, Indonesia",earthquake,7.11,6.817,0.049,131,reviewed,us,us
 2024-08-12T19:10:38.610Z,34.114,-117.3246667,16.26,1.53,ml,63,31,0.1274,0.17,ci,ci40699183,2024-08-12T19:55:27.442Z,"3 km WSW of San Bernardino, CA",earthquake,0.16,0.35,0.215,29,automatic,ci,ci
 2024-08-12T19:03:49.610Z,46.0005,-112.474,-2,1.85,ml,9,112,0.05854,0.1,mb,mb90059223,2024-08-12T23:35:50.840Z,"4 km E of Butte, Montana",quarry blast,0.6,31.61,0.179075758793563,15,reviewed,mb,mb
@@ -139,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T12:29:10.046Z,62.4195,-148.0016,43,1.3,ml,,,,0.36,ak,ak024acb8iws,2024-08-12T12:30:33.121Z,"68 km NW of Eureka Roadhouse, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-12T12:27:18.100Z,18.6735,-64.2981666666667,43.48,3.39,md,9,325,0.3961,0.1,pr,pr71457313,2024-08-12T12:49:28.650Z,"64 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.89,2.19,0.104375932659449,5,reviewed,pr,pr
 2024-08-12T12:24:06.740Z,35.1235,-119.0861667,6.94,1.52,ml,36,79,0.06478,0.25,ci,ci40698591,2024-08-12T16:32:19.503Z,"22 km SW of Lamont, CA",earthquake,0.3,0.82,0.114,28,automatic,ci,ci
-2024-08-12T12:16:24.770Z,33.2321667,-116.033,3.73,0.71,ml,30,113,0.07464,0.2,ci,ci40698575,2024-08-12T12:22:43.207Z,"10 km SW of Salton City, CA",earthquake,0.27,0.5,0.078,8,automatic,ci,ci
+2024-08-12T12:16:24.790Z,33.23,-116.0376667,3.31,0.72,ml,26,93,0.0755,0.21,ci,ci40698575,2024-08-12T23:57:50.882Z,"11 km SW of Salton City, CA",earthquake,0.33,0.54,0.053,10,reviewed,ci,ci
 2024-08-12T12:13:16.280Z,38.83,-122.81,1.54,0.49,md,7,101,0.007699,0.01,nc,nc75047612,2024-08-12T13:16:02.998Z,"8 km NNW of The Geysers, CA",earthquake,0.42,1.49000001,0.32,8,automatic,nc,nc
 2024-08-12T12:06:30.830Z,34.2726667,-116.9498333,5.69,1.03,ml,47,59,0.02621,0.14,ci,ci40698559,2024-08-12T13:28:21.840Z,"5 km NW of Big Bear Lake, CA",earthquake,0.17,0.26,0.209,23,reviewed,ci,ci
 2024-08-12T11:58:00.850Z,35.9501667,-117.6816667,5.19,1.32,ml,24,83,0.02549,0.13,ci,ci40698551,2024-08-12T12:03:58.534Z,"20 km E of Little Lake, CA",earthquake,0.17,0.47,0.09,16,automatic,ci,ci
