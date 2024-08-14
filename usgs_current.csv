@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T18:02:59.840Z,19.2516666666667,-155.396166666667,31.38,3.69,ml,60,103,0.01415,0.13,hv,hv74400346,2024-08-14T21:42:56.227Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.39,0.39,0.216001678124665,42,reviewed,hv,hv
 2024-08-14T17:55:38.725Z,-7.7619,106.0258,14.663,5,mww,104,55,1.637,0.92,us,us6000nk4l,2024-08-14T18:18:12.040Z,"103 km SW of Pelabuhanratu, Indonesia",earthquake,5.11,3.318,0.11,8,reviewed,us,us
 2024-08-14T17:55:27.003Z,59.0535,-151.1761,31.1,1.5,ml,,,,0.34,ak,ak024afpfzuk,2024-08-14T17:57:40.738Z,"49 km SE of Port Graham, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-08-14T17:54:38.080Z,35.9638333,-117.6575,3.08,2.46,ml,33,94,0.01692,0.13,ci,ci40701935,2024-08-14T22:36:12.264Z,"23 km E of Little Lake, CA",earthquake,0.17,0.26,0.243,25,reviewed,ci,ci
+2024-08-14T17:54:38.080Z,35.9638333,-117.6575,3.08,2.46,ml,33,94,0.01692,0.13,ci,ci40701935,2024-08-14T22:36:39.219Z,"23 km E of Little Lake, CA",earthquake,0.17,0.26,0.243,25,reviewed,ci,ci
 2024-08-14T17:48:09.680Z,33.3621667,-116.4131667,7.7,0.66,ml,32,53,0.05228,0.16,ci,ci40701911,2024-08-14T20:03:49.675Z,"12 km NNW of Borrego Springs, CA",earthquake,0.2,0.67,0.122,14,reviewed,ci,ci
 2024-08-14T17:45:53.650Z,38.83,-122.82,1.65,1.08,md,18,51,0.009566,0.01,nc,nc75048346,2024-08-14T19:46:35.226Z,"8 km NNW of The Geysers, CA",earthquake,0.21,0.600000024,0.26,22,automatic,nc,nc
 2024-08-14T17:37:09.230Z,35.921,-117.7703333,2.52,1.42,ml,24,52,0.101,0.11,ci,ci40701871,2024-08-14T17:43:52.955Z,"12 km E of Little Lake, CA",earthquake,0.16,0.32,0.098,19,automatic,ci,ci
