@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-15T15:51:34.594Z,36.6228,-115.6594,6.1,0.4,ml,13,301.54999999999995,0.246,0.1179,nn,nn00882486,2024-08-15T15:53:33.683Z,"5 km N of Indian Springs, Nevada",earthquake,,1.4,0.18,8,automatic,nn,nn
+2024-08-15T15:49:20.714Z,62.9196,-151.264,101.1,1.4,ml,,,,0.23,ak,ak024ahbr6cn,2024-08-15T15:51:49.386Z,"53 km NNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-15T15:46:44.798Z,64.4196,-146.6786,0,1,ml,,,,0.4,ak,ak024ahbql0y,2024-08-15T15:48:55.665Z,"6 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-15T15:26:04.430Z,19.1618328094482,-155.481674194336,31.5100002288818,1.86,ml,45,116,0.01956,0.189999998,hv,hv74402616,2024-08-15T15:28:41.210Z,"4 km S of Pāhala, Hawaii",earthquake,0.61,0.970000029,0.89,4,automatic,hv,hv
 2024-08-15T15:23:52.221Z,62.9919,-150.361,101.4,1.3,ml,,,,0.71,ak,ak024ahblo5y,2024-08-15T15:25:50.252Z,"58 km NNE of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -276,6 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T16:18:32.720Z,33.2478333,-116.0308333,3.88,0.72,ml,30,83,0.04956,0.23,ci,ci40701767,2024-08-14T16:31:27.873Z,"9 km SW of Salton City, CA",earthquake,0.24,0.56,0.188,11,automatic,ci,ci
 2024-08-14T16:14:21.668Z,36.6251,-115.7413,9,0.4,ml,11,336.81999999999994,0.181,0.06,nn,nn00882452,2024-08-15T02:41:23.178Z,"8 km NW of Indian Springs, Nevada",earthquake,,7.1,0.23,4,reviewed,nn,nn
 2024-08-14T16:12:05.925Z,61.6236,-149.9179,35.8,1.2,ml,,,,0.64,ak,ak024afolats,2024-08-14T16:14:18.556Z,"5 km W of Houston, Alaska",earthquake,,4.5,,,automatic,ak,ak
-2024-08-14T15:54:22.306Z,-9.3575,107.7615,16.904,4.3,mb,21,110,1.886,0.74,us,us6000nk3y,2024-08-14T21:23:27.040Z,"223 km SSW of Kawalu, Indonesia",earthquake,6.63,4.399,0.143,14,reviewed,us,us
-2024-08-14T15:52:25.659Z,31.649,-104.299,6.665,3.1,ml,29,68,0,0.1,tx,tx2024pydc,2024-08-14T16:39:32.570Z,"58 km S of Whites City, New Mexico",earthquake,0.5166160898106726,0.6974212796475138,0.1,30,reviewed,tx,tx
-2024-08-14T15:51:41.700Z,56.1813333333333,-159.409833333333,0.51,-0.18,ml,6,105,0.04588,0.23,av,av93018464,2024-08-15T00:29:56.330Z,"31 km N of Ivanof Bay, Alaska",earthquake,0.69,3.76,0.132495399949056,6,reviewed,av,av
