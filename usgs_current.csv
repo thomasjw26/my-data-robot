@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-19T07:21:23.880Z,19.3856658935547,-155.259170532227,0.610000014305115,2.24,ml,26,43,0.007422,0.189999998,hv,hv74409976,2024-08-19T07:23:59.450Z,"6 km SSW of Volcano, Hawaii",earthquake,0.16,0.140000001,0.32,15,automatic,hv,hv
 2024-08-19T07:13:25.670Z,19.3818340301514,-155.235992431641,1.8400000333786,1.92,ml,31,76,0.009306,0.200000003,hv,hv74409956,2024-08-19T07:16:04.640Z,"6 km S of Volcano, Hawaii",earthquake,0.26,0.209999993,0.2,13,automatic,hv,hv
 2024-08-19T06:20:04.400Z,19.3763332366943,-155.172668457031,2.42000007629395,1.7,ml,27,81,0.004441,0.189999998,hv,hv74409876,2024-08-19T06:22:43.050Z,"9 km SE of Volcano, Hawaii",earthquake,0.57,0.460000008,0.32,4,automatic,hv,hv
 2024-08-19T06:15:58.892Z,52.5131,160.601,35,5,mb,115,134,1.291,0.93,us,us7000n7vn,2024-08-19T06:39:53.489Z,"146 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.35,1.851,0.038,219,reviewed,us,us
@@ -189,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T08:06:17.350Z,17.9598333333333,-66.9983333333333,13.49,3.01,md,24,184,0.04471,0.14,pr,pr71457693,2024-08-18T08:46:38.040Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.4,0.2,0.103566400332441,11,reviewed,pr,pr
 2024-08-18T07:58:41.766Z,64.8681,-147.9778,12.9,1.5,ml,,,,0.92,ak,ak024am5nq28,2024-08-18T08:00:54.397Z,"2 km NE of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-18T07:46:39.070Z,37.5188,-116.7348,8.5,0.6,ml,8,304.33000000000004,0.375,0.1961,nn,nn00882614,2024-08-18T07:48:47.318Z,"48 km ESE of Goldfield, Nevada",earthquake,,19.2,0.52,5,automatic,nn,nn
-2024-08-18T07:19:06.491Z,66.7429,-153.8826,8.4,1.6,ml,,,,0.34,ak,ak024am5faex,2024-08-18T07:21:34.103Z,"55 km WNW of Alatna, Alaska",earthquake,,1.7,,,automatic,ak,ak
