@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-23T07:22:59.300Z,35.9703333,-117.6576667,2.3,2.02,ml,28,94,0.02315,0.14,ci,ci40711839,2024-08-23T07:29:49.329Z,"23 km E of Little Lake, CA",earthquake,0.18,0.16,0.202,26,automatic,ci,ci
+2024-08-23T07:22:09.142Z,18.9299,-64.9921,52.958,3.1,ml,12,247,0.575,0.26,us,us7000n8y4,2024-08-23T07:43:03.040Z,"65 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,10.81,25.053,0.074,24,reviewed,us,us
 2024-08-23T07:09:39.092Z,52.7945,160.8672,34.936,4.9,mb,74,117,1.362,0.87,us,us7000n8y3,2024-08-23T07:27:37.040Z,"153 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.61,3.23,0.032,299,reviewed,us,us
 2024-08-23T07:00:06.886Z,61.2866,-146.7595,22.5,1.4,ml,,,,0.32,ak,ak024auezyb4,2024-08-23T07:01:44.767Z,"28 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-23T06:42:01.220Z,33.4723333,-116.5101667,12.25,1.1,ml,56,55,0.08009,0.18,ci,ci40711831,2024-08-23T06:52:47.190Z,"18 km ESE of Anza, CA",earthquake,0.16,0.42,0.189,29,automatic,ci,ci
@@ -203,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T08:05:35.830Z,38.839168548584,-122.841003417969,1.62000000476837,0.61,md,8,128,0.004347,0.02,nc,nc75051676,2024-08-22T08:50:56.440Z,"10 km NW of The Geysers, CA",earthquake,0.37,0.879999995,0.15,8,automatic,nc,nc
 2024-08-22T08:05:02.480Z,38.839168548584,-122.841163635254,1.51999998092651,0.5,md,11,117,0.004471,0.01,nc,nc75051671,2024-08-22T08:06:38.643Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.519999981,0.4,10,automatic,nc,nc
 2024-08-22T07:50:01.315Z,60.0999,-141.6363,13.5,1.2,ml,,,,1.19,ak,ak024asrrb6r,2024-08-22T07:52:48.817Z,"123 km WNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-08-22T07:43:06.350Z,45.8515,-122.9365,20.67,1.1,ml,21,79,0.03802,0.13,uw,uw62039516,2024-08-22T20:10:39.760Z,"7 km WNW of Warren, Oregon",earthquake,0.27,0.45,0.1639528136600863,10,reviewed,uw,uw
-2024-08-22T07:41:17.370Z,19.3875007629395,-155.261337280273,0.509999990463257,1.74,ml,15,64,0.009671,0.140000001,hv,hv74419176,2024-08-22T07:43:55.450Z,"6 km SSW of Volcano, Hawaii",earthquake,0.17,0.219999999,0.11,6,automatic,hv,hv
