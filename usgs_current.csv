@@ -191,6 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T10:54:07.498Z,61.3165,-152.2714,13,0.9,ml,,,,0.07,ak,ak024astkhcd,2024-08-23T00:04:26.350Z,"66 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-22T10:53:42.430Z,61.31,-152.268833333333,4.81,-0.23,ml,4,178,0.07143,0.13,av,av93019054,2024-08-23T00:01:04.570Z,"66 km WNW of Beluga, Alaska",earthquake,1.18,2.88,0.158847386604481,4,reviewed,av,av
 2024-08-22T10:52:44.890Z,19.327,-155.122666666667,6.56,4.74,ml,57,132,0.04137,0.12,hv,hv74419396,2024-08-23T07:31:43.523Z,"15 km S of Fern Forest, Hawaii",earthquake,0.25,0.3,0.306465695676575,36,reviewed,hv,hv
-2024-08-22T10:51:23.184Z,40.4036,-119.78,14.5,0.6,ml,3,311.38,0.237,0.0312,nn,nn00882822,2024-08-23T02:04:03.285Z,"41 km WSW of Empire, Nevada",earthquake,,19.4,0.12,2,reviewed,nn,nn
-2024-08-22T10:47:06.520Z,61.3205,-152.2715,3.84,-0.34,ml,4,170,0.0785,0.07,av,av93019049,2024-08-22T23:44:05.200Z,"66 km WNW of Beluga, Alaska",earthquake,1.22,0.81,0.120424212497247,4,reviewed,av,av
-2024-08-22T10:46:24.270Z,61.3213333333333,-152.273666666667,3.91,0.25,ml,7,116,0.07852,0.08,av,av93237586,2024-08-22T23:48:08.480Z,"67 km WNW of Beluga, Alaska",earthquake,0.26,0.35,0.181131713850214,7,reviewed,av,av
