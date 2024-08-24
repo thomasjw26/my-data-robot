@@ -258,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-23T05:01:14.968Z,58.8761,-154.4071,124.2,2.1,ml,,,,0.65,ak,ak024audtbgy,2024-08-23T06:03:51.040Z,"66 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-23T04:48:56.982Z,-52.9388,21.0197,10,5.5,mb,42,69,20.547,0.76,us,us7000n8wt,2024-08-23T16:10:21.040Z,"south of Africa",earthquake,13.14,1.875,0.087,46,reviewed,us,us
 2024-08-23T04:47:33.210Z,46.37383333333333,-122.33266666666667,13.5,0.81,ml,26,64,0.06817,0.1,uw,uw62039846,2024-08-23T05:33:00.100Z,"20 km SE of Mossyrock, Washington",earthquake,0.23,0.41,0.09155512675728722,8,reviewed,uw,uw
-2024-08-23T04:45:17.675Z,-52.9114,21.0427,10,5.5,mb,33,80,20.52,0.79,us,us7000n8wr,2024-08-23T15:47:13.040Z,"south of Africa",earthquake,13.43,1.882,0.104,32,reviewed,us,us
