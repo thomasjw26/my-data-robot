@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-26T19:31:16.570Z,19.1606674194336,-155.46516418457,31.4799995422363,1.74000001,md,21,244,0.09965,0.170000002,hv,hv74424917,2024-08-26T19:32:44.240Z,"4 km SSE of Pāhala, Hawaii",earthquake,1.29,0.920000017,0.150000006,4,automatic,hv,hv
 2024-08-26T18:52:45.500Z,38.8235015869141,-122.811332702637,2.42000007629395,0.76,md,7,120,0.000989,0.02,nc,nc75053741,2024-08-26T19:17:16.769Z,"7 km NNW of The Geysers, CA",earthquake,0.53,1.5,0.1,10,automatic,nc,nc
 2024-08-26T18:48:22.485Z,38.7447,-118.6827,4.7,1.9,ml,13,152.29999999999998,0.497,0.257,nn,nn00883042,2024-08-26T18:51:36.564Z,"12 km NNE of Walker Lake, Nevada",earthquake,,1.5,0.42,9,automatic,nn,nn
 2024-08-26T18:47:24.280Z,35.0306667,-117.6803333,-0.63,1.56,ml,39,40,0.09694,0.21,ci,ci40714935,2024-08-26T18:53:57.430Z,"4 km NW of Boron, CA",earthquake,0.32,0.73,0.119,27,automatic,ci,ci
