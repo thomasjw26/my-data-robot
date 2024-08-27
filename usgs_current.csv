@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-27T19:13:58.000Z,19.36549949646,-155.071334838867,2.58999991416931,2.16,ml,47,156,0.03691,0.340000004,hv,hv74427297,2024-08-27T19:16:53.180Z,"12 km SSE of Fern Forest, Hawaii",earthquake,0.62,0.779999971,0.73,10,automatic,hv,hv
+2024-08-27T18:50:51.320Z,45.3895,-121.98716666666667,-1.41,0.9,ml,7,171,0.1315,0.08,uw,uw62041251,2024-08-27T19:55:05.000Z,"3 km N of Mount Hood Village, Oregon",explosion,0.95,31.61,0.1688707160052283,3,reviewed,uw,uw
 2024-08-27T18:38:36.520Z,34.6368333,-117.1145,-1.02,1.65,ml,38,50,0.193,0.17,ci,ci40716159,2024-08-27T18:45:17.824Z,"16 km NNE of Apple Valley, CA",earthquake,0.21,0.73,0.143,29,automatic,ci,ci
 2024-08-27T18:33:41.170Z,36.1825,-96.95983333,6.71,1.44,ml,83,36,0.1178768685,0.25,ok,ok2024qwby,2024-08-27T18:50:12.107Z,"5 km SSW of Glencoe, Oklahoma",earthquake,,0.4,0.21,35,reviewed,ok,ok
 2024-08-27T18:19:22.120Z,38.7924995422363,-122.759002685547,3.23000001907349,1.03,md,20,72,0.008132,0.02,nc,nc75054121,2024-08-27T18:54:25.841Z,"2 km N of The Geysers, CA",earthquake,0.29,0.589999974,0.21,20,automatic,nc,nc
@@ -47,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T14:01:50.161Z,38.4824,-117.9147,7.8,1.5,ml,8,142.76000000000002,0.497,0.2861,nn,nn00883086,2024-08-27T14:04:31.495Z,"19 km ENE of Mina, Nevada",earthquake,,2,0.55,5,automatic,nn,nn
 2024-08-27T13:52:18.000Z,33.3343333,-116.8313333,13.32,0.78,ml,43,36,0.03251,0.16,ci,ci40715831,2024-08-27T14:26:53.640Z,"4 km SE of Palomar Observatory, CA",earthquake,0.16,0.42,0.148,22,reviewed,ci,ci
 2024-08-27T13:49:56.518Z,61.4055,-146.46,31.5,1.4,ml,,,,0.41,ak,ak024b150jtv,2024-08-27T13:52:22.165Z,"31 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-08-27T13:49:30.150Z,34.2411667,-117.1413333,2.75,1.39,ml,56,41,0.04616,0.2,ci,ci40715807,2024-08-27T14:04:05.999Z,"4 km E of Lake Arrowhead, CA",earthquake,0.16,0.39,0.22,30,automatic,ci,ci
+2024-08-27T13:49:30.150Z,34.2411667,-117.1413333,2.75,1.39,ml,56,41,0.04616,0.2,ci,ci40715807,2024-08-27T19:59:43.273Z,"4 km E of Lake Arrowhead, CA",earthquake,0.16,0.39,0.22,30,automatic,ci,ci
 2024-08-27T13:45:52.924Z,15.905,-99.915,10,4.7,mb,102,236,2.094,0.88,us,us6000nn27,2024-08-27T19:07:18.374Z,"92 km SSW of San Andrés Playa Encantada (El Podrido), Mexico",earthquake,8.48,1.962,0.03,333,reviewed,us,us
 2024-08-27T13:43:32.060Z,61.3571,-145.0405,31.5,1.2,ml,,,,0.32,ak,ak024b14z7na,2024-08-27T13:45:10.530Z,"34 km SSE of Tonsina, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-27T13:42:24.810Z,33.3985,-116.3705,4.65,0.6,ml,16,91,0.06241,0.14,ci,ci40715799,2024-08-27T14:26:57.310Z,"16 km N of Borrego Springs, CA",earthquake,0.27,0.58,0.205,9,reviewed,ci,ci
@@ -231,5 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T20:07:09.400Z,38.4955,-112.8795,1.56,0.18,md,12,63,0.005672,0.09,uu,uu80080296,2024-08-26T20:21:58.500Z,"15 km NE of Milford, Utah",earthquake,0.27,0.4,0.200259014087468,4,reviewed,uu,uu
 2024-08-26T20:05:47.622Z,36.6265,-115.7288,9.9,0.2,ml,13,144.10999999999999,0.191,0.0659,nn,nn00883045,2024-08-27T13:16:19.632Z,"8 km NW of Indian Springs, Nevada",earthquake,,6.1,0.06,2,reviewed,nn,nn
 2024-08-26T20:01:14.230Z,32.62,-116.985,-0.43,1.21,ml,32,108,0.04785,0.23,ci,ci40715047,2024-08-27T15:48:00.278Z,"6 km SE of Bonita, CA",quarry blast,0.61,31.61,0.141,13,reviewed,ci,ci
-2024-08-26T19:59:27.895Z,36.9593,-104.8543,1.726,2.8,ml,12,76,0.157,0.33,us,us6000nmxk,2024-08-26T20:20:02.040Z,"19 km S of Weston, Colorado",earthquake,4.02,2.115,0.079,21,reviewed,us,us
-2024-08-26T19:53:43.661Z,38.9682,23.3621,10,4.5,mb,46,51,0.801,1.13,us,us6000nmxi,2024-08-27T17:14:09.098Z,"18 km E of Istiaía, Greece",earthquake,3.86,1.864,0.113,23,reviewed,us,us
