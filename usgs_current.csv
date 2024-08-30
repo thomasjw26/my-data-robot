@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-30T20:33:19.322Z,35.36093521,-97.93357086,3.04081893,2.21,ml,34,56.79620361,0.03271150962,0.7953109055,ok,ok2024rbsk,2024-08-30T20:41:56.962Z,"3 km SSE of Union City, Oklahoma",earthquake,2.055782394,1.429578045,0.23,20,automatic,ok,ok
+2024-08-30T20:32:21.531Z,37.7343,-117.1297,5.3,2.4,ml,24,173.60999999999996,0.446,0.2144,nn,nn00883525,2024-08-30T20:35:01.457Z,"9 km ENE of Goldfield, Nevada",earthquake,,2.1,0.15,16,automatic,nn,nn
 2024-08-30T20:24:24.570Z,32.4741667,-116.0021667,1.94,2.38,ml,13,130,0.1856,0.14,ci,ci40720047,2024-08-30T20:31:06.253Z,"29 km S of Ocotillo, CA",earthquake,0.43,1.46,0.134,12,automatic,ci,ci
 2024-08-30T20:10:50.700Z,35.0795,-119.133,11.61,1.57,ml,38,71,0.04543,0.23,ci,ci40720031,2024-08-30T20:17:27.177Z,"24 km NW of Grapevine, CA",earthquake,0.26,0.65,0.161,27,automatic,ci,ci
 2024-08-30T20:09:29.746Z,37.3312,-117.5078,3.6,1.4,ml,19,186.69000000000003,0.199,0.2793,nn,nn00883523,2024-08-30T20:11:59.221Z,"48 km SSW of Goldfield, Nevada",earthquake,,8,0.17,14,automatic,nn,nn
@@ -243,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T21:05:41.091Z,3.3414,-82.9122,10,4.3,mb,24,164,4.543,0.98,us,us6000nnk0,2024-08-30T01:04:52.040Z,"south of Panama",earthquake,4.66,1.954,0.202,7,reviewed,us,us
 2024-08-29T21:00:23.040Z,32.7785,-116.8928333,-0.35,1.56,ml,24,91,0.05979,0.31,ci,ci40719247,2024-08-29T21:54:04.279Z,"5 km SE of Bostonia, CA",quarry blast,0.57,31.61,0.203,28,reviewed,ci,ci
 2024-08-29T20:59:06.559Z,35.0115,-97.7605,6.74,2.08,ml,89,34,0.1016800469,0.24,ok,ok2024qzxu,2024-08-29T21:47:14.418Z,"10 km N of Alex, Oklahoma",earthquake,,0.4,0.22,42,reviewed,ok,ok
-2024-08-29T20:36:22.540Z,35.9491667,-117.6823333,4.67,2.03,ml,27,81,0.02596,0.13,ci,ci40719215,2024-08-29T21:46:17.132Z,"20 km E of Little Lake, CA",earthquake,0.15,0.27,0.232,27,reviewed,ci,ci
