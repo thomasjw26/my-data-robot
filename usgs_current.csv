@@ -223,5 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T19:09:45.769Z,31.642,-104.087,4.7789,2.3,ml,20,86,0,0.5,tx,tx2024rbpr,2024-08-30T19:44:31.961Z,"45 km NW of Toyah, Texas",earthquake,0,1.43607115745544,0.1,16,automatic,tx,tx
 2024-08-30T19:04:40.060Z,17.9466666666667,-66.9783333333333,9.54,2.76,md,8,216,0.06668,0.12,pr,pr71458678,2024-08-30T19:30:18.370Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,0.55,0.95,0.105853100256336,5,reviewed,pr,pr
 2024-08-30T19:00:37.810Z,33.8633333,-117.5043333,-0.44,1.26,ml,42,52,0.04879,0.25,ci,ci40719999,2024-08-30T22:19:20.036Z,"2 km SE of Home Gardens, CA",quarry blast,0.37,31.61,0.146,25,reviewed,ci,ci
-2024-08-30T18:54:36.898Z,59.9077,-151.5489,63.9,1.4,ml,,,,0.17,ak,ak024b66mseh,2024-08-30T18:56:19.675Z,"11 km ESE of Happy Valley, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2024-08-30T18:53:02.298Z,37.5486,-117.1723,13.3,0.8,ml,8,183.08,0.54,0.1031,nn,nn00883520,2024-08-30T18:55:35.526Z,"18 km SSE of Goldfield, Nevada",earthquake,,16.6,0.24,5,automatic,nn,nn
