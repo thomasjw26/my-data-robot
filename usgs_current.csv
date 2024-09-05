@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-05T07:14:09.820Z,38.836498260498,-122.792167663574,2.44000005722046,1.1,md,15,51,0.002381,0.02,nc,nc75057651,2024-09-05T07:15:48.248Z,"6 km WNW of Cobb, CA",earthquake,0.3,0.649999976,0.26,16,automatic,nc,nc
 2024-09-05T07:05:25.380Z,36.2148333,-118.2658333,4.33,1.95,ml,29,53,0.07342,0.23,ci,ci40725431,2024-09-05T07:12:14.583Z,"24 km WSW of Olancha, CA",earthquake,0.29,0.97,0.139,25,automatic,ci,ci
 2024-09-05T06:47:14.354Z,36.5297,-116.2573,9.6,0.2,ml,16,268.2,0.133,0.1907,nn,nn00884074,2024-09-05T06:49:17.919Z,"43 km NW of Pahrump, Nevada",earthquake,,1.1,0.18,9,automatic,nn,nn
 2024-09-05T06:44:32.712Z,64.4814,-149.2378,0,1.6,ml,,,,1,ak,ak024bfwnimf,2024-09-05T06:59:27.170Z,"11 km SW of Nenana, Alaska",earthquake,,0.4,,,automatic,ak,ak
