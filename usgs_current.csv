@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-12T04:53:11.820Z,38.841667175293,-122.824501037598,2.35999989509583,0.71,md,8,111,0.009113,0.01,nc,nc75060761,2024-09-12T04:54:47.414Z,"9 km WNW of Cobb, CA",earthquake,0.8,2.06999993,0.27,8,automatic,nc,nc
+2024-09-12T04:53:08.178Z,61.6037,-150.895,58.3,1.2,ml,,,,0.2,ak,ak024brg9yf5,2024-09-12T04:55:05.493Z,"21 km WNW of Susitna, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-09-12T04:48:22.980Z,38.826831817627,-122.852668762207,2.28999996185303,0.91,md,10,108,0.00336,0.01,nc,nc75060756,2024-09-12T04:50:02.389Z,"10 km NW of The Geysers, CA",earthquake,0.44,0.74000001,0.23,11,automatic,nc,nc
 2024-09-12T04:47:38.833Z,61.3057,-141.6535,18.2,1.1,ml,,,,0.16,ak,ak024brg8qhn,2024-09-12T04:49:26.502Z,"69 km ESE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-12T04:41:37.292Z,61.8743,-151.99,114.6,2,ml,,,,0.75,ak,ak024brg7f8k,2024-09-12T04:45:12.393Z,"33 km WSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
