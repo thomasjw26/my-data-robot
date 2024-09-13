@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-13T19:11:16.100Z,33.7378333,-116.0471667,5.15,1.28,ml,50,52,0.09051,0.17,ci,ci40732999,2024-09-13T19:17:22.243Z,"13 km ENE of Coachella, CA",earthquake,0.16,0.43,0.194,29,automatic,ci,ci
+2024-09-13T19:02:13.137Z,31.724,-104.359,4.0805,1.9,ml,15,83,0.1,0.2,tx,tx2024sben,2024-09-13T19:26:10.618Z,"50 km S of Whites City, New Mexico",earthquake,0,1.3820880651474,0.2,13,automatic,tx,tx
 2024-09-13T19:00:45.200Z,33.8551667,-117.5115,2.17,1.43,ml,48,40,0.04606,0.26,ci,ci40732967,2024-09-13T19:07:11.480Z,"3 km SSE of Home Gardens, CA",earthquake,0.26,0.51,0.384,35,automatic,ci,ci
 2024-09-13T18:51:10.010Z,19.3851661682129,-155.245666503906,1.3400000333786,1.76999998,md,18,70,0.005338,0.180000007,hv,hv74457601,2024-09-13T18:52:55.580Z,"6 km S of Volcano, Hawaii",earthquake,0.22,0.159999996,0.219999999,17,automatic,hv,hv
 2024-09-13T18:50:50.014Z,61.686,-150.5472,36.5,1.5,ml,,,,0.26,ak,ak024btc4tgp,2024-09-13T18:52:11.468Z,"15 km N of Susitna, Alaska",earthquake,,9.8,,,automatic,ak,ak
@@ -73,6 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T12:04:14.960Z,35.9485,-117.6831667,4.62,1.73,ml,27,79,0.02661,0.16,ci,ci40732535,2024-09-13T17:08:11.614Z,"20 km E of Little Lake, CA",earthquake,0.19,0.35,0.145,23,reviewed,ci,ci
 2024-09-13T11:58:58.290Z,33.7318333,-117.9911667,9.96,1.74,ml,62,83,0.0301,0.28,ci,ci40732527,2024-09-13T19:12:13.757Z,"3 km SSE of Westminster, CA",earthquake,0.26,0.5,0.168,29,automatic,ci,ci
 2024-09-13T11:58:18.440Z,36.4815,-89.5538333333333,9.32,2.17,md,32,44,0.05817,0.08,nm,nm60502463,2024-09-13T12:55:45.110Z,"6 km SE of Marston, Missouri",earthquake,0.14,0.36,0.0970396552323609,28,reviewed,nm,nm
+2024-09-13T11:58:10.550Z,33.7481667,-117.9746667,3.23,1.23,ml,11,83,0.04938,0.2,ci,ci37683828,2024-09-13T19:31:12.449Z,"3 km ESE of Westminster, CA",earthquake,0.35,0.62,0.157,8,reviewed,ci,ci
 2024-09-13T11:57:22.930Z,33.7456667,-117.975,3.33,1.83,ml,15,86,0.04792,0.23,ci,ci37683820,2024-09-13T18:57:57.134Z,"3 km ESE of Westminster, CA",earthquake,0.44,0.69,0.135,12,reviewed,ci,ci
 2024-09-13T11:56:39.410Z,34.0613333,-118.8083333,10.95,3.23,ml,131,88,0.03137,0.26,ci,ci40732519,2024-09-13T18:38:55.640Z,"6 km N of Malibu, CA",earthquake,0.19,0.29,0.166,331,reviewed,ci,ci
 2024-09-13T11:56:26.850Z,19.1906661987305,-155.500503540039,30.7299995422363,1.83000004,md,44,130,0.05046,0.150000006,hv,hv74456611,2024-09-13T11:58:18.170Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.45,0.649999976,0.170000002,12,automatic,hv,hv
@@ -263,5 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-12T19:50:57.520Z,38.818000793457,-122.824501037598,1.66999995708466,0.69,md,9,86,0.009682,0.01,nc,nc75061046,2024-09-12T20:14:34.538Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.959999979,0.26,10,automatic,nc,nc
 2024-09-12T19:42:54.580Z,44.7406666666667,-110.799833333333,5.47,0.8,ml,6,143,0.05978,0.12,uu,uu80082386,2024-09-12T20:08:13.960Z,"25 km ENE of West Yellowstone, Montana",earthquake,0.49,2.19,0.247527337416991,2,reviewed,uu,uu
 2024-09-12T19:39:06.190Z,34.6343333,-117.1148333,-1.03,1.56,ml,38,33,0.1918,0.17,ci,ci40732039,2024-09-12T19:46:07.762Z,"16 km NNE of Apple Valley, CA",earthquake,0.19,0.57,0.102,30,automatic,ci,ci
-2024-09-12T19:26:56.745Z,37.7387,-117.1444,10.3,1.3,ml,15,115.46000000000001,0.448,0.1316,nn,nn00884603,2024-09-12T20:22:48.183Z,"8 km ENE of Goldfield, Nevada",earthquake,,2.4,0.33,3,reviewed,nn,nn
-2024-09-12T19:26:05.020Z,54.143,-165.917166666667,3.62,-0.45,ml,7,98,0.02063,0.24,av,av93261548,2024-09-13T01:05:07.080Z,"9 km W of Akutan, Alaska",earthquake,0.34,0.63,0.316980985949622,7,reviewed,av,av
