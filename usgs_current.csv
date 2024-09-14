@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T00:00:18.590Z,19.3651676177979,-155.184494018555,3.23000001907349,1.76,ml,12,186,0.0305,0.170000002,hv,hv74458096,2024-09-14T00:03:09.570Z,"10 km SSE of Volcano, Hawaii",earthquake,0.85,1.26999998,0.61,3,automatic,hv,hv
 2024-09-13T23:59:34.910Z,23.9021,123.2544,38.833,4.9,mb,53,103,0.605,1.05,us,us7000ndpm,2024-09-14T15:01:07.341Z,"67 km SSE of Yonakuni, Japan",earthquake,4.21,7.054,0.059,90,reviewed,us,us
 2024-09-13T23:51:23.724Z,31.588,-103.91,5.2844,1.8,ml,16,99,0.1,0.2,tx,tx2024sbob,2024-09-14T00:01:56.629Z,"32 km WSW of Mentone, Texas",earthquake,0,2.33920860290527,0.2,13,automatic,tx,tx
-2024-09-13T23:34:08.120Z,34.0591667,-118.8116667,11.18,2.55,ml,109,99,0.03271,0.28,ci,ci40733215,2024-09-14T02:17:46.172Z,"6 km N of Malibu, CA",earthquake,0.22,0.3,0.166,25,automatic,ci,ci
