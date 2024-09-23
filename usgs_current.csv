@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-23T15:39:09.040Z,35.7854996,-117.6070023,8.83,0.99,ml,14,138,0.1304,0.14,ci,ci40743135,2024-09-23T15:41:11.477Z,"18 km W of Searles Valley, CA",earthquake,0.58,1.57,0.181,5,automatic,ci,ci
 2024-09-23T15:14:11.510Z,33.6905,-117.196,6.82,1.17,ml,34,57,0.05616,0.17,ci,ci40743087,2024-09-23T15:20:41.489Z,"6 km SW of Menifee, CA",earthquake,0.21,0.47,0.313,33,automatic,ci,ci
 2024-09-23T15:12:59.160Z,33.696,-117.197,6.55,1.05,ml,24,77,0.05235,0.18,ci,ci40743079,2024-09-23T15:19:22.163Z,"6 km SW of Menifee, CA",earthquake,0.27,0.64,0.343,29,automatic,ci,ci
 2024-09-23T14:56:26.710Z,33.6491667,-116.9178333,12.19,0.83,ml,35,69,0.03814,0.13,ci,ci40743039,2024-09-23T15:02:46.388Z,"11 km SSW of Valle Vista, CA",earthquake,0.19,0.32,0.205,22,automatic,ci,ci
@@ -38,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T11:50:45.600Z,33.943,-116.755,14.68,0.96,ml,41,38,0.1018,0.18,ci,ci40742799,2024-09-23T15:24:56.874Z,"4 km NE of Cabazon, CA",earthquake,0.23,0.5,0.186,6,reviewed,ci,ci
 2024-09-23T11:50:21.710Z,34.0155,-118.3241667,10.88,1.63,ml,36,190,0.03166,0.21,ci,ci40742807,2024-09-23T12:31:12.206Z,"3 km NE of View Park-Windsor Hills, CA",earthquake,0.92,0.43,0.259,29,automatic,ci,ci
 2024-09-23T11:49:37.258Z,55.6159,-158.6528,27.3,2.7,ml,,,,0.7,ak,ak024c9rc0gt,2024-09-23T11:51:31.645Z,"45 km SE of Perryville, Alaska",earthquake,,3.2,,,automatic,ak,ak
-2024-09-23T11:48:52.200Z,33.941,-118.3606667,13.16,2.93,ml,134,79,0.02366,0.25,ci,ci40742791,2024-09-23T15:31:45.808Z,"1 km WNW of Lennox, CA",earthquake,0.16,0.26,0.2,247,reviewed,ci,ci
+2024-09-23T11:48:52.200Z,33.941,-118.3606667,13.16,2.93,ml,134,79,0.02366,0.25,ci,ci40742791,2024-09-23T15:41:57.788Z,"1 km WNW of Lennox, CA",earthquake,0.16,0.26,0.2,247,reviewed,ci,ci
 2024-09-23T11:47:06.650Z,35.07616667,-97.57916667,7.49,0.7,ml,17,130,0.03779258381,0.43,ok,ok2024ssxd,2024-09-23T14:11:09.890Z,"2 km SSW of Cole, Oklahoma",earthquake,,1.3,0.27,8,reviewed,ok,ok
 2024-09-23T11:30:25.310Z,38.8211669921875,-122.814666748047,2.75999999046326,0.84,md,13,90,0.004221,0.01,nc,nc75065741,2024-09-23T12:12:15.831Z,"7 km NW of The Geysers, CA",earthquake,0.37,1.02999997,0.22,16,automatic,nc,nc
 2024-09-23T11:21:41.041Z,36.6333,-115.7288,6.8,0.1,ml,13,328.99000000000007,0.19,0.0768,nn,nn00885034,2024-09-23T14:26:15.454Z,"8 km NW of Indian Springs, Nevada",earthquake,,7.3,0.19,3,reviewed,nn,nn
@@ -242,6 +243,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T17:55:51.490Z,35.1318333,-119.0891667,8.18,1.48,ml,41,66,0.0732,0.24,ci,ci40742095,2024-09-22T18:02:24.058Z,"21 km SW of Lamont, CA",earthquake,0.25,0.79,0.173,27,automatic,ci,ci
 2024-09-22T17:48:32.410Z,33.1448333,-116.6366667,4.6,1.11,ml,64,23,0.05489,0.19,ci,ci40742087,2024-09-22T20:24:46.320Z,"8 km NNW of Julian, CA",earthquake,0.15,0.37,0.161,29,reviewed,ci,ci
 2024-09-22T17:48:16.500Z,19.1723327636719,-155.480331420898,30.0100002288818,1.75999999,md,43,89,0.02408,0.150000006,hv,hv74473272,2024-09-22T17:50:02.070Z,"3 km S of Pāhala, Hawaii",earthquake,0.56,0.579999983,0.379999995,5,automatic,hv,hv
+2024-09-22T17:45:59.260Z,36.196,-89.4848333333333,4.93,1.2,md,5,135,0.02855,0.08,nm,nm60591476,2024-09-23T15:36:41.720Z,"7 km S of Ridgely, Tennessee",earthquake,0.33,0.4,0.063652883413108,4,reviewed,nm,nm
 2024-09-22T17:40:51.100Z,35.6813333,-117.5265,9.62,1.1,ml,26,57,0.08524,0.15,ci,ci40742079,2024-09-22T20:23:51.093Z,"15 km SW of Searles Valley, CA",earthquake,0.23,0.54,0.195,13,reviewed,ci,ci
 2024-09-22T17:40:14.510Z,46.601,-119.79833333333333,7.81,0.54,ml,11,122,0.0268,0.1,uw,uw62048861,2024-09-22T21:33:04.810Z,"12 km SE of Desert Aire, Washington",earthquake,0.37,0.24,0.12022534437328969,11,reviewed,uw,uw
 2024-09-22T17:39:12.480Z,19.1808338165283,-155.505172729492,31.0900001525879,1.88999999,md,36,182,0.04792,0.109999999,hv,hv74473267,2024-09-22T17:40:48.800Z,"3 km SW of Pāhala, Hawaii",earthquake,0.82,0.620000005,0.150000006,3,automatic,hv,hv
