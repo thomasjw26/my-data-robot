@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-24T15:35:01.900Z,33.083,-116.2003333,6.99,1.28,ml,7,134,0.2086,0.18,ci,ci40744183,2024-09-24T15:41:32.463Z,"9 km SW of Ocotillo Wells, CA",earthquake,0.67,2.66,0.213,27,automatic,ci,ci
+2024-09-24T15:43:15.653Z,60.824,-151.5699,65.3,1.4,ml,,,,0.16,ak,ak024cbh7rf1,2024-09-24T15:44:41.036Z,"21 km NW of Nikiski, Alaska",earthquake,,2,,,automatic,ak,ak
+2024-09-24T15:35:01.900Z,33.083,-116.2003333,6.99,1.28,ml,7,134,0.2086,0.18,ci,ci40744183,2024-09-24T15:44:11.959Z,"9 km SW of Ocotillo Wells, CA",earthquake,0.67,2.66,0.213,27,automatic,ci,ci
 2024-09-24T15:29:53.252Z,61.6644,-146.3528,32.7,1.8,ml,,,,1.15,ak,ak024cbh4u9p,2024-09-24T15:32:09.910Z,"42 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-09-24T15:26:28.020Z,38.8385009765625,-122.77783203125,2.82999992370605,0.69,md,9,125,0.004245,0.02,nc,nc75066166,2024-09-24T15:28:01.514Z,"5 km WNW of Cobb, CA",earthquake,1.24,2.32999992,0.25,11,automatic,nc,nc
+2024-09-24T15:26:28.020Z,38.8385009765625,-122.77783203125,2.82999992370605,0.69,md,9,125,0.004245,0.02,nc,nc75066166,2024-09-24T15:49:25.694Z,"5 km WNW of Cobb, CA",earthquake,1.24,2.32999992,0.25,11,automatic,nc,nc
 2024-09-24T15:25:53.460Z,34.0756667,-117.4498333,3.25,1.39,ml,50,45,0.02555,0.21,ci,ci40744167,2024-09-24T15:39:46.258Z,"3 km SSE of Fontana, CA",earthquake,0.19,0.22,0.178,29,automatic,ci,ci
 2024-09-24T15:22:27.730Z,34.0741667,-117.4546667,3.78,1.84,ml,84,29,0.02857,0.2,ci,ci40744151,2024-09-24T15:39:42.663Z,"3 km S of Fontana, CA",earthquake,0.13,0.32,0.181,25,automatic,ci,ci
 2024-09-24T15:17:23.190Z,33.8148333,-116.9843333,10.5,1,ml,42,50,0.137,0.19,ci,ci40744143,2024-09-24T15:31:43.290Z,"4 km NW of San Jacinto, CA",earthquake,0.2,0.54,0.17,29,automatic,ci,ci
@@ -208,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T16:17:52.030Z,61.3136666666667,-152.283833333333,-3.1,-0.31,ml,6,233,0.06943,0.19,av,av93022049,2024-09-24T00:44:35.190Z,"67 km WNW of Beluga, Alaska",earthquake,1.14,3.67,0.313594251507092,6,reviewed,av,av
 2024-09-23T16:16:23.906Z,60.8291,-146.3625,33.5,2.1,ml,,,,0.73,ak,ak024c9u42ty,2024-09-23T16:18:17.999Z,"17 km ESE of Tatitlek, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-09-23T16:06:47.266Z,62.5416,-152.2112,0,1.6,ml,,,,0.99,ak,ak024c9u1zh2,2024-09-23T16:08:42.932Z,"74 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-09-23T15:44:55.300Z,33.9766667,-116.9781667,13.8,1.29,ml,55,28,0.1218,0.19,ci,ci40743159,2024-09-23T15:55:35.390Z,"5 km N of Beaumont, CA",earthquake,0.17,0.44,0.147,27,automatic,ci,ci
