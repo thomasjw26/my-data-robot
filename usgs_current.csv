@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-27T20:41:36.338Z,61.1477,-147.8694,8.9,0.7,ml,,,,0.69,ak,ak024cgisl35,2024-09-27T20:43:16.649Z,"60 km NE of Whittier, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-09-27T20:35:14.920Z,38.8395004272461,-122.835502624512,1.36000001430511,0.77,md,12,148,0.0009102,0.02,nc,nc75067481,2024-09-27T20:36:48.773Z,"10 km NNW of The Geysers, CA",earthquake,0.31,0.439999998,0.28,15,automatic,nc,nc
 2024-09-27T20:20:36.173Z,31.633,-104.471,4.1184,2.2,ml,16,117,0,0.3,tx,tx2024tawn,2024-09-27T20:29:54.075Z,"60 km S of Whites City, New Mexico",earthquake,0,1.74427211284637,0.1,13,automatic,tx,tx
 2024-09-27T20:19:16.760Z,44.6495,-110.486166666667,2.04,-0.15,md,6,104,0.06567,0.17,uu,uu80083486,2024-09-27T20:29:24.520Z,"40 km SSE of Mammoth, Wyoming",earthquake,0.54,12.06,0.209393753098112,3,reviewed,uu,uu
@@ -215,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T21:29:54.450Z,19.2683334350586,-155.393829345703,30.2399997711182,1.88999999,md,36,102,0.03086,0.129999995,hv,hv74478522,2024-09-26T21:31:33.290Z,"11 km NE of Pāhala, Hawaii",earthquake,0.6,0.800000012,0.109999999,7,automatic,hv,hv
 2024-09-26T20:57:23.450Z,38.8380012512207,-122.800163269043,1.75,1.16,md,17,88,0.007679,0.01,nc,nc75067136,2024-09-26T22:47:15.039Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.439999998,0.13,20,automatic,nc,nc
 2024-09-26T20:52:40.526Z,51.2058,-178.4718,35,4,mb,72,208,0.409,0.56,us,us7000ngpa,2024-09-27T13:43:06.040Z,"147 km WSW of Adak, Alaska",earthquake,5.06,1.974,0.066,61,reviewed,us,us
-2024-09-26T20:43:50.171Z,36.9112,-117.7777,1.5,1,ml,9,244.32,0.339,0.1157,nn,nn00885241,2024-09-27T00:17:35.619Z,"39 km ENE of Independence, California",earthquake,,6.3,0.5,5,reviewed,nn,nn
