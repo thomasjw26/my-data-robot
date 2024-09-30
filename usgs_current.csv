@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-30T21:36:00.760Z,19.3349990844727,-155.15299987793,1.71000003814697,1.79,ml,45,94,0.04682,0.230000004,hv,hv74483447,2024-09-30T21:38:53.870Z,"14 km S of Fern Forest, Hawaii",earthquake,0.29,0.439999998,0.26,10,automatic,hv,hv
 2024-09-30T21:23:41.460Z,33.4768333,-116.8889999,12.55,1.12,ml,30,58,0.01937,0.17,ci,ci40749167,2024-09-30T21:27:09.987Z,"4 km NNW of Aguanga, CA",earthquake,0.27,0.71,0.156,28,automatic,ci,ci
 2024-09-30T21:19:01.406Z,36.2993,-115.1354,4.3,1.5,ml,16,278.89000000000004,0.206,0.3859,nn,nn00885413,2024-09-30T21:21:41.337Z,"9 km NW of Nellis Air Force Base, Nevada",earthquake,,2.2,0.2,13,automatic,nn,nn
 2024-09-30T21:11:40.110Z,38.8354988098145,-122.799499511719,2.00999999046326,0.65,md,13,69,0.007718,0.02,nc,nc75068781,2024-09-30T21:13:18.592Z,"7 km WNW of Cobb, CA",earthquake,0.31,0.709999979,0.19,15,automatic,nc,nc
@@ -219,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T22:09:43.620Z,19.1823333333333,-155.482166666667,30.81,1.4,md,21,78,0.03281,0.13,hv,hv74482292,2024-09-30T02:52:16.560Z,"2 km S of Pāhala, Hawaii",earthquake,0.9,0.74,0.0141659442395088,6,reviewed,hv,hv
 2024-09-29T22:08:38.490Z,32.9831657,-116.3193359,8.15,1.13,ml,31,51,0.03149,0.17,ci,ci40748415,2024-09-30T14:11:22.234Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.28,0.62,0.251,26,reviewed,ci,ci
 2024-09-29T21:44:31.550Z,33.699,-116.7281667,17.35,1.57,ml,76,22,0.01684,0.18,ci,ci40748399,2024-09-30T14:12:53.530Z,"5 km S of Idyllwild, CA",earthquake,0.14,0.26,0.209,26,reviewed,ci,ci
-2024-09-29T21:40:18.960Z,38.8338317871094,-122.783836364746,1.98000001907349,1.55,md,31,58,0.006835,0.03,nc,nc75068326,2024-09-29T21:44:27.450Z,"5 km WNW of Cobb, CA",earthquake,0.19,0.300000012,0.11,26,automatic,nc,nc
