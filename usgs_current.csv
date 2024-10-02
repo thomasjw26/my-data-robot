@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-02T13:44:05.750Z,19.2941665649414,-155.426498413086,28.1200008392334,1.88999999,md,31,66,0.05487,0.109999999,hv,hv74485547,2024-10-02T13:45:42.220Z,"11 km NNE of Pāhala, Hawaii",earthquake,0.43,0.560000002,0.0700000003,3,automatic,hv,hv
 2024-10-02T13:26:43.680Z,34.1818333,-116.7638333,2.57,1,ml,9,156,0.1508,0.09,ci,ci40750319,2024-10-02T13:32:52.785Z,"12 km SE of Big Bear City, CA",earthquake,0.34,1.14,0.178,3,automatic,ci,ci
 2024-10-02T13:24:35.331Z,60.1594,-141.0692,4.3,2.1,ml,,,,0.75,ak,ak024coo7n2l,2024-10-02T13:26:43.731Z,"101 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-02T13:22:54.170Z,34.056,-118.8035,10.82,2.15,ml,80,91,0.02524,0.27,ci,ci40750295,2024-10-02T13:41:06.776Z,"6 km N of Malibu, CA",earthquake,0.21,0.32,0.148,25,automatic,ci,ci
