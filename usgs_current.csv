@@ -243,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T17:12:29.619Z,63.4998,-147.0834,0,1.4,ml,,,,0.85,ak,ak024d0ba7wx,2024-10-09T17:14:32.937Z,"86 km WNW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-09T17:05:10.650Z,32.5623333,-115.2856667,24.03,1.28,ml,18,72,0.1434,0.17,ci,ci40755519,2024-10-09T20:20:10.834Z,"6 km E of Puebla, B.C., MX",earthquake,0.41,1.01,0.125,13,reviewed,ci,ci
 2024-10-09T17:01:31.800Z,19.188667297363,-155.36067199707,30.10000038147,1.99000001,md,31,169,0.05976,0.119999997,hv,hv74494766,2024-10-09T17:03:31.820Z,"12 km E of Pāhala, Hawaii",earthquake,0.65,0.860000014,0.0900000036,5,automatic,hv,hv
-2024-10-09T16:57:33.925Z,62.9653,-150.7724,108.4,2,ml,,,,0.24,ak,ak024d0ayfv4,2024-10-09T16:59:37.582Z,"52 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
