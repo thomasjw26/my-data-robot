@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-10-16T21:19:50.250Z,32.978,-116.3165,7.76,0.99,ml,40,39,0.02581,0.18,ci,ci40955200,2024-10-16T21:30:34.527Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.18,0.45,0.152,24,automatic,ci,ci
 2024-10-16T21:05:18.811Z,-37.9822,176.0971,182.603,4.1,mb,20,114,0.534,0.99,us,us6000nz6r,2024-10-16T21:33:21.040Z,"12 km W of Kaharoa, New Zealand",earthquake,4,6.202,0.185,8,reviewed,us,us
+2024-10-16T20:48:13.081Z,-5.9195,134.0345,10,4.2,mb,17,101,3.472,1.09,us,us6000nz6m,2024-10-16T21:37:45.040Z,"145 km ESE of Tual, Indonesia",earthquake,11.51,1.909,0.236,5,reviewed,us,us
 2024-10-16T20:29:56.884Z,69.6182,-144.895,13.835,2.5,ml,25,108,0.301,0.81,us,us6000nz6p,2024-10-16T21:19:36.040Z,"75 km SW of Kaktovik, Alaska",earthquake,8.52,9.228,0.06,36,reviewed,us,us
 2024-10-16T20:21:48.127Z,-15.606,-174.6494,182.898,4.4,mb,38,57,3.246,0.87,us,us6000nz6g,2024-10-16T21:17:05.040Z,"99 km WNW of Hihifo, Tonga",earthquake,12.38,6.439,0.11,24,reviewed,us,us
 2024-10-16T20:18:48.260Z,35.479499816895,-120.79416656494,6.3000001907349,2.27,md,24,46,0.07811,0.08,nc,nc75075181,2024-10-16T20:20:26.551Z,"10 km ENE of Cayucos, CA",earthquake,0.22,0.779999971,0.14,19,automatic,nc,nc
@@ -226,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T21:53:09.150Z,48.478166666667,-123.50216666667,-0.21,1.12,ml,5,175,0.1347,0.08,uw,uw62054421,2024-10-16T18:55:44.910Z,"3 km N of Langford, Canada",explosion,0.47,31.61,0.11224559805399,2,reviewed,uw,uw
 2024-10-15T21:49:44.540Z,38.844501495361,-122.8313369751,0.91000002622604,0.72,md,16,92,0.006735,0.02,nc,nc75074751,2024-10-16T01:49:26.337Z,"10 km WNW of Cobb, CA",earthquake,0.22,0.560000002,0.25,16,automatic,nc,nc
 2024-10-15T21:45:12.580Z,19.389333724976,-155.14332580566,2.4900000095367,1.79999995,md,18,136,0.01747,0.370000005,hv,hv74500821,2024-10-15T21:46:44.950Z,"8 km S of Fern Forest, Hawaii",earthquake,2.37,0.920000017,0.270000011,9,automatic,hv,hv
-2024-10-15T21:42:09.530Z,36.1166667,-117.9268333,4.67,0.94,ml,26,48,0.05828,0.18,ci,ci40954712,2024-10-16T13:52:37.884Z,"8 km NNE of Coso Junction, CA",earthquake,0.22,0.74,0.223,12,reviewed,ci,ci
