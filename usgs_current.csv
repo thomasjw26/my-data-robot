@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-17T09:41:48.460Z,34.0308342,-116.4349976,8.56,1.03,ml,27,53,0.0536,0.17,ci,ci40955400,2024-10-17T09:43:53.890Z,"9 km S of Yucca Valley, CA",earthquake,0.35,0.89,0.203,4,automatic,ci,ci
 2024-10-17T09:36:39.538Z,62.9175,-151.3096,106.9,1.5,ml,,,,0.24,ak,ak024ddeyoz5,2024-10-17T09:39:51.556Z,"54 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-17T09:35:22.730Z,38.84049987793,-122.82299804688,2.0699999332428,0.2,md,9,89,0.009938,0.01,nc,nc75075386,2024-10-17T09:36:58.685Z,"9 km WNW of Cobb, CA",earthquake,0.35,1.11000001,0.1,9,automatic,nc,nc
 2024-10-17T09:03:42.980Z,35.7401667,-117.9558333,1.41,1.64,ml,38,30,0.1095,0.14,ci,ci40955384,2024-10-17T09:14:46.160Z,"17 km NW of Inyokern, CA",earthquake,0.13,0.37,0.213,25,automatic,ci,ci
