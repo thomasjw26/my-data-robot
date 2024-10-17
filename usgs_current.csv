@@ -231,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T07:32:09.900Z,60.307666666667,-153.31716666667,8.12,-0.01,ml,11,236,0.2647,0.08,av,av93318998,2024-10-16T16:48:57.470Z,"56 km ENE of Port Alsworth, Alaska",earthquake,0.75,3.18,0.24476729430586,12,reviewed,av,av
 2024-10-16T07:29:16.990Z,38.780834197998,-122.7576675415,1.1100000143051,0.8,md,13,70,0.01191,0.03,nc,nc75074876,2024-10-16T07:30:55.274Z,"0 km  of The Geysers, CA",earthquake,0.26,0.550000012,0.15,12,automatic,nc,nc
 2024-10-16T07:17:55.456Z,63.5086,-148.971,0,2.8,ml,,,,0.75,ak,ak024dbq4fw8,2024-10-17T04:07:55.495Z,"13 km N of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-10-16T07:10:39.641Z,31.489,-103.971,3.1006,2.3,ml,19,73,0.1,0.1,tx,tx2024uiop,2024-10-16T12:15:04.943Z,"25 km NW of Toyah, Texas",earthquake,0.46016447174936,1.1177085916743,0.1,17,reviewed,tx,tx
