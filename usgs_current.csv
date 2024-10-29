@@ -202,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T10:06:58.700Z,38.784832000732,-122.72416687012,1.6100000143051,0.89,md,8,190,0.009943,0.01,nc,nc75080056,2024-10-28T10:22:15.651Z,"3 km E of The Geysers, CA",earthquake,0.56,0.74000001,0.19,8,automatic,nc,nc
 2024-10-28T10:06:11.190Z,31.667,-104.34,6.0999,1.9,ml,18,68,0.1,0.2,tx,tx2024vesk,2024-10-28T12:25:00.274Z,"56 km S of Whites City, New Mexico",earthquake,0.70299350704477,0.75072448847775,0.2,14,reviewed,tx,tx
 2024-10-28T09:57:00.174Z,62.4002,-151.7513,91.9,2.6,ml,,,,0.41,ak,ak024dvlzxei,2024-10-28T13:03:51.040Z,"49 km NNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-10-28T09:52:11.760Z,51.961833333333,178.4605,5.47,1.27,ml,4,323,0.03424,0.33,av,av93334458,2024-10-29T00:04:45.890Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.02,1.34,0.16577372758875,4,reviewed,av,av
