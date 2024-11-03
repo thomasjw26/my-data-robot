@@ -213,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T09:49:25.170Z,18.883666666667,-155.23583333333,11.48,3.97,ml,54,252,0.3448,0.15,hv,hv74520117,2024-11-02T22:34:21.779Z,"41 km ESE of Naalehu, Hawaii",earthquake,0.56,0.6,0.17620393766866,40,reviewed,hv,hv
 2024-11-02T09:49:04.120Z,19.157167434692,-155.35000610352,27.479999542236,3.45,ml,19,221,0.09166,0.119999997,hv,hv74520112,2024-11-02T09:51:55.740Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.79,0.860000014,0.35,49,automatic,hv,hv
 2024-11-02T09:39:36.025Z,59.8363,-152.7963,92.4,2.3,ml,,,,0.26,ak,ak024e3vkvr6,2024-11-02T10:05:49.040Z,"54 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-11-02T09:32:38.786Z,64.9043,-148.6256,13.9,1.2,ml,,,,0.48,ak,ak024e3vjdye,2024-11-02T09:34:25.604Z,"29 km WNW of Ester, Alaska",earthquake,,0.7,,,automatic,ak,ak
