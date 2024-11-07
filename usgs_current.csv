@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-07T22:04:10.110Z,33.4571648,-116.3916702,8.7,1.05,ml,29,94,0.1168,0.14,ci,ci40789631,2024-11-07T22:06:14.527Z,"22 km N of Borrego Springs, CA",earthquake,0.37,1.15,0.115,7,automatic,ci,ci
+2024-11-07T21:54:35.700Z,33.4518333,-116.3908333,8.19,0.78,ml,26,94,0.1122,0.15,ci,ci40789615,2024-11-07T22:00:27.118Z,"22 km N of Borrego Springs, CA",earthquake,0.24,1.06,0.12,19,automatic,ci,ci
+2024-11-07T21:49:31.470Z,18.702666666667,-64.599833333333,23.3,3.33,md,11,283,0.2817,0.34,pr,pr71465093,2024-11-07T22:07:19.010Z,"45 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,3.45,9.94,0.075022955353439,7,reviewed,pr,pr
+2024-11-07T21:44:53.810Z,42.321333333333,-121.818,-1.82,1.72,ml,14,72,0.114,0.19,uw,uw62059181,2024-11-07T22:08:41.370Z,"11 km NNW of Klamath Falls, Oregon",explosion,0.35,31.61,0.063512809620909,8,reviewed,uw,uw
 2024-11-07T21:35:51.910Z,33.8618333,-115.526,0.95,1.63,ml,26,51,0.1805,0.19,ci,ci40789607,2024-11-07T21:42:07.273Z,"20 km NW of Desert Center, CA",earthquake,0.24,0.63,0.152,26,automatic,ci,ci
 2024-11-07T21:34:26.170Z,33.4503333,-116.3943333,8.67,0.93,ml,39,80,0.1128,0.16,ci,ci40789591,2024-11-07T21:40:31.018Z,"22 km N of Borrego Springs, CA",earthquake,0.19,0.65,0.201,19,automatic,ci,ci
 2024-11-07T21:25:25.450Z,33.8616667,-115.5305,0.52,2.03,ml,29,50,0.2157,0.17,ci,ci40789575,2024-11-07T21:31:57.208Z,"20 km NW of Desert Center, CA",earthquake,0.2,0.66,0.118,27,automatic,ci,ci
@@ -74,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T11:56:34.017Z,36.6062,-117.1057,2.9,1.5,ml,22,134.21,0.336,0.323,nn,nn00887286,2024-11-07T11:58:43.438Z,"28 km NW of Furnace Creek, California",earthquake,,5.7,0.16,13,automatic,nn,nn
 2024-11-07T11:55:02.671Z,36.6116,-117.1223,4.2,2.3,ml,14,122.21,0.163,0.1329,nn,nn00887283,2024-11-07T13:26:39.403Z,"30 km NW of Furnace Creek, California",earthquake,,3.4,0.15,7,reviewed,nn,nn
 2024-11-07T11:54:42.231Z,65.1586,-149.2631,11,1.5,ml,,,,0.76,ak,ak024ec6jpnj,2024-11-07T11:57:05.017Z,"4 km ENE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-11-07T11:53:30.120Z,36.6175,-117.1035,0.77,3.46,ml,18,146,0.399,0.14,ci,ci40789191,2024-11-07T20:43:32.417Z,"4 km ENE of Stovepipe Wells, CA",earthquake,0.36,0.9,0.114,65,reviewed,ci,ci
+2024-11-07T11:53:30.120Z,36.6175,-117.1035,0.77,3.46,ml,18,146,0.399,0.14,ci,ci40789191,2024-11-07T21:59:45.912Z,"4 km ENE of Stovepipe Wells, CA",earthquake,0.36,0.9,0.114,65,reviewed,ci,ci
 2024-11-07T11:51:12.990Z,46.192666666667,-122.185,6.43,-0.43,md,10,96,0.007543,0.07,uw,uw62059066,2024-11-07T20:45:40.940Z,"37 km NNE of Amboy, Washington",earthquake,0.32,0.45,0.049893239754568,4,reviewed,uw,uw
 2024-11-07T11:44:50.330Z,32.655,-115.8015,8.01,1.56,ml,25,144,0.1022,0.21,ci,ci40789183,2024-11-07T14:24:59.659Z,"20 km ESE of Ocotillo, CA",earthquake,0.36,1.1,0.347,14,reviewed,ci,ci
 2024-11-07T11:40:54.980Z,36.4008333,-117.1208333,2.29,2.33,ml,19,189,0.1847,0.14,ci,ci40789167,2024-11-07T16:52:57.897Z,"23 km S of Stovepipe Wells, CA",earthquake,0.37,1.25,0.209,35,reviewed,ci,ci
@@ -183,6 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T00:10:15.730Z,44.744833333333,-110.781,2.2,-0.04,md,7,159,0.0659,0.09,uu,uu80086036,2024-11-07T14:28:31.910Z,"26 km SSW of Mammoth, Wyoming",earthquake,0.34,31.61,0.21689353665524,5,reviewed,uu,uu
 2024-11-07T00:07:10.926Z,36.6003,-117.1414,4,1.3,ml,16,225.81,0.364,0.2378,nn,nn00887264,2024-11-07T00:09:28.958Z,"30 km WNW of Furnace Creek, California",earthquake,,9.7,0.26,12,automatic,nn,nn
 2024-11-07T00:04:08.480Z,58.408166666667,-154.768,5.59,-0.49,ml,5,162,0.03074,0.1,av,av93352253,2024-11-07T20:49:20.630Z,"95 km NNW of Karluk, Alaska",earthquake,0.93,0.53,0.21492477747388,5,reviewed,av,av
+2024-11-07T00:03:20.710Z,58.401833333333,-154.7415,5.47,-0.46,ml,6,192,0.03672,0.08,av,av93026234,2024-11-07T22:03:55.590Z,"94 km N of Karluk, Alaska",earthquake,0.83,0.57,0.15642857747059,6,reviewed,av,av
 2024-11-07T00:00:26.360Z,47.498833333333,-122.03533333333,5.94,0.96,ml,11,176,0.1104,0.17,uw,uw62058981,2024-11-07T18:11:06.620Z,"3 km S of Issaquah, Washington",earthquake,0.73,3.59,0.15487388736386,4,reviewed,uw,uw
 2024-11-06T23:59:15.250Z,58.4095,-154.76733333333,5.97,0.2,ml,6,162,0.03204,0.2,av,av93026224,2024-11-07T09:48:46.030Z,"95 km NNW of Karluk, Alaska",earthquake,0.95,0.7,0.2615112047728,6,reviewed,av,av
 2024-11-06T23:57:34.320Z,58.391,-154.73833333333,5.37,0.28,ml,12,162,0.03412,0.2,av,av93352243,2024-11-07T09:53:58.280Z,"93 km N of Karluk, Alaska",earthquake,0.78,0.68,0.2164649044245,12,reviewed,av,av
@@ -200,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T22:43:25.596Z,63.0608,-151.0591,29.5,1.9,ml,,,,1.29,ak,ak024eaphqnj,2024-11-06T22:45:39.472Z,"63 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-06T22:30:33.790Z,38.829666137695,-122.8818359375,1.7000000476837,1.04,md,10,136,0.008637,0.05,nc,nc75083306,2024-11-06T22:57:14.436Z,"12 km E of Cloverdale, CA",earthquake,0.85,0.589999974,0.28,10,automatic,nc,nc
 2024-11-06T22:24:00.740Z,33.674,-116.7715,16.26,0.88,ml,26,97,0.06049,0.12,ci,ci40788831,2024-11-07T00:59:52.530Z,"9 km SSW of Idyllwild, CA",earthquake,0.23,0.4,0.13,17,reviewed,ci,ci
-2024-11-06T21:59:57.980Z,19.232999801636,-155.35049438477,29.420000076294,2.00999999,md,33,166,0.04464,0.140000001,hv,hv74523992,2024-11-06T22:40:08.651Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.49,0.620000005,0.280000001,13,automatic,hv,hv
