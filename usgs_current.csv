@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-08T07:30:42.337Z,36.7347,-115.9215,0.4,0,ml,10,261.91,0.052,0.1318,nn,nn00887320,2024-11-08T07:32:25.197Z,"28 km NW of Indian Springs, Nevada",earthquake,,3.9,0.22,7,automatic,nn,nn
 2024-11-08T07:28:41.037Z,36.6426,-117.0958,1.5,1.1,ml,18,185.4,0.335,0.364,nn,nn00887318,2024-11-08T07:30:56.939Z,"30 km NW of Furnace Creek, California",earthquake,,16.7,0.17,13,automatic,nn,nn
 2024-11-08T07:25:52.618Z,61.0251,-150.1493,39.3,1.8,ml,,,,0.53,ak,ak024edrj4rh,2024-11-08T07:27:26.606Z,"25 km SSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-08T07:23:56.080Z,19.133333206177,-155.36433410644,30.719999313354,2.28999996,md,53,190,0.09501,0.109999999,hv,hv74525272,2024-11-08T07:25:40.070Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.5,0.660000026,0.25,27,automatic,hv,hv
