@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-13T18:36:55.670Z,36.045166,-117.8106689,0.9,3.22,ml,47,58,0.04185,0.22,ci,ci40792599,2024-11-13T18:39:04.201Z,"12 km E of Coso Junction, CA",earthquake,0.24,0.39,0.249,22,automatic,ci,ci
 2024-11-13T18:15:32.651Z,64.7942,-149.0867,16.5,1.1,ml,,,,0.27,ak,ak024em7pg6d,2024-11-13T18:18:26.638Z,"21 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-13T18:02:05.910Z,33.486,-116.5858333,5.79,0.23,ml,18,98,0.0162,0.08,ci,ci40792575,2024-11-13T18:19:31.420Z,"11 km SE of Anza, CA",earthquake,0.16,0.27,0.11,5,reviewed,ci,ci
 2024-11-13T17:41:43.584Z,34.70274353,-97.52833557,2.574864388,2.05,ml,11,90.28918457,0.1487870961,0.7354723108,ok,ok2024winm,2024-11-13T17:51:03.316Z,"10 km NNW of Foster, Oklahoma",earthquake,3.508484512,2.330074448,0.15,4,automatic,ok,ok
@@ -162,5 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T19:35:36.956Z,61.6075,-150.7066,55.7,1.7,ml,,,,0.33,ak,ak024ekkvty7,2024-11-12T19:37:31.592Z,"12 km NW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-11-12T19:31:55.073Z,62.4067,-151.0574,16.6,0.9,ml,,,,0.41,ak,ak024ekkv0hf,2024-11-12T19:33:41.823Z,"18 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-12T18:49:48.760Z,47.129833333333,-123.06833333333,-0.06,0.86,md,4,238,0.1449,0.21,uw,uw62051492,2024-11-12T20:12:34.490Z,"9 km SSE of Shelton, Washington",explosion,1.24,31.61,0.26097518428624,3,reviewed,uw,uw
-2024-11-12T18:36:30.460Z,45.620666666667,-111.81716666667,2.01,1.98,ml,17,62,0.1337,0.11,mb,mb90065723,2024-11-12T19:10:28.940Z,"7 km SE of Pony, Montana",earthquake,0.29,0.93,0.33184466543989,31,reviewed,mb,mb
-2024-11-12T18:27:27.389Z,59.9673,-152.6213,80.9,1.4,ml,,,,0.46,ak,ak024ekk8nvm,2024-11-12T18:29:11.565Z,"49 km WNW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
