@@ -177,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T15:27:42.267Z,4.7235,125.4144,83.755,4.5,mb,21,117,2.336,0.73,us,us7000nrzu,2024-11-15T16:51:42.040Z,"75 km S of Sarangani, Philippines",earthquake,11.25,9.385,0.127,18,reviewed,us,us
 2024-11-15T15:13:12.679Z,36.1975,-97.29983333,8.02,1.36,ml,48,74,0.08188393158,0.23,ok,ok2024wlzp,2024-11-15T15:53:36.639Z,"8 km NE of Orlando, Oklahoma",earthquake,,1.4,0.24,22,reviewed,ok,ok
 2024-11-15T15:02:19.749Z,27.3755,102.2018,10,4.4,mb,27,136,7.019,0.74,us,us7000nrzw,2024-11-15T16:58:59.040Z,"58 km S of Xichang, China",earthquake,5.76,1.919,0.12,20,reviewed,us,us
-2024-11-15T14:43:48.540Z,34.0148333,-117.0121667,18.4,1.2,ml,33,37,0.08576,0.17,ci,ci40793551,2024-11-15T18:38:44.701Z,"4 km SE of Yucaipa, CA",earthquake,0.22,0.52,0.172,14,reviewed,ci,ci
