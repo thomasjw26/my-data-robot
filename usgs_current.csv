@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-25T15:42:03.640Z,36.506332397461,-121.03949737549,7.789999961853,1.83,md,15,130,0.05308,0.18,nc,nc75090266,2024-11-25T15:43:50.514Z,"10 km ESE of Pinnacles, CA",earthquake,0.73,1.25,0.16,11,automatic,nc,nc
 2024-11-25T15:20:52.420Z,36.236167907715,-120.80833435059,6.5199999809265,2.79,md,49,73,0.02102,0.17,nc,nc75090256,2024-11-25T15:42:17.737Z,"22 km ENE of San Lucas, CA",earthquake,0.29,0.639999986,0.14,64,automatic,nc,nc
 2024-11-25T15:20:03.682Z,60.93,-141.0381,3.7,1.9,ml,,,,1,ak,ak024f60ebn4,2024-11-25T15:22:23.986Z,"115 km ESE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-25T15:13:28.128Z,-22.1515,-175.5523,164.535,4.7,mb,25,166,6.092,0.66,us,us6000p7ky,2024-11-25T15:28:59.040Z,"108 km SW of ‘Ohonua, Tonga",earthquake,15.87,12.008,0.108,26,reviewed,us,us
