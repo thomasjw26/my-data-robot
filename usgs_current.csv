@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-27T19:51:04.515Z,60.4659,-152.1189,155,0.3,ml,,,,0.49,ak,ak024f9e1fwz,2024-11-27T19:53:23.471Z,"45 km W of Kalifornsky, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2024-11-27T19:31:56.480Z,37.374000549316,-121.72933197022,7.6900000572205,1.21,md,8,120,0.07631,0.04,nc,nc75091766,2024-11-27T19:33:32.302Z,"9 km E of Alum Rock, CA",earthquake,0.47,1.24000001,0.31,6,automatic,nc,nc
 2024-11-27T19:30:18.010Z,36.204,-117.8918333,3.94,1.16,ml,21,64,0.09128,0.15,ci,ci40988912,2024-11-27T19:47:04.104Z,"13 km SE of Olancha, CA",earthquake,0.26,0.57,0.175,15,reviewed,ci,ci
 2024-11-27T19:23:55.110Z,61.1487,-150.3209,17.5,1.6,ml,,,,0.58,ak,ak024f9dvi5z,2024-11-27T19:25:27.175Z,"23 km WSW of Anchorage, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -11,9 +12,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-27T18:43:23.360Z,38.848331451416,-122.76499938965,0.83999997377396,1.1,md,8,192,0.01058,0.03,nc,nc75091731,2024-11-27T19:29:30.330Z,"5 km NW of Cobb, CA",earthquake,0.5,0.699999988,0.17,9,automatic,nc,nc
 2024-11-27T18:41:33.203Z,60.3387,-141.8648,0,1.4,ml,,,,0.72,ak,ak024f9ddvrc,2024-11-27T18:44:11.035Z,"134 km SSE of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-27T18:40:46.730Z,38.794998168945,-122.78050231934,3.3599998950958,0.72,md,13,96,0.006073,0.02,nc,nc75091726,2024-11-27T19:19:28.267Z,"3 km NW of The Geysers, CA",earthquake,0.37,0.889999986,0.05,14,automatic,nc,nc
-2024-11-27T18:40:04.250Z,38.795166015625,-122.7816696167,3.6099998950958,0.72,md,12,76,0.005271,0.01,nc,nc75091721,2024-11-27T19:09:30.199Z,"3 km NW of The Geysers, CA",earthquake,0.3,0.800000012,0.32,13,automatic,nc,nc
+2024-11-27T18:40:04.250Z,38.795166015625,-122.7816696167,3.6099998950958,0.72,md,12,76,0.005271,0.01,nc,nc75091721,2024-11-27T19:54:29.474Z,"3 km NW of The Geysers, CA",earthquake,0.3,0.800000012,0.32,13,automatic,nc,nc
 2024-11-27T18:32:07.971Z,60.8909,-153.3316,249.9,-0.1,ml,,,,0.88,ak,ak024f9dbypo,2024-11-27T18:39:05.438Z,"93 km NE of Port Alsworth, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2024-11-27T18:26:39.454Z,60.9391,-150.4682,55.7,3.3,ml,,,,0.23,ak,ak024f9daoi1,2024-11-27T19:47:42.040Z,"12 km E of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-11-27T18:26:39.454Z,60.9391,-150.4682,55.7,3.3,ml,,,,0.23,ak,ak024f9daoi1,2024-11-27T19:50:20.511Z,"12 km E of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-27T18:26:25.080Z,36.1553333,-118.067,3.47,1.22,ml,19,75,0.1758,0.14,ci,ci40988824,2024-11-27T18:46:36.378Z,"15 km SSW of Olancha, CA",earthquake,0.2,0.6,0.146,12,reviewed,ci,ci
 2024-11-27T18:12:08.240Z,35.4018333,-118.6545,4.58,0.99,ml,16,91,0.1169,0.14,ci,ci40988800,2024-11-27T18:46:44.690Z,"25 km SW of Bodfish, CA",earthquake,0.27,0.95,0.248,10,reviewed,ci,ci
 2024-11-27T18:07:38.271Z,36.5913,-115.6163,2.5,0.6,ml,8,306.03,0.287,0.1928,nn,nn00888033,2024-11-27T18:09:46.379Z,"5 km ENE of Indian Springs, Nevada",earthquake,,17.2,0.39,4,automatic,nn,nn
