@@ -171,5 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T15:37:20.979Z,31.568,-104.108,4.9621,1.5,ml,17,64,0,0.3,tx,tx2024xpgl,2024-12-01T15:41:43.160Z,"41 km NW of Toyah, Texas",earthquake,0,1.3251794576645,0.2,12,automatic,tx,tx
 2024-12-01T15:32:28.920Z,38.823,-122.8115,1.44,0.44,md,24,48,0.001182,0.01,nc,nc75093686,2024-12-02T09:09:28.296Z,"7 km NNW of The Geysers, CA",earthquake,0.18,0.34,0.066,22,reviewed,nc,nc
 2024-12-01T15:32:19.760Z,17.988166666667,-66.732,10.82,2.74,md,12,148,0.1314,0.23,pr,pr71467398,2024-12-01T19:08:14.930Z,"1 km WSW of Tallaboa, Puerto Rico",earthquake,0.54,0.93,0.20947279973517,11,reviewed,pr,pr
-2024-12-01T15:29:40.570Z,19.863832473755,-155.55616760254,20.120000839233,2.50999999,md,54,106,0.09561,0.150000006,hv,hv74550172,2024-12-01T15:45:33.382Z,"21 km SE of Waimea, Hawaii",earthquake,0.37,0.689999998,0.589999974,10,automatic,hv,hv
-2024-12-01T15:29:10.938Z,61.4317,-151.278,59.8,1.7,ml,,,,0.34,ak,ak024ffxoclx,2024-12-01T15:31:11.021Z,"34 km NNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
