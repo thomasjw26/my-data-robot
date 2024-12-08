@@ -4,12 +4,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T20:13:59.345Z,51.0148,-177.2324,27.3,3.7,ml,,,,0.53,ak,ak024frlbpik,2024-12-08T20:32:04.021Z,"104 km SSW of Adak, Alaska",earthquake,,31.2,,,reviewed,ak,ak
 2024-12-08T20:12:10.140Z,38.806331634521,-122.77433013916,0.68000000715256,0.51,md,8,108,0.008515,0.05,nc,nc75099656,2024-12-08T20:27:14.848Z,"4 km NNW of The Geysers, CA",earthquake,0.36,0.730000019,0.24,7,automatic,nc,nc
 2024-12-08T20:09:04.022Z,50.9609,-177.275,25.6,3.9,ml,,,,1.67,ak,ak024frlanbg,2024-12-08T20:29:15.905Z,"110 km SSW of Adak, Alaska",earthquake,,1.7,,,reviewed,ak,ak
-2024-12-08T20:01:18.290Z,50.851,-177.229,10,5,mb,29,231,0.912,0.69,us,us7000nx46,2024-12-08T20:38:09.737Z,"121 km SSW of Adak, Alaska",earthquake,3.78,1.696,0.213,7,reviewed,us,us
+2024-12-08T20:01:18.290Z,50.851,-177.229,10,5,mb,29,231,0.912,0.69,us,us7000nx46,2024-12-08T20:41:31.111Z,"121 km SSW of Adak, Alaska",earthquake,3.78,1.696,0.213,7,reviewed,us,us
 2024-12-08T19:57:08.455Z,50.952,-177.3377,18,6.3,mww,173,52,0.813,1.14,us,us7000nx3z,2024-12-08T20:38:29.207Z,"113 km SSW of Adak, Alaska",earthquake,4.5,1.846,0.033,86,reviewed,us,us
 2024-12-08T19:52:22.547Z,60.0659,-152.9491,102.3,2.3,ml,,,,0.11,ak,ak024frkygum,2024-12-08T19:53:29.439Z,"69 km W of Happy Valley, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-12-08T19:41:54.030Z,38.79683303833,-122.76633453369,1.3999999761581,1.04,md,14,68,0.006412,0.02,nc,nc75099636,2024-12-08T19:57:17.636Z,"2 km  of The Geysers, CA",earthquake,0.26,0.5,0.13,14,automatic,nc,nc
-2024-12-08T19:36:35.570Z,33.6793333,-116.7318333,15.46,0.58,ml,30,74,0.035,0.16,ci,ci40997800,2024-12-08T19:41:22.732Z,"7 km S of Idyllwild, CA",earthquake,0.26,0.37,0.149,11,automatic,ci,ci
-2024-12-08T19:18:58.840Z,33.2313333,-116.7353333,11.18,1.03,ml,51,31,0.02017,0.18,ci,ci40997776,2024-12-08T19:24:26.060Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.18,0.41,0.163,25,automatic,ci,ci
+2024-12-08T19:36:35.570Z,33.6793333,-116.7318333,15.46,0.58,ml,30,74,0.035,0.16,ci,ci40997800,2024-12-08T20:44:52.057Z,"7 km S of Idyllwild, CA",earthquake,0.26,0.37,0.149,11,reviewed,ci,ci
+2024-12-08T19:18:58.840Z,33.2313333,-116.7353333,11.18,1.03,ml,51,31,0.02017,0.18,ci,ci40997776,2024-12-08T20:45:11.172Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.18,0.41,0.163,25,reviewed,ci,ci
 2024-12-08T19:04:23.360Z,38.789333343506,-122.75099945068,3.6600000858307,0.72,md,8,138,0.01271,0.07,nc,nc75099631,2024-12-08T20:22:15.821Z,"1 km NNE of The Geysers, CA",earthquake,0.74,1.88999999,0.07,8,automatic,nc,nc
 2024-12-08T18:54:09.390Z,40.28450012207,-124.55283355713,10.539999961853,2.45,md,12,300,0.1609,0.11,nc,nc75099626,2024-12-08T19:57:16.636Z,"23 km W of Petrolia, CA",earthquake,3.09,1.11000001,0.09,10,automatic,nc,nc
 2024-12-08T18:51:29.535Z,2.9428,128.574,227.449,4.2,mb,34,94,2.471,0.84,us,us7000nx3x,2024-12-08T19:47:12.040Z,"148 km NNE of Tobelo, Indonesia",earthquake,12.44,8.042,0.102,27,reviewed,us,us
@@ -20,8 +20,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-08T18:02:57.310Z,38.79700088501,-122.76716613769,1.25,0.89,md,14,69,0.006857,0.03,nc,nc75099611,2024-12-08T18:22:14.943Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.49000001,0.32,14,automatic,nc,nc
 2024-12-08T17:47:09.324Z,-18.0369,-178.4166,589.889,4.4,mb,61,39,2.622,0.85,us,us7000nx3k,2024-12-08T18:04:27.040Z,"240 km E of Levuka, Fiji",earthquake,11.7,8.098,0.041,172,reviewed,us,us
 2024-12-08T17:35:44.842Z,61.3021,-152.2538,4.5,0.9,ml,,,,0.3,ak,ak024frjo06s,2024-12-08T17:37:53.255Z,"65 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-12-08T17:34:54.410Z,33.0803333,-116.0341667,9.16,1.37,ml,52,45,0.1043,0.21,ci,ci40997752,2024-12-08T17:39:29.141Z,"12 km SE of Ocotillo Wells, CA",earthquake,0.19,0.57,0.141,26,automatic,ci,ci
-2024-12-08T17:33:08.550Z,36.0846667,-117.8823333,3.45,1.57,ml,31,44,0.03967,0.17,ci,ci40997744,2024-12-08T17:36:41.856Z,"7 km NE of Coso Junction, CA",earthquake,0.19,0.4,0.203,20,automatic,ci,ci
+2024-12-08T17:34:54.410Z,33.0803333,-116.0341667,9.16,1.37,ml,52,45,0.1043,0.21,ci,ci40997752,2024-12-08T20:45:13.870Z,"12 km SE of Ocotillo Wells, CA",earthquake,0.19,0.57,0.141,26,automatic,ci,ci
+2024-12-08T17:33:08.550Z,36.0846667,-117.8823333,3.45,1.57,ml,31,44,0.03967,0.17,ci,ci40997744,2024-12-08T20:45:26.871Z,"7 km NE of Coso Junction, CA",earthquake,0.19,0.4,0.203,20,automatic,ci,ci
 2024-12-08T17:29:18.056Z,58.1696,-155.401,0,1.4,ml,,,,0.92,ak,ak024frjmntp,2024-12-08T17:30:59.634Z,"87 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-08T17:24:45.340Z,33.082,-116.0393333,7.98,1.19,ml,40,45,0.1049,0.25,ci,ci40997736,2024-12-08T17:28:51.318Z,"11 km SE of Ocotillo Wells, CA",earthquake,0.22,1.28,0.096,25,automatic,ci,ci
 2024-12-08T17:17:26.980Z,18.012,-66.721333333333,13.82,2.33,md,11,134,0.1105,0.06,pr,pr71468058,2024-12-08T17:28:25.250Z,"1 km NNW of Tallaboa, Puerto Rico",earthquake,0.4,0.43,0.044594061702221,7,reviewed,pr,pr
@@ -262,6 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-07T20:56:05.960Z,18.453666666667,-67.417166666667,13.04,3.05,md,22,294,0.1963,0.34,pr,pr71468013,2024-12-07T21:24:46.490Z,"21 km NW of Rincón, Puerto Rico",earthquake,1.02,0.52,0.03127380563822,7,reviewed,pr,pr
 2024-12-07T20:55:28.640Z,39.214500427246,-123.10099792481,3.039999961853,1.38,md,11,59,0.08653,0.05,nc,nc75099041,2024-12-07T23:17:16.980Z,"11 km SE of Redwood Valley, CA",earthquake,0.25,2.97000003,0.09,4,automatic,nc,nc
 2024-12-07T20:46:20.725Z,36.6151,-115.9522,5.2,0,ml,12,290.41,0.048,0.0356,nn,nn00888461,2024-12-08T16:10:29.495Z,"25 km W of Indian Springs, Nevada",earthquake,,1.9,0.09,3,reviewed,nn,nn
-2024-12-07T20:44:34.090Z,60.1391,-150.1499,60.4,1.9,ml,,,,0.18,ak,ak024fpxyv4h,2024-12-07T20:45:59.086Z,"39 km W of Seward, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-12-07T20:43:07.930Z,34.6886667,-116.3506667,2.82,2.1,ml,33,55,0.141,0.15,ci,ci40997072,2024-12-08T15:00:33.750Z,"18 km WSW of Ludlow, CA",earthquake,0.14,0.73,0.213,26,reviewed,ci,ci
-2024-12-07T20:39:51.253Z,53.4938,-164.8039,21.8,2.2,ml,,,,0.35,ak,ak024fpxxxtp,2024-12-07T21:26:40.185Z,"95 km SE of Akutan, Alaska",earthquake,,2.9,,,reviewed,ak,ak
