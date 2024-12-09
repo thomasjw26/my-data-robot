@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-12-09T05:40:09.520Z,31.5021667,-115.628,7.6,1.66,ml,7,107,0.1731,0.14,ci,ci40997984,2024-12-09T05:43:35.644Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.33,2.82,0.122,4,automatic,ci,ci
 2024-12-09T05:34:16.690Z,33.3978333,-116.4041667,12.48,0.69,ml,46,81,0.1297,0.2,ci,ci40997976,2024-12-09T05:38:29.513Z,"16 km N of Borrego Springs, CA",earthquake,0.26,0.65,0.116,14,automatic,ci,ci
-2024-12-09T05:31:34.930Z,44.332833333333,-110.47666666667,3.65,2.61,ml,21,62,0.07801,0.24,uu,uu80097036,2024-12-09T05:43:23.439Z,"61 km SE of West Yellowstone, Montana",earthquake,0.43,0.81,0.30464838173312,7,reviewed,uu,uu
+2024-12-09T05:31:34.930Z,44.332833333333,-110.47666666667,3.65,2.61,ml,21,62,0.07801,0.24,uu,uu80097036,2024-12-09T05:48:34.096Z,"61 km SE of West Yellowstone, Montana",earthquake,0.43,0.81,0.30464838173312,7,reviewed,uu,uu
 2024-12-09T05:25:06.610Z,62.9208,-150.9321,102.5,2.2,ml,,,,0.44,ak,ak024fszzxb9,2024-12-09T05:27:45.989Z,"48 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-12-09T05:07:58.990Z,44.7468,-71.0278,9.912,2.1,ml,24,67,0.195,0.4,us,us7000nx7y,2024-12-09T05:15:17.040Z,"5 km NNW of Upton, Maine",earthquake,1.89,6.087,0.105,12,reviewed,us,us
 2024-12-09T04:50:37.180Z,35.6868324,-117.4361649,10.55,1.05,ml,18,140,0.02393,0.09,ci,ci40997968,2024-12-09T04:52:42.639Z,"9 km SSW of Searles Valley, CA",earthquake,0.46,0.63,0.101,3,automatic,ci,ci
