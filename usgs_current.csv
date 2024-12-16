@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-16T10:56:14.850Z,33.8963333,-116.2846667,5.43,0.61,ml,32,80,0.09698,0.15,ci,ci41002688,2024-12-16T11:00:59.535Z,"13 km NE of Thousand Palms, CA",earthquake,0.18,0.88,0.134,9,automatic,ci,ci
 2024-12-16T10:42:42.250Z,35.6313333,-117.4491667,7.5,0.76,ml,28,53,0.03957,0.12,ci,ci41002680,2024-12-16T10:46:05.598Z,"16 km SSW of Searles Valley, CA",earthquake,0.17,0.33,0.113,4,automatic,ci,ci
 2024-12-16T10:41:14.462Z,57.8911,-155.5316,1.9,1.1,ml,,,,0.25,ak,ak024g4ntyuu,2024-12-16T10:43:29.980Z,"73 km WNW of Karluk, Alaska",earthquake,,5.5,,,automatic,ak,ak
 2024-12-16T10:37:27.520Z,33.3601667,-116.6715,13.64,0.2,ml,29,54,0.09246,0.12,ci,ci41002672,2024-12-16T10:42:16.581Z,"9 km NNW of Warner Springs, CA",earthquake,0.17,0.42,0.052,4,automatic,ci,ci
@@ -262,7 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T11:39:29.416Z,61.104,-147.4693,8.8,1.4,ml,,,,0.21,ak,ak024g30vnot,2024-12-15T11:40:46.904Z,"50 km WNW of Tatitlek, Alaska",earthquake,,4.3,,,automatic,ak,ak
 2024-12-15T11:21:59.220Z,33.698,-116.824,15.67,1.4,ml,83,21,0.07067,0.19,ci,ci41002264,2024-12-15T15:09:13.940Z,"8 km SE of Valle Vista, CA",earthquake,0.14,0.31,0.168,25,reviewed,ci,ci
 2024-12-15T11:11:43.101Z,60.2513,-153.0577,108.5,1.6,ml,,,,0.6,ak,ak024g30pop2,2024-12-15T11:14:06.973Z,"69 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-12-15T11:10:49.657Z,62.2914,-149.2907,34.8,1.2,ml,,,,0.43,ak,ak024g30phhg,2024-12-15T11:13:32.261Z,"32 km ENE of Susitna North, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2024-12-15T11:07:51.050Z,-2.8852,137.4599,51.368,4.5,mb,24,69,3.26,0.57,us,us7000nz1w,2024-12-15T11:30:03.040Z,"224 km ENE of Nabire, Indonesia",earthquake,10.94,10.661,0.118,21,reviewed,us,us
-2024-12-15T11:04:02.790Z,40.228668212891,-124.73133087158,9.1199998855591,3.28,ml,40,270,0.3034,0.18,nc,nc75103441,2024-12-15T12:42:16.425Z,"39 km W of Petrolia, CA",earthquake,2.12,1.66999996,0.238,9,automatic,nc,nc
-2024-12-15T11:01:51.140Z,62.1921,-145.6667,27.1,1.5,ml,,,,0.52,ak,ak024g30nk51,2024-12-15T11:04:16.190Z,"11 km NW of Glennallen, Alaska",earthquake,,0.4,,,automatic,ak,ak
