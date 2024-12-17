@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-17T07:17:29.250Z,32.920166,-116.23983,10.12,1.19,ml,16,143,0.1526,0.09,ci,ci41003368,2024-12-17T07:19:31.702Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.37,2.47,0.226,7,automatic,ci,ci
 2024-12-17T07:16:11.554Z,61.6248,-151.2417,66.2,1.8,ml,,,,0.5,ak,ak024g69fner,2024-12-17T07:18:06.831Z,"39 km WNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-12-17T07:16:03.598Z,39.1227,-119.0448,0.8,2.3,ml,14,99.05,0.205,0.2533,nn,nn00889838,2024-12-17T07:18:15.576Z,"18 km NE of Yerington, Nevada",earthquake,,5.2,0.11,9,automatic,nn,nn
 2024-12-17T07:04:18.080Z,39.250667572021,-120.52300262451,13.170000076294,2.45,md,8,90,0.08747,0.02,nc,nc75104406,2024-12-17T07:17:19.389Z,"30 km W of Truckee, CA",earthquake,1.07,2.17000008,0.16,9,automatic,nc,nc
