@@ -246,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T23:57:46.620Z,36.603500366211,-121.24066925049,6.3899998664856,3.12,ml,69,27,0.05464,0.27,nc,nc75108351,2024-12-27T13:53:46.804Z,"12 km NW of Pinnacles, CA",earthquake,0.26,0.930000007,0.215,28,automatic,nc,nc
 2024-12-26T23:54:32.335Z,69.3416,-144.6505,0,2.7,ml,,,,0.94,ak,ak024glf0wch,2024-12-26T23:59:12.024Z,"96 km SSW of Kaktovik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-26T23:48:31.130Z,48.733166666667,-122.57766666667,21.58,0.56,md,5,327,0.08617,0.07,uw,uw62060617,2024-12-27T22:42:20.850Z,"5 km S of Marietta, Washington",earthquake,1.11,0.57,0.16133833646987,4,reviewed,uw,uw
-2024-12-26T23:47:24.838Z,31.658,-104.324,4.1723,1.6,ml,17,69,0.1,0.2,tx,tx2024zjof,2024-12-26T23:53:58.815Z,"57 km S of Whites City, New Mexico",earthquake,0,1.3216234445572,0.2,12,automatic,tx,tx
-2024-12-26T23:44:14.960Z,38.594833374023,-122.80583190918,0.18000000715256,0.75,md,6,84,0.08268,0.02,nc,nc75108346,2024-12-26T23:45:52.866Z,"5 km NNE of Windsor, CA",earthquake,0.62,3.76999998,0.15,2,automatic,nc,nc
