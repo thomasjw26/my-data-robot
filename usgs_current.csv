@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T11:52:47.017Z,62.0748,-149.6766,50.7,1.6,ml,,,,0.61,ak,ak025gq8hgd,2025-01-10T11:55:09.106Z,"13 km SE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-01-10T11:51:28.549Z,59.7031,-152.8858,89.9,2.3,ml,,,,0.55,ak,ak025gq88ba,2025-01-10T11:53:46.538Z,"59 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-10T11:49:58.400Z,46.197166666667,-122.18633333333,6.15,0.41,ml,13,94,0.003089,0.1,uw,uw62062012,2025-01-10T20:27:41.850Z,"37 km NNE of Amboy, Washington",earthquake,0.36,0.57,0.093203551602456,9,reviewed,uw,uw
-2025-01-10T11:42:12.619Z,31.746,-104.175,7.2791,2.5,ml,36,60,0,0.1,tx,tx2025arir,2025-01-10T14:00:54.617Z,"51 km SSE of Whites City, New Mexico",earthquake,0.37367014965433,0.50332994348465,0.2,27,reviewed,tx,tx
