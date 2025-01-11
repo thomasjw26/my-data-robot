@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-11T05:44:27.430Z,34.0878334,-117.2994995,14.78,1.27,ml,31,55,0.0439,0.17,ci,ci40837775,2025-01-11T05:46:43.591Z,"2 km NE of Colton, CA",earthquake,0.3,0.65,0.145,6,automatic,ci,ci
+2025-01-11T05:43:40.723Z,39.0695,-119.0311,0,1.2,ml,9,88.19,0.1,0.2565,nn,nn00891756,2025-01-11T05:45:58.168Z,"14 km NE of Yerington, Nevada",earthquake,,7.4,0.3,4,automatic,nn,nn
 2025-01-11T05:34:48.537Z,62.5519,-151.3169,74.3,1.9,ml,,,,0.69,ak,ak025ia3djp,2025-01-11T05:37:33.061Z,"29 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-11T05:20:33.090Z,38.836166381836,-122.83583068848,1.5900000333786,0.72,md,12,88,0.002434,0.01,nc,nc75115751,2025-01-11T05:22:12.580Z,"9 km NW of The Geysers, CA",earthquake,0.3,0.540000021,0.07,12,automatic,nc,nc
 2025-01-11T05:01:41.670Z,37.756832122803,-122.55867004394,8.1499996185303,2.02,md,31,158,0.07664,0.05,nc,nc75115746,2025-01-11T05:22:16.157Z,"6 km NW of San Francisco Zoo, CA",earthquake,0.32,0.569999993,0.15,27,automatic,nc,nc
@@ -250,5 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T05:51:42.910Z,48.678833333333,-123.22433333333,11.23,1.01,ml,14,116,0.09324,0.09,uw,uw62061987,2025-01-10T19:21:20.520Z,"14 km E of North Saanich, Canada",earthquake,0.31,0.59,0.17409783200942,5,reviewed,uw,uw
 2025-01-10T05:49:38.333Z,8.5144,126.6482,12.99,4.9,mb,68,109,1.784,1.34,us,us6000pj4g,2025-01-10T06:29:54.040Z,"37 km ENE of Hinatuan, Philippines",earthquake,9.8,4.173,0.065,75,reviewed,us,us
 2025-01-10T05:48:27.390Z,44.647666666667,-112.16633333333,9.03,0.94,ml,8,116,0.1716,0.11,mb,mb90070728,2025-01-10T16:17:41.310Z,"31 km N of Spencer, Idaho",earthquake,0.54,2.14,0.10275703514224,7,reviewed,mb,mb
-2025-01-10T05:47:56.420Z,37.429668426514,-121.76716613769,9.0900001525879,1.31,md,10,173,0.05667,0.02,nc,nc75115226,2025-01-10T06:22:15.729Z,"9 km NE of Alum Rock, CA",earthquake,0.36,0.670000017,0.16,3,automatic,nc,nc
-2025-01-10T05:45:12.125Z,31.643,-104.479,6.6125,1.5,ml,20,68,0,0.1,tx,tx2025aqwx,2025-01-10T14:58:31.335Z,"59 km S of Whites City, New Mexico",earthquake,0.68686219796009,0.44578904044015,0.1,15,reviewed,tx,tx
