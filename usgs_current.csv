@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-14T20:52:35.380Z,38.841835021973,-122.81116485596,1.9099999666214,0.71,md,11,63,0.01595,0.01,nc,nc75117261,2025-01-14T20:54:11.593Z,"8 km WNW of Cobb, CA",earthquake,0.32,1,0.11,11,automatic,nc,nc
+2025-01-14T20:41:25.206Z,31.693,-104.134,4.3914,1.5,ml,16,82,0.1,0.3,tx,tx2025azim,2025-01-14T20:54:12.030Z,"50 km W of Mentone, Texas",earthquake,0,1.2981773614883,0.2,12,automatic,tx,tx
 2025-01-14T20:27:54.720Z,38.793834686279,-122.75399780273,0.88999998569489,1.12,md,12,87,0.008119,0.02,nc,nc75117251,2025-01-14T20:29:31.206Z,"2 km NNE of The Geysers, CA",earthquake,0.3,0.49000001,0.11,14,automatic,nc,nc
 2025-01-14T20:25:09.990Z,33.6766667,-116.7903333,13.93,1.1,ml,27,59,0.06681,0.16,ci,ci40839583,2025-01-14T20:29:36.479Z,"10 km SW of Idyllwild, CA",earthquake,0.24,0.44,0.233,30,automatic,ci,ci
 2025-01-14T20:18:28.010Z,36.393333435059,-121.2251663208,2.8599998950958,1.57,md,12,108,0.03169,0.05,nc,nc75117246,2025-01-14T20:20:06.178Z,"8 km NNE of Greenfield, CA",earthquake,0.39,0.449999988,0.17,10,automatic,nc,nc
@@ -208,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-13T21:20:39.289Z,34.35983333,-96.77933333,0,1.31,ml,24,112,0.2105586812,0.63,ok,ok2025axoh,2025-01-14T14:25:44.814Z,"6 km SE of Mill Creek, Oklahoma",quarry blast,,1.2,0.29,9,reviewed,ok,ok
 2025-01-13T21:09:23.073Z,28.826,-99.002,1.123,1.8,ml,15,87,0.2,0.3,tx,tx2025axnx,2025-01-14T20:30:13.883Z,"11 km SE of Pearsall, Texas",earthquake,2.356837537416,2.2068198754596,0.1,8,reviewed,tx,tx
 2025-01-13T20:59:07.950Z,38.835334777832,-122.84149932861,1.3799999952316,0.71,md,8,113,0.00571,0.02,nc,nc75116741,2025-01-13T21:00:44.806Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.699999988,0.28,10,automatic,nc,nc
-2025-01-13T20:54:27.122Z,31.559,-104.18,6.7664,1.8,ml,17,71,0,0.1,tx,tx2025axnk,2025-01-14T14:06:59.179Z,"45 km NW of Toyah, Texas",earthquake,0.70237432313873,0.77446492484709,0.2,9,reviewed,tx,tx
