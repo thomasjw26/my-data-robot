@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-17T23:13:13.760Z,38.81916809082,-122.84166717529,2.079999923706,1.06,md,19,69,0.006513,0.01,nc,nc75118781,2025-01-17T23:14:48.328Z,"9 km NW of The Geysers, CA",earthquake,0.21,0.400000006,0.16,21,automatic,nc,nc
 2025-01-17T22:55:12.450Z,38.792667388916,-122.77883148193,1.9700000286102,0.26,md,6,104,0.007119,0,nc,nc75118771,2025-01-17T22:56:47.871Z,"3 km NW of The Geysers, CA",earthquake,0.54,1.38,0.03,8,automatic,nc,nc
 2025-01-17T22:16:37.080Z,17.951166666667,-66.815333333333,10.58,2.13,md,6,214,0.05467,0.15,pr,pr71470988,2025-01-17T22:54:31.870Z,"4 km S of Indios, Puerto Rico",earthquake,0.9,0.73,0.16931976746321,5,reviewed,pr,pr
 2025-01-17T22:09:09.430Z,38.822666168213,-122.85216522217,2.6800000667572,1.05,md,15,112,0.006104,0.02,nc,nc75118751,2025-01-17T22:10:47.604Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.569999993,0.27,18,automatic,nc,nc
@@ -240,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-16T23:50:50.240Z,19.174,-155.496,32.74,2.86,ml,62,91,0.03699,0.12,hv,hv74593562,2025-01-17T01:17:05.040Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.38,0.46,0.20153475560186,42,reviewed,hv,hv
 2025-01-16T23:34:53.230Z,61.373666666667,-152.3695,3.64,-0.38,ml,8,155,0.115,0.1,av,av93030359,2025-01-17T09:00:02.250Z,"73 km WNW of Beluga, Alaska",earthquake,0.26,0.4,0.36559126067381,9,reviewed,av,av
 2025-01-16T23:28:49.500Z,33.1665,-116.036,6.73,2.22,ml,71,27,0.04936,0.2,ci,ci40841463,2025-01-17T18:37:37.700Z,"9 km ENE of Ocotillo Wells, CA",earthquake,0.13,0.5,0.143,26,reviewed,ci,ci
-2025-01-16T23:24:12.430Z,61.337,-146.958,4,4.1,ml,,,,0.68,ak,ak025qufoy6,2025-01-17T19:28:47.956Z,"40 km NW of Valdez, Alaska",earthquake,,0.2,,,reviewed,ak,ak
-2025-01-16T23:17:57.320Z,35.8953333,-117.7271667,4.46,0.85,ml,21,60,0.08146,0.13,ci,ci40841447,2025-01-17T18:37:04.449Z,"17 km ESE of Little Lake, CA",earthquake,0.17,0.37,0.202,15,reviewed,ci,ci
