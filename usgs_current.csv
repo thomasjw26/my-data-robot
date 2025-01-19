@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-19T10:46:56.830Z,33.7739983,-115.9123306,-0.44,1.38,ml,38,71,0.1021,0.17,ci,ci40843183,2025-01-19T10:51:21.808Z,"26 km NE of Thermal, CA",earthquake,0.27,0.45,0.099,8,automatic,ci,ci
+2025-01-19T10:46:56.850Z,33.7755,-115.9148333,0.17,1.29,ml,47,52,0.1042,0.18,ci,ci40843183,2025-01-19T10:51:22.499Z,"26 km NE of Thermal, CA",earthquake,0.18,0.36,0.102,25,automatic,ci,ci
 2025-01-19T10:33:11.220Z,63.015,-151.5709,0.9,1.9,ml,,,,0.79,ak,ak025vld0xe,2025-01-19T10:35:45.447Z,"59 km S of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-19T10:32:28.100Z,33.9695,-118.1906667,13.27,1.35,ml,46,43,0.03496,0.23,ci,ci40843175,2025-01-19T10:43:26.200Z,"1 km SSW of Bell, CA",earthquake,0.28,0.46,0.261,33,automatic,ci,ci
 2025-01-19T10:27:23.482Z,-5.5054,147.0737,196.531,4.9,mb,36,55,3.451,0.63,us,us6000pl2t,2025-01-19T10:43:44.040Z,"134 km N of Lae, Papua New Guinea",earthquake,8.56,8.395,0.114,24,reviewed,us,us
