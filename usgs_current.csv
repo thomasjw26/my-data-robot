@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-21T07:06:48.000Z,34.3211667,-117.003,6.44,1.12,ml,40,53,0.0642,0.16,ci,ci40844239,2025-01-21T07:12:30.613Z,"12 km NW of Big Bear Lake, CA",earthquake,0.16,0.47,0.215,26,automatic,ci,ci
+2025-01-21T07:06:48.000Z,34.3211667,-117.003,6.44,1.12,ml,40,53,0.0642,0.16,ci,ci40844239,2025-01-21T07:15:12.448Z,"12 km NW of Big Bear Lake, CA",earthquake,0.16,0.47,0.215,26,automatic,ci,ci
 2025-01-21T06:56:23.572Z,60.5022,-143.0938,6.6,2.7,ml,,,,0.64,ak,ak025yu6xx1,2025-01-21T06:58:15.948Z,"104 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-21T06:48:49.978Z,39.1716,-119.0251,6.6,1.6,ml,16,77.88,0.011,0.1287,nn,nn00892296,2025-01-21T06:50:51.512Z,"23 km NNE of Yerington, Nevada",earthquake,,0.4,0.11,8,automatic,nn,nn
 2025-01-21T06:35:29.790Z,38.787666320801,-122.76699829102,2.170000076294,0.75,md,7,96,0.01414,0.01,nc,nc75120556,2025-01-21T06:37:06.473Z,"1 km NNW of The Geysers, CA",earthquake,0.41,1.41999996,0.06,8,automatic,nc,nc
@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-20T07:53:46.290Z,32.999,-116.4428333,8.04,0.79,ml,43,45,0.03831,0.18,ci,ci40843735,2025-01-20T07:58:15.390Z,"17 km ESE of Julian, CA",earthquake,0.18,0.48,0.125,14,automatic,ci,ci
 2025-01-20T07:39:02.540Z,36.049,-117.8101667,0.85,1,ml,16,95,0.04346,0.15,ci,ci40843727,2025-01-20T07:42:32.334Z,"12 km E of Coso Junction, CA",earthquake,0.21,0.31,0.192,15,automatic,ci,ci
 2025-01-20T07:37:17.728Z,-20.573,-69.956,64.62,3.7,mb,13,114,0.308,0.54,us,us6000pl6j,2025-01-20T15:27:29.458Z,"36 km SSE of La Tirana, Chile",earthquake,4.04,5.782,0.292,3,reviewed,us,us
-2025-01-20T07:15:36.564Z,-30.1683,-178.1078,58.787,4.4,mb,13,157,0.918,0.92,us,us6000pl6i,2025-01-20T08:40:57.040Z,"Kermadec Islands, New Zealand",earthquake,13.1,12.757,0.162,11,reviewed,us,us
