@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-03T06:36:06.000Z,65.479,-168.964,1,4.2,Ml,31,233.99998128,0.4392762,0.66,at,at00sr3h06,2025-02-03T06:41:04.141Z,"31 km S of Diomede, Alaska",earthquake,0,0,,16,reviewed,at,at
 2025-02-03T06:31:17.780Z,33.0515,-116.454,14.22,0.64,ml,39,39,0.02895,0.18,ci,ci40178738,2025-02-03T06:36:41.135Z,"14 km ESE of Julian, CA",earthquake,0.2,0.44,0.197,12,automatic,ci,ci
 2025-02-03T06:28:09.880Z,34.2343333,-117.6023333,4.16,0.59,ml,20,88,0.04677,0.14,ci,ci40178730,2025-02-03T06:32:50.574Z,"10 km WSW of Lytle Creek, CA",earthquake,0.21,0.33,0.222,9,automatic,ci,ci
 2025-02-03T06:16:43.865Z,59.3352,-152.6072,65.5,1.6,ml,,,,0.25,ak,ak0251kbxx9e,2025-02-03T06:18:31.336Z,"39 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
