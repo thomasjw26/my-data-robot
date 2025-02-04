@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-03T12:15:25.630Z,33.673,-116.7258333,14.63,0.71,ml,41,36,0.04261,0.18,ci,ci40178882,2025-02-03T14:45:51.000Z,"8 km S of Idyllwild, CA",earthquake,0.2,0.34,0.202,23,reviewed,ci,ci
 2025-02-03T12:03:34.250Z,44.435666666667,-115.53116666667,6.4,1.92,ml,14,61,0.3947,0.11,mb,mb90072078,2025-02-03T21:39:54.100Z,"39 km N of Lowman, Idaho",earthquake,0.31,0.98,0.26093931993242,12,reviewed,mb,mb
 2025-02-03T11:50:49.078Z,36.7675,25.6221,10,4.9,mb,65,80,1.591,0.94,us,us7000pb0b,2025-02-03T13:42:22.926Z,"25 km WSW of Amorgós, Greece",earthquake,5.54,1.873,0.053,109,reviewed,us,us
-2025-02-03T11:42:24.250Z,61.2685,-152.23066666667,1.15,-0.47,ml,5,238,0.03669,0.2,av,av93031694,2025-02-04T02:15:39.920Z,"62 km WNW of Tyonek, Alaska",earthquake,0.99,3.01,0.11062574579859,5,reviewed,av,av
