@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-02-08T05:34:33.480Z,34.0180016,-117.208168,9.99,1.08,ml,20,101,0.07633,0.14,ci,ci40181930,2025-02-08T05:36:48.134Z,"5 km SSW of Redlands, CA",earthquake,0.44,1.22,0.525,8,automatic,ci,ci
+2025-02-08T05:34:33.610Z,34.0135,-117.2051667,7.02,0.85,ml,31,49,0.07123,0.18,ci,ci40181930,2025-02-08T05:39:25.121Z,"5 km SSW of Redlands, CA",earthquake,0.21,0.58,0.176,30,automatic,ci,ci
 2025-02-08T05:09:26.617Z,61.6288,-150.9444,54.5,2.2,ml,,,,0.22,ak,ak0251skzos5,2025-02-08T05:10:35.409Z,"24 km WNW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-02-08T05:08:58.940Z,33.524,-116.7268333,4.02,0.64,ml,27,39,0.04221,0.16,ci,ci40181922,2025-02-08T05:13:13.124Z,"6 km SW of Anza, CA",earthquake,0.19,0.41,0.233,20,automatic,ci,ci
 2025-02-08T05:00:34.320Z,-6.0351,103.2686,27.694,5.1,mb,53,43,1.693,1.04,us,us7000pc9d,2025-02-08T05:20:29.040Z,"222 km S of Pagar Alam, Indonesia",earthquake,6.88,5.299,0.075,59,reviewed,us,us
