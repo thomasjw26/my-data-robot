@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-12T22:57:36.930Z,32.005,-102.22,4.9622,1.9,ml,7,142,0,0.3,tx,tx2025damo,2025-02-12T22:59:52.750Z,"13 km W of Midland, Texas",earthquake,0,2.4591422080994,0.2,4,automatic,tx,tx
 2025-02-12T22:50:06.569Z,39.1553,-119.0421,6.6,1.2,ml,8,79.9,0.014,0.1007,nn,nn00893393,2025-02-12T22:52:27.622Z,"21 km NNE of Yerington, Nevada",earthquake,,0.6,0.39,4,automatic,nn,nn
 2025-02-12T22:11:12.050Z,35.9076667,-117.6948333,3.72,1.11,ml,23,43,0.05398,0.13,ci,ci40185162,2025-02-12T22:14:42.936Z,"19 km E of Little Lake, CA",earthquake,0.16,0.45,0.129,20,automatic,ci,ci
 2025-02-12T22:10:36.328Z,17.5228,-83.2766,10,4.8,mww,76,37,5.164,0.91,us,us7000pd93,2025-02-12T22:28:06.040Z,"218 km NNE of Barra Patuca, Honduras",earthquake,7.2,1.866,0.054,33,reviewed,us,us
