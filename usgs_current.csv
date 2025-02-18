@@ -191,7 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T08:19:40.660Z,18.019166666667,-66.765166666667,13.6,2.37,md,12,164,0.0251,0.14,pr,pr71472928,2025-02-17T08:32:27.870Z,"0 km ENE of Magas Arriba, Puerto Rico",earthquake,0.46,0.3,0.13478695612927,6,reviewed,pr,pr
 2025-02-17T08:19:36.780Z,38.798831939697,-122.73750305176,1.6799999475479,1.07,md,11,104,0.03571,0.03,nc,nc75135082,2025-02-17T08:21:12.617Z,"3 km SW of Cobb, CA",earthquake,0.28,1.08000004,0.05,11,automatic,nc,nc
 2025-02-17T08:08:55.534Z,59.8451,-153.2628,118.4,1.6,ml,,,,0.43,ak,ak02527ilyk1,2025-02-17T08:10:47.007Z,"47 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-02-17T07:58:03.904Z,56.2823,-158.1199,39.6,2.5,ml,,,,0.66,ak,ak02527ib4rq,2025-02-17T07:59:19.129Z,"17 km E of Chignik, Alaska",earthquake,,4.1,,,automatic,ak,ak
+2025-02-17T07:58:03.904Z,56.2823,-158.1199,39.6,2.5,ml,,,,0.66,ak,ak02527ib4rq,2025-02-18T07:11:25.040Z,"17 km E of Chignik, Alaska",earthquake,,4.1,,,automatic,ak,ak
 2025-02-17T07:51:17.730Z,61.310666666667,-152.28033333333,1.35,-0.15,ml,8,122,0.06817,0.09,av,av93503106,2025-02-18T06:19:53.970Z,"67 km WNW of Beluga, Alaska",earthquake,0.33,1.12,0.28614324083757,9,reviewed,av,av
 2025-02-17T07:49:49.992Z,36.6009,25.6487,10,5,mww,94,38,1.448,0.72,us,us7000pe7k,2025-02-17T14:08:00.040Z,"27 km NE of Firá, Greece",earthquake,4.28,1.55,0.044,50,reviewed,us,us
 2025-02-17T07:42:19.480Z,38.804832458496,-122.8176651001,2.9400000572205,0.75,md,7,127,0.009857,0.01,nc,nc75135077,2025-02-17T07:43:57.218Z,"6 km NW of The Geysers, CA",earthquake,0.7,0.850000024,0.02,8,automatic,nc,nc
