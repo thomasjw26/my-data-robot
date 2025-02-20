@@ -49,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T14:02:16.905Z,60.9501,-151.2244,54.7,1.5,ml,,,,0.41,ak,ak0252ckr8d6,2025-02-20T14:04:24.658Z,"13 km SSW of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-02-20T13:58:56.045Z,32.437,-102.067,8.252,1.2,ml,11,75,0,0.1,tx,tx2025dokv,2025-02-20T15:56:26.505Z,"34 km SSW of Los Ybanez, Texas",earthquake,0.80624064235098,1.0163697972703,0.1,8,reviewed,tx,tx
 2025-02-20T13:31:06.350Z,38.414665222168,-122.57499694824,3.670000076294,1.75,md,19,79,0.06578,0.08,nc,nc75136572,2025-02-20T13:32:44.428Z,"3 km WNW of Kenwood, CA",earthquake,0.26,1.11000001,0.18,18,automatic,nc,nc
-2025-02-20T13:13:46.660Z,35.4914,138.907,33.022,4.5,mb,38,114,1.191,0.85,us,us7000pexw,2025-02-20T18:22:52.889Z,"5 km NE of Oshino, Japan",earthquake,6.2,6.345,0.094,33,reviewed,us,us
+2025-02-20T13:13:46.660Z,35.4914,138.907,33.022,4.5,mb,38,114,1.191,0.85,us,us7000pexw,2025-02-20T19:54:43.893Z,"5 km NE of Oshino, Japan",earthquake,6.2,6.345,0.094,33,reviewed,us,us
 2025-02-20T13:13:22.339Z,53.03,-167.8486,50.3,2.1,ml,,,,0.62,ak,ak0252ck861q,2025-02-20T17:07:56.685Z,"68 km E of Nikolski, Alaska",earthquake,,2.5,,,reviewed,ak,ak
 2025-02-20T13:10:52.000Z,33.4696667,-116.4763333,7.43,0.76,ml,30,64,0.1081,0.17,ci,ci40189666,2025-02-20T17:59:01.331Z,"21 km ESE of Anza, CA",earthquake,0.21,0.82,0.138,20,reviewed,ci,ci
 2025-02-20T13:08:53.940Z,38.802501678467,-122.77899932861,3.4000000953674,1.1,md,22,78,0.01082,0.03,nc,nc75136562,2025-02-20T13:19:51.958Z,"3 km NNW of The Geysers, CA",earthquake,0.29,0.519999981,0.27,23,automatic,nc,nc
@@ -206,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T20:04:35.390Z,36.42133333,-96.91,2.3,0.7,ml,17,76,0.02519505587,0.11,ok,ok2025dnbk,2025-02-20T13:54:37.470Z,"13 km NW of Pawnee, Oklahoma",earthquake,,1.2,0.22,9,reviewed,ok,ok
 2025-02-19T20:01:48.590Z,46.007666666667,-112.45566666667,-2,1.59,ml,9,132,0.06887,0.05,mb,mb90072813,2025-02-19T22:07:33.330Z,"6 km E of Butte, Montana",quarry blast,0.32,31.61,0.28375426350798,13,reviewed,mb,mb
 2025-02-19T20:00:21.440Z,33.8645,-117.5,-0.44,1.12,ml,31,50,0.05203,0.24,ci,ci40189154,2025-02-20T19:48:10.506Z,"2 km SE of Home Gardens, CA",quarry blast,0.41,31.61,0.168,33,reviewed,ci,ci
-2025-02-19T19:49:50.270Z,19.036166666667,-155.43,35.82,3.06,ml,56,207,0.1224,0.11,hv,hv74619337,2025-02-19T21:10:39.040Z,"16 km ESE of Naalehu, Hawaii",earthquake,0.41,0.57,0.14178371345761,42,reviewed,hv,hv
