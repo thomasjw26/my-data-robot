@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-23T15:48:36.128Z,61.5052,-150.8103,49.2,1.7,ml,,,,0.25,ak,ak0252hk8lwc,2025-02-23T15:50:04.977Z,"16 km WSW of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-02-23T15:28:37.160Z,34.0723333,-117.0981667,28.54,1.44,ml,15,134,0.1262,0.33,ci,ci40192346,2025-02-23T15:33:46.861Z,"3 km E of Mentone, CA",earthquake,1.6,0.84,0.353,28,automatic,ci,ci
 2025-02-23T15:28:06.811Z,31.606,-104.362,4.2083,1.5,ml,14,94,0.1,0.2,tx,tx2025duah,2025-02-23T15:35:58.934Z,"62 km WNW of Toyah, Texas",earthquake,0,1.5710768699646,0.1,12,automatic,tx,tx
 2025-02-23T15:19:12.128Z,57.4305,-155.1815,36.9,1.6,ml,,,,0.18,ak,ak0252hk2ca4,2025-02-23T15:21:28.279Z,"46 km WSW of Karluk, Alaska",earthquake,,15.7,,,automatic,ak,ak
