@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-25T11:28:08.940Z,38.776832580566,-122.7148361206,14.89999961853,0.85,md,7,99,0.01492,0.05,nc,nc75138951,2025-02-25T11:29:45.246Z,"2 km WNW of Anderson Springs, CA",earthquake,1.95,6.07000017,0.19,8,automatic,nc,nc
 2025-02-25T11:23:05.242Z,57.9567,-157.2314,10.1,1.2,ml,,,,0.43,ak,ak0252kss579,2025-02-25T11:25:36.627Z,"30 km SSE of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-25T11:17:40.277Z,57.9817,-157.0918,12,1.5,ml,,,,0.32,ak,ak0252ksqxl7,2025-02-25T11:19:52.218Z,"30 km SSE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-25T11:13:38.760Z,19.4573,-68.15,12,3.61,md,11,241,0.9714,0.26,pr,pr2025056006,2025-02-25T11:56:47.761Z,"100 km NNE of Punta Cana, Dominican Republic",earthquake,3.09,3.29,0.06,6,reviewed,pr,pr
 2025-02-25T11:07:03.573Z,62.8457,-150.7981,101.2,3.6,ml,,,,0.55,ak,ak0252ksopkj,2025-02-25T11:36:52.541Z,"38 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-25T10:56:11.720Z,38.783000946045,-122.73516845703,2.5499999523163,0.79,md,7,114,0.001239,0.02,nc,nc75138936,2025-02-25T10:57:49.809Z,"2 km E of The Geysers, CA",earthquake,0.53,0.709999979,0.15,6,automatic,nc,nc
 2025-02-25T10:55:55.780Z,38.785831451416,-122.73400115967,1.9700000286102,1.14,md,12,84,0.003353,0.01,nc,nc75138931,2025-02-25T11:52:27.990Z,"2 km ENE of The Geysers, CA",earthquake,0.29,0.589999974,0.13,13,automatic,nc,nc
@@ -248,6 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-24T12:07:15.850Z,57.570166666667,-155.98583333333,5.29,0.73,ml,12,244,0.193,0.24,av,av93510606,2025-02-25T05:31:57.500Z,"84 km E of Ugashik, Alaska",earthquake,2.02,3.57,0.40273728218072,12,reviewed,av,av
 2025-02-24T12:02:34.130Z,40.354167938232,-124.8998336792,0.87000000476837,2.82,md,21,280,0.4311,0.19,nc,nc75138647,2025-02-24T20:13:59.823Z,"52 km WNW of Petrolia, CA",earthquake,4.3,7.28999996,0.1,15,automatic,nc,nc
 2025-02-24T11:58:46.391Z,30.926,-103.197,3.3569,2.3,ml,12,79,0.1,0.1,tx,tx2025dvox,2025-02-24T14:24:05.934Z,"30 km W of Fort Stockton, Texas",earthquake,1.5028653481584,1.7073670262151,0.2,30,reviewed,tx,tx
-2025-02-24T11:57:27.385Z,31.674,-104.102,6.2537,1.7,ml,21,74,0.1,0.2,tx,tx2025dvov,2025-02-24T14:48:26.082Z,"47 km W of Mentone, Texas",earthquake,0.75344167323094,0.70756045894142,0.2,17,reviewed,tx,tx
-2025-02-24T11:54:38.780Z,17.969666666667,-66.951833333333,12.93,2.22,md,6,182,0.06929,0.07,pr,pr71473428,2025-02-24T12:08:15.790Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.97,0.53,0.037601091319491,4,reviewed,pr,pr
-2025-02-24T11:54:04.240Z,36.1605,-118.052,1.92,0.95,ml,20,58,0.1652,0.19,ci,ci40192842,2025-02-24T13:57:03.953Z,"14 km SSW of Olancha, CA",earthquake,0.3,1.09,0.27,13,reviewed,ci,ci
