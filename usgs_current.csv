@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-27T20:53:01.594Z,63.104,-150.479,29.3,1.7,ml,,,,1.79,ak,ak0252o9e5tb,2025-02-27T20:54:44.532Z,"69 km NNE of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-02-27T20:35:01.200Z,38.748332977295,-122.70566558838,1.1799999475479,1.08,md,10,136,0.02001,0.02,nc,nc75140136,2025-02-27T20:36:38.921Z,"3 km SSW of Anderson Springs, CA",earthquake,0.28,0.550000012,0.11,9,automatic,nc,nc
 2025-02-27T20:07:46.670Z,47.6005,-121.80816666667,16.84,3.24,ml,76,55,0.1054,0.16,uw,uw62078461,2025-02-27T20:26:14.401Z,"7 km ENE of Fall City, Washington",earthquake,0.19,0.25,0.14076895254971,61,reviewed,uw,uw
 2025-02-27T20:04:47.770Z,44.29,-115.17683333333,10.18,2.23,ml,16,68,0.3003,0.21,mb,mb90073288,2025-02-27T20:38:55.490Z,"20 km WNW of Stanley, Idaho",earthquake,0.49,1.22,0.2169865938352,17,reviewed,mb,mb
@@ -230,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-26T21:13:11.560Z,46.976166666667,-122.24533333333,-0.34,1.61,ml,24,229,0.02093,0.15,uw,uw62078251,2025-02-26T21:49:56.750Z,"1 km SW of Kapowsin, Washington",explosion,0.41,31.61,0.17209403286108,15,reviewed,uw,uw
 2025-02-26T21:12:42.412Z,13.5821,-90.6745,60.308,4.2,mb,24,178,0.926,0.64,us,us6000pvpg,2025-02-26T22:08:36.040Z,"39 km S of Iztapa, Guatemala",earthquake,4.4,13.669,0.305,3,reviewed,us,us
 2025-02-26T21:11:14.849Z,34.30266667,-96.43433333,0,1.06,ml,24,128,0.1646676866,0.44,ok,ok2025dzyc,2025-02-27T17:13:35.848Z,"7 km S of Wapanucka, Oklahoma",quarry blast,,0.9,0.17,9,reviewed,ok,ok
-2025-02-26T20:55:37.225Z,26.3886,92.2421,10,5.3,mb,116,54,5.711,0.75,us,us6000pvpc,2025-02-27T17:35:25.740Z,"17 km SSE of Khārupatia, India",earthquake,8.03,1.837,0.039,221,reviewed,us,us
