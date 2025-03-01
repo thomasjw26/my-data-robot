@@ -223,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-28T07:51:23.147Z,65.1091,-149.4036,11.4,1.6,ml,,,,0.76,ak,ak0252pp6hoa,2025-02-28T07:53:11.239Z,"5 km SSW of Minto, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-02-28T07:43:00.880Z,38.836498260498,-122.80133056641,5.5799999237061,0.37,md,7,120,0.00879,0.09,nc,nc75140361,2025-02-28T09:57:16.861Z,"7 km WNW of Cobb, CA",earthquake,1.23,1.59000003,0.27,7,automatic,nc,nc
 2025-02-28T07:34:53.040Z,19.5066,-68.3751,30,4.17,md,23,287,0.9926,0.51,pr,pr2025059001,2025-02-28T08:19:07.970Z,"91 km NE of Miches, Dominican Republic",earthquake,3.18,30.69,0.08,13,reviewed,pr,pr
-2025-02-28T07:20:17.980Z,40.392833709717,-124.77600097656,19.459999084473,2.85,md,14,297,0.3473,0.1,nc,nc75140356,2025-02-28T09:38:54.040Z,"42 km WNW of Petrolia, CA",earthquake,5.9,2.3499999,0.08,15,automatic,nc,nc
