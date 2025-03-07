@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-07T07:21:52.360Z,38.792835235596,-122.7773361206,1.6200000047684,0.43,md,8,101,0.008276,0.01,nc,nc75144291,2025-03-07T07:23:30.192Z,"3 km NW of The Geysers, CA",earthquake,0.39,0.819999993,0.28,7,automatic,nc,nc
+2025-03-07T07:19:54.600Z,35.96866607666,-121.452003479,6.0100002288818,1.52,md,15,208,0.0816,0.07,nc,nc75144286,2025-03-07T07:21:30.532Z,"12 km SE of Lopez Point, CA",earthquake,0.64,0.839999974,0.2,9,automatic,nc,nc
 2025-03-07T07:09:34.451Z,31.327,-103.682,6.1352,1.7,ml,11,136,0.1,0.1,tx,tx2025ephw,2025-03-07T07:14:17.728Z,"10 km E of Toyah, Texas",earthquake,0,3.7894985675812,0.2,9,automatic,tx,tx
 2025-03-07T06:58:40.820Z,32.398,-102.06,4.3598,1.7,ml,60,45,0,0.4,tx,tx2025ephn,2025-03-07T07:10:37.725Z,"35 km WSW of Ackerly, Texas",earthquake,0,0.70696878433228,0.1,42,automatic,tx,tx
 2025-03-07T06:57:16.380Z,38.833000183105,-122.83249664307,0.80000001192093,0.66,md,10,62,0.00605,0.02,nc,nc75144276,2025-03-07T06:58:55.022Z,"9 km NW of The Geysers, CA",earthquake,0.31,0.649999976,0.48,9,automatic,nc,nc
