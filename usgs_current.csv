@@ -258,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T14:15:34.539Z,35.26233333,-97.79483333,5.25,-0.02,ml,12,115,0.00449911712,0.06,ok,ok2025epvy,2025-03-07T14:47:09.986Z,"3 km SSE of Tuttle, Oklahoma",earthquake,,0.4,0.17,5,reviewed,ok,ok
 2025-03-07T13:59:50.215Z,63.1497,-149.1151,67.9,1.8,ml,,,,0.82,ak,ak02531dkakt,2025-03-07T14:02:06.208Z,"28 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-07T13:57:35.680Z,59.399,-153.31966666667,9.38,0.63,ml,10,298,0.03377,0.11,av,av93524046,2025-03-07T20:03:24.220Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.64,0.92,0.23278166111207,10,reviewed,av,av
-2025-03-07T13:50:27.880Z,38.825833333333,-122.82116666667,1.64,0.31,md,17,40,0.009,0.02,nc,nc75144466,2025-03-08T00:07:15.858Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.43,0.218,17,reviewed,nc,nc
