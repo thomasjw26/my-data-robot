@@ -262,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T13:32:06.530Z,60.306166666667,-152.7295,14.18,0.38,ml,11,177,0.116,0.12,av,av93524026,2025-03-08T03:10:21.900Z,"65 km WNW of Ninilchik, Alaska",earthquake,0.82,0.81,0.25103405713411,11,reviewed,av,av
 2025-03-07T13:31:17.483Z,61.3088,-150.1358,33.9,1.6,ml,,,,0.73,ak,ak02531de804,2025-03-07T13:33:24.313Z,"10 km SW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-07T13:29:45.353Z,61.2973,-152.2539,20,0,ml,,,,0.3,ak,ak02531ddutp,2025-03-08T03:03:54.070Z,"65 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-03-07T13:21:31.470Z,46.494,-122.42083333333,17.15,2.11,ml,97,32,0.1189,0.13,uw,uw62079801,2025-03-08T12:23:10.717Z,"6 km SE of Mossyrock, Washington",earthquake,0.11,0.24,0.1746301483675,67,reviewed,uw,uw
