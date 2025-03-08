@@ -231,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T18:08:25.989Z,35.27716667,-97.783,5.27,-0.13,ml,14,235,0.006298763968,0.08,ok,ok2025eqdp,2025-03-07T18:15:06.250Z,"3 km ESE of Tuttle, Oklahoma",earthquake,,0.4,0.24,7,reviewed,ok,ok
 2025-03-07T18:03:24.290Z,38.761833333333,-122.73633333333,1.54,0.26,md,11,65,0.008972,0.03,nc,nc75144586,2025-03-07T23:33:31.519Z,"2 km SE of The Geysers, CA",earthquake,0.3,0.5,0.124,6,reviewed,nc,nc
 2025-03-07T17:52:37.390Z,38.832500457764,-122.83399963379,0.63999998569489,1.08,md,17,66,0.00619,0.05,nc,nc75144576,2025-03-07T18:12:16.397Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.370000005,0.14,19,automatic,nc,nc
-2025-03-07T17:45:28.810Z,32.6731667,-115.6323333,11.4,2.57,ml,52,46,0.08281,0.26,ci,ci41073984,2025-03-07T20:01:38.590Z,"11 km NNW of Progreso, B.C., MX",earthquake,0.27,0.4,0.222,26,reviewed,ci,ci
