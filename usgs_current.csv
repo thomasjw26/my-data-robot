@@ -277,7 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T10:51:23.590Z,37.628833333333,-112.29916666667,7.91,1.59,ml,14,129,0.1848,0.24,uu,uu80103416,2025-03-07T16:50:15.290Z,"12 km E of Hatch, Utah",earthquake,0.66,4.33,0.27874222753868,5,reviewed,uu,uu
 2025-03-07T10:41:03.215Z,-5.903,127.6448,412.862,4.3,mb,61,60,2.635,0.59,us,us6000pxe0,2025-03-07T11:39:01.040Z,"251 km SSW of Ambon, Indonesia",earthquake,11.07,8.485,0.081,45,reviewed,us,us
 2025-03-07T10:40:32.740Z,37.626333333333,-112.31066666667,2.08,1.19,md,8,168,0.1821,0.23,uu,uu80002908,2025-03-07T18:19:48.090Z,"11 km ESE of Hatch, Utah",earthquake,1.22,31.61,0.11864315118297,4,reviewed,uu,uu
-2025-03-07T10:35:03.554Z,36.6261,-116.4686,2.5,0.4,ml,12,315.21,0.1,0.1246,nn,nn00894417,2025-03-08T02:07:57.984Z,"39 km ENE of Furnace Creek, California",earthquake,,6.8,0.12,3,reviewed,nn,nn
-2025-03-07T10:34:43.731Z,61.7726,-150.0217,34.8,1.5,ml,,,,0.61,ak,ak02531bmmd1,2025-03-07T10:37:12.813Z,"2 km NNE of Willow, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2025-03-07T10:33:16.518Z,37.3889,-117.1247,5.4,1.4,ml,37,140.85,0.14,0.152,nn,nn00894399,2025-03-08T02:07:25.360Z,"36 km SSE of Goldfield, Nevada",earthquake,,2.3,0.2,13,reviewed,nn,nn
-2025-03-07T10:32:47.030Z,37.633333333333,-112.301,6.39,2.4,ml,27,104,0.1893,0.2,uu,uu80103411,2025-03-07T15:38:37.230Z,"11 km E of Hatch, Utah",earthquake,0.43,1.19,0.29093621792321,16,reviewed,uu,uu
