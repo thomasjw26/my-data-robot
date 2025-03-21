@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-21T19:21:25.786Z,32.12,-102.189,4.9888,1.1,ml,14,119,0,0.5,tx,tx2025fpvi,2025-03-21T19:25:49.195Z,"17 km NW of Midland, Texas",earthquake,0,1.3133370876312,0.2,11,automatic,tx,tx
 2025-03-21T19:18:10.270Z,38.835666656494,-122.83316802978,1.0499999523163,0.69,md,8,82,0.003434,0.01,nc,nc75152767,2025-03-21T19:19:45.465Z,"9 km NW of The Geysers, CA",earthquake,0.34,1.17999995,0.29,8,automatic,nc,nc
 2025-03-21T19:06:26.225Z,61.6165,-149.759,24.5,1.4,ml,,,,0.43,ak,ak0253omccbi,2025-03-21T19:08:23.586Z,"3 km ESE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-21T19:06:05.164Z,32.112,-102.18,4.8865,1.3,ml,21,70,0,0.4,tx,tx2025fpur,2025-03-21T19:16:49.139Z,"15 km NW of Midland, Texas",earthquake,0,1.1980344057083,0.2,13,automatic,tx,tx
@@ -299,5 +300,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-20T19:36:04.359Z,-22.9465,172.3791,10,5.2,mww,36,134,4.564,1.29,us,us7000pled,2025-03-20T19:57:43.040Z,"southeast of the Loyalty Islands",earthquake,8.12,1.885,0.066,22,reviewed,us,us
 2025-03-20T19:35:11.726Z,39.1691,-119.0222,5.2,1.4,ml,12,118.43,0.013,0.1272,nn,nn00894860,2025-03-21T02:10:25.839Z,"23 km NNE of Yerington, Nevada",earthquake,,1.1,0.25,5,reviewed,nn,nn
 2025-03-20T19:30:56.805Z,36.7216,71.3072,188.832,4.8,mb,106,58,2.576,0.87,us,us7000plec,2025-03-20T21:54:48.579Z,"20 km WNW of Ashkāsham, Afghanistan",earthquake,6.47,6.485,0.039,201,reviewed,us,us
-2025-03-20T19:24:54.931Z,-41.8367,174.0872,10,4.9,mb,42,116,0.702,1.15,us,us7000plea,2025-03-20T22:32:48.535Z,"36 km SSE of Witherlea, New Zealand",earthquake,4.08,1.868,0.125,20,reviewed,us,us
-2025-03-20T19:23:49.280Z,37.001666666667,-119.81566666667,-0.15,1.84,md,16,97,0.08692,0.19,nc,nc75152197,2025-03-21T08:07:15.196Z,"6 km E of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,0.77,31.61,0.173,13,reviewed,nc,nc
