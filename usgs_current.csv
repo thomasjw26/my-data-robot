@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-21T07:16:30.314Z,64.4772,-146.9398,4.5,0.9,ml,,,,0.43,ak,ak0253of9ajb,2025-03-21T07:17:48.002Z,"5 km SSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-21T07:14:29.050Z,38.825332641602,-122.8048324585,2.2999999523163,0.72,md,12,53,0.004528,0.04,nc,nc75152492,2025-03-21T07:16:04.673Z,"7 km NNW of The Geysers, CA",earthquake,0.34,0.790000021,0.25,12,automatic,nc,nc
 2025-03-21T07:09:10.191Z,39.4889,-98.3014,9.08,2.7,mb_lg,16,124,1.112,0.37,us,us7000plit,2025-03-21T07:15:11.040Z,"1 km SSE of Glen Elder, Kansas",earthquake,2.72,7.077,0.18,8,reviewed,us,us
 2025-03-21T07:04:11.347Z,31.673,-104.394,4.5302,1.9,ml,16,69,0,0.4,tx,tx2025fowt,2025-03-21T07:11:32.921Z,"55 km S of Whites City, New Mexico",earthquake,0,1.3013226985931,0.1,12,automatic,tx,tx
