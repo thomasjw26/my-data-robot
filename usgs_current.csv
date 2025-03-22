@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-22T04:08:43.830Z,38.835498809815,-122.81999969482,1.9400000572205,0.74,md,11,68,0.01248,0.01,nc,nc75153047,2025-03-22T04:10:20.685Z,"8 km NNW of The Geysers, CA",earthquake,0.35,0.99000001,0.16,11,automatic,nc,nc
+2025-03-22T04:21:03.192Z,61.7065,-148.7346,42.9,0.8,ml,,,,0.6,ak,ak0253q11cpb,2025-03-22T04:23:48.534Z,"8 km S of Sutton-Alpine, Alaska",earthquake,,1,,,automatic,ak,ak
+2025-03-22T04:08:43.830Z,38.835498809815,-122.81999969482,1.9400000572205,0.74,md,11,68,0.01248,0.01,nc,nc75153047,2025-03-22T04:27:19.476Z,"8 km NNW of The Geysers, CA",earthquake,0.35,0.99000001,0.16,11,automatic,nc,nc
 2025-03-22T04:05:06.131Z,65.4474,-148.2355,10.7,1,ml,,,,0.12,ak,ak0253q0xxh1,2025-03-22T04:06:54.493Z,"16 km ESE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-03-22T03:45:32.680Z,32.89,-115.684,15.74,1.28,ml,8,158,0.1044,0.38,ci,ci40906871,2025-03-22T03:49:14.404Z,"12 km WNW of Imperial, CA",earthquake,1.31,2.39,0.433,14,automatic,ci,ci
 2025-03-22T03:42:35.449Z,59.1602,-136.463,0,2.9,ml,,,,0.88,ak,ak0253q0khmf,2025-03-22T03:46:13.378Z,"37 km SW of Covenant Life, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -241,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T05:01:52.960Z,35.145,-97.82366667,7.55,1.78,ml,82,47,0.03959223065,0.26,ok,ok2025foss,2025-03-21T12:58:02.132Z,"5 km ESE of Amber, Oklahoma",earthquake,,0.3,0.25,37,reviewed,ok,ok
 2025-03-21T04:58:38.490Z,61.272333333333,-152.232,-1.31,-0.91,ml,6,179,0.03783,0.13,av,av93036714,2025-03-21T20:48:07.730Z,"63 km WNW of Tyonek, Alaska",earthquake,0.44,3.97,0.25754801039926,6,reviewed,av,av
 2025-03-21T04:51:39.470Z,18.0035,-66.815166666667,15.79,2.05,md,6,168,0.06724,0.19,pr,pr71476898,2025-03-21T05:28:05.950Z,"1 km NNE of Indios, Puerto Rico",earthquake,0.89,1.36,0.10623714724828,5,reviewed,pr,pr
-2025-03-21T04:24:38.060Z,47.756833333333,-113.8265,7.87,-0.16,ml,4,152,0.05496,0.03,mb,mb90075253,2025-03-21T21:24:57.120Z,"17 km E of Finley Point, Montana",earthquake,0.74,1.61,0.23339809073455,2,reviewed,mb,mb
