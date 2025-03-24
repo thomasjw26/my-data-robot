@@ -260,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-23T07:24:31.510Z,38.830165863037,-122.81616973877,1.7000000476837,1.14,md,19,91,0.008269,0.01,nc,nc75153677,2025-03-23T10:07:19.288Z,"8 km NNW of The Geysers, CA",earthquake,0.25,0.379999995,0.15,20,automatic,nc,nc
 2025-03-23T07:24:03.526Z,-30.069,-179.1401,309.18,4.5,mb,36,125,1.332,1.07,us,us7000pm0h,2025-03-23T07:54:19.040Z,"Kermadec Islands region",earthquake,15.4,8.462,0.076,50,reviewed,us,us
 2025-03-23T07:20:18.243Z,61.9698,-150.1442,10.2,1.5,ml,,,,0.4,ak,ak0253rqctgg,2025-03-23T07:22:05.565Z,"25 km NNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-03-23T07:19:59.230Z,38.829166412354,-122.8561630249,2.789999961853,0.76,md,15,112,0.001711,0.02,nc,nc75153672,2025-03-23T07:47:17.381Z,"10 km NW of The Geysers, CA",earthquake,0.33,0.639999986,0.15,15,automatic,nc,nc
