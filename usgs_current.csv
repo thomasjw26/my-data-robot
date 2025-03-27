@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-27T07:38:30.165Z,63.1166,-150.4885,107.1,2.5,ml,,,,0.66,ak,ak0253ycm37c,2025-03-27T07:40:34.267Z,"70 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-03-27T07:31:29.985Z,58.4687,-153.8992,15.5,1.5,ml,,,,1.02,ak,ak0253yckl9s,2025-03-27T07:37:11.403Z,"73 km NW of Aleneva, Alaska",earthquake,,2.9,,,automatic,ak,ak
-2025-03-27T07:20:32.080Z,36.806331634521,-121.52633666992,4.3000001907349,2.14,md,39,58,0.02202,0.16,nc,nc75156077,2025-03-27T07:23:58.870Z,"4 km S of San Juan Bautista, CA",earthquake,0.3,0.460000008,0.16,36,automatic,nc,nc
+2025-03-27T07:20:32.080Z,36.806331634521,-121.52633666992,4.3000001907349,2.14,md,39,58,0.02202,0.16,nc,nc75156077,2025-03-27T07:47:21.905Z,"4 km S of San Juan Bautista, CA",earthquake,0.3,0.460000008,0.16,36,automatic,nc,nc
 2025-03-27T07:16:13.120Z,33.5896667,-116.6991667,15.06,0.63,ml,29,57,0.03999,0.14,ci,ci40911415,2025-03-27T07:21:27.216Z,"4 km NNW of Anza, CA",earthquake,0.19,0.3,0.178,18,automatic,ci,ci
 2025-03-27T07:05:24.730Z,33.778,-115.9498333,0.54,1,ml,33,60,0.1195,0.2,ci,ci40911407,2025-03-27T07:09:14.964Z,"23 km NE of Thermal, CA",earthquake,0.23,0.41,0.194,19,automatic,ci,ci
 2025-03-27T07:05:20.210Z,17.9535,-66.9175,11.01,2.39,md,12,209,0.02042,0.14,pr,pr71477618,2025-03-27T07:18:09.550Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.45,0.41,0.077468205934861,5,reviewed,pr,pr
