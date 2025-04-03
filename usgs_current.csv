@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-03T22:56:27.750Z,35.3520012,-117.8164978,6.09,1.69,ml,24,63,0.08773,0.22,ci,ci40915727,2025-04-03T22:58:54.496Z,"17 km W of Johannesburg, CA",earthquake,0.41,1.23,0.219,27,automatic,ci,ci
 2025-04-03T22:32:45.627Z,38.1813,-117.8898,3.9,1.2,ml,8,143.69,0.077,0.1468,nn,nn00895634,2025-04-03T22:35:32.044Z,"30 km SE of Mina, Nevada",earthquake,,1.9,0.64,6,automatic,nn,nn
 2025-04-03T22:22:17.580Z,34.7395,-120.3558333,9.9,1.33,ml,22,83,0.06261,0.2,ci,ci40915719,2025-04-03T22:26:05.670Z,"7 km W of Los Alamos, CA",earthquake,0.36,0.68,0.083,22,automatic,ci,ci
 2025-04-03T22:18:06.479Z,38.211,-117.8095,7,2.3,ml,22,113.76,0.138,0.4122,nn,nn00895630,2025-04-03T22:21:12.729Z,"32 km SE of Mina, Nevada",earthquake,,0.6,0.31,12,automatic,nn,nn
@@ -42,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-03T18:11:01.480Z,38.812000274658,-122.82166290283,2.0199999809265,2.25,md,51,48,0.006652,0.06,nc,nc75159457,2025-04-03T20:27:15.819Z,"7 km NW of The Geysers, CA",earthquake,0.15,0.219999999,0.11,54,automatic,nc,nc
 2025-04-03T18:07:07.985Z,63.0919,-151.8148,18.7,2.4,ml,,,,1.01,ak,ak0254a3qlb9,2025-04-03T18:44:01.040Z,"50 km S of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-04-03T18:06:01.870Z,38.836833953857,-122.78283691406,1.539999961853,0.7,md,8,81,0.00607,0.01,nc,nc75159452,2025-04-03T20:12:22.722Z,"5 km WNW of Cobb, CA",earthquake,0.56,1.40999997,0.28,8,automatic,nc,nc
-2025-04-03T18:03:40.810Z,33.0406667,-114.9905,3.76,1.82,ml,13,57,0.06905,0.14,ci,ci40915351,2025-04-03T18:07:44.692Z,"44 km NE of Holtville, CA",earthquake,0.34,0.69,0.216,18,automatic,ci,ci
+2025-04-03T18:03:40.330Z,33.056,-115.0033333,-0.2,1.54,ml,14,62,0.0862,0.26,ci,ci40915351,2025-04-03T22:57:46.443Z,"44 km NE of Holtville, CA",quarry blast,0.58,31.61,0.123,12,reviewed,ci,ci
 2025-04-03T17:59:06.333Z,-23.5477,-179.7757,555.127,4.3,mb,30,106,5.91,1.04,us,us6000q3s8,2025-04-03T18:37:53.040Z,"south of the Fiji Islands",earthquake,15.31,10.417,0.111,23,reviewed,us,us
 2025-04-03T17:56:06.044Z,52.6927,-34.916,10,4.7,mb,59,133,12.472,0.61,us,us6000q3s7,2025-04-03T18:18:58.040Z,"Reykjanes Ridge",earthquake,12.09,1.905,0.054,104,reviewed,us,us
 2025-04-03T17:46:35.870Z,38.805168151855,-122.78033447266,1.2799999713898,0.75,md,7,88,0.008084,0.02,nc,nc75159442,2025-04-03T19:47:19.547Z,"4 km NNW of The Geysers, CA",earthquake,0.47,0.899999976,0.03,8,automatic,nc,nc
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-03T15:42:51.699Z,61.7472,-151.0339,72.1,1.4,ml,,,,0.45,ak,ak0254a25w29,2025-04-03T15:45:17.964Z,"33 km SE of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-04-03T15:40:18.270Z,38.791332244873,-122.84850311279,11.079999923706,0.92,md,8,153,0.01322,0.09,nc,nc75159377,2025-04-03T16:07:18.050Z,"8 km WNW of The Geysers, CA",earthquake,2.67,3.57999992,0.25,9,automatic,nc,nc
 2025-04-03T15:36:56.840Z,45.3315,-121.69333333333,5.6,0.36,ml,8,133,0.01273,0.06,uw,uw62079852,2025-04-03T16:38:24.830Z,"5 km ENE of Government Camp, Oregon",earthquake,0.28,0.45,0.096739666830752,3,reviewed,uw,uw
-2025-04-03T15:31:12.730Z,33.9881667,-116.8181667,20.01,1.28,ml,34,39,0.04765,0.16,ci,ci40915239,2025-04-03T22:52:40.570Z,"8 km NNW of Cabazon, CA",earthquake,0.2,0.51,0.15,24,reviewed,ci,ci
+2025-04-03T15:31:12.730Z,33.9881667,-116.8181667,20.01,1.28,ml,34,39,0.04765,0.16,ci,ci40915239,2025-04-03T22:53:16.652Z,"8 km NNW of Cabazon, CA",earthquake,0.2,0.51,0.15,24,reviewed,ci,ci
 2025-04-03T15:30:59.148Z,60.4557,-151.9537,80.8,1.2,ml,,,,0.13,ak,ak0254a23f8k,2025-04-03T15:33:20.715Z,"36 km W of Kalifornsky, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-04-03T15:29:13.640Z,47.828666666667,-122.75383333333,21.35,0.92,ml,12,73,0.06786,0.2,uw,uw62079847,2025-04-03T16:22:28.290Z,"7 km WNW of Lofall, Washington",earthquake,0.56,0.86,0.14183608488141,5,reviewed,uw,uw
 2025-04-03T15:22:44.580Z,35.3048333,-118.5928333,5.68,2.44,ml,52,37,0.1076,0.19,ci,ci40915231,2025-04-03T22:27:42.421Z,"23 km NW of Tehachapi, CA",earthquake,0.17,0.9,0.201,25,reviewed,ci,ci
