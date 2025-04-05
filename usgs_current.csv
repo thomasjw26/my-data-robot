@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-05T21:36:30.700Z,36.450332641602,-121.0436630249,0.56999999284744,2.39,md,29,65,0.01255,0.17,nc,nc75160747,2025-04-05T21:38:06.018Z,"13 km SSE of Pinnacles, CA",earthquake,0.36,0.579999983,0.11,33,automatic,nc,nc
+2025-04-05T21:36:30.700Z,36.450332641602,-121.0436630249,0.56999999284744,2.39,md,29,65,0.01255,0.17,nc,nc75160747,2025-04-05T21:39:38.660Z,"13 km SSE of Pinnacles, CA",earthquake,0.36,0.579999983,0.11,33,automatic,nc,nc
 2025-04-05T21:28:46.130Z,38.791168212891,-122.76049804688,1.3099999427795,0.74,md,7,92,0.009463,0.01,nc,nc75160742,2025-04-05T21:30:24.517Z,"2 km  of The Geysers, CA",earthquake,0.35,0.800000012,0.13,8,automatic,nc,nc
 2025-04-05T20:54:11.779Z,31.743,-104.114,5.7516,1.9,ml,17,71,0,0.3,tx,tx2025grir,2025-04-05T21:03:16.326Z,"48 km W of Mentone, Texas",earthquake,0,2.4906833171845,0.3,12,automatic,tx,tx
 2025-04-05T20:31:20.010Z,35.3391667,-117.805,7.04,1.29,ml,31,41,0.07899,0.19,ci,ci40917383,2025-04-05T20:35:12.174Z,"16 km WSW of Johannesburg, CA",earthquake,0.23,0.63,0.17,25,automatic,ci,ci
