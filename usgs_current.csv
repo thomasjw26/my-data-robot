@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-05T06:22:30.077Z,62.1681,-149.5589,34.5,2.3,ml,,,,0.67,ak,ak0254d7rcm7,2025-04-05T06:24:32.113Z,"15 km E of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-05T06:04:55.628Z,62.1363,-148.7192,18.3,1.8,ml,,,,0.34,ak,ak0254d7njp6,2025-04-05T06:07:18.403Z,"40 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-05T05:53:36.408Z,38.8979,-117.7399,4.5,2.2,ml,12,195.96,0.013,0.2781,nn,nn00895686,2025-04-05T05:56:38.077Z,"16 km ENE of Gabbs, Nevada",earthquake,,0.4,0.38,9,automatic,nn,nn
-2025-04-05T05:47:40.600Z,38.823665618896,-122.81116485596,2.3399999141693,0.45,md,12,64,0.01865,0.02,nc,nc75160427,2025-04-05T06:27:16.372Z,"7 km NNW of The Geysers, CA",earthquake,0.32,1.02999997,0.31,15,automatic,nc,nc
-2025-04-05T05:47:06.320Z,38.832332611084,-122.80166625977,2.2599999904633,0.93,md,20,48,0.01072,0.02,nc,nc75160422,2025-04-05T06:17:18.302Z,"7 km WNW of Cobb, CA",earthquake,0.22,0.540000021,0.17,22,automatic,nc,nc
