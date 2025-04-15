@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-15T07:19:55.554Z,61.8104,-146.0445,34.7,2.1,ml,,,,0.71,ak,ak0254trpnz7,2025-04-15T07:21:41.771Z,"30 km S of Tolsona, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-04-15T07:18:59.360Z,33.366333,-116.7023315,10.42,1.47,ml,59,25,0.1047,0.2,ci,ci40927991,2025-04-15T07:21:06.830Z,"11 km NW of Warner Springs, CA",earthquake,0.23,0.52,0.205,17,automatic,ci,ci
 2025-04-15T06:53:26.360Z,33.0435,-116.5915,13.26,0.69,ml,43,33,0.03772,0.18,ci,ci40927975,2025-04-15T06:56:48.859Z,"4 km SSE of Julian, CA",earthquake,0.18,0.44,0.142,15,automatic,ci,ci
 2025-04-15T06:50:19.780Z,35.3356667,-117.8091667,7.16,1.11,ml,34,65,0.0744,0.19,ci,ci40927967,2025-04-15T06:53:49.664Z,"16 km WSW of Johannesburg, CA",earthquake,0.24,0.7,0.265,24,automatic,ci,ci
 2025-04-15T06:49:03.510Z,33.049,-116.5928333,13.3,0.25,ml,21,83,0.03214,0.17,ci,ci40927959,2025-04-15T06:52:25.707Z,"3 km SSE of Julian, CA",earthquake,0.26,0.56,0.07,4,automatic,ci,ci
@@ -83,6 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-15T01:26:54.450Z,38.793834686279,-122.75233459473,1.5700000524521,0.44,md,9,89,0.0089,0.02,nc,nc75165536,2025-04-15T01:57:19.492Z,"2 km NNE of The Geysers, CA",earthquake,0.32,0.709999979,0.22,9,automatic,nc,nc
 2025-04-15T01:26:12.390Z,35.9588333,-117.3715,1.9,1.75,ml,28,67,0.09855,0.15,ci,ci40927551,2025-04-15T01:29:45.334Z,"22 km N of Searles Valley, CA",earthquake,0.19,0.48,0.183,26,automatic,ci,ci
 2025-04-15T01:25:41.090Z,33.047,-116.599,13.47,0.35,ml,26,52,0.03391,0.19,ci,ci40927543,2025-04-15T01:29:12.253Z,"4 km S of Julian, CA",earthquake,0.32,0.65,0.116,7,automatic,ci,ci
+2025-04-15T01:23:36.600Z,37.4535,-121.78166666667,7.57,0.94,md,21,53,0.01521,0.08,nc,nc75165526,2025-04-15T07:21:21.548Z,"11 km NNE of Alum Rock, CA",earthquake,0.21,0.37,0.202,17,reviewed,nc,nc
 2025-04-15T01:21:26.700Z,33.0523333,-116.6051667,13,0.86,ml,41,37,0.02928,0.16,ci,ci40927535,2025-04-15T01:24:53.157Z,"3 km S of Julian, CA",earthquake,0.18,0.38,0.192,23,automatic,ci,ci
 2025-04-15T01:11:06.300Z,33.0283333,-116.5863333,14.5,0.79,ml,39,46,0.05334,0.19,ci,ci40927527,2025-04-15T01:14:31.104Z,"6 km SSE of Julian, CA",earthquake,0.22,0.38,0.167,17,automatic,ci,ci
 2025-04-15T01:08:12.820Z,40.292667388916,-124.95133209228,7.2199997901917,2.43,md,18,288,0.4657,0.15,nc,nc75165516,2025-04-15T03:32:16.119Z,"57 km W of Petrolia, CA",earthquake,4.52,4.07000017,0.13,10,automatic,nc,nc
