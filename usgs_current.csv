@@ -17,6 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-16T18:14:00.081Z,11.7508,141.6119,38.462,4.9,mb,78,68,3.666,0.7,us,us6000q6kv,2025-04-16T18:58:05.040Z,"249 km NNE of Fais, Micronesia",earthquake,9.04,7.329,0.055,103,reviewed,us,us
 2025-04-16T18:06:36.930Z,19.339333333333,-155.17833333333,6.47,2.48,ml,48,80,0.04081,0.12,hv,hv74654562,2025-04-16T19:59:19.710Z,"12 km SSE of Volcano, Hawaii",earthquake,0.3,0.54,0.22818561551044,37,reviewed,hv,hv
 2025-04-16T18:02:11.241Z,62.4338,-148.125,28.2,2.2,ml,,,,0.52,ak,ak0254vlp1j8,2025-04-16T18:03:54.344Z,"73 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-04-16T17:54:32.840Z,33.9376667,-116.0531667,6.64,0.37,ml,8,165,0.07764,0.14,ci,ci40930239,2025-04-16T20:50:12.051Z,"22 km S of Twentynine Palms, CA",earthquake,0.63,0.82,0.029,2,reviewed,ci,ci
 2025-04-16T17:52:02.109Z,61.8794,-149.6647,2.8,2.3,ml,,,,0.64,ak,ak0254vleb0y,2025-04-16T17:54:00.079Z,"24 km NE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-16T17:44:40.248Z,-33.9361,-179.4185,26.558,5.4,mww,81,79,4.064,0.94,us,us6000q6kn,2025-04-16T20:09:17.910Z,"south of the Kermadec Islands",earthquake,8.88,5.194,0.071,19,reviewed,us,us
 2025-04-16T17:41:28.360Z,38.836833953857,-122.80016326904,2.039999961853,0.23,md,12,87,0.007828,0.02,nc,nc75166416,2025-04-16T18:42:17.676Z,"7 km WNW of Cobb, CA",earthquake,0.31,0.74000001,0.08,13,automatic,nc,nc
@@ -62,6 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-16T14:08:39.560Z,46.62,-119.7985,7.75,1.59,ml,9,79,0.02518,0.07,uw,uw62091941,2025-04-16T14:18:32.030Z,"11 km SE of Desert Aire, Washington",earthquake,0.3,0.17,0.12860911689579,8,reviewed,uw,uw
 2025-04-16T14:08:02.330Z,46.6185,-119.798,7.54,2.29,ml,30,41,0.02446,0.12,uw,uw62091936,2025-04-16T14:28:14.290Z,"11 km SE of Desert Aire, Washington",earthquake,0.2,0.15,0.13147009166575,54,reviewed,uw,uw
 2025-04-16T14:06:23.606Z,61.4231,-149.9094,32.2,2.4,ml,,,,0.32,ak,ak0254vjc6xk,2025-04-16T16:31:50.720Z,"7 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-04-16T14:01:23.280Z,52.125333333333,-174.338,9.46,2.05,ml,8,215,0.1154,0.06,av,av93577056,2025-04-16T20:53:06.930Z,"12 km SW of Atka, Alaska",earthquake,0.61,0.28,0.23570299896656,8,reviewed,av,av
 2025-04-16T13:57:29.165Z,39.1777,-118.9997,7.8,2.1,ml,21,76.24,0.029,0.1102,nn,nn00896303,2025-04-16T17:00:27.320Z,"25 km NNE of Yerington, Nevada",earthquake,,0.7,0.29,11,reviewed,nn,nn
 2025-04-16T13:55:58.820Z,47.9805,-113.14316666667,4.91,0.6,ml,5,220,0.4153,0.16,mb,mb90078903,2025-04-16T15:01:28.740Z,"40 km SW of Heart Butte, Montana",earthquake,2.45,11.47,0.11295456166505,2,reviewed,mb,mb
 2025-04-16T13:55:33.922Z,31.676,-104.412,6.6125,1.6,ml,24,69,0,0.1,tx,tx2025hkxj,2025-04-16T15:50:27.162Z,"55 km S of Whites City, New Mexico",earthquake,0.77123166918735,0.55077021017065,0.2,24,reviewed,tx,tx
@@ -258,7 +260,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-15T23:55:13.070Z,46.618333333333,-119.79483333333,7.65,2.36,ml,37,26,0.0223,0.11,uw,uw62091766,2025-04-16T05:51:00.760Z,"11 km SE of Desert Aire, Washington",earthquake,0.16,0.1,0.1497227249203,38,reviewed,uw,uw
 2025-04-15T23:50:08.090Z,33.042,-116.5663333,14.26,0.64,ml,29,56,0.08388,0.2,ci,ci40929391,2025-04-15T23:53:38.382Z,"5 km SE of Julian, CA",earthquake,0.29,0.75,0.136,14,automatic,ci,ci
 2025-04-15T23:42:25.680Z,33.5958333,-116.7365,13.21,0.53,ml,25,68,0.03036,0.14,ci,ci40929383,2025-04-16T14:06:19.441Z,"7 km NW of Anza, CA",earthquake,0.21,0.4,0.188,16,reviewed,ci,ci
-2025-04-15T23:33:03.080Z,33.05,-116.6086667,12.87,0.65,ml,25,49,0.03227,0.22,ci,ci40929359,2025-04-15T23:36:33.263Z,"3 km S of Julian, CA",earthquake,0.3,0.64,0.153,12,automatic,ci,ci
+2025-04-15T23:33:03.000Z,33.0526667,-116.6081667,13.36,0.62,ml,21,50,0.02961,0.14,ci,ci40929359,2025-04-16T20:54:42.075Z,"3 km S of Julian, CA",earthquake,0.22,0.52,0.12,8,reviewed,ci,ci
 2025-04-15T23:30:04.160Z,35.0411667,-117.666,-0.77,1.76,ml,38,40,0.1094,0.19,ci,ci40929367,2025-04-15T23:37:36.439Z,"5 km NNW of Boron, CA",earthquake,0.26,0.51,0.125,28,automatic,ci,ci
 2025-04-15T23:14:19.512Z,31.876,-101.907,6.0791,1.5,ml,19,59,0,0.1,tx,tx2025hjuj,2025-04-16T15:12:47.892Z,"21 km SE of Midland, Texas",earthquake,0.53189223109664,0.82887189765873,0.1,31,reviewed,tx,tx
 2025-04-15T23:13:59.032Z,35.9389,70.564,99,5.6,mww,114,21,1.84,0.64,us,us6000q6c3,2025-04-16T16:50:57.040Z,"66 km NNW of Pārūn, Afghanistan",earthquake,7.22,1.898,0.073,18,reviewed,us,us
