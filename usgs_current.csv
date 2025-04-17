@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-17T23:32:40.140Z,35.9781667,-117.5151667,2.75,0.8,ml,11,92,0.1138,0.16,ci,ci40931623,2025-04-17T23:36:03.435Z,"26 km NNW of Searles Valley, CA",earthquake,0.46,1.48,0.13,8,automatic,ci,ci
 2025-04-17T23:20:24.946Z,62.8754,-150.9273,102.1,2.2,ml,,,,0.42,ak,ak0254xcbfzy,2025-04-17T23:23:09.712Z,"43 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-04-17T22:55:49.200Z,38.794166564941,-122.76583099365,3.6300001144409,0.79,md,13,80,0.008028,0.02,nc,nc75167286,2025-04-17T23:17:16.972Z,"2 km NNW of The Geysers, CA",earthquake,0.39,0.99000001,0.13,14,automatic,nc,nc
 2025-04-17T22:51:43.720Z,33.1436667,-116.5551667,13.98,1.92,ml,77,20,0.07193,0.18,ci,ci40931591,2025-04-17T23:02:33.210Z,"8 km NNE of Julian, CA",earthquake,0.14,0.34,0.199,26,automatic,ci,ci
@@ -32,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-17T19:28:35.530Z,33.1028333,-116.6451667,13.77,0.59,ml,19,102,0.04553,0.21,ci,ci40931423,2025-04-17T20:24:12.242Z,"5 km WNW of Julian, CA",earthquake,0.38,0.71,0.059,5,reviewed,ci,ci
 2025-04-17T19:26:01.970Z,38.770332336426,-122.73699951172,0.75,0.73,md,9,72,0.01289,0.02,nc,nc75167201,2025-04-17T20:07:17.737Z,"2 km SE of The Geysers, CA",earthquake,0.34,0.660000026,0.38,9,automatic,nc,nc
 2025-04-17T19:19:08.290Z,38.814834594727,-122.76233673096,1.8899999856949,1.08,md,17,110,0.01434,0.01,nc,nc75167196,2025-04-17T19:57:19.667Z,"3 km W of Cobb, CA",earthquake,0.27,0.5,0.25,17,automatic,nc,nc
-2025-04-17T19:07:44.530Z,46.243831634521,-122.98349761963,0.73000001907349,1.9757556915283,ml,13,115,0.1274,0.170000002,uw,uw62093521,2025-04-17T20:01:54.345Z,"6 km WSW of Castle Rock, Washington",earthquake,0.47,16.0699997,0.31287208199501,26,reviewed,uw,uw
+2025-04-17T19:07:44.370Z,46.248666666667,-122.97916666667,-0.41,1.62,ml,17,79,0.1256,0.16,uw,uw62093526,2025-04-17T23:35:45.700Z,"6 km WSW of Castle Rock, Washington",explosion,0.5,31.61,0.12302193409681,8,reviewed,uw,uw
 2025-04-17T19:03:39.230Z,33.8451667,-117.5005,2.38,1.74,ml,61,32,0.05384,0.24,ci,ci40931415,2025-04-17T19:14:48.860Z,"4 km SSE of Home Gardens, CA",earthquake,0.21,0.31,0.159,33,automatic,ci,ci
 2025-04-17T18:59:24.010Z,46.163666666667,-123.43266666667,-0.5,1.39,ml,11,101,0.1208,0.24,uw,uw62093506,2025-04-17T23:28:34.620Z,"5 km NW of Westport, Oregon",explosion,0.64,31.61,0.15163528138125,6,reviewed,uw,uw
 2025-04-17T18:57:05.827Z,39.0616,-119.0174,7.3,2.6,ml,28,47.45,0.083,0.1444,nn,nn00896367,2025-04-17T19:34:20.883Z,"15 km ENE of Yerington, Nevada",earthquake,,1,0.21,14,reviewed,nn,nn
@@ -245,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-16T23:55:22.170Z,35.3211667,-117.9246667,6.62,2.47,ml,41,35,0.07418,0.18,ci,ci40930655,2025-04-17T16:01:56.358Z,"22 km NNE of California City, CA",earthquake,0.17,0.5,0.235,96,reviewed,ci,ci
 2025-04-16T23:53:55.020Z,47.359166666667,-117.887,-0.61,2.43,ml,10,59,0.1559,0.3,uw,uw62092951,2025-04-17T00:19:14.440Z,"9 km NE of Sprague, Washington",explosion,0.61,31.61,0.016110704967398,2,reviewed,uw,uw
 2025-04-16T23:47:58.720Z,45.747666666667,-114.64633333333,22.12,2.36,ml,11,121,0.4796,0.15,mb,mb90079028,2025-04-17T15:03:30.650Z,"45 km WSW of Conner, Montana",earthquake,0.59,0.86,0.25296033249345,40,reviewed,mb,mb
-2025-04-16T23:36:11.710Z,33.137,-116.4801667,13.69,1.16,ml,44,62,0.1133,0.22,ci,ci40930639,2025-04-17T13:52:14.531Z,"13 km ENE of Julian, CA",earthquake,0.28,0.63,0.199,32,reviewed,ci,ci
-2025-04-16T23:35:46.750Z,33.056,-116.6105,13.2,1.4,ml,45,36,0.02718,0.17,ci,ci40930631,2025-04-17T13:52:16.518Z,"3 km SSW of Julian, CA",earthquake,0.2,0.38,0.233,28,reviewed,ci,ci
