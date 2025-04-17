@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-17T21:19:49.843Z,38.7139,-117.1447,8.3,1.8,ml,8,160.46,0.493,0.4462,nn,nn00896385,2025-04-17T21:22:46.519Z,"55 km S of Kingston, Nevada",earthquake,,1.9,0.62,4,automatic,nn,nn
 2025-04-17T21:02:09.295Z,61.5825,-147.4675,20.8,2.2,ml,,,,0.62,ak,ak0254xb0oox,2025-04-17T21:04:01.267Z,"26 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-17T20:52:00.560Z,33.5321667,-116.7221667,6.06,0.8,ml,20,41,0.03547,0.18,ci,ci40931487,2025-04-17T20:55:35.612Z,"5 km WSW of Anza, CA",earthquake,0.25,0.54,0.293,21,automatic,ci,ci
 2025-04-17T20:31:06.860Z,19.4235,-156.2735,36.81,2.82,ml,55,257,0.333,0.15,hv,hv74655337,2025-04-17T20:59:11.950Z,"36 km WSW of Kahaluu-Keauhou, Hawaii",earthquake,0.53,1.2,0.1660845528215,26,reviewed,hv,hv
-2025-04-17T20:23:07.540Z,38.835498809815,-122.80816650391,2.2799999713898,1.59,md,33,35,0.01218,0.02,nc,nc75167241,2025-04-17T20:24:45.690Z,"8 km WNW of Cobb, CA",earthquake,0.17,0.340000004,0.1,34,automatic,nc,nc
+2025-04-17T20:23:07.540Z,38.835498809815,-122.80816650391,2.2799999713898,1.59,md,33,35,0.01218,0.02,nc,nc75167241,2025-04-17T21:12:17.164Z,"8 km WNW of Cobb, CA",earthquake,0.17,0.340000004,0.1,34,automatic,nc,nc
 2025-04-17T20:03:55.260Z,33.195,-115.601,1.64,1.97,ml,28,88,0.02136,0.28,ci,ci40931455,2025-04-17T20:10:47.151Z,"9 km WSW of Niland, CA",earthquake,0.36,0.51,0.188,28,automatic,ci,ci
 2025-04-17T20:03:52.110Z,40.316665649414,-124.82416534424,8.1899995803833,2.28,md,12,309,0.3694,0.05,nc,nc75167231,2025-04-17T21:07:19.139Z,"46 km W of Petrolia, CA",earthquake,6.48,4.94999981,0.03,10,automatic,nc,nc
 2025-04-17T20:03:34.290Z,38.835834503174,-122.80816650391,2.2200000286102,0.22,md,7,156,0.01251,0.02,nc,nc75167226,2025-04-17T21:07:18.138Z,"8 km WNW of Cobb, CA",earthquake,0.86,1.45000005,0.04,7,automatic,nc,nc
@@ -99,6 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-17T10:10:42.040Z,33.0593333,-116.6006667,14.12,0.68,ml,30,76,0.02175,0.16,ci,ci40931015,2025-04-17T13:47:47.499Z,"2 km S of Julian, CA",earthquake,0.26,0.4,0.094,10,reviewed,ci,ci
 2025-04-17T10:10:25.410Z,47.720166666667,-113.7905,10.16,-0.41,ml,4,198,0.07172,0.02,mb,mb90079103,2025-04-17T16:19:22.030Z,"20 km E of Finley Point, Montana",earthquake,1.05,1.83,0.28809990079768,2,reviewed,mb,mb
 2025-04-17T10:07:24.490Z,48.782333333333,-119.53366666667,17.91,1.22,ml,10,222,0.08529,0.24,uw,uw62093266,2025-04-17T19:06:44.670Z,"8 km ESE of Loomis, Washington",earthquake,1.06,0.57,0.14826280625336,7,reviewed,uw,uw
+2025-04-17T10:07:20.770Z,61.346,-152.29833333333,2.87,-0.54,ml,8,138,0.09422,0.24,av,av93039299,2025-04-17T21:12:21.430Z,"69 km WNW of Beluga, Alaska",earthquake,0.69,0.98,0.18004181367866,8,reviewed,av,av
 2025-04-17T10:04:54.880Z,63.1256,-150.4477,107.3,1.5,ml,,,,0.34,ak,ak0254x4hfzk,2025-04-17T20:08:51.106Z,"71 km NNE of Petersville, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2025-04-17T09:49:34.880Z,33.0718333,-116.6251667,13.83,0.79,ml,46,27,0.02492,0.18,ci,ci40930999,2025-04-17T13:49:39.970Z,"2 km WSW of Julian, CA",earthquake,0.2,0.43,0.116,19,reviewed,ci,ci
 2025-04-17T09:45:31.559Z,2.2395,-96.4748,10,5.2,mww,71,177,6.12,1.24,us,us6000q6q4,2025-04-17T10:36:00.040Z,"west of the Galapagos Islands",earthquake,12.08,1.939,0.058,29,reviewed,us,us
@@ -240,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-16T21:58:23.504Z,64.6997,-149.1517,17,1.3,ml,,,,0.65,ak,ak0254vntde8,2025-04-16T22:01:02.997Z,"10 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-16T21:53:12.150Z,41.1946,-116.6816,10.3,2.8,ml,11,142.87,0.291,0.1273,nn,nn00896331,2025-04-17T12:16:50.569Z,"58 km NE of Valmy, Nevada",earthquake,,2.2,0.16,8,reviewed,nn,nn
 2025-04-16T21:51:44.672Z,41.2295,-116.7035,6.9,2.3,ml,9,162.65,0.327,0.1285,nn,nn00896330,2025-04-17T00:49:10.753Z,"60 km NE of Valmy, Nevada",earthquake,,3.1,0.21,5,reviewed,nn,nn
-2025-04-16T21:15:25.850Z,61.3045,-152.30283333333,-2.23,-0.27,ml,7,189,0.05656,0.28,av,av93039279,2025-04-16T23:17:22.810Z,"68 km WNW of Tyonek, Alaska",earthquake,0.88,3.08,0.20989415270259,7,reviewed,av,av
-2025-04-16T21:15:12.640Z,61.3035,-152.302,1.35,-0.23,ml,7,119,0.05599,0.09,av,av93577421,2025-04-16T23:13:15.600Z,"67 km WNW of Tyonek, Alaska",earthquake,0.36,0.96,0.22457451450933,8,reviewed,av,av
