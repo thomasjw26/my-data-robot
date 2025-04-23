@@ -73,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-23T10:22:33.612Z,59.6269,-151.9177,63.1,1.7,ml,,,,0.51,ak,ak025571tc75,2025-04-23T10:24:38.647Z,"17 km SSW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-04-23T10:17:32.880Z,33.3485,-116.3333333,12.66,0.64,ml,33,76,0.02421,0.18,ci,ci40938471,2025-04-23T14:19:12.990Z,"11 km NNE of Borrego Springs, CA",earthquake,0.27,0.52,0.115,13,reviewed,ci,ci
 2025-04-23T10:11:32.523Z,-6.1069,151.6304,10,5.1,mb,54,86,1.976,0.81,us,us7000pufz,2025-04-23T10:26:51.040Z,"176 km ESE of Kimbe, Papua New Guinea",earthquake,5.98,1.519,0.095,36,reviewed,us,us
+2025-04-23T10:04:05.070Z,36.982333333333,-113.58116666667,24.8,0.74,md,8,185,0.2719,0.11,uu,uu80003183,2025-04-23T19:00:04.820Z,"13 km S of Saint George, Utah",earthquake,0.49,0.56,0.46807872975803,4,reviewed,uu,uu
 2025-04-23T10:02:33.686Z,40.9205,28.4795,10,5,mb,165,27,1.339,0.62,us,us7000pufy,2025-04-23T16:39:52.301Z,"11 km S of Kumburgaz, Turkey",earthquake,3.97,1.811,0.04,195,reviewed,us,us
 2025-04-23T10:02:27.180Z,37.1825,-112.88166666667,7.95,1.07,ml,8,130,0.1723,0.36,uu,uu80003188,2025-04-23T18:29:10.670Z,"10 km E of Springdale, Utah",earthquake,1.17,5.86,0.13003787179777,2,reviewed,uu,uu
 2025-04-23T10:01:04.410Z,40.8025,28.2762,10,4.5,mb,26,55,1.148,0.84,us,us7000pufv,2025-04-23T10:37:56.926Z,"29 km SSW of Selimpaşa, Turkey",earthquake,5.69,1.925,0.192,8,reviewed,us,us
