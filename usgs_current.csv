@@ -181,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-24T10:09:11.430Z,45.926666666667,-111.50416666667,3.85,0.3,ml,6,128,0.1229,0.05,mb,mb90079963,2025-04-24T16:25:48.930Z,"5 km NE of Three Forks, Montana",earthquake,0.37,6.56,0.16008505458527,2,reviewed,mb,mb
 2025-04-24T09:59:58.310Z,33.5246667,-116.7256667,5.32,1.06,ml,59,27,0.04177,0.19,ci,ci40939847,2025-04-24T13:23:51.940Z,"6 km SW of Anza, CA",earthquake,0.14,0.4,0.162,26,reviewed,ci,ci
 2025-04-24T09:50:53.760Z,38.821834564209,-122.84449768066,2.0299999713898,0.76,md,8,170,0.007505,0.01,nc,nc75170706,2025-04-24T10:47:21.800Z,"9 km NW of The Geysers, CA",earthquake,0.44,0.879999995,0.13,9,automatic,nc,nc
-2025-04-24T09:46:41.155Z,59.9673,-150.9206,47.4,1.4,ml,,,,0.44,ak,ak02558owcgm,2025-04-24T14:38:17.779Z,"12 km N of Fox River, Alaska",earthquake,,1.2,,,reviewed,ak,ak
