@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-09T20:44:52.986Z,63.0691,-151.3691,0,1.5,ml,,,,0.67,ak,ak0255xohzea,2025-05-09T20:47:13.897Z,"55 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-05-09T20:39:00.300Z,35.737,-117.5816667,1.78,0.91,ml,21,71,0.1094,0.19,ci,ci41149504,2025-05-09T20:42:25.820Z,"16 km NNE of Ridgecrest, CA",earthquake,0.28,0.38,0.108,17,automatic,ci,ci
+2025-05-09T20:39:00.240Z,35.7396667,-117.5855,1.83,0.9,ml,18,72,0.1097,0.14,ci,ci41149504,2025-05-09T20:54:24.543Z,"16 km NNE of Ridgecrest, CA",earthquake,0.22,0.43,0.131,18,reviewed,ci,ci
 2025-05-09T20:34:39.493Z,65.8342,-151.0348,0,1.6,ml,,,,0.69,ak,ak0255xoft71,2025-05-09T20:36:35.188Z,"54 km NW of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-09T20:33:18.397Z,32.001,-101.719,3.5275,1.8,mlv,42,52,0.1,0.5,tx,tx2025jblb,2025-05-09T20:43:17.557Z,"15 km SSE of Stanton, Texas",earthquake,0,0.88579297065735,0.2,31,automatic,tx,tx
 2025-05-09T20:30:26.190Z,38.819332122803,-122.84049987793,1.9900000095367,0.65,md,9,93,0.005704,0.01,nc,nc75179066,2025-05-09T20:47:20.434Z,"9 km NW of The Geysers, CA",earthquake,0.42,0.99000001,0.44,8,automatic,nc,nc
