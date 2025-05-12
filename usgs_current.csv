@@ -214,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-11T07:27:28.720Z,19.101,-66.4615,29.91,2.96,md,19,252,0.6239,0.17,pr,pr71482013,2025-05-11T08:38:26.650Z,"70 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.65,4.98,0.048868831442778,16,reviewed,pr,pr
 2025-05-11T07:24:57.790Z,19.105666666667,-66.4445,30.81,3.12,md,16,284,0.6304,0.17,pr,pr71481998,2025-05-11T08:10:48.680Z,"71 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.78,5.19,0.054226267356044,11,reviewed,pr,pr
 2025-05-11T07:23:04.680Z,36.432834625244,-121.01116943359,8.1899995803833,1.71,md,16,119,0.04389,0.06,nc,nc75179691,2025-05-11T08:52:17.777Z,"16 km SE of Pinnacles, CA",earthquake,0.31,0.769999981,0.17,13,automatic,nc,nc
-2025-05-11T07:18:27.620Z,44.666166666667,-112.89666666667,9.34,1.29,ml,14,108,0.1651,0.11,mb,mb90084138,2025-05-11T13:54:51.190Z,"24 km W of Lima, Montana",earthquake,0.3,1.02,0.19867483792059,17,reviewed,mb,mb
-2025-05-11T07:18:14.041Z,63.5088,-147.1736,6.7,1.4,ml,,,,0.56,ak,ak02560rodwc,2025-05-11T07:20:06.706Z,"89 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
