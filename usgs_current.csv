@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-19T23:53:36.675Z,59.715,-152.9993,74.6,1.7,ml,,,,0.35,ak,ak0256e9pnc3,2025-05-19T23:55:59.420Z,"62 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-05-19T23:48:47.308Z,38.7752,-118.8345,10.1,1.5,ml,14,127.67,0.379,0.1787,nn,nn00897772,2025-05-19T23:51:12.823Z,"15 km NNW of Walker Lake, Nevada",earthquake,,1.1,0.14,7,automatic,nn,nn
 2025-05-19T23:47:08.510Z,19.218000411987,-155.42050170898,1.0599999427795,2.3,ml,9,283,0.1571,0.100000001,hv,hv74676457,2025-05-19T23:50:03.890Z,"6 km ENE of Pāhala, Hawaii",earthquake,3.91,14.7299995,0.27,5,automatic,hv,hv
 2025-05-19T23:45:28.860Z,38.802665710449,-122.73533630371,2.0499999523163,0.55,md,8,118,0.01916,0.02,nc,nc75183876,2025-05-19T23:47:03.381Z,"2 km SW of Cobb, CA",earthquake,0.57,0.910000026,0.25,9,automatic,nc,nc
@@ -237,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-19T00:05:42.223Z,64.9126,-148.9118,0,0.7,ml,,,,1.53,ak,ak0256dvqeha,2025-05-19T00:07:18.404Z,"33 km SE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-05-19T00:05:13.550Z,51.414833333333,-178.81516666667,20.14,1.36,ml,6,308,0.1388,0.06,av,av93611366,2025-05-19T20:09:06.190Z,"159 km WSW of Adak, Alaska",earthquake,0.75,0.45,0.17964831854422,8,reviewed,av,av
 2025-05-19T00:01:15.620Z,51.7315,-175.73166666667,10.35,0.6,ml,6,307,0.282,0.29,av,av93041984,2025-05-19T20:19:48.560Z,"64 km ESE of Adak, Alaska",earthquake,1.64,3.95,0.19596327375297,6,reviewed,av,av
-2025-05-18T23:58:01.487Z,-18.5505,-71.3193,24.581,4.2,mb,14,153,0.945,0.82,us,us7000q02t,2025-05-19T00:43:59.040Z,"100 km S of Pacocha, Peru",earthquake,8.16,7.186,0.147,13,reviewed,us,us
-2025-05-18T23:55:00.150Z,38.818832397461,-122.84400177002,1.5800000429153,0.67,md,6,145,0.008211,0.01,nc,nc75184167,2025-05-19T01:07:18.817Z,"9 km NW of The Geysers, CA",earthquake,0.73,1.74000001,0.31,7,automatic,nc,nc
