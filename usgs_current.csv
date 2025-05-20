@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-20T07:28:28.184Z,59.9434,-152.6222,95.2,1.4,ml,,,,0.26,ak,ak0256fnkole,2025-05-20T07:30:17.544Z,"48 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-05-20T07:19:54.794Z,60.6176,-152.0849,94.1,2.5,ml,,,,0.47,ak,ak0256fnit68,2025-05-20T07:21:58.210Z,"41 km W of Salamatof, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-20T07:15:11.650Z,36.416831970215,-121.03533172607,-0.34000000357628,1.67,md,8,170,0.0425,0.15,nc,nc75184001,2025-05-20T07:16:50.697Z,"16 km SSE of Pinnacles, CA",earthquake,2.95,6.11000013,0.06,7,automatic,nc,nc
 2025-05-20T07:01:59.890Z,34.2078333,-117.6348333,9.33,0.39,ml,22,66,0.03663,0.12,ci,ci41156984,2025-05-20T07:05:41.656Z,"11 km NNW of Rancho Cucamonga, CA",earthquake,0.26,0.33,0.172,6,automatic,ci,ci
 2025-05-20T06:32:34.096Z,58.4193,-154.3844,12.3,1.9,ml,,,,0.09,ak,ak0256fn04b5,2025-05-20T06:35:00.116Z,"94 km N of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
