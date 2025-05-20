@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-20T04:56:43.490Z,35.3334999,-117.8098297,8.43,1.51,ml,22,95,0.0722,0.16,ci,ci41156936,2025-05-20T04:58:49.967Z,"16 km WSW of Johannesburg, CA",earthquake,0.28,0.95,0.391,4,automatic,ci,ci
 2025-05-20T04:47:36.900Z,33.7171667,-116.8236667,15.51,0.64,ml,25,81,0.08924,0.15,ci,ci41156928,2025-05-20T04:50:59.793Z,"7 km ESE of Valle Vista, CA",earthquake,0.32,0.48,0.153,15,automatic,ci,ci
 2025-05-20T04:39:23.230Z,34.5796667,-118.0295,9.79,0.39,ml,15,129,0.05248,0.11,ci,ci41156920,2025-05-20T04:42:52.342Z,"6 km E of Palmdale, CA",earthquake,0.31,0.48,0.167,8,automatic,ci,ci
 2025-05-20T04:21:36.409Z,62.9903,-151.3512,22.4,1.7,ml,,,,1.12,ak,ak0256flqweg,2025-05-20T04:24:12.490Z,"62 km NNW of Petersville, Alaska",earthquake,,1.8,,,automatic,ak,ak
