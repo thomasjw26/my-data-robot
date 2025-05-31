@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-31T18:54:20.476Z,31.523,-104.013,4.4104,1.8,ml,31,117,0,0.4,tx,tx2025kpns,2025-05-31T18:57:25.524Z,"31 km NW of Toyah, Texas",earthquake,0,1.0761432647705,0.1,20,automatic,tx,tx
 2025-05-31T18:49:52.679Z,59.9359,-153.0106,127.9,3.3,ml,,,,0.43,ak,ak0256y15tne,2025-05-31T18:51:39.784Z,"63 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-05-31T18:47:33.334Z,31.524,-104.018,4.5948,1.9,ml,39,61,0,0.4,tx,tx2025kpnn,2025-05-31T18:50:50.606Z,"31 km NW of Toyah, Texas",earthquake,0,0.97241926193237,0.2,25,automatic,tx,tx
 2025-05-31T18:42:23.283Z,31.525,-104.015,6.5491,1.6,ml,31,58,0,0.4,tx,tx2025kpni,2025-05-31T18:45:30.337Z,"31 km NW of Toyah, Texas",earthquake,0,2.1760146617889,0.1,21,automatic,tx,tx
