@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-05T15:41:48.734Z,61.8484,-148.7412,6.9,2.7,ml,,,,1,ak,ak0257690j7l,2025-06-05T15:50:04.713Z,"7 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-06-05T15:50:19.650Z,35.3378333,-117.8138333,7.56,1.64,ml,41,35,0.07497,0.17,ci,ci41176128,2025-06-05T15:53:59.197Z,"17 km WSW of Johannesburg, CA",earthquake,0.17,0.58,0.156,26,automatic,ci,ci
+2025-06-05T15:41:48.734Z,61.8484,-148.7412,6.9,2.7,ml,,,,1,ak,ak0257690j7l,2025-06-05T15:55:38.040Z,"7 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-05T15:41:28.210Z,35.3366667,-117.8113333,8,0.97,ml,25,80,0.07462,0.13,ci,ci41176120,2025-06-05T15:45:28.013Z,"16 km WSW of Johannesburg, CA",earthquake,0.2,0.51,0.198,17,automatic,ci,ci
 2025-06-05T15:25:25.640Z,33.0541667,-116.3623333,12.94,0.86,ml,40,58,0.09161,0.2,ci,ci41176104,2025-06-05T15:29:48.683Z,"22 km S of Borrego Springs, CA",earthquake,0.22,0.61,0.167,12,automatic,ci,ci
 2025-06-05T15:25:15.790Z,36.435666666667,-91.046833333333,7.54,2.22,md,21,106,0.151,0.14,nm,nm60503643,2025-06-05T15:46:51.950Z,"13 km W of Maynard, Arkansas",earthquake,0.87,1.56,0.061591774686129,19,reviewed,nm,nm
@@ -47,6 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T10:35:22.600Z,44.631166666667,-110.34366666667,2.09,1.28,md,12,84,0.08211,0.17,uu,uu80109801,2025-06-05T13:38:23.730Z,"47 km SE of Mammoth, Wyoming",earthquake,0.43,3.75,0.38468886517518,10,reviewed,uu,uu
 2025-06-05T10:31:49.850Z,41.269333333333,-125.85816666667,10,3.64,mw,101,266,1.307,0.18,nc,nc75191256,2025-06-05T14:42:59.320Z,"146 km WNW of Trinidad, CA",earthquake,2.52,31.61,,5,reviewed,nc,nc
 2025-06-05T10:15:09.189Z,31.607,-104.293,4.4734,1.5,ml,29,93,0.1,0.4,tx,tx2025kxzj,2025-06-05T10:21:21.599Z,"57 km NW of Toyah, Texas",earthquake,0,1.0949479341507,0.2,20,automatic,tx,tx
+2025-06-05T10:11:46.730Z,39.1275,-110.84866666667,1.63,0.91,ml,11,108,0.2532,0.12,uu,uu80003628,2025-06-05T15:58:23.880Z,"17 km ESE of Castle Dale, Utah",earthquake,0.42,9.77,0.16204677717292,2,reviewed,uu,uu
 2025-06-05T10:05:08.955Z,4.2734,125.8742,101.009,4.6,mb,45,45,0.603,1.28,us,us6000qi3k,2025-06-05T10:28:59.040Z,"132 km SSE of Sarangani, Philippines",earthquake,7.44,6.439,0.088,38,reviewed,us,us
 2025-06-05T09:57:48.604Z,63.4288,-151.3974,0.8,1.8,ml,,,,0.26,ak,ak025765jd1o,2025-06-05T09:59:32.019Z,"20 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-05T09:53:41.110Z,38.833332061768,-122.80200195312,2.6800000667572,0.57,md,13,72,0.01042,0.02,nc,nc75191236,2025-06-05T10:57:16.137Z,"7 km WNW of Cobb, CA",earthquake,0.38,1.03999996,0.36,14,automatic,nc,nc
