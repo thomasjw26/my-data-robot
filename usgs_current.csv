@@ -307,4 +307,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-06T11:40:51.367Z,31.652,-104.439,7.0483,1.7,ml,23,79,0,0.2,tx,tx2025kzxp,2025-06-06T15:43:46.824Z,"58 km S of Whites City, New Mexico",earthquake,1.1815040077173,0.90225479225012,0.1,19,reviewed,tx,tx
 2025-06-06T11:31:00.980Z,39.356166666667,-111.92666666667,2.46,1.08,md,11,71,0.1734,0.18,uu,uu80109861,2025-06-06T16:31:42.910Z,"15 km NNW of Fayette, Utah",earthquake,0.53,8.06,0.26841365245805,4,reviewed,uu,uu
 2025-06-06T11:29:26.740Z,44.346833333333,-115.01033333333,7.38,1.99,ml,18,60,0.2678,0.13,mb,mb90094028,2025-06-06T13:54:36.630Z,"15 km NNW of Stanley, Idaho",earthquake,0.35,1,0.21103179808041,32,reviewed,mb,mb
-2025-06-06T11:25:42.200Z,44.3369,-115.0157,4.712,2.6,ml,29,60,0.261,0.56,us,us6000qidz,2025-06-06T11:45:58.040Z,"14 km NNW of Stanley, Idaho",earthquake,1.55,3.083,0.036,102,reviewed,us,us
