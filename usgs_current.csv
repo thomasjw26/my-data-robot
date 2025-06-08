@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-08T05:49:21.190Z,31.668,-104.393,4.5227,2.1,ml,34,70,0,0.3,tx,tx2025lddw,2025-06-08T05:51:55.997Z,"56 km S of Whites City, New Mexico",earthquake,0,0.99148327112198,0.2,5,automatic,tx,tx
+2025-06-08T05:27:23.040Z,19.074333333333,-66.095666666667,37.28,3.21,md,16,247,0.7224,0.23,pr,pr71485133,2025-06-08T05:48:40.810Z,"67 km N of San Juan, Puerto Rico",earthquake,1.14,5.56,0.077268537211565,5,reviewed,pr,pr
 2025-06-08T05:17:50.920Z,17.932333333333,-66.8525,12.75,2.22,md,12,218,0.04954,0.15,pr,pr71485128,2025-06-08T05:29:46.660Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.66,0.44,0.079745678101423,3,reviewed,pr,pr
 2025-06-08T04:58:42.690Z,34.2,-117.0453333,2.43,0.82,ml,43,46,0.06564,0.17,ci,ci41179056,2025-06-08T05:02:47.807Z,"6 km E of Running Springs, CA",earthquake,0.15,0.5,0.237,21,automatic,ci,ci
 2025-06-08T04:56:58.840Z,-47.8731,116.1091,10,5.2,mb,41,64,14.953,0.59,us,us6000qiw6,2025-06-08T05:14:10.040Z,"western Indian-Antarctic Ridge",earthquake,11.16,1.866,0.088,43,reviewed,us,us
