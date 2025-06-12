@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-11T07:40:33.783Z,31.645,-104.355,4.0388,1.5,ml,27,71,0.1,0.5,tx,tx2025lity,2025-06-11T07:44:01.028Z,"58 km S of Whites City, New Mexico",earthquake,0,1.0834186077118,0.2,20,automatic,tx,tx
 2025-06-11T07:38:16.693Z,60.0341,-152.164,73.8,1.4,ml,,,,0.16,ak,ak0257g1gfqd,2025-06-11T07:39:34.688Z,"25 km WNW of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-06-11T07:23:41.800Z,39.005666666667,-111.41716666667,-1.14,1.49,ml,18,84,0.04613,0.1,uu,uu80110106,2025-06-11T13:56:42.740Z,"17 km WNW of Emery, Utah",earthquake,0.35,0.39,0.26154399836827,3,reviewed,uu,uu
-2025-06-11T07:19:00.822Z,31.634,-104.488,3.4073,1.6,ml,11,91,0,0.3,tx,tx2025litd,2025-06-11T08:02:01.513Z,"60 km S of Whites City, New Mexico",earthquake,0,2.2013170719147,0.1,8,automatic,tx,tx
