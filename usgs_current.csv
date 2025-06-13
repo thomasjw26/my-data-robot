@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-13T07:14:26.330Z,33.663,-116.762,14.81,0.94,ml,47,28,0.0659,0.15,ci,ci40992967,2025-06-13T07:17:58.209Z,"9 km SSW of Idyllwild, CA",earthquake,0.16,0.28,0.156,27,automatic,ci,ci
 2025-06-13T07:05:33.670Z,36.0313333,-117.78,1.62,1.4,ml,21,39,0.01342,0.18,ci,ci40992959,2025-06-13T07:08:55.557Z,"15 km E of Coso Junction, CA",earthquake,0.23,0.22,0.194,23,automatic,ci,ci
 2025-06-13T06:57:28.160Z,33.3561667,-116.2643333,11.45,0.77,ml,38,144,0.03839,0.18,ci,ci40992951,2025-06-13T07:01:00.347Z,"15 km NE of Borrego Springs, CA",earthquake,0.22,0.28,0.14,16,automatic,ci,ci
 2025-06-13T06:28:32.941Z,-15.2974,-176.2438,367.835,5.1,mb,63,50,4.38,0.97,us,us6000qk1c,2025-06-13T06:45:37.040Z,"223 km S of Mata-Utu, Wallis and Futuna",earthquake,10.43,7.685,0.026,498,reviewed,us,us
