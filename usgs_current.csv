@@ -57,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-16T08:28:20.217Z,61.2634,-143.5806,16,1.1,ml,,,,0.44,ak,ak0257obogx1,2025-06-16T08:30:54.908Z,"40 km WSW of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-16T08:23:24.270Z,35.3178333,-117.8063333,6.93,1.48,ml,45,66,0.05977,0.2,ci,ci40995623,2025-06-16T13:41:26.813Z,"17 km WSW of Johannesburg, CA",earthquake,0.17,0.45,0.176,26,reviewed,ci,ci
 2025-06-16T08:19:27.151Z,-22.5784,-67.9279,172.967,4.4,mb,41,49,0.438,0.61,us,us6000qkjt,2025-06-16T09:58:34.040Z,"46 km NE of San Pedro de Atacama, Chile",earthquake,5.71,7.666,0.099,29,reviewed,us,us
-2025-06-16T08:05:01.007Z,31.947,-103.378,7.3818,2.5,ml,32,63,0,0.5,tx,tx2025ltiqdg,2025-06-16T08:10:41.268Z,"25 km SW of Jal, New Mexico",earthquake,0,1.7719392776489,0.2,25,automatic,tx,tx
+2025-06-16T08:05:01.007Z,31.947,-103.378,7.3818,2.5,ml,32,63,0,0.5,tx,tx2025ltiqdg,2025-06-16T15:31:13.040Z,"25 km SW of Jal, New Mexico",earthquake,0,1.7719392776489,0.2,25,automatic,tx,tx
 2025-06-16T08:01:26.185Z,32.059,-103.761,4.9759,1.8,ml,27,62,0,0.5,tx,tx2025ltimzd,2025-06-16T09:00:28.133Z,"34 km ESE of Malaga, New Mexico",earthquake,0,1.1055327653885,0.2,19,automatic,tx,tx
 2025-06-16T07:59:28.210Z,34.1146667,-117.9681667,11.01,1.74,ml,96,22,0.0137,0.21,ci,ci40995615,2025-06-16T08:10:15.500Z,"3 km SSE of Duarte, CA",earthquake,0.15,0.26,0.126,26,automatic,ci,ci
 2025-06-16T07:56:51.530Z,38.809665679932,-122.82050323486,2.8099999427795,1.07,md,21,60,0.006824,0.02,nc,nc75196281,2025-06-16T08:01:48.523Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.469999999,0.13,22,automatic,nc,nc
@@ -193,8 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-15T16:04:30.723Z,32.202,-102.133,4.3035,1.4,ml,34,54,0.1,0.5,tx,tx2025lscujs,2025-06-15T17:00:36.115Z,"23 km NNW of Midland, Texas",earthquake,0,0.96514344215393,0.1,22,automatic,tx,tx
 2025-06-15T15:47:36.960Z,35.322,-117.8101667,7.2,1.28,ml,42,54,0.06177,0.18,ci,ci40995199,2025-06-15T18:51:44.002Z,"17 km WSW of Johannesburg, CA",earthquake,0.17,0.59,0.191,26,reviewed,ci,ci
 2025-06-15T15:40:20.425Z,63.0732,-149.8091,0.1,1.9,ml,,,,0.91,ak,ak0257msdq9t,2025-06-15T15:42:56.618Z,"55 km SW of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-06-15T15:32:00.579Z,61.6175,-150.3694,11.6,1.5,ml,,,,0.52,ak,ak0257msbz09,2025-06-15T15:33:46.941Z,"11 km NE of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-06-15T15:27:14.960Z,33.1005,-116.0345,10.01,0.74,ml,34,44,0.08698,0.18,ci,ci40995191,2025-06-15T18:52:01.011Z,"10 km ESE of Ocotillo Wells, CA",earthquake,0.19,0.57,0.196,14,reviewed,ci,ci
-2025-06-15T15:25:38.989Z,59.5673,-152.8815,86.4,2.2,ml,,,,0.29,ak,ak0257msajyi,2025-06-15T15:43:26.040Z,"59 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-06-15T15:10:56.000Z,44.338333333333,-115.0325,5.13,1.24,ml,11,128,0.04014,0.15,mb,mb90096298,2025-06-16T14:50:36.250Z,"15 km NNW of Stanley, Idaho",earthquake,0.74,0.8,0.12932261078456,15,reviewed,mb,mb
-2025-06-15T15:10:13.902Z,63.2506,-151.8249,10,2.5,ml,27,37,0.205,0.82,us,us6000qkfu,2025-06-15T15:39:10.040Z,"32 km S of Denali National Park, Alaska",earthquake,3.78,1.077,0.045,66,reviewed,us,us
