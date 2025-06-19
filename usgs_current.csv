@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-19T05:57:14.394Z,31.603,-104.277,4.4405,1.7,ml,36,93,0.1,0.3,tx,tx2025lyropd,2025-06-19T05:59:56.651Z,"55 km NW of Toyah, Texas",earthquake,0,1.009065747261,0.3,24,automatic,tx,tx
+2025-06-19T05:55:51.590Z,33.6813333,-116.781,13.45,0.91,ml,42,64,0.06623,0.17,ci,ci40998439,2025-06-19T05:59:35.914Z,"9 km SW of Idyllwild, CA",earthquake,0.17,0.35,0.188,30,automatic,ci,ci
+2025-06-19T05:53:17.830Z,33.3761667,-116.3866667,12.36,0.97,ml,58,33,0.05194,0.2,ci,ci40998431,2025-06-19T05:56:47.859Z,"13 km N of Borrego Springs, CA",earthquake,0.18,0.45,0.132,26,automatic,ci,ci
+2025-06-19T05:41:37.390Z,18.036666666667,-66.801166666667,18.66,2.38,md,16,76,0.01894,0.2,pr,pr71486198,2025-06-19T05:55:00.900Z,"2 km NNW of Guayanilla, Puerto Rico",earthquake,0.44,0.58,0.14334008195851,6,reviewed,pr,pr
 2025-06-19T05:36:52.641Z,31.602,-104.277,4.5182,1.6,ml,32,72,0.1,0.4,tx,tx2025lyqutu,2025-06-19T05:39:58.079Z,"55 km NW of Toyah, Texas",earthquake,0,1.0726957321167,0.3,21,automatic,tx,tx
 2025-06-19T05:14:47.390Z,48.386333333333,-122.39833333333,13.32,1.68,ml,13,91,0.0325,0.31,uw,uw62122877,2025-06-19T05:29:11.500Z,"6 km SW of Mount Vernon, Washington",earthquake,0.72,0.98,0.26213301798695,10,reviewed,uw,uw
 2025-06-19T05:13:19.560Z,48.413833333333,-122.39916666667,9.74,2.62,ml,45,38,0.04102,0.22,uw,uw62122872,2025-06-19T05:52:58.975Z,"4 km W of Mount Vernon, Washington",earthquake,0.29,0.7,0.17361693746098,82,reviewed,uw,uw
@@ -238,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-18T06:24:21.236Z,68.6747,-147.6258,0,2.2,ml,,,,1.01,ak,ak0257rljfv1,2025-06-18T07:33:06.103Z,"105 km NW of Arctic Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-18T06:23:19.260Z,34.1156667,-117.3226667,12.93,0.79,ml,38,76,0.1295,0.17,ci,ci40997591,2025-06-18T13:34:39.018Z,"3 km WSW of San Bernardino, CA",earthquake,0.21,0.49,0.206,23,reviewed,ci,ci
 2025-06-18T06:22:34.670Z,51.6875,-177.416,12.05,0.67,ml,6,227,0.1347,0.08,av,av93641361,2025-06-19T00:37:43.200Z,"57 km WSW of Adak, Alaska",earthquake,2.07,1.21,0.22548215608665,6,reviewed,av,av
-2025-06-18T05:55:03.220Z,51.733833333333,-177.43383333333,8.8,2.15,ml,15,195,0.1266,0.25,av,av93641336,2025-06-19T00:33:01.800Z,"57 km WSW of Adak, Alaska",earthquake,1.15,0.82,0.24785440847803,15,reviewed,av,av
