@@ -241,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-19T07:37:03.823Z,33.6852,139.5637,10,4.7,mb,63,109,0.606,0.93,us,us6000ql6y,2025-06-19T13:11:21.040Z,"123 km SSE of Shimoda, Japan",earthquake,5.59,1.888,0.089,38,reviewed,us,us
 2025-06-19T07:30:37.910Z,18.032833333333,-66.797666666667,18.35,2.44,md,12,79,0.01404,0.17,pr,pr71486213,2025-06-19T07:46:48.360Z,"1 km NNW of Guayanilla, Puerto Rico",earthquake,0.48,0.69,0.11808550914526,6,reviewed,pr,pr
 2025-06-19T07:28:54.453Z,45.7807,151.9093,35,4.4,mb,70,136,6.439,0.71,us,us6000ql6v,2025-06-20T04:38:37.040Z,"Kuril Islands",earthquake,10.05,1.926,0.069,61,reviewed,us,us
-2025-06-19T07:19:38.294Z,32.127,-102.209,9.5459,2,ml,35,85,0,0.1,tx,tx2025lyuhpb,2025-06-19T12:21:41.117Z,"18 km NW of Midland, Texas",earthquake,0.28116754520666,0.73192129381756,0.2,14,reviewed,tx,tx
-2025-06-19T07:19:38.284Z,32.129,-102.211,9.2529,2,ml,34,86,0,0.1,tx,tx2025lyugye,2025-06-19T08:37:27.995Z,"19 km NW of Midland, Texas",earthquake,0.28126176862404,1.2713875217726,0.2,18,reviewed,tx,tx
