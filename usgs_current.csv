@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-21T06:46:28.670Z,33.321,-116.297,12.02,0.86,ml,40,66,0.04259,0.19,ci,ci41000287,2025-06-21T06:49:58.643Z,"10 km NE of Borrego Springs, CA",earthquake,0.24,0.52,0.085,16,automatic,ci,ci
 2025-06-21T06:16:20.210Z,38.836166381836,-122.79866790772,2.3099999427795,0.58,md,11,68,0.006876,0.02,nc,nc75198431,2025-06-21T06:32:20.054Z,"7 km WNW of Cobb, CA",earthquake,0.38,0.939999998,0.18,11,automatic,nc,nc
 2025-06-21T05:41:10.180Z,38.7936668396,-122.76266479492,0.46000000834465,1.05,md,7,168,0.007321,0.02,nc,nc75198421,2025-06-21T05:57:18.815Z,"2 km  of The Geysers, CA",earthquake,0.43,0.879999995,0.2,8,automatic,nc,nc
 2025-06-21T05:17:28.840Z,38.790668487549,-122.77633666992,0.97000002861023,0.77,md,9,105,0.009391,0.03,nc,nc75198416,2025-06-21T05:37:18.666Z,"2 km NW of The Geysers, CA",earthquake,0.36,0.660000026,0.04,9,automatic,nc,nc
