@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-23T07:19:34.373Z,37.4655,-117.6191,3.5,1.2,ml,17,278.33,0.234,0.2598,nn,nn00899331,2025-06-23T07:22:09.970Z,"32 km S of Silver Peak, Nevada",earthquake,,5.3,0.34,10,automatic,nn,nn
 2025-06-23T07:10:11.680Z,33.5311667,-116.721,5.52,0.53,ml,34,40,0.03676,0.14,ci,ci41001455,2025-06-23T07:13:38.881Z,"5 km WSW of Anza, CA",earthquake,0.14,0.38,0.124,18,automatic,ci,ci
 2025-06-23T06:55:31.710Z,38.794834136963,-122.76183319092,2.670000076294,1.07,md,17,62,0.006015,0.02,nc,nc75199306,2025-06-23T06:57:06.144Z,"2 km  of The Geysers, CA",earthquake,0.3,0.579999983,0.08,17,automatic,nc,nc
 2025-06-23T06:49:59.320Z,38.798168182373,-122.72933197022,1.6399999856949,0.73,md,8,129,0.01599,0.02,nc,nc75199301,2025-06-23T07:12:18.072Z,"3 km SSW of Cobb, CA",earthquake,0.35,0.899999976,0.06,9,automatic,nc,nc
