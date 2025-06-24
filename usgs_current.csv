@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-24T07:48:48.387Z,61.4878,-151.8069,81.9,0.7,ml,,,,1.04,ak,ak02581ji5ra,2025-06-24T07:50:55.464Z,"54 km NW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-06-24T07:47:48.320Z,34.5266667,-118.088,8.78,1.32,ml,15,70,0.04675,0.12,ci,ci41002375,2025-06-24T07:51:17.075Z,"4 km NE of Vincent, CA",earthquake,0.24,0.39,0.472,16,automatic,ci,ci
 2025-06-24T07:44:38.573Z,57.4135,-155.9758,78.2,1.6,ml,,,,0.4,ak,ak02581jha4x,2025-06-24T07:46:39.697Z,"86 km E of Ugashik, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2025-06-24T07:42:39.390Z,-22.2373,-67.3373,179.006,4.4,mb,89,70,1.054,0.74,us,us7000q8di,2025-06-24T07:59:03.040Z,"116 km NE of San Pedro de Atacama, Chile",earthquake,6.6,8.094,0.052,106,reviewed,us,us
 2025-06-24T07:14:37.560Z,36.0033333,-117.931,1.9,1.04,ml,29,41,0.03321,0.13,ci,ci41002367,2025-06-24T07:18:06.846Z,"5 km SSE of Coso Junction, CA",earthquake,0.16,0.25,0.174,19,automatic,ci,ci
 2025-06-24T07:07:36.365Z,-23.5474,-179.7548,552.2,4.7,mb,98,74,5.905,0.79,us,us7000q8df,2025-06-24T07:31:31.040Z,"south of the Fiji Islands",earthquake,12.75,5.953,0.039,196,reviewed,us,us
 2025-06-24T07:06:06.830Z,38.048667907715,-118.79066467285,4.6799998283386,1.69,md,14,145,0.2789,0.05,nc,nc75199771,2025-06-24T07:42:17.540Z,"27 km SE of Bodie, CA",earthquake,0.78,7.32000017,0.2,10,automatic,nc,nc
@@ -96,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-23T23:27:03.620Z,19.338333129883,-155.19033813477,3.079999923706,1.78,ml,46,78,0.04252,0.289999992,hv,hv74706817,2025-06-23T23:30:40.060Z,"12 km SSE of Volcano, Hawaii",earthquake,0.43,0.99000001,0.22,8,automatic,hv,hv
 2025-06-23T23:21:33.377Z,-3.3066,141.0943,10,4.5,mb,9,206,0.878,0.28,us,us7000q8aq,2025-06-24T05:03:12.040Z,"72 km SSW of Vanimo, Papua New Guinea",earthquake,13.01,1.956,0.172,10,reviewed,us,us
 2025-06-23T23:20:39.038Z,58.528,-156.2234,4.9,1.2,ml,,,,0.88,ak,ak025805bq67,2025-06-23T23:22:58.747Z,"31 km SE of King Salmon, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-06-23T23:16:15.540Z,40.14716720581,-123.85516357422,20.120000839233,1.58,md,11,110,0.09826,0.07,nc,nc75199656,2025-06-24T02:42:19.511Z,"4 km NNW of Redway, CA",earthquake,0.46,0.730000019,0.09,9,automatic,nc,nc
+2025-06-23T23:16:15.420Z,40.143833333333,-123.86083333333,22.21,1.57,md,35,45,0.04176,0.15,nc,nc75199656,2025-06-24T07:58:40.170Z,"4 km NW of Redway, CA",earthquake,0.28,0.34,0.126,14,reviewed,nc,nc
 2025-06-23T23:09:04.628Z,31.69,-104.362,8.6121,2.3,ml,42,84,0.1,0.2,tx,tx2025mhiojd,2025-06-24T04:34:46.040Z,"53 km S of Whites City, New Mexico",earthquake,0.62090988320045,0.81985482382363,0.1,19,reviewed,tx,tx
 2025-06-23T22:52:24.068Z,-8.8943,-74.5784,142.353,4.6,mb,38,104,2.185,0.57,us,us7000q8ai,2025-06-24T04:18:29.040Z,"14 km ENE of Tournavista, Peru",earthquake,6.93,6.816,0.043,161,reviewed,us,us
 2025-06-23T22:51:38.938Z,32.316,-101.796,5.7289,1.2,mlv,15,59,0,0.5,tx,tx2025mhicez,2025-06-23T23:14:51.719Z,"20 km N of Stanton, Texas",earthquake,0,1.6265413761139,0.3,12,automatic,tx,tx
@@ -295,4 +296,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-23T08:12:24.130Z,33.569,-115.8973333,7.61,1.06,ml,43,51,0.08748,0.23,ci,ci41001487,2025-06-23T08:15:50.551Z,"6 km NE of North Shore, CA",earthquake,0.21,0.54,0.198,22,automatic,ci,ci
 2025-06-23T08:10:06.640Z,46.203333333333,-122.19116666667,5.95,0.29,ml,15,86,0.003561,0.11,uw,uw62125427,2025-06-23T21:26:11.440Z,"38 km NNE of Amboy, Washington",earthquake,0.42,0.48,0.17661964012791,9,reviewed,uw,uw
 2025-06-23T08:07:44.449Z,37.5923,-117.7435,4.4,1.1,ml,12,232.49,0.368,0.2807,nn,nn00899333,2025-06-23T08:10:29.368Z,"20 km SSW of Silver Peak, Nevada",earthquake,,1,0.7,6,automatic,nn,nn
-2025-06-23T07:57:55.950Z,39.299833333333,-110.7825,1.64,0.67,md,6,133,0.176,0.09,uu,uu80003823,2025-06-23T17:54:30.490Z,"8 km SE of Cleveland, Utah",earthquake,0.41,31.61,0.22537719480546,3,reviewed,uu,uu
