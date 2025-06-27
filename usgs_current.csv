@@ -7,6 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-27T06:31:54.557Z,-2.1864,-79.9302,66.63,4.7,mb,49,163,0.374,1.49,us,us7000q91v,2025-06-27T06:50:43.060Z,"5 km WNW of Guayaquil, Ecuador",earthquake,8.55,5.671,0.039,198,reviewed,us,us
 2025-06-27T06:20:44.578Z,59.97,-151.6389,22.3,1.9,ml,,,,0.43,ak,ak02586hcrah,2025-06-27T06:31:28.526Z,"5 km ENE of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-27T06:07:33.599Z,31.972,-102.328,3.3575,1.5,ml,38,66,0,0.5,tx,tx2025mnjsni,2025-06-27T06:11:35.641Z,"7 km SE of Gardendale, Texas",earthquake,0,0.88838744163513,0.1,22,automatic,tx,tx
+2025-06-27T05:54:03.166Z,-21.4523,-67.0445,231.853,4.3,mb,22,46,1.825,0.94,us,us7000q91q,2025-06-27T07:19:55.040Z,"102 km WSW of Atocha, Bolivia",earthquake,7.32,7.906,0.119,20,reviewed,us,us
 2025-06-27T05:48:23.734Z,31.742,-104.26,6.2024,1.7,ml,36,59,0,0.2,tx,tx2025mnjcaa,2025-06-27T07:09:04.872Z,"49 km SSE of Whites City, New Mexico",earthquake,0.5282537352249,0.75499428608888,0.2,24,reviewed,tx,tx
 2025-06-27T05:22:17.040Z,33.7768333,-116.0948333,1.6,0.46,ml,27,81,0.1074,0.19,ci,ci41006135,2025-06-27T05:25:46.990Z,"13 km ENE of Indio, CA",earthquake,0.23,0.43,0.102,6,automatic,ci,ci
 2025-06-27T05:21:19.862Z,-39.6494,-75.1444,10,4.3,mb,23,142,1.345,0.63,us,us7000q91n,2025-06-27T07:04:16.040Z,"149 km W of Corral, Chile",earthquake,6.8,1.674,0.142,14,reviewed,us,us
@@ -270,4 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-26T07:38:56.230Z,53.835166666667,-166.476,11.56,-0.07,ml,7,216,0.01966,0.23,av,av93045559,2025-06-27T03:14:00.560Z,"5 km SE of Unalaska, Alaska",earthquake,1.1,0.8,0.21914541043118,7,reviewed,av,av
 2025-06-26T07:36:29.250Z,38.84383392334,-122.79100036621,7.9000000953674,0.7,md,7,161,0.005441,0.06,nc,nc75200771,2025-06-26T07:52:17.535Z,"6 km WNW of Cobb, CA",earthquake,1.43,7.28999996,0.24,8,automatic,nc,nc
 2025-06-26T07:24:25.221Z,31.619,-104.264,8.4583,2,ml,45,70,0.1,0.2,tx,tx2025mlqnwk,2025-06-26T10:07:45.303Z,"56 km NW of Toyah, Texas",earthquake,0.69030425593452,0.83538705486545,0.2,27,reviewed,tx,tx
-2025-06-26T07:18:09.470Z,54.727333333333,-163.4175,4.32,1.05,ml,9,179,0.1714,0.21,av,av93648756,2025-06-27T03:04:32.870Z,"14 km S of False Pass, Alaska",earthquake,1.48,2.57,0.28820916413825,9,reviewed,av,av
