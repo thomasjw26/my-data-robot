@@ -241,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-27T23:22:36.521Z,61.5818,-146.3856,29.6,2,ml,,,,0.93,ak,ak02586rhjdw,2025-06-27T23:24:52.444Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-27T23:07:10.186Z,5.2772,126.0977,101.614,6.1,mww,117,27,0.82,1.2,us,us7000q97d,2025-06-28T15:56:39.329Z,"71 km ESE of Sarangani, Philippines",earthquake,6.58,5.778,0.048,41,reviewed,us,us
 2025-06-27T22:56:42.407Z,60.718,-151.9191,86.4,1.4,ml,,,,0.37,ak,ak02586r3ekw,2025-06-27T22:58:34.685Z,"34 km W of Nikiski, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-06-27T22:55:29.800Z,38.798332214355,-122.811668396,2.8599998950958,0.95,md,18,69,0.01204,0.02,nc,nc75201476,2025-06-27T23:57:19.031Z,"5 km NW of The Geysers, CA",earthquake,0.3,0.460000008,0.22,18,automatic,nc,nc
-2025-06-27T22:55:04.303Z,41.9351,-119.6211,2.6,2.1,ml,5,211.24,0.313,0.2159,nn,nn00899601,2025-06-28T01:19:08.354Z,"44 km E of Fort Bidwell, California",earthquake,,4.4,0.41,4,reviewed,nn,nn
