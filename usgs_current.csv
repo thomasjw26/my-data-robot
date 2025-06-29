@@ -220,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-28T12:09:37.830Z,34.1275,-118.3423333,14.22,1.15,ml,11,145,0.03364,0.16,ci,ci41007407,2025-06-28T12:13:20.511Z,"2 km SE of Universal City, CA",earthquake,0.96,0.75,0.413,25,automatic,ci,ci
 2025-06-28T12:07:16.680Z,33.4578333,-116.5078333,12.16,2.05,ml,101,24,0.08702,0.21,ci,ci41007399,2025-06-28T15:10:43.010Z,"19 km SE of Anza, CA",earthquake,0.13,0.36,0.162,25,reviewed,ci,ci
 2025-06-28T12:00:19.720Z,33.25,-116.263,9.33,0.46,ml,38,57,0.05765,0.19,ci,ci41007391,2025-06-28T12:03:49.584Z,"10 km E of Borrego Springs, CA",earthquake,0.21,0.56,0.119,8,automatic,ci,ci
-2025-06-28T11:56:00.320Z,38.82483291626,-122.8424987793,1.7400000095367,0.68,md,9,138,0.006081,0.01,nc,nc75201766,2025-06-28T12:17:20.322Z,"9 km NW of The Geysers, CA",earthquake,0.43,0.75,0.19,8,automatic,nc,nc
-2025-06-28T11:55:06.977Z,61.3019,-152.5277,7.3,0.8,ml,,,,0.16,ak,ak0258882oyx,2025-06-28T11:56:43.254Z,"79 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
