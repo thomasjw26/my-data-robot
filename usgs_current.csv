@@ -239,7 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-02T12:12:14.846Z,30.936,-103.209,4.895,1.9,ml,25,77,0.1,0.2,tx,tx2025mxaleo,2025-07-02T12:51:26.120Z,"31 km W of Fort Stockton, Texas",earthquake,0.86638146846769,2.2783460206269,0.2,12,reviewed,tx,tx
 2025-07-02T12:07:10.990Z,52.088833333333,-176.1805,4.12,0.54,ml,6,213,0.005079,0.33,av,av93655121,2025-07-02T23:11:51.840Z,"39 km NE of Adak, Alaska",earthquake,1.2,1.87,0.24155740441445,6,reviewed,av,av
 2025-07-02T12:01:44.430Z,33.5216675,-116.7391663,3.74,2.35,ml,103,21,0.04365,0.24,ci,ci41012191,2025-07-02T12:12:24.600Z,"7 km WSW of Anza, CA",earthquake,0.17,0.57,0.293,20,automatic,ci,ci
-2025-07-02T11:57:13.810Z,35.6778333,-117.526,8.12,0.83,ml,28,44,0.08425,0.12,ci,ci41012175,2025-07-02T12:00:39.341Z,"15 km SW of Searles Valley, CA",earthquake,0.16,0.58,0.127,15,automatic,ci,ci
-2025-07-02T11:55:31.740Z,33.5216667,-116.7366667,4.91,1.83,ml,89,18,0.04362,0.22,ci,ci41012167,2025-07-02T12:06:18.930Z,"7 km WSW of Anza, CA",earthquake,0.12,0.46,0.175,25,automatic,ci,ci
-2025-07-02T11:55:03.452Z,32.076,-102.304,8.2275,1.1,ml,34,62,0.1,0.2,tx,tx2025mwzwjs,2025-07-02T13:11:39.243Z,"9 km NE of Gardendale, Texas",earthquake,0.37690992092713,0.69986642658207,0.2,11,reviewed,tx,tx
-2025-07-02T11:53:28.396Z,64.8719,-149.166,15.5,0.8,ml,,,,1.08,ak,ak0258eu7p5z,2025-07-02T11:56:01.454Z,"30 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
