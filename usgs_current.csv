@@ -244,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-02T11:53:28.396Z,64.8719,-149.166,15.5,0.8,ml,,,,1.08,ak,ak0258eu7p5z,2025-07-02T11:56:01.454Z,"30 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-02T11:52:04.905Z,32.074,-102.299,8.6182,1.6,ml,36,89,0.1,0.1,tx,tx2025mwztuo,2025-07-02T12:34:12.704Z,"9 km NE of Gardendale, Texas",earthquake,0.36878387469022,0.55445142902656,0.1,13,reviewed,tx,tx
 2025-07-02T11:50:15.980Z,38.80899810791,-122.79550170898,3.1800000667572,0.84,md,21,37,0.00104,0.02,nc,nc75203476,2025-07-02T11:51:54.760Z,"5 km NNW of The Geysers, CA",earthquake,0.25,0.50999999,0.21,22,automatic,nc,nc
-2025-07-02T11:43:15.151Z,64.785,-149.0612,17.5,0.4,ml,,,,0.39,ak,ak0258eu5izf,2025-07-02T11:44:26.661Z,"20 km N of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
