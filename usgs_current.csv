@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-04T07:17:29.347Z,31.724,-104.549,3.7584,1.5,ml,14,105,0,0.6,tx,tx2025naicvq,2025-07-04T07:20:12.813Z,"52 km SSW of Whites City, New Mexico",earthquake,0,1.6342482566833,0.2,9,automatic,tx,tx
 2025-07-04T06:46:36.620Z,18.2365,-66.994833333333,15.46,2.43,md,10,188,0.1055,0.2,pr,pr71488183,2025-07-04T07:18:26.070Z,"1 km S of Las Marías, Puerto Rico",earthquake,0.65,0.92,0.082860813014239,6,reviewed,pr,pr
 2025-07-04T06:45:08.590Z,34.0101667,-117.1415,3.64,1.41,ml,72,23,0.03494,0.18,ci,ci41013983,2025-07-04T06:55:45.540Z,"6 km SE of Redlands, CA",earthquake,0.12,0.37,0.113,26,automatic,ci,ci
 2025-07-04T06:41:27.620Z,39.807498931885,-121.62699890137,9.4700002670288,1.99,md,10,143,0.08328,0.24,nc,nc75204316,2025-07-04T06:57:20.236Z,"4 km W of Magalia, CA",earthquake,0.93,2.27999997,0.16,7,automatic,nc,nc
