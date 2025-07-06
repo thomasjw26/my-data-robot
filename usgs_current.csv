@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-05T06:16:02.000Z,33.9266667,-116.6765,16.98,0.84,ml,10,96,0.1141,0.29,ci,ci41014647,2025-07-05T06:19:34.791Z,"10 km E of Cabazon, CA",earthquake,0.78,2.25,0.169,25,automatic,ci,ci
 2025-07-05T06:11:35.699Z,54.5927,160.5944,92.41,4.7,mb,124,79,1.95,0.81,us,us7000qasx,2025-07-05T06:29:40.040Z,"127 km E of Mil’kovo, Russia",earthquake,8.56,7.107,0.026,434,reviewed,us,us
 2025-07-05T06:07:45.551Z,65.2649,-148.964,10.8,1.9,ml,,,,0.21,ak,ak0258jpkr0b,2025-07-05T06:09:19.254Z,"22 km NE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-07-05T05:58:35.630Z,34.017,-117.1476667,4.95,0.67,ml,30,103,0.0346,0.19,ci,ci41014639,2025-07-05T06:01:58.649Z,"5 km SE of Redlands, CA",earthquake,0.25,0.44,0.139,18,automatic,ci,ci
