@@ -1,7 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-17T14:56:55.410Z,34.0125008,-117.1003342,16.1,1.05,ml,19,84,0.09375,0.26,ci,ci41024839,2025-07-17T14:58:57.934Z,"5 km WNW of Calimesa, CA",earthquake,0.56,1.84,0.124,2,automatic,ci,ci
+2025-07-17T14:53:14.260Z,33.5428333,-116.7256667,6.55,0.58,ml,24,41,0.02451,0.19,ci,ci41024831,2025-07-17T14:56:47.007Z,"5 km WSW of Anza, CA",earthquake,0.28,0.46,0.239,15,automatic,ci,ci
+2025-07-17T14:53:09.730Z,19.215999603271,-155.36183166504,28.889999389648,1.91,ml,57,159,0.03992,0.170000002,hv,hv74728042,2025-07-17T14:56:35.900Z,"12 km E of Pāhala, Hawaii",earthquake,0.45,0.5,1.08,3,automatic,hv,hv
 2025-07-17T14:46:07.370Z,35.682,-117.5216667,7.44,0.96,ml,29,43,0.08152,0.16,ci,ci41024823,2025-07-17T14:49:33.019Z,"14 km SW of Searles Valley, CA",earthquake,0.2,0.86,0.228,17,automatic,ci,ci
 2025-07-17T14:43:29.691Z,59.9761,-152.6497,69.9,1.1,ml,,,,0.51,ak,ak02593p02bt,2025-07-17T14:45:17.426Z,"50 km WNW of Anchor Point, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2025-07-17T14:43:28.390Z,31.703,-104.174,4.3487,1.7,ml,34,56,0.1,0.3,tx,tx2025nythrg,2025-07-17T14:47:21.966Z,"54 km W of Mentone, Texas",earthquake,0,0.90636169910431,0.3,24,automatic,tx,tx
+2025-07-17T14:42:25.759Z,54.5036,-160.1747,25.6,3.6,ml,,,,0.67,ak,ak02593ozud7,2025-07-17T14:55:36.056Z,"94 km SSE of Sand Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-07-17T14:38:26.930Z,33.2633333,-116.3688333,3.84,0.62,ml,26,100,0.04078,0.18,ci,ci41024815,2025-07-17T14:41:51.974Z,"1 km NE of Borrego Springs, CA",earthquake,0.25,0.55,0.242,14,automatic,ci,ci
 2025-07-17T14:33:56.850Z,38.833499908447,-122.81366729736,2.1099998950958,0.68,md,11,75,0.01778,0.02,nc,nc75211107,2025-07-17T14:35:33.689Z,"8 km WNW of Cobb, CA",earthquake,0.35,1.12,0.22,14,automatic,nc,nc
 2025-07-17T14:28:05.620Z,32.87,-116.6835,19.72,2.13,ml,6,260,0.2225,0.06,ci,ci41024799,2025-07-17T14:31:37.894Z,"9 km ENE of Alpine, CA",earthquake,1.05,1.71,0.126,10,automatic,ci,ci
