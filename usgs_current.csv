@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-17T07:49:34.690Z,33.9223328,-116.0381699,-0.14,1.37,ml,31,126,0.08484,0.18,ci,ci41024631,2025-07-17T07:52:00.919Z,"24 km S of Twentynine Palms, CA",earthquake,0.29,0.52,0.149,10,automatic,ci,ci
 2025-07-17T07:41:20.170Z,36.091,-117.8741667,2.84,1.17,ml,27,44,0.03079,0.13,ci,ci41024623,2025-07-17T07:44:45.915Z,"8 km NE of Coso Junction, CA",earthquake,0.15,0.36,0.242,25,automatic,ci,ci
 2025-07-17T07:35:45.818Z,32.1,-102.114,4.0029,1.4,ml,49,37,0.1,0.5,tx,tx2025nyfede,2025-07-17T07:43:02.656Z,"11 km NNW of Midland, Texas",earthquake,0,0.75089287757874,0.1,28,automatic,tx,tx
 2025-07-17T07:28:30.844Z,61.2973,-152.5281,3.3,1.4,ml,,,,0.47,ak,ak02593kqtfw,2025-07-17T07:31:54.634Z,"79 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -267,6 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-16T08:35:13.200Z,38.818332672119,-122.80316925049,3.9100000858307,0.77,md,8,141,0.01204,0.05,nc,nc75210707,2025-07-16T08:36:48.273Z,"6 km NNW of The Geysers, CA",earthquake,1.03,2.03999996,0.11,9,automatic,nc,nc
 2025-07-16T08:12:11.410Z,36.064,-117.6451667,2.49,0.87,ml,20,81,0.1047,0.13,ci,ci41023943,2025-07-16T13:42:47.182Z,"27 km E of Coso Junction, CA",earthquake,0.2,0.84,0.146,13,reviewed,ci,ci
 2025-07-16T07:54:18.970Z,45.891833333333,-121.969,8.63,0.96,ml,11,116,0.1125,0.19,uw,uw62144172,2025-07-16T17:51:10.840Z,"21 km NNW of Carson, Washington",earthquake,0.41,0.77,0.13494251537083,6,reviewed,uw,uw
-2025-07-16T07:52:24.030Z,48.417166666667,-124.6245,42.64,1.6,ml,18,161,0.05215,0.16,uw,uw62144167,2025-07-16T14:13:06.420Z,"5 km N of Neah Bay, Washington",earthquake,0.44,0.61,0.13107839232308,13,reviewed,uw,uw
-2025-07-16T07:47:42.953Z,62.3164,-150.5123,64.1,1.4,ml,,,,0.35,ak,ak02591xbkhj,2025-07-16T07:49:14.362Z,"14 km W of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-07-16T07:47:16.670Z,45.8905,-121.966,6.56,2.06,ml,29,59,0.1111,0.11,uw,uw62144162,2025-07-16T17:48:49.870Z,"21 km NNW of Carson, Washington",earthquake,0.21,0.36,0.11209883776024,16,reviewed,uw,uw
