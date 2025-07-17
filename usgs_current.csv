@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-17T07:14:07.030Z,35.731498718262,-121.13733673096,9.0500001907349,1.13,md,12,119,0.05088,0.07,nc,nc75211027,2025-07-17T07:15:43.966Z,"11 km NE of San Simeon, CA",earthquake,0.37,0.839999974,0.07,7,automatic,nc,nc
 2025-07-17T07:06:08.365Z,54.6125,-160.119,35.855,4.2,mb,37,163,0.377,0.72,us,us7000qd5t,2025-07-17T07:16:04.040Z,"84 km SSE of Sand Point, Alaska",earthquake,7.31,10.76,0.115,21,reviewed,us,us
+2025-07-17T07:05:16.714Z,54.4037,-160.0416,33.589,3.9,mb,52,191,0.503,0.5,us,us7000qd5u,2025-07-17T07:20:40.040Z,"107 km SSE of Sand Point, Alaska",earthquake,8.64,12.562,0.256,4,reviewed,us,us
 2025-07-17T06:59:07.843Z,31.648,-104.449,4.7841,1.5,ml,26,87,0,0.6,tx,tx2025nydynm,2025-07-17T07:01:15.286Z,"58 km S of Whites City, New Mexico",earthquake,0,1.2842226028442,0.1,15,automatic,tx,tx
 2025-07-17T06:55:36.600Z,38.823333740234,-122.8424987793,2.0499999523163,0.75,md,15,78,0.005838,0.01,nc,nc75211022,2025-07-17T06:57:13.951Z,"9 km NW of The Geysers, CA",earthquake,0.28,0.529999971,0.25,15,automatic,nc,nc
 2025-07-17T06:52:34.256Z,57.2403,-155.6548,76.7,1.7,ml,,,,0.23,ak,ak02593kaja9,2025-07-17T06:54:34.406Z,"80 km WSW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -270,4 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-16T07:35:31.881Z,39.2891,-120.0091,7.5,0.5,ml,11,69.2,0.022,0.109,nn,nn00900696,2025-07-16T23:07:04.967Z,"5 km NW of Incline Village, Nevada",earthquake,,1.2,0.29,7,reviewed,nn,nn
 2025-07-16T07:29:46.160Z,35.676,-117.5128333,10.65,0.78,ml,20,96,0.07338,0.15,ci,ci41023935,2025-07-16T17:09:25.624Z,"14 km SW of Searles Valley, CA",earthquake,0.29,0.58,0.176,7,reviewed,ci,ci
 2025-07-16T07:27:09.520Z,19.338166666667,-155.18183333333,5.86,2.04,ml,49,80,0.04274,0.12,hv,hv74726757,2025-07-16T18:33:49.290Z,"12 km SSE of Volcano, Hawaii",earthquake,0.27,0.56,0.19227304642549,32,reviewed,hv,hv
-2025-07-16T07:19:11.640Z,38.790000915527,-122.7748336792,0.37000000476837,1.55,md,29,78,0.01588,0.05,nc,nc75210687,2025-07-16T07:52:17.602Z,"2 km NW of The Geysers, CA",earthquake,0.19,0.349999994,0.11,29,automatic,nc,nc
