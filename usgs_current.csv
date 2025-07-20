@@ -298,4 +298,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-20T00:20:50.240Z,33.6276667,-116.6791667,14.17,0.7,ml,35,48,0.04137,0.18,ci,ci41026655,2025-07-20T14:18:07.065Z,"8 km N of Anza, CA",earthquake,0.22,0.35,0.148,22,reviewed,ci,ci
 2025-07-20T00:09:02.820Z,34.0943333,-116.679,8.16,1.75,ml,84,29,0.06135,0.17,ci,ci41026647,2025-07-20T00:19:55.690Z,"10 km WNW of Morongo Valley, CA",earthquake,0.11,0.39,0.123,26,automatic,ci,ci
 2025-07-20T00:08:59.200Z,40.387832641602,-125.29133605957,4.7600002288818,2.9,md,33,283,0.732,0.4,nc,nc75212242,2025-07-20T00:32:18.307Z,"86 km WNW of Petrolia, CA",earthquake,7.83,29.6499996,0.11,13,automatic,nc,nc
-2025-07-19T23:54:28.010Z,36.1331667,-117.8531667,6.55,0.91,ml,21,56,0.01561,0.14,ci,ci41026639,2025-07-20T14:18:44.071Z,"13 km NE of Coso Junction, CA",earthquake,0.26,0.36,0.149,14,reviewed,ci,ci
