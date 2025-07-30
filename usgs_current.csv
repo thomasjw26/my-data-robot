@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T07:14:32.593Z,36.7168,-116.3021,7.4,0.5,ml,12,127.09,0.065,0.2367,nn,nn00901559,2025-07-30T07:16:47.796Z,"46 km ESE of Beatty, Nevada",earthquake,,1,0.32,8,automatic,nn,nn
 2025-07-30T07:13:25.023Z,36.7247,-116.3082,7.7,1.7,ml,29,66.27,0.055,0.2393,nn,nn00901558,2025-07-30T07:16:14.008Z,"45 km ESE of Beatty, Nevada",earthquake,,0.5,0.26,22,automatic,nn,nn
 2025-07-30T07:05:41.308Z,59.6179,-152.4621,70.1,1.7,ml,,,,0.4,ak,ak0259p2lf76,2025-07-30T07:07:30.302Z,"39 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-07-30T06:57:35.595Z,52.2828,160.3887,10,5,mb,52,121,1.293,1.05,us,us6000qwcx,2025-07-30T07:27:32.040Z,"147 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.41,1.889,0.042,185,reviewed,us,us
 2025-07-30T06:52:13.060Z,34.8465,-117.6123333,7.45,1.6,ml,47,47,0.03974,0.14,ci,ci41244192,2025-07-30T07:02:47.870Z,"17 km SSE of Boron, CA",earthquake,0.14,0.38,0.24,26,automatic,ci,ci
 2025-07-30T06:43:40.160Z,38.825332641602,-122.79100036621,1.4700000286102,1.08,md,17,49,0.0145,0.02,nc,nc75216837,2025-07-30T06:45:16.722Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.560000002,0.12,20,automatic,nc,nc
 2025-07-30T06:30:43.950Z,35.2335,-118.508,8.11,1.33,ml,37,46,0.09176,0.14,ci,ci41244032,2025-07-30T06:41:40.650Z,"12 km NNW of Tehachapi, CA",earthquake,0.16,0.53,0.125,26,automatic,ci,ci
@@ -120,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T23:47:48.039Z,31.592,-104.378,2.5125,2,ml,6,246,0.1,0.2,tx,tx2025ovmchi,2025-07-30T00:00:54.763Z,"63 km WNW of Toyah, Texas",earthquake,0,4.1302719116211,0.2,5,automatic,tx,tx
 2025-07-29T23:44:14.457Z,31.51,-104.027,3.3437,1.8,mlv,8,173,0,0.4,tx,tx2025ovlzgh,2025-07-30T05:09:13.036Z,"31 km NW of Toyah, Texas",earthquake,0,2.2907955646515,0.2,6,automatic,tx,tx
 2025-07-29T23:26:05.340Z,33.8086667,-116.6165,14.55,1.18,ml,48,41,0.05721,0.16,ci,ci41242616,2025-07-29T23:29:55.238Z,"8 km WSW of Palm Springs, CA",earthquake,0.15,0.29,0.193,26,automatic,ci,ci
-2025-07-29T23:24:50.842Z,52.53,160.1648,20.687,8.8,mww,146,42,1.044,0.71,us,us6000qw60,2025-07-30T07:25:48.812Z,"2025 Kamchatka Peninsula, Russia Earthquake",earthquake,9.27,4.012,0.018,303,reviewed,us,us
+2025-07-29T23:24:50.842Z,52.53,160.1648,20.687,8.8,mww,146,42,1.044,0.71,us,us6000qw60,2025-07-30T07:26:26.155Z,"2025 Kamchatka Peninsula, Russia Earthquake",earthquake,9.27,4.012,0.018,303,reviewed,us,us
 2025-07-29T23:18:42.513Z,62.9214,-149.6252,13.8,1.2,ml,,,,0.78,ak,ak0259nonssb,2025-07-29T23:21:42.080Z,"58 km NNE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-29T23:18:18.760Z,40.768,-125.10633333333,9.22,4.51,mw,178,228,0.6139,0.2,nc,nc75216737,2025-07-30T05:43:18.959Z,"74 km WNW of Ferndale, CA",earthquake,0.85,4.56,,32,reviewed,nc,nc
 2025-07-29T23:05:21.944Z,14.1377,-89.8349,10,5.4,mww,83,117,0.24,0.74,us,us6000qw5x,2025-07-30T07:24:15.038Z,"0 km W of Zapotitlán, Guatemala",earthquake,4.37,1.868,0.098,10,reviewed,us,us
