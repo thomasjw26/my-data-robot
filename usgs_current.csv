@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-30T21:42:59.682Z,63.9075,-151.1258,13.7,2,ml,,,,0.83,ak,ak0259pb5gkw,2025-07-30T21:45:01.400Z,"50 km NE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-30T21:18:40.658Z,59.6698,-155.9545,4.2,2.3,ml,,,,1.26,ak,ak0259pb09xd,2025-07-30T21:20:11.686Z,"38 km N of Igiugig, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-07-30T21:13:01.574Z,49.5359,158.6827,10,5.5,mb,119,113,3.492,0.78,us,us6000qwqm,2025-07-30T21:33:13.040Z,"222 km SE of Severo-Kuril’sk, Russia",earthquake,8.72,1.852,0.019,994,reviewed,us,us
+2025-07-30T21:13:01.574Z,49.5359,158.6827,10,5.5,mb,119,113,3.492,0.78,us,us6000qwqm,2025-07-30T21:40:01.403Z,"222 km SE of Severo-Kuril’sk, Russia",earthquake,8.72,1.852,0.019,994,reviewed,us,us
 2025-07-30T20:59:29.367Z,31.445,-103.874,5.5482,1.7,ml,9,83,0.1,0.3,tx,tx2025oxcfze,2025-07-30T21:01:35.548Z,"16 km NNW of Toyah, Texas",earthquake,0,2.7495908737183,0.1,7,automatic,tx,tx
 2025-07-30T20:51:40.219Z,48.9394,156.4308,10,4.9,mb,46,171,4.25,0.9,us,us6000qwqe,2025-07-30T21:04:47.040Z,"194 km S of Severo-Kuril’sk, Russia",earthquake,7.61,1.94,0.063,79,reviewed,us,us
 2025-07-30T20:44:18.669Z,61.5856,-146.3712,29.2,1.9,ml,,,,0.56,ak,ak0259pakd8q,2025-07-30T20:46:02.563Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -245,8 +246,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T07:54:35.820Z,33.5811667,-117.1578333,12.67,0.54,ml,34,45,0.03657,0.19,ci,ci41244528,2025-07-30T12:26:29.913Z,"2 km N of Murrieta Hot Springs, CA",earthquake,0.25,0.52,0.17,13,reviewed,ci,ci
 2025-07-30T07:53:15.597Z,31.668,-104.185,6.0486,1.1,ml,23,61,0.1,0.1,tx,tx2025owcemf,2025-07-30T15:01:35.377Z,"54 km NW of Toyah, Texas",earthquake,0.55711931786694,1.5669998497916,0.2,18,reviewed,tx,tx
 2025-07-30T07:51:42.670Z,35.6855,-117.4765,7.03,0.69,ml,18,66,0.04755,0.13,ci,ci41244520,2025-07-30T12:26:47.343Z,"11 km SW of Searles Valley, CA",earthquake,0.41,0.53,0.128,10,reviewed,ci,ci
-2025-07-30T07:49:12.974Z,36.6603,-116.2709,0,1.6,ml,18,82.89,0.056,0.4226,nn,nn00901578,2025-07-30T07:51:02.727Z,"51 km ESE of Beatty, Nevada",earthquake,,0.5,0.31,13,automatic,nn,nn
-2025-07-30T07:47:57.920Z,33.3813333,-116.8916667,5.69,0.51,ml,27,41,0.0368,0.19,ci,ci41244512,2025-07-30T07:53:03.445Z,"4 km NW of Palomar Observatory, CA",earthquake,0.26,0.55,0.145,12,automatic,ci,ci
+2025-07-30T07:47:57.920Z,33.3791667,-116.887,5.84,0.54,ml,25,31,0.03263,0.2,ci,ci41244512,2025-07-30T21:39:08.418Z,"3 km NW of Palomar Observatory, CA",earthquake,0.26,0.5,0.088,8,reviewed,ci,ci
 2025-07-30T07:45:05.179Z,52.4014,160.7226,10,5.1,mb,55,117,1.406,0.9,us,us6000qwdi,2025-07-30T08:06:17.040Z,"159 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.94,1.89,0.048,139,reviewed,us,us
 2025-07-30T07:42:45.920Z,34.0765,-118.994,14.25,1.57,ml,48,111,0.02112,0.25,ci,ci41244352,2025-07-30T07:46:20.893Z,"16 km SSE of Camarillo, CA",earthquake,0.3,0.36,0.178,28,automatic,ci,ci
 2025-07-30T07:39:43.452Z,36.7301,-116.3057,10.2,0.2,ml,17,107.74,0.052,0.2695,nn,nn00901572,2025-07-30T07:41:49.987Z,"45 km ESE of Beatty, Nevada",earthquake,,0.5,0.33,12,automatic,nn,nn
@@ -414,8 +414,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T22:17:27.900Z,33.5221667,-116.7321667,4.8,1.19,ml,53,32,0.04333,0.17,ci,ci41242280,2025-07-29T22:28:09.970Z,"6 km SW of Anza, CA",earthquake,0.13,0.43,0.173,27,automatic,ci,ci
 2025-07-29T22:12:14.160Z,38.2159,-115.9367,9,2,ml,8,127.25,0.306,0.126,nn,nn00901456,2025-07-30T02:10:06.173Z,"65 km NNW of Rachel, Nevada",earthquake,,3.7,0.05,3,reviewed,nn,nn
 2025-07-29T21:50:18.764Z,37.2566,-115.2054,4.2,1.6,ml,9,137.8,0.194,0.112,nn,nn00901453,2025-07-30T02:09:45.969Z,"12 km SSW of Alamo, Nevada",earthquake,,3.7,0.19,5,reviewed,nn,nn
-2025-07-29T21:44:47.287Z,31.664,-104.374,7.074,1.3,ml,19,69,0,0.1,tx,tx2025oviaas,2025-07-30T14:29:58.161Z,"56 km S of Whites City, New Mexico",earthquake,1.1688119641578,1.0743888548152,0.2,24,reviewed,tx,tx
-2025-07-29T21:42:26.938Z,14.0657,-89.9387,10,4.8,mb,59,60,0.224,0.37,us,us6000qw5c,2025-07-30T19:38:07.882Z,"5 km SSW of Comapa, Guatemala",earthquake,4.31,1.818,0.045,152,reviewed,us,us
-2025-07-29T21:41:58.743Z,31.642,-104.277,7.2791,1.3,ml,17,68,0,0.1,tx,tx2025ovhxxd,2025-07-30T14:21:57.113Z,"58 km NW of Toyah, Texas",earthquake,0.7532671272295,1.4188199599825,0.2,14,reviewed,tx,tx
-2025-07-29T21:40:42.603Z,31.674,-104.427,5.946,1.5,ml,18,72,0,0.3,tx,tx2025ovhvkc,2025-07-29T23:00:38.521Z,"55 km S of Whites City, New Mexico",earthquake,2.3992430362011,1.1494872745799,0.1,13,reviewed,tx,tx
-2025-07-29T21:38:52.680Z,38.778831481934,-122.74099731445,2.2400000095367,0.79,md,8,92,0.005523,0.02,nc,nc75216707,2025-07-29T21:40:31.323Z,"1 km E of The Geysers, CA",earthquake,0.35,1.04999995,0.16,10,automatic,nc,nc
