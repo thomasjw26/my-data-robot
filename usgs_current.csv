@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-30T16:58:13.015Z,59.5357,-152.7243,91.2,1.3,ml,,,,0.41,ak,ak0259p89met,2025-07-30T17:00:55.995Z,"49 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-07-30T16:47:43.180Z,38.823833465576,-122.84166717529,1.4099999666214,0.75,md,9,112,0.005234,0.02,nc,nc75217017,2025-07-30T16:50:47.320Z,"9 km NW of The Geysers, CA",earthquake,0.37,0.899999976,0.4,10,automatic,nc,nc
 2025-07-30T16:45:18.940Z,35.0533333,-118.3431667,-1.09,1.51,ml,45,43,0.0626,0.25,ci,ci41246944,2025-07-30T16:49:15.118Z,"13 km SE of Tehachapi, CA",earthquake,0.24,0.86,0.118,27,automatic,ci,ci
 2025-07-30T16:41:51.590Z,38.81916809082,-122.84200286865,2.289999961853,1.08,md,16,116,0.006724,0.01,nc,nc75217012,2025-07-30T16:43:27.450Z,"9 km NW of The Geysers, CA",earthquake,0.26,0.519999981,0.18,16,automatic,nc,nc
 2025-07-30T16:39:52.411Z,32.364,-102.169,3.646,1.5,ml,29,54,0,0.6,tx,tx2025owtqme,2025-07-30T16:44:17.183Z,"34 km ENE of McKinney Acres, Texas",earthquake,0,1.0408807992935,0.2,11,automatic,tx,tx
@@ -6,8 +8,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T16:27:27.481Z,65.4538,-150.0638,0,1.4,ml,,,,1.22,ak,ak0259p830bw,2025-07-30T16:29:20.122Z,"7 km SE of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-30T16:26:39.490Z,38.821166992188,-122.8433303833,1.6699999570847,0.65,md,7,132,0.00677,0.02,nc,nc75217002,2025-07-30T16:28:17.270Z,"9 km NW of The Geysers, CA",earthquake,0.59,1.16999996,0.36,9,automatic,nc,nc
 2025-07-30T16:25:03.109Z,31.643,-104.271,4.529,1.8,ml,32,68,0,0.5,tx,tx2025owtdre,2025-07-30T16:27:30.995Z,"58 km NW of Toyah, Texas",earthquake,0,0.98321288824081,0.2,25,automatic,tx,tx
+2025-07-30T16:23:12.200Z,51.0379,158.3855,35,4.8,mb,146,107,1.995,0.64,us,us6000qwkz,2025-07-30T16:53:29.040Z,"141 km ESE of Ozernovskiy, Russia",earthquake,7.87,1.891,0.038,216,reviewed,us,us
 2025-07-30T16:11:03.907Z,31.666,-104.19,6.4075,2.5,ml,35,62,0.1,0.1,tx,tx2025owsrpr,2025-07-30T16:32:39.057Z,"54 km NW of Toyah, Texas",earthquake,0.56454793598046,0.75100870477509,0.2,54,reviewed,tx,tx
-2025-07-30T16:10:17.237Z,28.879,-98.957,5,2.2,ml,5,217,0.5,0.1,tx,tx2025owsqyi,2025-07-30T16:13:56.177Z,"13 km E of Pearsall, Texas",earthquake,0,,0.2,5,automatic,tx,tx
+2025-07-30T16:10:16.403Z,28.869,-98.986,7.8935,2.2,ml,10,125,0.2,0.5,tx,tx2025owsqyi,2025-07-30T17:00:34.909Z,"10 km ESE of Pearsall, Texas",earthquake,0,7.4443254470825,0.1,7,automatic,tx,tx
 2025-07-30T16:07:43.180Z,49.6752,157.4116,10,5.7,mb,157,111,3.441,1.05,us,us6000qwk1,2025-07-30T16:34:18.780Z,"144 km SE of Severo-Kuril’sk, Russia",earthquake,8.4,1.806,0.021,813,reviewed,us,us
 2025-07-30T16:07:11.840Z,19.185333251953,-155.47315979004,27.950000762939,2.05,ml,47,135,0.03154,0.129999995,hv,hv74739797,2025-07-30T16:10:31.850Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.63,0.569999993,0.77,5,automatic,hv,hv
 2025-07-30T16:01:12.268Z,51.7851,160.7532,10,5.2,mb,98,108,1.788,0.76,us,us6000qwju,2025-07-30T16:17:07.040Z,"202 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.55,1.864,0.026,505,reviewed,us,us
@@ -149,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T08:19:36.480Z,62.3178,-149.7001,58.1,1.4,ml,,,,0.53,ak,ak0259p39ugg,2025-07-30T08:46:26.508Z,"19 km NNE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-07-30T08:18:04.024Z,36.724,-116.2903,13.4,0.4,ml,20,78.04,0.063,0.285,nn,nn00901590,2025-07-30T08:20:11.311Z,"46 km ESE of Beatty, Nevada",earthquake,,0.6,0.24,14,automatic,nn,nn
 2025-07-30T08:15:48.142Z,36.7135,-116.3051,8.3,0.1,ml,8,110.77,0.02,0.0702,nn,nn00901589,2025-07-30T08:17:47.178Z,"45 km ESE of Beatty, Nevada",earthquake,,1.2,0.05,3,automatic,nn,nn
-2025-07-30T08:08:00.220Z,33.0596667,-116.4131667,7.72,0.3,ml,22,93,0.08764,0.2,ci,ci41244832,2025-07-30T08:12:12.066Z,"18 km E of Julian, CA",earthquake,0.34,1.21,0.247,6,automatic,ci,ci
+2025-07-30T08:08:00.220Z,33.0605,-116.4185,7.69,0.29,ml,21,91,0.02354,0.18,ci,ci41244832,2025-07-30T16:52:27.591Z,"17 km E of Julian, CA",earthquake,0.28,0.64,0.254,6,reviewed,ci,ci
 2025-07-30T08:06:57.370Z,38.83466720581,-122.78366851807,1.8799999952316,0.7,md,10,93,0.009748,0.01,nc,nc75216857,2025-07-30T08:08:31.675Z,"5 km WNW of Cobb, CA",earthquake,0.43,0.589999974,0.42,10,automatic,nc,nc
 2025-07-30T08:03:01.406Z,36.715,-116.3027,6.2,-0.3,ml,10,103.09,0.021,0.1585,nn,nn00901585,2025-07-30T08:04:57.561Z,"46 km ESE of Beatty, Nevada",earthquake,,1.1,0.19,5,automatic,nn,nn
 2025-07-30T08:02:40.150Z,34.0651667,-116.9613333,14.46,0.73,ml,27,53,0.03533,0.17,ci,ci41244672,2025-07-30T13:45:47.057Z,"8 km ENE of Yucaipa, CA",earthquake,0.28,0.58,0.096,15,reviewed,ci,ci
@@ -400,5 +403,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T17:03:34.982Z,63.3281,-151.7363,0,1.4,ml,,,,1.07,ak,ak0259nkzyu2,2025-07-29T17:08:38.950Z,"23 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-29T17:03:26.300Z,61.307166666667,-152.47816666667,2.32,-0.43,ml,7,118,0.05165,0.13,av,av93692468,2025-07-30T01:23:43.900Z,"76 km WNW of Tyonek, Alaska",earthquake,0.7,0.86,0.16985812659092,7,reviewed,av,av
 2025-07-29T17:01:54.009Z,36.6997,-116.0377,3.8,-0.5,ml,17,140.54,0.049,0.0884,nn,nn00901463,2025-07-30T02:10:26.389Z,"35 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.32,5,reviewed,nn,nn
-2025-07-29T16:57:11.270Z,46.199666666667,-122.19166666667,1.18,0.63,ml,17,91,0.0005737,0.08,uw,uw62153217,2025-07-29T18:49:13.180Z,"37 km NNE of Amboy, Washington",earthquake,0.22,0.14,0.25422252081432,10,reviewed,uw,uw
-2025-07-29T16:55:43.890Z,44.275833333333,-114.38033333333,6.38,1.76,ml,15,82,0.06109,0.09,mb,mb90104268,2025-07-29T17:15:13.840Z,"2 km NE of Clayton, Idaho",earthquake,0.46,0.67,0.28776578393932,23,reviewed,mb,mb
