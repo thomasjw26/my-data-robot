@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-01T14:50:14.488Z,63.5646,-152.6306,3.9,1.4,ml,,,,0.22,ak,ak0259si3qko,2025-08-01T14:54:52.283Z,"38 km SSW of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-01T14:44:30.590Z,33.6991667,-116.81,15.35,0.75,ml,30,72,0.07585,0.18,ci,ci41250512,2025-08-01T14:48:24.203Z,"9 km SE of Valle Vista, CA",earthquake,0.29,0.5,0.156,16,automatic,ci,ci
 2025-08-01T14:37:00.040Z,38.786998748779,-122.7705001831,2.3599998950958,0.76,md,8,106,0.01495,0.02,nc,nc75217907,2025-08-01T14:38:35.355Z,"2 km NW of The Geysers, CA",earthquake,0.57,1.11000001,0.05,9,automatic,nc,nc
 2025-08-01T14:34:27.250Z,18.0365,-66.8655,10.67,2.13,md,6,161,0.0625,0.12,pr,pr71491273,2025-08-01T14:49:14.320Z,"1 km W of Yauco, Puerto Rico",earthquake,0.62,1.33,0.035885190939817,4,reviewed,pr,pr
@@ -70,6 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T08:41:10.073Z,36.903,-114.589,13.7,1.5,ml,11,309.67,0.605,0.3139,nn,nn00901865,2025-08-01T08:44:00.702Z,"24 km N of Moapa Town, Nevada",earthquake,,2.4,0.4,9,automatic,nn,nn
 2025-08-01T08:34:26.273Z,52.8679,160.0266,35,5.7,mww,113,70,0.847,1.11,us,us6000qx8k,2025-08-01T11:02:22.336Z,"96 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.7,1.885,0.068,21,reviewed,us,us
 2025-08-01T08:34:22.550Z,36.0803333,-117.3698333,0.76,1.28,ml,29,82,0.0991,0.17,ci,ci41250392,2025-08-01T08:37:54.856Z,"35 km N of Searles Valley, CA",earthquake,0.26,0.43,0.153,22,automatic,ci,ci
+2025-08-01T08:33:58.970Z,40.467333333333,-111.941,7.47,0.53,md,16,77,0.01571,0.14,uu,uu80113031,2025-08-01T14:54:10.240Z,"2 km S of Bluffdale, Utah",earthquake,0.37,0.81,0.2403319833788,7,reviewed,uu,uu
 2025-08-01T08:31:53.124Z,51.0673,158.7145,10,5.2,mb,103,90,1.959,1.6,us,us6000qx8j,2025-08-01T09:00:55.040Z,"161 km ESE of Ozernovskiy, Russia",earthquake,8.96,1.78,0.023,599,reviewed,us,us
 2025-08-01T08:29:05.270Z,34.1408333,-117.4196667,5.38,0.92,ml,68,28,0.0441,0.21,ci,ci41250384,2025-08-01T08:32:50.690Z,"6 km NW of Rialto, CA",earthquake,0.17,0.59,0.238,29,automatic,ci,ci
 2025-08-01T08:26:30.498Z,62.7877,-149.4432,68.8,1.8,ml,,,,0.48,ak,ak0259see0yr,2025-08-01T08:28:12.736Z,"50 km NE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -142,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T02:40:59.780Z,46.859333333333,-121.75766666667,-0.93,0.48,ml,15,79,0.02086,0.06,uw,uw62155357,2025-08-01T04:18:04.330Z,"23 km ENE of Ashford, Washington",earthquake,0.22,0.74,0.19558242009107,9,reviewed,uw,uw
 2025-08-01T02:39:15.237Z,50.4465,157.8336,43.568,4.6,mb,51,137,2.63,0.79,us,us6000qx6p,2025-08-01T02:55:12.040Z,"123 km ESE of Severo-Kuril’sk, Russia",earthquake,11.12,7.305,0.05,121,reviewed,us,us
 2025-08-01T02:25:45.322Z,39.2285,-120.0842,6.1,0.7,ml,11,66.67,0.038,0.146,nn,nn00901845,2025-08-01T02:27:47.261Z,"0 km NW of Carnelian Bay, California",earthquake,,0.5,0.34,9,automatic,nn,nn
-2025-08-01T02:09:01.589Z,32.104,-102.129,6.9428,1.1,mlv,13,74,0,0.5,tx,tx2025oziftc,2025-08-01T11:13:18.330Z,"12 km NNW of Midland, Texas",earthquake,0,2.105982542038,0.3,7,automatic,tx,tx
+2025-08-01T02:09:02.507Z,32.103,-102.119,7.8369,0.7,ml,25,73,0,0.2,tx,tx2025oziftc,2025-08-01T14:55:11.997Z,"12 km NNW of Midland, Texas",earthquake,0.56050032150215,0.76044965625599,0.2,13,reviewed,tx,tx
 2025-08-01T02:05:26.978Z,51.7464,158.3351,67.277,4.3,mb,44,124,1.293,0.68,us,us6000qx6k,2025-08-01T03:40:04.040Z,"130 km ENE of Ozernovskiy, Russia",earthquake,9.75,7.372,0.091,35,reviewed,us,us
 2025-08-01T02:04:48.820Z,39.244834899902,-123.19916534424,5.6300001144409,1.77,md,13,63,0.08828,0.06,nc,nc75217707,2025-08-01T02:06:24.441Z,"2 km S of Redwood Valley, CA",earthquake,0.28,1.25,0.08,11,automatic,nc,nc
 2025-08-01T02:04:45.480Z,65.2418,-149.0257,2,1.1,ml,,,,0.55,ak,ak0259saoqro,2025-08-01T02:06:56.033Z,"18 km ENE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -326,5 +328,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T15:05:09.974Z,51.5987,159.8344,10,4.6,mb,28,156,1.602,0.82,us,us6000qwyq,2025-08-01T14:47:44.040Z,"177 km SSE of Vilyuchinsk, Russia",earthquake,7.61,1.933,0.105,27,reviewed,us,us
 2025-07-31T15:04:43.650Z,60.001166666667,-153.14133333333,2.38,-0.22,ml,6,179,0.01804,0.12,av,av93696778,2025-08-01T00:55:24.360Z,"59 km ENE of Pedro Bay, Alaska",earthquake,0.6,1.65,0.33665813531313,5,reviewed,av,av
 2025-07-31T15:01:41.770Z,38.8315,-122.80733333333,3.11,0.31,md,16,67,0.008372,0.04,nc,nc75217467,2025-07-31T22:48:23.181Z,"7 km WNW of Cobb, CA",earthquake,0.39,31.61,0.362,16,reviewed,nc,nc
-2025-07-31T14:55:44.655Z,73.9803,-73.1263,10,5,mww,117,49,1.896,0.65,us,us6000qwyk,2025-07-31T21:37:13.355Z,"210 km NE of Pond Inlet, Canada",earthquake,7.8,1.87,0.069,20,reviewed,us,us
-2025-07-31T14:53:22.230Z,36.62183380127,-121.27583312988,8.6800003051758,1.71,md,24,63,0.03311,0.21,nc,nc75217462,2025-07-31T14:54:58.181Z,"16 km NW of Pinnacles, CA",earthquake,0.46,1.05999994,0.21,23,automatic,nc,nc
