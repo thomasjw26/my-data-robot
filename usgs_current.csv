@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-02T20:43:04.681Z,61.1318,-151.0517,59.6,1.4,ml,,,,0.2,ak,ak0259u965xg,2025-08-02T20:44:11.480Z,"1 km ESE of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-08-02T20:42:07.900Z,36.0096667,-117.3933333,3.52,0.81,ml,23,81,0.09132,0.17,ci,ci41251648,2025-08-02T20:45:34.343Z,"27 km N of Searles Valley, CA",earthquake,0.24,0.67,0.24,11,automatic,ci,ci
 2025-08-02T20:35:23.310Z,38.844333648682,-122.81600189209,8.1800003051758,0.46,md,12,82,0.0118,0.05,nc,nc75218452,2025-08-02T20:37:00.040Z,"8 km WNW of Cobb, CA",earthquake,0.87,3.71000004,0.24,11,automatic,nc,nc
 2025-08-02T20:24:58.837Z,61.1043,-150.6177,35.1,1.1,ml,,,,0.96,ak,ak0259u927i3,2025-08-02T20:26:55.998Z,"20 km N of Point Possession, Alaska",earthquake,,20,,,automatic,ak,ak
 2025-08-02T20:07:30.070Z,33.27,-116.4183333,4.41,0.71,ml,30,41,0.002047,0.2,ci,ci41251640,2025-08-02T20:10:58.881Z,"4 km WNW of Borrego Springs, CA",earthquake,0.21,0.35,0.106,18,automatic,ci,ci
@@ -251,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T20:58:39.140Z,58.1695,-155.3565,1.43,-0.33,ml,8,126,0.04355,0.06,av,av93047729,2025-08-02T02:18:21.130Z,"85 km NW of Karluk, Alaska",earthquake,0.29,0.47,0.17330306440682,8,reviewed,av,av
 2025-08-01T20:58:31.360Z,58.1685,-155.35366666667,1.36,-0.45,ml,9,75,0.04402,0.07,av,av93698673,2025-08-02T02:13:35.630Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.48,0.16607442363236,9,reviewed,av,av
 2025-08-01T20:53:21.317Z,63.4442,-149.5731,95.6,1.6,ml,,,,0.17,ak,ak0259slozvn,2025-08-01T20:55:57.349Z,"31 km W of Cantwell, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-08-01T20:44:32.930Z,38.826168060303,-122.81449890137,2.1800000667572,0.79,md,13,59,0.004429,0.01,nc,nc75218057,2025-08-01T20:46:10.409Z,"7 km NNW of The Geysers, CA",earthquake,0.34,0.629999995,0.14,14,automatic,nc,nc
