@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-04T07:24:59.170Z,33.0466652,-116.5881653,13.38,1.03,ml,29,80,0.03512,0.2,ci,ci41252496,2025-08-04T07:27:19.683Z,"4 km SSE of Julian, CA",earthquake,0.35,0.85,0.349,4,automatic,ci,ci
+2025-08-04T07:24:59.170Z,33.0435,-116.598,13.61,0.53,ml,36,72,0.03738,0.17,ci,ci41252496,2025-08-04T07:29:19.744Z,"4 km S of Julian, CA",earthquake,0.21,0.38,0.106,9,automatic,ci,ci
 2025-08-04T07:16:47.010Z,36.541500091553,-121.14433288574,1.0900000333786,1.6,md,13,74,0.04474,0.21,nc,nc75218907,2025-08-04T07:18:24.466Z,"1 km N of Pinnacles, CA",earthquake,0.46,1.36000001,0.21,11,automatic,nc,nc
 2025-08-04T07:07:28.055Z,62.1277,-150.1858,46.1,1.4,ml,,,,0.59,ak,ak0259xcak2t,2025-08-04T07:09:39.066Z,"17 km WSW of Susitna North, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-08-04T07:03:19.486Z,60.5733,-148.6921,0,1.4,ml,,,,0.81,ak,ak0259xc9ojw,2025-08-04T07:06:42.986Z,"22 km S of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
