@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-05T21:55:05.375Z,57.0526,-155.0921,39.4,2.2,ml,,,,0.36,ak,ak0259z8g7nt,2025-08-05T21:57:19.205Z,"57 km WNW of Akhiok, Alaska",earthquake,,8.9,,,automatic,ak,ak
 2025-08-05T21:35:49.449Z,62.2888,-150.8142,66.4,1.7,ml,,,,0.21,ak,ak0259z8c0qo,2025-08-05T21:37:14.735Z,"23 km S of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-05T21:32:38.422Z,59.8728,-152.1495,69.3,1.2,ml,,,,0.57,ak,ak0259z8bcqq,2025-08-05T21:34:08.848Z,"20 km WNW of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-08-05T21:17:42.084Z,62.6371,-151.5282,118.2,1.8,ml,,,,0.46,ak,ak0259z8859t,2025-08-05T21:19:29.126Z,"42 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T18:58:08.760Z,38.818668365479,-122.84233093262,2.5099999904633,1.51,md,32,53,0.007228,0.03,nc,nc75219672,2025-08-05T19:01:16.080Z,"9 km NW of The Geysers, CA",earthquake,0.19,0.319999993,0.13,33,automatic,nc,nc
 2025-08-05T18:57:13.250Z,33.2973333,-116.1571667,2.88,1.85,ml,75,26,0.1322,0.2,ci,ci41253888,2025-08-05T19:07:41.630Z,"17 km N of Ocotillo Wells, CA",earthquake,0.12,0.31,0.142,26,automatic,ci,ci
 2025-08-05T18:55:52.040Z,44.738833333333,-110.779,4.94,1.53,ml,19,77,0.04965,0.2,uu,uu80113316,2025-08-05T19:18:06.180Z,"27 km SSW of Mammoth, Wyoming",earthquake,0.32,0.64,0.53115385281484,4,reviewed,uu,uu
-2025-08-05T18:50:42.780Z,37.99333190918,-122.45349884033,2.0599999427795,1.44,md,10,120,0.01882,0.04,nc,nc75219662,2025-08-05T18:52:20.657Z,"6 km ESE of Santa Venetia, CA",earthquake,0.41,0.49000001,0.21,7,automatic,nc,nc
+2025-08-05T18:50:42.650Z,37.986166666667,-122.45283333333,-0.02,1.4,md,30,36,0.02339,0.14,nc,nc75219662,2025-08-05T21:59:02.854Z,"6 km ESE of Santa Venetia, CA",earthquake,0.24,31.61,0.205,23,reviewed,nc,nc
 2025-08-05T18:45:16.990Z,37.8313331604,-122.01782989502,23.959999084473,1.43,md,11,158,0.03874,0.33,nc,nc75219657,2025-08-05T18:46:55.627Z,"2 km NW of Danville, CA",earthquake,2.44,2.4000001,0.27,9,automatic,nc,nc
 2025-08-05T18:42:04.600Z,38.825332641602,-122.80400085449,2.5499999523163,1.05,md,20,37,0.005123,0.02,nc,nc75219652,2025-08-05T18:43:40.850Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.560000002,0.25,21,automatic,nc,nc
 2025-08-05T18:40:44.670Z,34.6763333,-116.3195,1.89,1.65,ml,28,50,0.1387,0.16,ci,ci41253880,2025-08-05T20:36:34.795Z,"15 km WSW of Ludlow, CA",earthquake,0.16,0.41,0.127,26,reviewed,ci,ci
@@ -230,6 +231,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T01:55:03.860Z,35.6978333,-117.5248333,8.03,0.78,ml,18,77,0.08857,0.14,ci,ci41253168,2025-08-05T16:44:40.240Z,"13 km SW of Searles Valley, CA",earthquake,0.28,0.84,0.102,9,reviewed,ci,ci
 2025-08-05T01:50:24.900Z,33.2131667,-115.5678333,3.76,3.11,ml,63,46,0.05361,0.26,ci,ci41253160,2025-08-05T16:31:03.377Z,"5 km WSW of Niland, CA",earthquake,0.23,0.38,0.139,192,reviewed,ci,ci
 2025-08-05T01:47:36.568Z,52.221,160.2442,25.194,5.1,mb,111,97,1.261,0.94,us,us6000qy4s,2025-08-05T02:15:12.040Z,"144 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.56,4.721,0.026,485,reviewed,us,us
+2025-08-05T01:35:20.790Z,57.042666666667,-135.64133333333,6.85,-0.28,ml,4,187,0.0371,0.15,av,av93702568,2025-08-05T21:53:05.580Z,"18 km W of Sitka, Alaska",earthquake,1.76,1.09,0.2351171406867,4,reviewed,av,av
 2025-08-05T01:29:29.320Z,35.3836667,-118.4851667,6.45,1.81,ml,44,47,0.1061,0.18,ci,ci41253152,2025-08-05T12:36:26.800Z,"23 km S of Bodfish, CA",earthquake,0.17,0.65,0.296,26,reviewed,ci,ci
 2025-08-05T01:26:37.290Z,35.3621667,-117.7946667,6.6,1.28,ml,33,73,0.1034,0.14,ci,ci41253144,2025-08-05T12:35:59.029Z,"15 km W of Johannesburg, CA",earthquake,0.15,0.55,0.143,25,reviewed,ci,ci
 2025-08-05T01:18:32.560Z,35.383,-118.4791667,6.33,2.59,ml,63,24,0.1032,0.19,ci,ci41253136,2025-08-05T03:47:19.040Z,"23 km S of Bodfish, CA",earthquake,0.15,0.65,0.247,26,automatic,ci,ci
