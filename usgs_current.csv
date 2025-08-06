@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T07:43:46.560Z,35.719,-116.5276667,1.89,2.38,ml,15,68,0.2731,0.15,ci,ci41253376,2025-08-05T16:28:57.423Z,"31 km WSW of Tecopa, CA",earthquake,0.23,1.17,0.207,24,reviewed,ci,ci
 2025-08-05T07:42:18.490Z,61.469166666667,-151.927,1.39,0.27,ml,6,161,0.05294,0.09,av,av93702983,2025-08-05T23:44:53.480Z,"58 km NW of Beluga, Alaska",earthquake,0.71,1.31,0.17289409600102,6,reviewed,av,av
 2025-08-05T07:33:18.630Z,38.826333333333,-122.81083333333,1.23,-0.2,md,12,88,0.002993,0.01,nc,nc75219417,2025-08-05T09:02:42.862Z,"7 km NNW of The Geysers, CA",earthquake,0.53,0.23,0.163,11,reviewed,nc,nc
-2025-08-05T07:26:32.090Z,35.996,-117.6981667,4.15,0.51,ml,17,71,0.0617,0.09,ci,ci41253368,2025-08-05T16:32:45.442Z,"20 km ENE of Little Lake, CA",earthquake,0.15,0.3,0.085,9,reviewed,ci,ci
