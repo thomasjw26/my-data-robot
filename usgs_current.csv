@@ -53,6 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T03:36:04.773Z,51.7009,159.8596,10,4.8,mb,55,120,1.518,1.33,us,us6000qzes,2025-08-09T04:02:45.040Z,"169 km SE of Vilyuchinsk, Russia",earthquake,9.46,1.891,0.063,78,reviewed,us,us
 2025-08-09T03:25:13.620Z,46.194666666667,-122.19183333333,6.66,0.26,ml,11,90,0.02194,0.14,uw,uw62168336,2025-08-09T04:36:33.610Z,"37 km NNE of Amboy, Washington",earthquake,0.47,1.23,0.14547668356508,5,reviewed,uw,uw
 2025-08-09T03:06:00.728Z,38.1854,-87.6885,10,2.6,mb_lg,24,38,0.635,0.53,us,us6000qzen,2025-08-09T06:20:11.171Z,"1 km E of Cynthiana, Indiana",earthquake,2.26,1.988,0.063,66,reviewed,us,us
+2025-08-09T03:04:35.290Z,37.501333333333,-118.86316666667,3.56,0.19,md,8,205,0.09258,0.02,nc,nc75220967,2025-08-09T09:32:20.474Z,"17 km WSW of Toms Place, CA",earthquake,1.13,3.08,0.204,6,reviewed,nc,nc
 2025-08-09T02:39:02.942Z,31.714,-104.305,4.3392,1.7,ml,23,80,0.1,0.3,tx,tx2025pobarl,2025-08-09T03:00:30.201Z,"51 km S of Whites City, New Mexico",earthquake,0,1.0728049278259,0.1,19,automatic,tx,tx
 2025-08-09T02:36:12.898Z,31.9,-102.396,7.7265,1.6,ml,8,154,0,0.2,tx,tx2025poaygd,2025-08-09T03:00:11.526Z,"6 km NNW of Odessa, Texas",earthquake,0,5.1729803085327,0.3,6,automatic,tx,tx
 2025-08-09T02:35:55.472Z,64.7744,-151.2305,11.8,1.1,ml,,,,0.26,ak,ak025a5j66or,2025-08-09T02:44:47.502Z,"37 km SW of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -256,4 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T09:45:29.542Z,31.528,-104.017,7.5354,0.9,ml,21,87,0,0.1,tx,tx2025pmtlhf,2025-08-08T19:57:20.216Z,"31 km NW of Toyah, Texas",earthquake,0.80286973821726,0.62213151863824,0.2,15,reviewed,tx,tx
 2025-08-08T09:41:54.759Z,-4.1222,152.9095,10,4.6,mb,17,147,0.747,1.02,us,us6000qz2d,2025-08-08T18:41:26.040Z,"75 km ENE of Kokopo, Papua New Guinea",earthquake,7.05,1.956,0.128,18,reviewed,us,us
 2025-08-08T09:41:34.570Z,19.17,-155.48383333333,31.78,2.03,ml,48,98,0.02514,0.12,hv,hv74746147,2025-08-08T22:30:58.380Z,"3 km S of Pāhala, Hawaii",earthquake,0.46,0.55,0.16161008536454,20,reviewed,hv,hv
-2025-08-08T09:38:48.890Z,19.405834197998,-155.28083801269,-0.40000000596046,1.7,ml,12,77,0.01216,0.25,hv,hv74746137,2025-08-08T09:41:44.960Z,"6 km SW of Volcano, Hawaii",earthquake,0.27,0.49000001,0.21,16,automatic,hv,hv
