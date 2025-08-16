@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-16T20:35:44.467Z,13.7624,120.7191,163.929,4.9,mb,67,65,8.189,0.97,us,us6000r1ms,2025-08-16T20:50:36.040Z,"9 km S of Hukay, Philippines",earthquake,10.26,7.101,0.04,194,reviewed,us,us
 2025-08-16T20:33:40.450Z,35.755,-117.6036667,9.78,1.82,ml,44,51,0.06082,0.15,ci,ci40400666,2025-08-16T20:44:32.750Z,"16 km NNE of Ridgecrest, CA",earthquake,0.14,0.33,0.274,26,automatic,ci,ci
 2025-08-16T20:12:02.956Z,37.5379,-116.3649,1.7,1,ml,9,328.34,0.328,0.2276,nn,nn00902668,2025-08-16T20:14:30.521Z,"56 km WSW of Rachel, Nevada",earthquake,,32.7,0.2,7,automatic,nn,nn
 2025-08-16T19:57:48.518Z,60.2111,-151.652,53.7,1.4,ml,,,,0.74,ak,ak025ahe6on7,2025-08-16T19:59:47.176Z,"14 km W of Clam Gulch, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -174,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T21:01:32.850Z,33.0195,-116.0801667,0.41,1.13,ml,25,63,0.1545,0.32,ci,ci40399722,2025-08-16T00:05:27.746Z,"15 km SSE of Ocotillo Wells, CA",quarry blast,0.42,0.98,0.155,18,automatic,ci,ci
 2025-08-15T20:57:50.850Z,35.9385,-117.691,3.47,1.01,ml,28,40,0.03427,0.15,ci,ci40399714,2025-08-16T00:12:58.939Z,"19 km E of Little Lake, CA",earthquake,0.15,0.38,0.169,20,reviewed,ci,ci
 2025-08-15T20:55:09.390Z,58.176333333333,-155.34683333333,0.55,-0.17,ml,5,173,0.03545,0.08,av,av93717588,2025-08-15T22:09:25.600Z,"85 km NW of Karluk, Alaska",earthquake,0.27,1.54,0.2154952452664,5,reviewed,av,av
-2025-08-15T20:47:47.557Z,63.1305,-152.6037,0,1.1,ml,,,,1.07,ak,ak025afr6mir,2025-08-15T20:50:06.667Z,"63 km SW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
