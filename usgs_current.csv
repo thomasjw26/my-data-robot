@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-17T22:28:26.609Z,31.709,-101.724,3.0681,1.7,ml,54,59,0.1,0.5,tx,tx2025qeggle,2025-08-17T22:31:58.393Z,"28 km SW of Garden City, Texas",earthquake,0,0.91980123519897,0.1,5,automatic,tx,tx
 2025-08-17T21:46:58.089Z,31.655,-104.373,4.2888,1.6,ml,17,161,0.1,0.3,tx,tx2025qeewxs,2025-08-17T22:01:20.396Z,"57 km S of Whites City, New Mexico",earthquake,0,1.6493850946426,0.2,7,automatic,tx,tx
 2025-08-17T21:46:19.213Z,30.905,-103.192,4.5968,2.3,ml,21,226,0.1,0.6,tx,tx2025qeewgh,2025-08-17T22:00:18.390Z,"29 km W of Fort Stockton, Texas",earthquake,0,1.8610028028488,0.2,15,automatic,tx,tx
 2025-08-17T21:30:20.713Z,31.66,-104.379,4.0948,1.8,ml,26,88,0,0.6,tx,tx2025qeeipd,2025-08-17T21:33:34.805Z,"57 km S of Whites City, New Mexico",earthquake,0,1.1121146678925,0.2,19,automatic,tx,tx
