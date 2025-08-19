@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-19T07:17:05.273Z,61.4373,-149.6792,32.4,0.8,ml,,,,0.59,ak,ak025am5euvz,2025-08-19T07:19:15.851Z,"3 km SE of Knik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-19T06:56:23.313Z,61.3136,-152.245,2.9,0.6,ml,,,,0.8,ak,ak025am51tln,2025-08-19T06:58:12.903Z,"65 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-19T06:54:37.960Z,38.777500152588,-122.71666717529,2.1900000572205,1,md,12,97,0.01647,0.02,nc,nc75225727,2025-08-19T06:56:13.641Z,"2 km WNW of Anderson Springs, CA",earthquake,0.31,0.50999999,0.11,12,automatic,nc,nc
 2025-08-19T06:51:22.804Z,61.824,-150.075,28.6,1.3,ml,,,,0.55,ak,ak025am50qzc,2025-08-19T06:53:44.180Z,"8 km NNW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T05:25:00.160Z,38.734001159668,-122.95233154297,0.30000001192093,1.35,md,16,97,0.06026,0.06,nc,nc75225702,2025-08-19T05:26:38.926Z,"10 km SSE of Cloverdale, CA",earthquake,0.37,1.62,0.18,15,automatic,nc,nc
 2025-08-19T05:19:51.589Z,36.4803,70.8478,202.441,5.1,mb,80,55,2.246,0.98,us,us6000r1zv,2025-08-19T05:39:28.040Z,"42 km S of Jurm, Afghanistan",earthquake,6.78,6.608,0.033,294,reviewed,us,us
 2025-08-19T05:02:21.068Z,61.313,-146.2606,100,2.1,ml,,,,1.5,ak,ak025am44t5m,2025-08-19T05:47:27.732Z,"20 km NNE of Valdez, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2025-08-19T05:02:03.116Z,61.7915,-148.2968,31.2,2.5,ml,,,,0.28,ak,ak025am44rrr,2025-08-19T05:03:32.595Z,"8 km E of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2025-08-19T05:02:03.116Z,61.7915,-148.2968,31.2,2.5,ml,,,,0.28,ak,ak025am44rrr,2025-08-19T07:16:52.040Z,"8 km E of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-08-19T04:48:26.660Z,33.5228333,-116.5213333,12.86,0.39,ml,24,70,0.07316,0.15,ci,ci40402434,2025-08-19T04:51:56.463Z,"15 km ESE of Anza, CA",earthquake,0.24,0.51,0.223,7,automatic,ci,ci
 2025-08-19T04:40:48.373Z,61.5937,-148.6931,26.5,2.3,ml,,,,0.99,ak,ak025am3rkv9,2025-08-19T04:43:41.310Z,"13 km ESE of Lazy Mountain, Alaska",earthquake,,4.8,,,automatic,ak,ak
 2025-08-19T04:31:03.241Z,51.3653,-176.1008,24.9,1.6,ml,,,,0.27,ak,ak025am3pf82,2025-08-19T06:40:31.526Z,"67 km SSE of Adak, Alaska",earthquake,,12.8,,,reviewed,ak,ak
