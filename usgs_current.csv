@@ -243,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T10:53:26.170Z,62.4908,-151.1182,87.2,2.3,ml,,,,0.53,ak,ak025apihm1n,2025-08-22T07:33:34.040Z,"18 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-21T10:52:09.920Z,61.747,-149.7187,11.2,0.9,ml,,,,0.74,ak,ak025apihd40,2025-08-21T10:54:22.166Z,"14 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-21T10:52:00.390Z,37.474333333333,-113.57716666667,2.92,1.12,ml,6,158,0.1868,0.07,uu,uu80114301,2025-08-21T13:33:08.780Z,"7 km NNE of Central, Utah",earthquake,0.33,31.61,0.25491338186599,5,reviewed,uu,uu
-2025-08-21T10:50:37.726Z,37.3416,-117.1476,10.3,1,ml,19,137.27,0.099,0.0929,nn,nn00902930,2025-08-21T19:10:12.533Z,"41 km S of Goldfield, Nevada",earthquake,,2.1,0.37,5,reviewed,nn,nn
