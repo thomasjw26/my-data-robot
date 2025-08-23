@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T15:32:00.949Z,65.0328,-152.252,1,1.5,ml,,,,0.53,ak,ak025aswex3y,2025-08-23T15:34:42.808Z,"17 km SSW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-23T15:28:54.380Z,35.0836667,-119.1545,10.12,1.32,ml,19,114,0.2259,0.27,ci,ci41272440,2025-08-23T15:35:57.098Z,"23 km E of Maricopa, CA",earthquake,0.5,1.61,0.338,31,automatic,ci,ci
 2025-08-23T15:19:53.888Z,61.4176,-149.867,31.8,2.2,ml,,,,0.42,ak,ak025aswc8vw,2025-08-23T15:34:02.292Z,"8 km WSW of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-08-23T15:18:08.460Z,61.3928,-149.9002,21.9,2.9,ml,,,,0.39,ak,ak025aswbxpg,2025-08-23T15:33:25.666Z,"5 km NE of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-23T15:18:08.460Z,61.3928,-149.9002,21.9,2.9,ml,,,,0.39,ak,ak025aswbxpg,2025-08-23T15:38:34.043Z,"5 km NE of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-23T14:43:25.300Z,40.486167907715,-122.02166748047,11.470000267029,2.09,md,9,112,0.1006,0.08,nc,nc75227737,2025-08-23T14:44:58.515Z,"11 km W of Shingletown, CA",earthquake,0.73,1.74000001,0.09,8,automatic,nc,nc
 2025-08-23T14:38:18.350Z,33.285,-116.2476667,7.97,0.9,ml,53,40,0.09221,0.23,ci,ci41272400,2025-08-23T14:49:00.225Z,"12 km ENE of Borrego Springs, CA",earthquake,0.22,0.65,0.122,23,automatic,ci,ci
 2025-08-23T14:34:30.325Z,-60.0461,-61.4861,10,4.8,mb,21,96,4.893,0.95,us,us6000r3cf,2025-08-23T14:57:26.040Z,"Drake Passage",earthquake,11.55,1.905,0.134,17,reviewed,us,us
@@ -90,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T05:31:06.661Z,61.5716,-149.8425,33.9,1.1,ml,,,,0.59,ak,ak025asqgdsa,2025-08-23T05:32:50.148Z,"6 km S of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-23T05:22:39.080Z,32.9655,-116.3965,5.49,0.98,ml,49,33,0.01345,0.15,ci,ci41272200,2025-08-23T05:27:46.804Z,"20 km NE of Pine Valley, CA",earthquake,0.13,0.35,0.23,19,automatic,ci,ci
 2025-08-23T05:22:34.890Z,33.6021667,-117.2746667,7.18,0.5,ml,23,69,0.06617,0.1,ci,ci41272192,2025-08-23T05:27:01.708Z,"1 km NE of Wildomar, CA",earthquake,0.15,0.45,0.092,18,automatic,ci,ci
-2025-08-23T05:21:19.000Z,34.311333333333,-82.128833333333,0.31,2.03,md,11,83,0.1338,0.42,se,se60503968,2025-08-23T15:15:43.847Z,"6 km NNW of Coronaca, South Carolina",earthquake,0.94,4.57,0.044223783079455,8,reviewed,se,se
+2025-08-23T05:21:19.000Z,34.311333333333,-82.128833333333,0.31,2.03,md,11,83,0.1338,0.42,se,se60503968,2025-08-23T15:39:45.668Z,"6 km NNW of Coronaca, South Carolina",earthquake,0.94,4.57,0.044223783079455,8,reviewed,se,se
 2025-08-23T05:05:05.680Z,61.2605,-150.6539,44.2,1.3,ml,,,,0.52,ak,ak025asqat3c,2025-08-23T05:07:48.544Z,"26 km ENE of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-08-23T05:03:39.940Z,38.828998565674,-122.813331604,1.4800000190735,0.71,md,7,190,0.006147,0.02,nc,nc75227577,2025-08-23T05:05:17.013Z,"8 km NNW of The Geysers, CA",earthquake,0.49,0.970000029,0.37,8,automatic,nc,nc
 2025-08-23T04:55:00.250Z,35.9093333,-117.7265,9.38,0.84,ml,26,46,0.07279,0.13,ci,ci41272168,2025-08-23T04:58:27.968Z,"16 km E of Little Lake, CA",earthquake,0.15,0.34,0.207,18,automatic,ci,ci
