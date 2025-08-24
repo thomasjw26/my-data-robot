@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-24T15:23:18.430Z,35.7061667,-117.5548333,3.37,0.74,ml,30,46,0.1143,0.14,ci,ci41273384,2025-08-24T15:26:44.399Z,"14 km NE of Ridgecrest, CA",earthquake,0.16,0.63,0.095,16,automatic,ci,ci
 2025-08-24T14:57:11.960Z,38.832500457764,-122.81099700928,1.9800000190735,1.49,md,28,45,0.009121,0.02,nc,nc75228107,2025-08-24T15:01:35.980Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.330000013,0.14,31,automatic,nc,nc
 2025-08-24T14:47:28.840Z,34.0113333,-116.855,18.46,0.75,ml,26,84,0.04585,0.17,ci,ci41273368,2025-08-24T14:50:55.203Z,"10 km NNE of Banning, CA",earthquake,0.24,0.46,0.23,18,automatic,ci,ci
 2025-08-24T14:44:32.249Z,60.3778,-147.8382,16.2,1.3,ml,,,,0.43,ak,ak025aujfh08,2025-08-24T14:46:02.714Z,"36 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-24T14:30:47.065Z,-2.138,139.2736,41.219,4.6,mb,34,136,1.247,0.98,us,us6000r3hf,2025-08-24T15:19:58.040Z,"159 km WNW of Abepura, Indonesia",earthquake,7.5,7.314,0.091,36,reviewed,us,us
 2025-08-24T14:29:56.644Z,60.3317,-143.0716,2.2,1.1,ml,,,,0.35,ak,ak025aujcb5c,2025-08-24T14:32:22.850Z,"123 km S of McCarthy, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2025-08-24T14:09:20.480Z,38.744667053223,-122.7071685791,1.3700000047684,1.48,md,16,90,0.02184,0.04,nc,nc75228102,2025-08-24T14:10:56.630Z,"4 km SSW of Anderson Springs, CA",earthquake,0.3,0.419999987,0.1,15,automatic,nc,nc
 2025-08-24T14:03:10.210Z,38.745834350586,-122.7063369751,1.2400000095367,1.38,md,14,88,0.02139,0.03,nc,nc75228097,2025-08-24T14:04:45.626Z,"3 km SSW of Anderson Springs, CA",earthquake,0.28,0.430000007,0.09,13,automatic,nc,nc
@@ -28,6 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T10:56:20.970Z,38.196166666667,-114.078,5.32,2.62,ml,17,109,0.38,0.15,uu,uu80114526,2025-08-24T14:26:43.770Z,"26 km NNE of Ursine, Nevada",earthquake,0.66,2.2,0.1397618512429,20,reviewed,uu,uu
 2025-08-24T10:53:11.790Z,38.799167633057,-122.75216674805,2.3499999046326,1.1,md,9,97,0.006073,0.01,nc,nc75228052,2025-08-24T10:54:45.531Z,"2 km NNE of The Geysers, CA",earthquake,0.4,0.910000026,0.16,9,automatic,nc,nc
 2025-08-24T10:50:33.320Z,-2.3117,-79.0381,101.13,4.8,mb,56,62,0.267,0.7,us,us6000r3gp,2025-08-24T11:04:16.040Z,"24 km WSW of Alausí, Ecuador",earthquake,4.05,6.484,0.067,68,reviewed,us,us
+2025-08-24T10:50:24.140Z,33.9995,-116.8153333,18.33,0.86,ml,45,41,0.03611,0.2,ci,ci41273224,2025-08-24T15:31:22.428Z,"10 km NNW of Cabazon, CA",earthquake,0.21,0.46,0.219,24,reviewed,ci,ci
 2025-08-24T10:49:05.800Z,38.82466506958,-122.80633544922,2.8499999046326,0.77,md,8,71,0.003184,0.01,nc,nc75228047,2025-08-24T10:50:41.109Z,"7 km NNW of The Geysers, CA",earthquake,0.85,1.77999997,0.1,9,automatic,nc,nc
 2025-08-24T10:39:02.680Z,38.823665618896,-122.80633544922,2.3900001049042,1.71,md,36,35,0.002933,0.03,nc,nc75228042,2025-08-24T10:44:48.007Z,"7 km NNW of The Geysers, CA",earthquake,0.19,0.340000004,0.14,36,automatic,nc,nc
 2025-08-24T10:27:23.380Z,37.488666534424,-118.8073348999,4.5300002098083,1,md,13,160,0.1027,0.05,nc,nc75228037,2025-08-24T10:29:01.155Z,"14 km WSW of Toms Place, CA",earthquake,0.66,1.97000003,0.17,9,automatic,nc,nc
@@ -161,4 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T15:49:54.160Z,-17.1177,-172.0755,10,5.2,mww,125,54,2.823,0.8,us,us6000r3ck,2025-08-23T16:35:16.040Z,"224 km SE of Hihifo, Tonga",earthquake,7.98,1.788,0.11,8,reviewed,us,us
 2025-08-23T15:35:11.660Z,59.8161,-153.2158,124.1,1.9,ml,,,,0.34,ak,ak025aswfl1z,2025-08-23T20:43:38.040Z,"50 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-23T15:32:00.949Z,65.0328,-152.252,1,1.5,ml,,,,0.53,ak,ak025aswex3y,2025-08-23T15:34:42.808Z,"17 km SSW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-08-23T15:28:54.380Z,35.0836667,-119.1545,10.12,1.32,ml,19,114,0.2259,0.27,ci,ci41272440,2025-08-23T15:35:57.098Z,"23 km E of Maricopa, CA",earthquake,0.5,1.61,0.338,31,automatic,ci,ci
