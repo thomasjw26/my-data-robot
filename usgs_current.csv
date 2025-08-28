@@ -138,7 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T01:48:42.748Z,61.9279,-151.0171,64.4,1.4,ml,,,,0.38,ak,ak025b0xv3si,2025-08-28T01:50:48.180Z,"21 km ESE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-28T01:35:51.689Z,35.6225,-98.0355,7.3,1.77,ml,98,36,0.1583689226,0.25,ok,ok2025quuk,2025-08-28T02:04:06.121Z,"7 km ENE of Calumet, Oklahoma",earthquake,,0.5,0.25,44,reviewed,ok,ok
 2025-08-28T01:34:31.771Z,57.2869,-155.1451,52.6,2,ml,,,,0.36,ak,ak025b0xs2x5,2025-08-28T01:36:46.817Z,"52 km SW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
-2025-08-28T01:33:50.470Z,33.2316667,-116.738,11.31,1.02,ml,54,22,0.01792,0.16,ci,ci41277064,2025-08-28T01:37:21.462Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.14,0.36,0.215,28,automatic,ci,ci
+2025-08-28T01:33:50.460Z,33.2318333,-116.7365,11.43,1.1,ml,52,31,0.01911,0.17,ci,ci41277064,2025-08-28T16:58:41.520Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.15,0.37,0.136,33,reviewed,ci,ci
 2025-08-28T01:18:31.668Z,29.855,141.47,121.107,4.4,mb,14,133,2.82,1.06,us,us7000qrgw,2025-08-28T01:35:33.040Z,"Izu Islands, Japan region",earthquake,12.38,9.415,0.155,12,reviewed,us,us
 2025-08-28T01:16:57.017Z,31.668,-104.368,6.0999,1.9,ml,35,69,0.1,0.2,tx,tx2025qwvcch,2025-08-28T07:30:26.955Z,"56 km S of Whites City, New Mexico",earthquake,1.036484150979,0.72641736134228,0.2,24,reviewed,tx,tx
 2025-08-28T01:07:43.493Z,62.0016,-150.9038,59.3,1.6,ml,,,,0.37,ak,ak025b0xmbhp,2025-08-28T01:09:35.573Z,"25 km E of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -243,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T17:09:31.590Z,33.7986667,-118.6295,5.71,1.37,ml,11,254,0.2528,0.28,ci,ci41276672,2025-08-27T17:33:13.533Z,"22 km W of Palos Verdes Estates, CA",earthquake,1.53,6.9,0.232,6,reviewed,ci,ci
 2025-08-27T17:09:05.720Z,36.888832092285,-121.63733673096,-0.15000000596046,2.43,md,11,117,0.03664,0.3,nc,nc75229447,2025-08-27T19:12:19.761Z,"1 km E of Aromas, CA",earthquake,0.76,2.3900001,0.19,6,automatic,nc,nc
 2025-08-27T17:07:57.810Z,38.840999603271,-122.88033294678,2.6600000858307,0.89,md,11,96,0.003691,0.02,nc,nc75229442,2025-08-27T17:09:31.475Z,"12 km E of Cloverdale, CA",earthquake,0.52,0.620000005,0.22,13,automatic,nc,nc
-2025-08-27T16:53:22.250Z,54.7505,-164.00833333333,-0.28,0.35,ml,5,117,0.04164,0.15,av,av93737193,2025-08-28T04:29:00.500Z,"40 km WSW of False Pass, Alaska",earthquake,0.28,0.66,0.35272904823443,5,reviewed,av,av
