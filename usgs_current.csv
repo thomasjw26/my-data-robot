@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-29T15:49:28.180Z,33.4743333,-116.5053333,7.65,0.58,ml,27,58,0.08346,0.15,ci,ci41278432,2025-08-29T15:53:08.264Z,"18 km ESE of Anza, CA",earthquake,0.2,0.62,0.146,14,automatic,ci,ci
 2025-08-29T15:44:27.900Z,35.3336667,-117.8165,8.14,0.76,ml,25,104,0.07031,0.15,ci,ci41278424,2025-08-29T15:47:56.640Z,"17 km WSW of Johannesburg, CA",earthquake,0.29,0.59,0.179,10,automatic,ci,ci
 2025-08-29T15:36:06.542Z,31.597,-104.125,4.2944,1.8,ml,23,60,0,0.3,tx,tx2025qzthxc,2025-08-29T15:39:25.085Z,"44 km NW of Toyah, Texas",earthquake,0,1.0968049764633,0.2,19,automatic,tx,tx
 2025-08-29T15:34:06.994Z,36.3764,-116.7671,2.7,0.9,ml,9,321.34,0.5,0.2787,nn,nn00903389,2025-08-29T15:36:27.801Z,"11 km SE of Furnace Creek, California",earthquake,,24.8,0.2,7,automatic,nn,nn
 2025-08-29T15:33:38.440Z,35.9523333,-117.3896667,2.63,1.32,ml,31,66,0.1058,0.16,ci,ci41278408,2025-08-29T15:44:23.740Z,"21 km N of Searles Valley, CA",earthquake,0.18,0.47,0.153,26,automatic,ci,ci
-2025-08-29T15:30:18.480Z,38.832164764404,-122.88033294678,2.0299999713898,0.34,md,10,164,0.006522,0.02,nc,nc75230387,2025-08-29T15:31:54.438Z,"12 km E of Cloverdale, CA",earthquake,0.42,0.50999999,0.18,11,automatic,nc,nc
+2025-08-29T15:30:18.480Z,38.832164764404,-122.88033294678,2.0299999713898,0.34,md,10,164,0.006522,0.02,nc,nc75230387,2025-08-29T15:52:20.190Z,"12 km E of Cloverdale, CA",earthquake,0.42,0.50999999,0.18,11,automatic,nc,nc
 2025-08-29T15:29:20.680Z,33.9198333,-116.81,19.58,0.99,ml,33,43,0.08666,0.3,ci,ci41278384,2025-08-29T15:32:57.431Z,"2 km W of Cabazon, CA",earthquake,0.4,0.79,0.216,29,automatic,ci,ci
 2025-08-29T15:27:07.166Z,62.2382,-148.5654,32.3,1.4,ml,,,,0.34,ak,ak025b2tlxz0,2025-08-29T15:28:25.806Z,"49 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-29T15:18:30.368Z,58.2089,-154.2096,61.8,1.5,ml,,,,0.35,ak,ak025b2tk2bg,2025-08-29T15:20:30.434Z,"72 km NNE of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -243,4 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T16:07:50.790Z,44.81,-111.51483333333,14.61,0.08,ml,7,107,0.03378,0.09,mb,mb90109163,2025-08-28T18:03:27.890Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.46,1.01,0.12192222979747,5,reviewed,mb,mb
 2025-08-28T16:06:19.500Z,18.1343,-67.7208,72,3.75,md,22,198,0.5819,0.2,pr,pr2025240001,2025-08-28T17:50:52.641Z,"54 km WSW of Stella, Puerto Rico",earthquake,1.41,1.01,0.03,17,reviewed,pr,pr
 2025-08-28T16:05:10.627Z,31.583,-104.175,7.1252,1.7,ml,29,68,0,0.2,tx,tx2025qxynzv,2025-08-28T16:12:15.773Z,"46 km NW of Toyah, Texas",earthquake,0.58654393464753,0.55744812262661,0.2,17,reviewed,tx,tx
-2025-08-28T15:58:15.310Z,33.0391667,-116.191,4.93,0.92,ml,38,52,0.1178,0.21,ci,ci41277448,2025-08-28T18:28:53.152Z,"13 km SSW of Ocotillo Wells, CA",earthquake,0.24,0.66,0.148,15,reviewed,ci,ci
