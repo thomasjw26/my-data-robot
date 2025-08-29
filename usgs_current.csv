@@ -287,5 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T21:08:50.870Z,44.695166666667,-123.242,-0.34,1.24,ml,11,57,0.1184,0.45,uw,uw62177776,2025-08-28T23:34:29.470Z,"3 km NW of Adair Village, Oregon",explosion,0.77,31.61,0.067175310389005,6,reviewed,uw,uw
 2025-08-28T21:04:01.140Z,44.815833333333,-111.53116666667,11.69,0.54,ml,11,113,0.02461,0.23,mb,mb90109248,2025-08-28T22:26:06.350Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.46,0.77,0.11096269232747,6,reviewed,mb,mb
 2025-08-28T20:54:27.280Z,36.1766667,-118.0215,4.32,1.44,ml,26,49,0.1472,0.13,ci,ci41277656,2025-08-28T22:22:31.122Z,"12 km S of Olancha, CA",earthquake,0.2,1.28,0.183,28,reviewed,ci,ci
-2025-08-28T20:43:35.850Z,35.614,-98.04333333,6.73,1.82,ml,63,40,0.1556694523,0.18,ok,ok2025qwgg,2025-08-28T22:35:11.881Z,"6 km ENE of Calumet, Oklahoma",earthquake,,0.4,0.25,30,reviewed,ok,ok
-2025-08-28T20:43:33.536Z,63.4854,-151.1009,1,2.3,ml,,,,0.73,ak,ak025b1958zt,2025-08-28T20:54:47.024Z,"31 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
