@@ -227,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T11:43:00.400Z,35.9891667,-117.6843333,2.65,0.45,ml,20,52,0.04954,0.13,ci,ci41278144,2025-08-29T16:47:54.686Z,"21 km ENE of Little Lake, CA",earthquake,0.19,0.24,0.132,10,reviewed,ci,ci
 2025-08-29T11:39:55.325Z,31.539,-102.368,11.6455,2.1,ml,18,86,0.2,0.2,tx,tx2025qzlmjo,2025-08-29T12:57:11.422Z,"15 km N of Crane, Texas",earthquake,0.94561767060395,1.4003830083162,0.1,14,reviewed,tx,tx
 2025-08-29T11:38:36.070Z,58.23,-154.928,3.08,0.24,ml,4,280,0.05993,0.2,av,av93740428,2025-08-29T23:37:33.650Z,"78 km NNW of Karluk, Alaska",earthquake,1.24,2.19,0.2938310860883,4,reviewed,av,av
-2025-08-29T11:28:58.100Z,54.7515,-163.9785,-0.74,0.4,ml,5,96,0.0435,0.38,av,av93740423,2025-08-29T20:09:27.100Z,"38 km WSW of False Pass, Alaska",earthquake,0.62,0.81,0.36410181772487,5,reviewed,av,av
