@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-31T17:24:53.238Z,59.7654,-153.1463,121.8,2,ml,,,,0.33,ak,ak025b65uylu,2025-08-31T17:26:47.348Z,"53 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-31T17:17:53.383Z,32.108,-101.922,3.7781,1.1,ml,25,38,0.1,0.5,tx,tx2025rdodhy,2025-08-31T17:21:32.815Z,"12 km W of Stanton, Texas",earthquake,0,1.1001366376877,0.2,15,automatic,tx,tx
+2025-08-31T17:10:48.826Z,51.3017,158.8611,35,4.8,mb,55,135,1.729,0.77,us,us7000qsuw,2025-08-31T17:39:41.040Z,"165 km E of Ozernovskiy, Russia",earthquake,10.63,1.924,0.066,71,reviewed,us,us
 2025-08-31T17:05:05.811Z,31.974,-103.358,5.9655,1.9,ml,7,133,0,0.5,tx,tx2025rdnsju,2025-08-31T17:09:43.547Z,"21 km SW of Jal, New Mexico",earthquake,0,3.4676434993744,0.2,5,automatic,tx,tx
 2025-08-31T16:45:02.130Z,38.839500427246,-122.78283691406,1.6299999952316,0.75,md,6,122,0.005906,0.01,nc,nc75231287,2025-08-31T16:46:39.801Z,"6 km WNW of Cobb, CA",earthquake,0.79,1.38,0.16,8,automatic,nc,nc
 2025-08-31T16:34:48.413Z,31.703,-104.184,3.8377,2,mlv,30,59,0.1,0.4,tx,tx2025rdmsgc,2025-08-31T17:09:38.554Z,"55 km W of Mentone, Texas",earthquake,0,0.99734336137772,0.2,20,automatic,tx,tx
