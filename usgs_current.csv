@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T05:40:38.232Z,31.516,-103.857,5.5049,2.2,mlv,31,47,0,0.6,tx,tx2025rcranj,2025-08-31T06:07:59.911Z,"23 km NNW of Toyah, Texas",earthquake,0,1.6645406484604,0.1,21,automatic,tx,tx
 2025-08-31T05:29:58.298Z,41.1583,-116.7456,6.4,2.8,ml,5,252.16,0.309,0.1359,nn,nn00903529,2025-08-31T07:11:53.953Z,"51 km NE of Valmy, Nevada",earthquake,,5.4,0.19,4,reviewed,nn,nn
 2025-08-31T05:27:39.838Z,41.1513,-116.7167,8.8,4,ml,7,157.02,0.286,0.0746,nn,nn00903516,2025-08-31T07:18:10.222Z,"52 km NE of Valmy, Nevada",earthquake,,4.7,0.05,7,reviewed,nn,nn
-2025-08-31T05:27:24.337Z,41.1561,-116.7481,5.9,4,ml,9,136.11,0.309,0.0807,nn,nn00903513,2025-08-31T07:06:38.173Z,"51 km NE of Valmy, Nevada",earthquake,,7.5,0.19,8,reviewed,nn,nn
+2025-08-31T05:27:24.337Z,41.1561,-116.7481,5.9,4,ml,9,136.11,0.309,0.0807,nn,nn00903513,2025-08-31T07:39:20.310Z,"51 km NE of Valmy, Nevada",earthquake,,7.5,0.19,8,reviewed,nn,nn
 2025-08-31T05:19:16.720Z,34.06,-117.2731667,15.32,0.76,ml,43,57,0.0764,0.16,ci,ci41279816,2025-08-31T05:22:44.749Z,"2 km NW of Loma Linda, CA",earthquake,0.17,0.33,0.217,26,automatic,ci,ci
 2025-08-31T05:11:10.170Z,38.811332702637,-122.80033111572,0.50999999046326,1.07,md,15,47,0.005169,0.03,nc,nc75231067,2025-08-31T05:12:46.529Z,"5 km NW of The Geysers, CA",earthquake,0.2,0.540000021,0.29,15,automatic,nc,nc
 2025-08-31T04:42:36.200Z,17.884166666667,-66.852166666667,15.07,2.18,md,5,284,0.094,0.18,pr,pr71494023,2025-08-31T04:54:22.610Z,"11 km SSE of Maria Antonia, Puerto Rico",earthquake,1.32,1.15,0.064121393010706,4,reviewed,pr,pr
