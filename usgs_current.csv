@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T07:26:50.590Z,37.656833333333,-122.50283333333,7.76,0.79,md,18,160,0.02689,0.06,nc,nc75231927,2025-09-02T18:27:17.314Z,"4 km WSW of Colma, CA",earthquake,0.38,0.27,0.571,11,reviewed,nc,nc
 2025-09-02T07:22:02.640Z,33.1353333,-115.9596667,5.09,0.99,ml,38,53,0.04096,0.21,ci,ci41281232,2025-09-02T07:25:32.325Z,"16 km E of Ocotillo Wells, CA",earthquake,0.22,0.48,0.158,16,automatic,ci,ci
 2025-09-02T07:20:18.400Z,33.5223333,-116.5133333,13.96,0.32,ml,18,71,0.0792,0.12,ci,ci41281224,2025-09-02T12:58:42.476Z,"15 km ESE of Anza, CA",earthquake,0.33,0.48,0.089,6,reviewed,ci,ci
-2025-09-02T07:14:30.690Z,45.530666666667,-112.28633333333,4.98,-0.17,ml,4,106,0.2756,0.04,mb,mb90109978,2025-09-02T20:45:48.280Z,"3 km ESE of Twin Bridges, Montana",earthquake,0.36,6.47,0.14113685902543,4,reviewed,mb,mb
