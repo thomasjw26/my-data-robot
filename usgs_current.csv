@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-05T04:43:13.370Z,46.248832702637,-122.16983032227,13.050000190735,0.769999981,md,17,75,,0.519999981,uw,uw62182261,2025-09-05T04:45:11.910Z,"35 km SSE of Morton, Washington",earthquake,3.84,7.57000017,,1,automatic,uw,uw
 2025-09-05T04:29:22.178Z,36.7131,-116.3075,10.3,1.3,ml,32,72,0.019,0.2149,nn,nn00903861,2025-09-05T04:31:23.160Z,"45 km ESE of Beatty, Nevada",earthquake,,0.4,0.28,21,automatic,nn,nn
+2025-09-05T04:28:36.900Z,46.1945,-122.1745,-1.58,-0.2,mh,6,195,0.009533,0.16,uw,uw62182256,2025-09-05T04:50:04.250Z,"37 km NE of Amboy, Washington",earthquake,0.81,5.77,,0,reviewed,uw,uw
 2025-09-05T04:24:13.140Z,33.9598333,-117,14.14,0.88,ml,29,47,0.1436,0.13,ci,ci41283624,2025-09-05T04:27:42.062Z,"4 km NNW of Beaumont, CA",earthquake,0.18,0.51,0.185,30,automatic,ci,ci
 2025-09-05T04:05:53.850Z,46.9445,-121.97116666667,12.35,0.18,ml,14,111,0.02339,0.08,uw,uw62182246,2025-09-05T04:35:49.780Z,"16 km SSE of Carbonado, Washington",earthquake,0.41,0.5,0.076305433782454,8,reviewed,uw,uw
 2025-09-05T04:04:59.750Z,39.124332427979,-123.12699890137,4.6599998474121,1.53,md,13,77,0.03967,0.05,nc,nc75233287,2025-09-05T04:22:20.505Z,"4 km ESE of Talmage, CA",earthquake,0.26,0.850000024,0.19,7,automatic,nc,nc
@@ -258,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T05:10:37.030Z,34.0576667,-117.1365,8.73,0.7,ml,44,36,0.02984,0.18,ci,ci41282768,2025-09-04T05:15:02.439Z,"1 km S of Mentone, CA",earthquake,0.17,0.46,0.14,26,automatic,ci,ci
 2025-09-04T05:06:24.827Z,61.3366,-151.4593,72.1,1.6,ml,,,,0.53,ak,ak025bckr87m,2025-09-04T05:08:22.141Z,"29 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-04T05:01:05.000Z,31.626,-104.356,6.4075,1.3,ml,15,69,0.1,0.1,tx,tx2025rjypyl,2025-09-04T14:26:46.842Z,"60 km S of Whites City, New Mexico",earthquake,0.90764149268294,0.93326648059502,0.2,23,reviewed,tx,tx
-2025-09-04T04:54:11.610Z,33.379,-116.9441667,7.43,0.39,ml,23,63,0.07277,0.17,ci,ci41282760,2025-09-04T04:57:41.529Z,"8 km WNW of Palomar Observatory, CA",earthquake,0.24,0.65,0.11,6,automatic,ci,ci
