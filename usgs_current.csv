@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T14:46:00.090Z,36.0068333,-117.8013333,1.53,0.86,ml,26,53,0.02505,0.12,ci,ci41284840,2025-09-06T14:49:30.509Z,"12 km NE of Little Lake, CA",earthquake,0.13,0.14,0.184,19,automatic,ci,ci
 2025-09-06T14:36:56.510Z,35.9,-117.6776667,3.01,1.28,ml,30,43,0.05268,0.13,ci,ci41284832,2025-09-06T14:40:40.525Z,"21 km E of Little Lake, CA",earthquake,0.14,0.51,0.139,26,automatic,ci,ci
 2025-09-06T14:36:11.330Z,36.46216583252,-121.06466674805,5.960000038147,1.28,md,14,69,0.008736,0.2,nc,nc75233932,2025-09-06T16:57:19.283Z,"10 km SSE of Pinnacles, CA",earthquake,0.56,1.25999999,0.22,11,automatic,nc,nc
-2025-09-06T14:32:08.450Z,33.9821667,-116.8258333,7.21,0.66,ml,34,34,0.05494,0.16,ci,ci41284824,2025-09-06T14:35:38.017Z,"8 km NE of Banning, CA",earthquake,0.18,0.63,0.203,18,automatic,ci,ci
