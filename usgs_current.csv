@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-12T05:57:09.440Z,38.832164764404,-122.80883026123,2.2599999904633,1.09,md,22,46,0.008811,0.02,nc,nc75236807,2025-09-12T05:58:47.221Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.50999999,0.16,22,automatic,nc,nc
+2025-09-12T05:52:14.440Z,35.8126667,-117.6328333,1.36,0.81,ml,20,51,0.02887,0.21,ci,ci41289672,2025-09-12T05:58:57.948Z,"21 km WNW of Searles Valley, CA",earthquake,0.29,0.36,0.093,18,automatic,ci,ci
 2025-09-12T05:39:31.150Z,35.8018333,-117.6411667,-0.32,1.94,ml,38,50,0.0381,0.26,ci,ci41289664,2025-09-12T05:43:07.199Z,"20 km N of Ridgecrest, CA",earthquake,0.24,0.5,0.11,25,automatic,ci,ci
 2025-09-12T05:23:52.890Z,17.895166666667,-66.856333333333,16.1,2.01,md,7,235,0.0824,0.1,pr,pr71495418,2025-09-12T05:37:53.160Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.72,0.79,0.18861070885045,4,reviewed,pr,pr
 2025-09-12T05:20:32.150Z,36.0476667,-117.8503333,2.26,1.03,ml,25,49,0.0514,0.12,ci,ci41289648,2025-09-12T05:23:52.013Z,"9 km E of Coso Junction, CA",earthquake,0.14,0.16,0.268,20,automatic,ci,ci
