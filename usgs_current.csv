@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-19T13:27:07.571Z,35.63883209,-98.02680206,0.3296872377,2.48,ml,21,51.74701309,0.1611569822,1.113384755,ok,ok2025sjwy,2025-09-19T13:29:16.075Z,"9 km ENE of Calumet, Oklahoma",earthquake,2.422278639,2.235423393,0.25,18,automatic,ok,ok
+2025-09-19T13:27:04.390Z,52.2396,160.6455,10,5.5,mww,52,140,1.448,0.72,us,us7000qxat,2025-09-19T13:44:44.040Z,"164 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,5.8,1.91,0.11,8,reviewed,us,us
 2025-09-19T13:22:13.300Z,33.6458333,-117.0086667,12.13,0.31,ml,13,132,0.004219,0.09,ci,ci40446178,2025-09-19T13:25:45.783Z,"10 km SE of Winchester, CA",earthquake,0.39,0.46,0.098,6,automatic,ci,ci
 2025-09-19T13:18:53.166Z,35.32754898,-97.94546509,5.525001526,1.89,ml,14,56.49380493,0.0671569407,0.4216564212,ok,ok2025sjwq,2025-09-19T13:21:06.821Z,"1 km N of Minco, Oklahoma",earthquake,3.372254419,3.109290654,0.22,9,automatic,ok,ok
 2025-09-19T13:06:05.427Z,53.0083,161.1302,10,4.5,mb,31,180,1.499,0.82,us,us7000qxan,2025-09-19T13:31:10.040Z,"167 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,14.17,1.957,0.088,38,reviewed,us,us
@@ -279,5 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T14:08:55.667Z,36.6301,-116.2664,5.9,-0.2,ml,13,126.25,0.06,0.0727,nn,nn00904634,2025-09-19T02:10:56.786Z,"53 km NNW of Pahrump, Nevada",earthquake,,1.9,0.11,2,reviewed,nn,nn
 2025-09-18T13:55:06.675Z,31.651,-104.416,6.0999,1.5,ml,35,67,0,0.2,tx,tx2025skimly,2025-09-18T14:39:38.552Z,"58 km S of Whites City, New Mexico",earthquake,1.2290888208982,0.77564050113246,0.1,11,reviewed,tx,tx
 2025-09-18T13:50:44.905Z,31.687,-104.327,6.5613,2.4,ml,43,77,0.1,0.2,tx,tx2025skiiry,2025-09-18T14:32:54.503Z,"54 km S of Whites City, New Mexico",earthquake,0.67724066889847,0.5366714899735,0.2,25,reviewed,tx,tx
-2025-09-18T13:46:40.920Z,38.835834503174,-122.79550170898,1.789999961853,0.72,md,11,107,0.004779,0.02,nc,nc75239167,2025-09-18T14:22:21.122Z,"6 km WNW of Cobb, CA",earthquake,0.36,0.569999993,0.07,11,automatic,nc,nc
-2025-09-18T13:44:48.618Z,38.6009,-115.9458,6.2,2.6,ml,6,98.23,0.379,0.0789,nn,nn00904581,2025-09-19T02:08:15.179Z,"84 km WSW of Preston, Nevada",earthquake,,18,0.3,3,reviewed,nn,nn
