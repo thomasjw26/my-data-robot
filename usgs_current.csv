@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T19:35:12.830Z,32.9993333,-116.228,5.5,0.59,ml,22,67,0.07749,0.19,ci,ci40447122,2025-09-20T19:38:38.533Z,"18 km SSW of Ocotillo Wells, CA",earthquake,0.22,0.8,0.144,8,automatic,ci,ci
 2025-09-20T19:26:29.610Z,60.9629,-146.9001,15.8,1.5,ml,,,,1.28,ak,ak025c39t59t,2025-09-20T19:28:42.801Z,"16 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-20T19:16:55.040Z,33.0295,-116.4118333,10.34,1.04,ml,46,34,0.05256,0.18,ci,ci40447106,2025-09-20T19:20:21.399Z,"18 km ESE of Julian, CA",earthquake,0.17,0.35,0.171,25,automatic,ci,ci
-2025-09-20T19:12:24.068Z,32.372,-101.083,3.0949,1.8,ml,26,104,0.1,0.3,tx,tx2025soklpy,2025-09-20T19:15:54.388Z,"6 km WNW of Westbrook, Texas",earthquake,0,1.2114328145981,0.1,14,automatic,tx,tx
+2025-09-20T19:12:24.068Z,32.372,-101.083,3.0954,1.8,ml,26,104,0.1,0.3,tx,tx2025soklpy,2025-09-20T20:00:36.673Z,"6 km WNW of Westbrook, Texas",earthquake,0,1.2114322185516,0.1,14,automatic,tx,tx
 2025-09-20T18:54:35.244Z,4.8776,124.0314,456.318,4.4,mb,45,60,1.45,0.96,us,us7000qxl8,2025-09-20T19:23:50.040Z,"138 km SSW of Maitum, Philippines",earthquake,12.5,9.01,0.098,30,reviewed,us,us
 2025-09-20T18:45:29.810Z,33.9975,-116.1806667,12.25,0.88,ml,38,51,0.07212,0.17,ci,ci40447098,2025-09-20T18:49:04.191Z,"19 km SSW of Twentynine Palms, CA",earthquake,0.18,0.46,0.224,14,automatic,ci,ci
 2025-09-20T18:37:38.992Z,39.0684,-119.0201,5.7,1.1,ml,10,79.39,0.19,0.1469,nn,nn00904715,2025-09-20T18:40:02.217Z,"15 km NE of Yerington, Nevada",earthquake,,1.6,0.29,5,automatic,nn,nn
@@ -183,5 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T20:46:50.688Z,53.214,160.9498,33.788,4.6,mb,94,160,1.399,0.66,us,us7000qxgc,2025-09-20T16:40:46.040Z,"156 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,11.31,5.499,0.059,86,reviewed,us,us
 2025-09-19T20:39:56.836Z,53.2261,160.3356,60.677,4.5,mb,57,157,1.036,1.04,us,us7000qxg9,2025-09-20T16:23:48.040Z,"115 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,11.45,8.748,0.07,61,reviewed,us,us
 2025-09-19T20:27:33.689Z,61.805,-151.5429,60.5,1.5,ml,,,,0.8,ak,ak025c1mvgew,2025-09-19T20:29:46.709Z,"22 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-09-19T20:11:50.331Z,53.1242,161.0372,25.53,4.7,mb,136,62,1.444,0.62,us,us7000qxfh,2025-09-20T16:09:04.040Z,"161 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.27,3.92,0.045,156,reviewed,us,us
-2025-09-19T19:59:52.510Z,38.772666931152,-122.72399902344,1.3300000429153,1.33,md,10,124,0.0145,0.03,nc,nc75239632,2025-09-19T22:27:20.038Z,"3 km W of Anderson Springs, CA",earthquake,0.38,0.5,0.17,12,automatic,nc,nc
