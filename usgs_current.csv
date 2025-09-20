@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T19:57:25.050Z,35.876335144043,-120.3245010376,4.8200001716614,0.92,md,11,163,0.04206,0.04,nc,nc75239627,2025-09-19T20:17:21.102Z,"10 km ESE of Parkfield, CA",earthquake,0.68,2.00999999,0.03,3,automatic,nc,nc
 2025-09-19T19:44:01.290Z,46.935333333333,-113.12416666667,9.71,0.77,ml,8,158,0.0901,0.05,mb,mb90112673,2025-09-19T20:14:13.200Z,"9 km S of Ovando, Montana",earthquake,0.34,0.69,0.4277946234773,3,reviewed,mb,mb
 2025-09-19T19:40:50.213Z,59.4604,-152.9568,82.9,2.1,ml,,,,0.52,ak,ak025c1mcue5,2025-09-19T19:42:52.715Z,"59 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-09-19T19:34:08.925Z,32.378,-101.646,6.8115,0.9,ml,14,74,0,0.1,tx,tx2025smpikg,2025-09-19T20:13:30.748Z,"17 km SSE of Ackerly, Texas",earthquake,0.73152881367809,0.93426621223395,0.2,7,reviewed,tx,tx
