@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-21T10:47:41.271Z,60.3042,-152.1207,70.5,1.8,ml,,,,0.11,ak,ak025c4s449b,2025-09-21T10:48:58.961Z,"37 km NW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-09-21T10:29:09.560Z,33.5318333,-116.7188333,5.93,0.75,ml,45,27,0.03686,0.16,ci,ci40447490,2025-09-21T10:32:39.361Z,"5 km WSW of Anza, CA",earthquake,0.14,0.37,0.152,23,automatic,ci,ci
 2025-09-21T10:20:13.414Z,62.887,-148.8358,62.5,1.3,ml,,,,0.36,ak,ak025c4ry9rx,2025-09-21T10:21:50.080Z,"56 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-21T10:16:53.678Z,38.026,-118.5758,0,1.4,ml,11,175.03,0.232,0.3322,nn,nn00904736,2025-09-21T10:20:06.136Z,"24 km NNW of Benton, California",earthquake,,23.7,0.28,5,automatic,nn,nn
@@ -188,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T11:14:58.600Z,33.1986667,-116.0245,9.78,1.37,ml,59,58,0.04656,0.21,ci,ci40446810,2025-09-20T14:11:07.328Z,"12 km ENE of Ocotillo Wells, CA",earthquake,0.16,0.42,0.132,26,reviewed,ci,ci
 2025-09-20T11:02:24.420Z,33.4973333,-116.5156667,13.13,1.61,ml,83,30,0.07236,0.2,ci,ci40446802,2025-09-20T14:11:03.223Z,"16 km ESE of Anza, CA",earthquake,0.14,0.32,0.176,25,reviewed,ci,ci
 2025-09-20T10:52:12.941Z,57.1863,-156.9148,5.8,2.1,ml,,,,0.81,ak,ak025c34ls5q,2025-09-20T10:54:41.902Z,"46 km SE of Ugashik, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-09-20T10:48:29.750Z,33.5353333,-116.7168333,5.92,0.61,ml,40,28,0.03452,0.15,ci,ci40446794,2025-09-20T10:51:57.696Z,"5 km WSW of Anza, CA",earthquake,0.15,0.37,0.17,19,automatic,ci,ci
