@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T11:48:13.570Z,33.4981667,-116.538,8.09,1.17,ml,71,51,0.05376,0.2,ci,ci40446818,2025-09-20T14:11:33.330Z,"14 km ESE of Anza, CA",earthquake,0.14,0.41,0.122,28,reviewed,ci,ci
 2025-09-20T11:14:58.600Z,33.1986667,-116.0245,9.78,1.37,ml,59,58,0.04656,0.21,ci,ci40446810,2025-09-20T14:11:07.328Z,"12 km ENE of Ocotillo Wells, CA",earthquake,0.16,0.42,0.132,26,reviewed,ci,ci
 2025-09-20T11:02:24.420Z,33.4973333,-116.5156667,13.13,1.61,ml,83,30,0.07236,0.2,ci,ci40446802,2025-09-20T14:11:03.223Z,"16 km ESE of Anza, CA",earthquake,0.14,0.32,0.176,25,reviewed,ci,ci
-2025-09-20T10:52:12.941Z,57.1863,-156.9148,5.8,2.1,ml,,,,0.81,ak,ak025c34ls5q,2025-09-20T10:54:41.902Z,"46 km SE of Ugashik, Alaska",earthquake,,0.2,,,automatic,ak,ak
