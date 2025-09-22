@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-22T04:46:22.566Z,32.409,-101.4,4.6055,1.1,ml,10,93,0,0.3,tx,tx2025sqzfcr,2025-09-22T04:49:09.913Z,"14 km NNW of Sand Springs, Texas",earthquake,0,1.689240694046,0.2,7,automatic,tx,tx
 2025-09-22T04:13:43.663Z,31.636,-104.38,4.022,2,ml,32,76,0,0.3,tx,tx2025sqycyl,2025-09-22T04:18:10.173Z,"59 km S of Whites City, New Mexico",earthquake,0,1.0636599063873,0.2,23,automatic,tx,tx
 2025-09-22T04:12:49.757Z,63.0801,-144.281,3.7,1.4,ml,,,,0.56,ak,ak025c6bvdpr,2025-09-22T04:15:02.937Z,"31 km NW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-22T03:59:07.220Z,11.9746,142.2153,13.291,5,mb,56,54,3.045,0.78,us,us7000qxs1,2025-09-22T04:39:16.094Z,"south of the Mariana Islands",earthquake,8.96,4.62,0.066,72,reviewed,us,us
@@ -182,5 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-21T05:20:20.980Z,17.912666666667,-66.974,12.42,2.54,md,12,213,0.0875,0.21,pr,pr71496133,2025-09-21T05:29:46.070Z,"9 km SW of Guánica, Puerto Rico",earthquake,0.83,0.46,0.11206960356926,6,reviewed,pr,pr
 2025-09-21T05:05:48.173Z,60.2148,-147.1945,19.4,1.8,ml,,,,0.81,ak,ak025c4ovyox,2025-09-21T05:07:59.480Z,"48 km ENE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-21T04:53:49.963Z,63.3747,-145.8591,8.7,1.2,ml,,,,0.48,ak,ak025c4oktlg,2025-09-21T04:55:39.776Z,"34 km NNW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-09-21T04:48:44.160Z,36.1001667,-117.8963333,6.48,0.61,ml,14,136,0.03781,0.08,ci,ci37743836,2025-09-21T16:17:31.869Z,"8 km NE of Coso Junction, CA",earthquake,0.18,0.25,0.109,6,reviewed,ci,ci
-2025-09-21T04:47:13.450Z,35.884666442871,-121.47650146484,9.210000038147,2.59,md,44,195,0.09327,0.14,nc,nc75240117,2025-09-21T05:23:51.536Z,"17 km SSE of Lopez Point, CA",earthquake,0.59,0.779999971,0.11,47,automatic,nc,nc
