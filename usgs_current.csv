@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-24T21:31:18.200Z,32.7608333,-116.9071667,4.48,1.47,ml,27,78,0.03892,0.2,ci,ci41096847,2025-09-24T21:34:45.196Z,"3 km ENE of Rancho San Diego, CA",earthquake,0.37,0.78,0.17,30,automatic,ci,ci
+2025-09-24T21:27:20.978Z,39.1045,-119.0624,3.6,1,ml,8,135.28,0.183,0.1014,nn,nn00904947,2025-09-24T21:29:40.153Z,"15 km NNE of Yerington, Nevada",earthquake,,18.6,0.23,4,automatic,nn,nn
 2025-09-24T21:13:50.403Z,65.2027,-148.4331,12.6,0.8,ml,,,,0.2,ak,ak025c9x2nr4,2025-09-24T21:15:00.609Z,"36 km S of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-24T21:12:00.750Z,44.682,-110.4685,6.38,0.99,ml,10,94,0.04342,0.12,uu,uu80118031,2025-09-24T21:30:46.390Z,"37 km SSE of Mammoth, Wyoming",earthquake,0.55,0.97,0.16790823256946,3,reviewed,uu,uu
 2025-09-24T21:04:21.608Z,31.523,-104.02,4.4104,2.4,ml,42,62,0,0.3,tx,tx2025svxbpd,2025-09-24T21:09:34.803Z,"31 km NW of Toyah, Texas",earthquake,0,0.90292632579803,0.2,30,automatic,tx,tx
 2025-09-24T21:02:37.552Z,66.5764,-148.0589,21.8,1.7,ml,,,,1.24,ak,ak025c9x09vv,2025-09-24T21:09:44.732Z,"38 km NW of Beaver, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-09-24T20:40:28.920Z,31.531,-104.02,6.3363,1.7,ml,35,58,0,0.4,tx,tx2025svwhbc,2025-09-24T20:43:33.582Z,"32 km NW of Toyah, Texas",earthquake,0,1.9798156023026,0.2,26,automatic,tx,tx
