@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-25T07:15:47.279Z,63.4952,-148.0136,3.9,1.8,ml,,,,0.8,ak,ak025cbcacuq,2025-09-25T07:18:57.259Z,"48 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-25T06:57:02.750Z,34.3365,-116.8618333,1.2,1.63,ml,67,26,0.03067,0.16,ci,ci41097263,2025-09-25T07:00:38.539Z,"8 km N of Big Bear City, CA",earthquake,0.11,0.2,0.144,27,automatic,ci,ci
 2025-09-25T06:55:55.585Z,31.527,-104.022,4.0936,1.8,ml,37,116,0,0.4,tx,tx2025swqrif,2025-09-25T07:01:14.656Z,"32 km NW of Toyah, Texas",earthquake,0,0.96841824054718,0.2,27,automatic,tx,tx
+2025-09-25T06:55:38.603Z,9.894,-70.6699,10,5.8,mb,170,30,1.004,0.69,us,us6000rcrj,2025-09-25T07:19:11.164Z,"28 km E of Mene Grande, Venezuela",earthquake,6.56,1.832,0.021,803,reviewed,us,us
 2025-09-25T06:46:42.430Z,33.5851667,-116.6225,12.7,0.34,ml,16,94,0.01964,0.13,ci,ci41097255,2025-09-25T06:51:55.486Z,"6 km NE of Anza, CA",earthquake,0.28,0.4,0.079,5,automatic,ci,ci
 2025-09-25T06:46:31.850Z,33.5681667,-116.6471667,11.32,0.05,ml,10,158,0.01395,0.16,ci,ci41097247,2025-09-25T06:51:10.483Z,"3 km ENE of Anza, CA",earthquake,1.03,0.7,0.216,4,automatic,ci,ci
 2025-09-25T06:44:36.000Z,33.5781667,-116.6255,12.35,0.67,ml,38,43,0.01222,0.16,ci,ci41097239,2025-09-25T06:49:11.180Z,"5 km ENE of Anza, CA",earthquake,0.18,0.32,0.173,22,automatic,ci,ci
@@ -206,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T07:29:14.999Z,58.1696,-155.3976,1.1,0.8,ml,,,,0.19,ak,ak025c9oty0b,2025-09-24T07:31:17.172Z,"87 km NW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2025-09-24T07:25:23.991Z,36.7047,-116.0367,2.7,-0.4,ml,7,199.7,0.048,0.0643,nn,nn00904927,2025-09-24T12:43:48.741Z,"36 km WNW of Indian Springs, Nevada",earthquake,,3,0.02,2,reviewed,nn,nn
 2025-09-24T07:24:52.931Z,62.0489,-150.9348,63,1.9,ml,,,,0.31,ak,ak025c9osyct,2025-09-24T07:26:44.327Z,"25 km ENE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-09-24T07:12:59.110Z,33.177,-115.6056667,4.02,1.27,ml,16,116,0.008377,0.18,ci,ci40449538,2025-09-24T07:16:30.652Z,"10 km NW of Calipatria, CA",earthquake,1.35,0.58,0.228,22,automatic,ci,ci
