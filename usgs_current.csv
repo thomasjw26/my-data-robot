@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-29T04:52:58.632Z,63.2683,-149.2462,77.4,2,ml,,,,0.37,ak,ak025chwvehz,2025-09-29T04:55:08.606Z,"20 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-29T04:33:40.275Z,36.7682,-116.2552,11.8,0.1,ml,17,90.76,0.049,0.1248,nn,nn00905146,2025-09-29T04:35:38.355Z,"47 km ESE of Beatty, Nevada",earthquake,,0.9,0.29,8,automatic,nn,nn
 2025-09-29T04:19:43.130Z,33.9178333,-116.723,14,1.38,ml,72,18,0.1044,0.15,ci,ci41100407,2025-09-29T04:23:15.725Z,"6 km E of Cabazon, CA",earthquake,0.12,0.26,0.146,27,automatic,ci,ci
 2025-09-29T04:11:19.150Z,37.534832000732,-118.98366546631,3.9400000572205,1.24,md,14,131,0.08287,0.03,nc,nc75243237,2025-09-29T04:27:19.492Z,"11 km SSW of Mammoth Lakes, CA",earthquake,0.76,1.54999995,0.19,14,automatic,nc,nc
@@ -153,6 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T12:04:21.320Z,37.590333333333,-119.09566666667,3.92,0.41,md,14,250,0.03029,0.05,nc,nc75242922,2025-09-28T17:07:19.571Z,"12 km WSW of Mammoth Lakes, CA",earthquake,0.62,0.36,0.184,7,reviewed,nc,nc
 2025-09-28T12:00:41.701Z,62.0977,-147.5117,31.9,1.4,ml,,,,0.82,ak,ak025cgdscay,2025-09-28T12:03:09.600Z,"25 km NW of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-28T11:52:41.221Z,39.7227,-119.9632,0,1.2,ml,11,117.09,0.115,0.2389,nn,nn00905117,2025-09-28T11:55:03.317Z,"4 km NNE of Cold Springs, Nevada",earthquake,,11.2,0.45,5,automatic,nn,nn
+2025-09-28T11:51:08.210Z,46.195,-122.2,-1.72,0,mh,11,68,0.007949,0.25,uw,uw62195271,2025-09-29T04:57:33.250Z,"36 km NNE of Amboy, Washington",earthquake,0.64,21.57,,0,reviewed,uw,uw
 2025-09-28T11:33:40.762Z,36.7713,-116.247,11.9,0.2,ml,18,63.81,0.052,0.1627,nn,nn00905116,2025-09-28T11:35:54.020Z,"48 km ESE of Beatty, Nevada",earthquake,,0.8,0.27,7,automatic,nn,nn
 2025-09-28T11:29:07.360Z,44.5825,-112.21666666667,5.43,2.03,ml,36,106,0.1274,0.16,mb,mb90113508,2025-09-28T14:29:05.040Z,"24 km N of Spencer, Idaho",earthquake,0.37,1.54,0.29826440879615,45,reviewed,mb,mb
 2025-09-28T11:26:54.008Z,31.616,-104.098,6.7023,1.9,ml,37,55,0,0.1,tx,tx2025tcmvof,2025-09-28T18:18:46.547Z,"44 km NW of Toyah, Texas",earthquake,0.32370279841832,0.33189274974461,0.1,17,reviewed,tx,tx
