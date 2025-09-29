@@ -63,6 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T22:11:23.348Z,64.7067,-149.1932,23.3,1.4,ml,,,,1.02,ak,ak025cgjsztf,2025-09-28T22:14:19.873Z,"12 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-28T21:43:23.960Z,34.0373333,-117.0788333,9.5,1.5,ml,83,20,0.02794,0.18,ci,ci41100335,2025-09-28T21:47:25.961Z,"3 km W of Yucaipa, CA",earthquake,0.11,0.28,0.145,27,automatic,ci,ci
 2025-09-28T21:40:47.554Z,60.4419,-142.9529,5.2,1.6,ml,,,,0.35,ak,ak025cgjdtub,2025-09-28T21:42:34.912Z,"110 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-28T21:37:57.550Z,47.585,-122.78016666667,17.39,1.41,ml,7,238,0.03684,0.22,uw,uw62195496,2025-09-29T07:25:00.900Z,"6 km WSW of Chico, Washington",earthquake,1.37,1.15,0.16984265116979,4,reviewed,uw,uw
 2025-09-28T21:31:07.503Z,-32.3235,-71.9585,30,4.2,mb,29,185,0.745,0.65,us,us6000rdhs,2025-09-29T04:14:19.040Z,"69 km WNW of La Ligua, Chile",earthquake,4.44,7.632,0.263,4,reviewed,us,us
 2025-09-28T21:23:51.614Z,24.3666,123.2868,57.156,4.5,mwr,29,67,0.27,0.8,us,us6000rdhr,2025-09-29T03:58:12.040Z,"31 km ESE of Yonakuni, Japan",earthquake,5.96,4.966,0.066,22,reviewed,us,us
 2025-09-28T21:12:37.370Z,37.842834472656,-121.99716949463,9.1400003433228,2.14,md,45,37,0.01638,0.1,nc,nc75243112,2025-09-28T22:47:21.082Z,"2 km NNE of Danville, CA",earthquake,0.18,0.280000001,0.15,38,automatic,nc,nc
@@ -197,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T08:10:27.710Z,33.594,-116.7386667,11.65,0.43,ml,12,262,0.0979,0.1,ci,ci41100039,2025-09-28T08:13:53.472Z,"7 km NW of Anza, CA",earthquake,0.55,0.48,0.17,15,automatic,ci,ci
 2025-09-28T07:38:39.260Z,44.802666666667,-110.85483333333,7.81,3.11,ml,39,36,0.01466,0.23,uu,uu80118201,2025-09-28T08:00:22.320Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.39,0.54,0.34497203039669,9,reviewed,uu,uu
 2025-09-28T07:30:46.848Z,60.5721,-147.5303,14.5,1.9,ml,,,,0.93,ak,ak025cgazm5o,2025-09-28T07:32:46.344Z,"56 km SW of Tatitlek, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2025-09-28T07:29:53.740Z,44.803333333333,-110.85733333333,8.12,3.27,ml,28,69,0.01577,0.19,uu,uu80118176,2025-09-28T08:15:46.726Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.43,0.79,0.43526319187329,16,reviewed,uu,uu
