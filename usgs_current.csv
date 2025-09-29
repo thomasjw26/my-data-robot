@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-29T18:55:10.375Z,64.4674,-146.8917,9.3,0.9,ml,,,,0.58,ak,ak025ci580e5,2025-09-29T18:56:26.209Z,"6 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-29T18:28:10.420Z,35.3506667,-117.7915,6.35,2.07,ml,55,36,0.09419,0.16,ci,ci41100703,2025-09-29T18:31:48.820Z,"14 km W of Johannesburg, CA",earthquake,0.13,0.44,0.165,24,automatic,ci,ci
 2025-09-29T18:24:06.490Z,35.3495,-117.7915,6.39,2.76,ml,63,32,0.09317,0.16,ci,ci41100695,2025-09-29T18:33:11.040Z,"14 km W of Johannesburg, CA",earthquake,0.13,0.42,0.145,25,reviewed,ci,ci
 2025-09-29T18:24:04.450Z,38.825164794922,-122.79783630371,2.1300001144409,1.09,md,21,40,0.009721,0.02,nc,nc75243447,2025-09-29T18:25:41.771Z,"6 km NNW of The Geysers, CA",earthquake,0.21,0.479999989,0.12,25,automatic,nc,nc
