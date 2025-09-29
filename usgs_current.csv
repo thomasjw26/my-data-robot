@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-29T11:30:29.057Z,62.965,-150.5885,114.8,1.4,ml,,,,0.16,ak,ak025ci0wnp5,2025-09-29T11:32:30.039Z,"53 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-29T11:06:32.694Z,62.8996,-151.1416,106.4,1.9,ml,,,,0.38,ak,ak025ci0risl,2025-09-29T11:08:42.755Z,"48 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-29T11:03:39.530Z,33.6513333,-116.741,12.99,0.98,ml,57,54,0.05872,0.16,ci,ci41100479,2025-09-29T11:07:04.433Z,"10 km SSW of Idyllwild, CA",earthquake,0.15,0.27,0.221,29,automatic,ci,ci
 2025-09-29T10:56:02.310Z,34.1495,-117.4496667,12.3,1.41,ml,87,31,0.05062,0.19,ci,ci41100471,2025-09-29T11:01:02.384Z,"6 km N of Fontana, CA",earthquake,0.14,0.29,0.161,28,automatic,ci,ci
@@ -192,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T12:00:41.701Z,62.0977,-147.5117,31.9,1.4,ml,,,,0.82,ak,ak025cgdscay,2025-09-28T12:03:09.600Z,"25 km NW of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-28T11:52:41.221Z,39.7227,-119.9632,0,1.2,ml,11,117.09,0.115,0.2389,nn,nn00905117,2025-09-28T11:55:03.317Z,"4 km NNE of Cold Springs, Nevada",earthquake,,11.2,0.45,5,automatic,nn,nn
 2025-09-28T11:51:08.210Z,46.195,-122.2,-1.72,0,mh,11,68,0.007949,0.25,uw,uw62195271,2025-09-29T04:57:33.250Z,"36 km NNE of Amboy, Washington",earthquake,0.64,21.57,,0,reviewed,uw,uw
-2025-09-28T11:33:40.762Z,36.7713,-116.247,11.9,0.2,ml,18,63.81,0.052,0.1627,nn,nn00905116,2025-09-28T11:35:54.020Z,"48 km ESE of Beatty, Nevada",earthquake,,0.8,0.27,7,automatic,nn,nn
