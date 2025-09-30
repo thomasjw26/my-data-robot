@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-30T07:08:26.603Z,60.1413,-152.8735,103.2,0.7,ml,,,,0.23,ak,ak025cjlxjtw,2025-09-30T07:10:46.621Z,"67 km WNW of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-09-30T07:08:27.939Z,60.1389,-152.7756,91.6,0.7,ml,,,,0.79,ak,ak025cjlxjtw,2025-09-30T07:13:52.830Z,"61 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-09-30T07:01:11.095Z,28.947,-99.202,3.2379,1.7,ml,9,204,0.4,0.5,tx,tx2025tfvmjc,2025-09-30T07:04:56.543Z,"10 km WNW of West Pearsall, Texas",earthquake,0,4.3898935317993,0.1,7,automatic,tx,tx
 2025-09-30T07:01:03.202Z,62.4913,-148.2906,34.7,2.1,ml,,,,0.64,ak,ak025cjlvzzz,2025-09-30T07:04:37.408Z,"77 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-30T06:47:38.347Z,61.0741,-152.3493,108,1.6,ml,,,,0.65,ak,ak025cjlki10,2025-09-30T06:50:17.719Z,"65 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
