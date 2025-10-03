@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-03T23:43:42.152Z,37.9587,-116.1974,16,1.8,ml,8,201.11,0.9,0.4551,nn,nn00905403,2025-10-03T23:46:36.880Z,"53 km NW of Rachel, Nevada",earthquake,,5.2,0.38,6,automatic,nn,nn
 2025-10-03T23:23:15.270Z,36.935665130615,-121.68049621582,10.510000228882,1.92,md,36,56,0.07754,0.14,nc,nc75244511,2025-10-03T23:26:12.440Z,"5 km ESE of Interlaken, CA",earthquake,0.3,0.639999986,0.26,33,automatic,nc,nc
 2025-10-03T23:19:21.200Z,38.819332122803,-122.82366943359,2.2400000095367,0.81,md,17,85,0.009645,0.01,nc,nc75244506,2025-10-03T23:42:18.998Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.479999989,0.19,17,automatic,nc,nc
 2025-10-03T23:03:09.000Z,38.824165344238,-122.80366516113,2.3399999141693,1.08,md,11,102,0.005065,0.01,nc,nc75244501,2025-10-03T23:27:17.871Z,"7 km NW of The Geysers, CA",earthquake,0.44,0.670000017,0.22,11,automatic,nc,nc
