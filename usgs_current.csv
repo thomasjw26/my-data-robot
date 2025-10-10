@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-10-10T14:49:25.317Z,64.9334,-147.6077,11.6,1.1,ml,,,,0.36,ak,ak025d09pu9f,2025-10-10T14:52:03.773Z,"2 km S of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-10-10T14:46:25.453Z,53.7557,-164.0078,0.3,1.7,ml,,,,0.88,ak,ak025d09p7g3,2025-10-10T14:50:20.324Z,"123 km ESE of Akutan, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-10T14:46:25.453Z,53.7557,-164.0078,0.3,1.7,ml,,,,0.88,ak,ak025d09p7g3,2025-10-10T14:51:46.678Z,"123 km ESE of Akutan, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-10T14:44:07.421Z,59.9411,-151.8404,50.9,1.9,ml,,,,0.85,ak,ak025d09oqb7,2025-10-10T14:50:15.020Z,"6 km W of Happy Valley, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-10-10T14:15:19.020Z,38.770999908447,-122.72566986084,1.1100000143051,0.74,md,5,132,0.009414,0.01,nc,nc75247366,2025-10-10T14:32:17.110Z,"3 km ESE of The Geysers, CA",earthquake,1.44,2.77999997,0.08,7,automatic,nc,nc
 2025-10-10T14:06:16.450Z,33.3453333,-116.8183333,5.39,0.55,ml,23,70,0.038,0.23,ci,ci41106143,2025-10-10T14:10:19.050Z,"4 km ESE of Palomar Observatory, CA",earthquake,0.39,0.83,0.147,13,automatic,ci,ci
