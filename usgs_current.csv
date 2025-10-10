@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-10T07:14:55.400Z,38.820667266846,-122.81016540527,2.8800001144409,1.81,md,39,39,0.01719,0.05,nc,nc75247246,2025-10-10T07:16:33.579Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.310000002,0.12,36,automatic,nc,nc
 2025-10-10T06:58:54.930Z,34.2678333,-117.0771667,3.68,1.56,ml,85,30,0.06042,0.16,ci,ci41106071,2025-10-10T07:09:18.440Z,"7 km NNE of Running Springs, CA",earthquake,0.12,0.32,0.098,26,automatic,ci,ci
 2025-10-10T06:47:25.072Z,32.116,-101.919,4.1305,1.6,ml,66,38,0.1,0.4,tx,tx2025tyehgo,2025-10-10T06:51:57.063Z,"12 km W of Stanton, Texas",earthquake,0,0.68251127004623,0.2,40,automatic,tx,tx
 2025-10-10T06:43:15.500Z,33.7875,-117.5291667,11.47,1.82,ml,102,25,0.05141,0.2,ci,ci41106063,2025-10-10T06:54:10.930Z,"10 km SSE of Corona, CA",earthquake,0.14,0.31,0.257,28,automatic,ci,ci
