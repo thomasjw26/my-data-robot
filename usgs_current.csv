@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-11T05:30:13.650Z,38.835498809815,-122.80583190918,2.0899999141693,0.97,md,10,77,0.01244,0.01,nc,nc75247706,2025-10-11T05:31:51.115Z,"7 km WNW of Cobb, CA",earthquake,0.36,0.670000017,0.29,11,automatic,nc,nc
+2025-10-11T05:30:13.650Z,38.835498809815,-122.80583190918,2.0899999141693,0.97,md,10,77,0.01244,0.01,nc,nc75247706,2025-10-11T05:52:18.701Z,"7 km WNW of Cobb, CA",earthquake,0.36,0.670000017,0.29,11,automatic,nc,nc
 2025-10-11T05:30:11.610Z,34.267,-117.0776667,3.97,1.47,ml,75,29,0.06068,0.16,ci,ci41106559,2025-10-11T05:40:54.050Z,"7 km NNE of Running Springs, CA",earthquake,0.12,0.3,0.127,28,automatic,ci,ci
 2025-10-11T05:11:54.710Z,34.0918333,-118.1786667,10.87,1.32,ml,43,51,0.0547,0.2,ci,ci41106551,2025-10-11T05:15:24.448Z,"4 km SSE of Highland Park, CA",earthquake,0.24,0.39,0.218,32,automatic,ci,ci
 2025-10-11T05:08:28.280Z,38.826999664307,-122.76583099365,2.0099999904633,0.7,md,6,128,0.00471,0.02,nc,nc75247701,2025-10-11T05:42:16.624Z,"4 km W of Cobb, CA",earthquake,0.59,1.23000002,0.47,9,automatic,nc,nc
