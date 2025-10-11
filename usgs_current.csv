@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-10T22:06:36.054Z,41.7258,142.679,58.696,4.3,mb,35,164,0.459,1.12,us,us6000rggg,2025-10-10T22:34:36.040Z,"48 km S of Urakawa, Japan",earthquake,7.9,9.88,0.119,20,reviewed,us,us
 2025-10-10T22:00:53.230Z,46.212166666667,-122.15516666667,7.25,0.46,ml,8,120,0.01525,0.11,uw,uw62200306,2025-10-11T03:29:35.120Z,"39 km SSE of Morton, Washington",earthquake,0.59,0.69,0.17429898301282,4,reviewed,uw,uw
 2025-10-10T21:52:42.917Z,61.4555,-151.8765,17.2,1.6,ml,,,,0.31,ak,ak025d0dwk03,2025-10-11T02:43:23.680Z,"55 km NW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-10-10T21:48:48.700Z,36.316501617432,-120.63200378418,6.6799998283386,1.35,md,8,187,0.2086,0.03,nc,nc75247546,2025-10-10T22:57:18.691Z,"12 km SSE of New Idria, CA",earthquake,1.41,1.26999998,0.07,6,automatic,nc,nc
