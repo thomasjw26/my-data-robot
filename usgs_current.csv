@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-11T17:46:48.875Z,63.0945,-150.4799,90.7,1.8,ml,,,,0.55,ak,ak025d1z0w56,2025-10-11T17:49:43.922Z,"68 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-11T17:40:19.200Z,38.828666687012,-122.79933166504,1.7000000476837,0.89,md,15,49,0.009905,0.01,nc,nc75247906,2025-10-11T17:41:57.294Z,"7 km W of Cobb, CA",earthquake,0.24,0.449999988,0.2,17,automatic,nc,nc
 2025-10-11T17:27:37.020Z,38.824001312256,-122.85466766357,2.4100000858307,0.73,md,8,160,0.003936,0.02,nc,nc75247896,2025-10-11T17:29:13.027Z,"10 km WNW of The Geysers, CA",earthquake,0.52,0.560000002,0.19,8,automatic,nc,nc
 2025-10-11T17:27:02.250Z,33.0563333,-116.3878333,14.4,1.09,ml,47,44,0.04718,0.2,ci,ci41106879,2025-10-11T17:30:31.521Z,"20 km E of Julian, CA",earthquake,0.18,0.43,0.149,24,automatic,ci,ci
@@ -237,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-10T18:15:19.669Z,7.0835,127.0178,38.568,4.9,mb,99,82,1.428,1.2,us,us6000rgec,2025-10-10T19:30:45.040Z,"54 km ESE of Santiago, Philippines",earthquake,7.68,4.087,0.05,123,reviewed,us,us
 2025-10-10T17:56:16.890Z,19.421667098999,-155.27217102051,3.4800000190735,1.97,ml,22,61,0.005962,0.150000006,hv,hv74800777,2025-10-10T17:59:23.100Z,"4 km WSW of Volcano, Hawaii",earthquake,0.33,0.49000001,0.18,7,automatic,hv,hv
 2025-10-10T17:52:00.514Z,64.766,-149.1651,18.5,1.2,ml,,,,0.61,ak,ak025d0biqb9,2025-10-10T17:59:27.724Z,"18 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-10T17:43:01.120Z,36.175166666667,-89.66,7.28,1.96,md,16,79,0.0647,0.07,nm,nm60614701,2025-10-10T18:15:12.420Z,"2 km S of Caruthersville, Missouri",earthquake,0.23,0.91,0.066070372612146,10,reviewed,nm,nm
