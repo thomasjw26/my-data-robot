@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-12T13:28:53.828Z,57.4338,-153.1285,33.3,3,ml,,,,0.46,ak,ak025d3k2nt9,2025-10-12T13:38:59.040Z,"27 km NNE of Old Harbor, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-12T13:28:53.828Z,57.4338,-153.1285,33.3,3,ml,,,,0.46,ak,ak025d3k2nt9,2025-10-12T13:41:45.561Z,"27 km NNE of Old Harbor, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-12T12:51:27.250Z,17.929333333333,-65.709833333333,6,2.35,md,7,235,0.2242,0.17,pr,pr71497813,2025-10-12T13:07:43.870Z,"19 km SE of El Negro, Puerto Rico",earthquake,1.87,2.12,0.12599390048043,5,reviewed,pr,pr
-2025-10-12T12:48:26.240Z,38.790500640869,-122.77633666992,0.62000000476837,1.16,md,20,80,0.009437,0.03,nc,nc75248196,2025-10-12T13:07:19.177Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.370000005,0.14,21,automatic,nc,nc
+2025-10-12T12:48:26.240Z,38.790500640869,-122.77633666992,0.62000000476837,1.16,md,20,80,0.009437,0.03,nc,nc75248196,2025-10-12T13:42:16.431Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.370000005,0.14,21,automatic,nc,nc
 2025-10-12T12:41:28.060Z,38.808666229248,-122.79399871826,6.539999961853,0.22,md,7,221,0.001235,0.06,nc,nc75248191,2025-10-12T13:17:17.248Z,"5 km NW of The Geysers, CA",earthquake,1.39,3.95000005,0.13,8,automatic,nc,nc
 2025-10-12T12:27:33.660Z,35.7066667,-117.6011667,7.5,1.41,ml,36,45,0.1089,0.15,ci,ci41107127,2025-10-12T12:38:32.870Z,"12 km NE of Ridgecrest, CA",earthquake,0.14,0.76,0.182,26,automatic,ci,ci
 2025-10-12T12:20:51.180Z,37.567001342773,-119.02716827393,3.7400000095367,0.86,md,15,145,0.03962,0.03,nc,nc75248186,2025-10-12T12:52:18.062Z,"9 km SSW of Mammoth Lakes, CA",earthquake,0.38,0.889999986,0.18,13,automatic,nc,nc
