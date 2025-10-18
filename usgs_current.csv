@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-17T04:21:54.121Z,62.5865,-152.0004,5.7,1.9,ml,,,,0.52,ak,ak025dboczuc,2025-10-17T04:23:52.712Z,"64 km W of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-17T04:13:06.969Z,-2.2996,139.0327,41.504,5.3,mb,64,35,1.682,0.77,us,us6000rhqe,2025-10-17T04:29:30.040Z,"180 km W of Abepura, Indonesia",earthquake,6.54,7.058,0.072,65,reviewed,us,us
 2025-10-17T04:09:23.352Z,31.945,-103.376,6.087,1.8,ml,15,65,0,0.1,tx,tx2025ukvdfl,2025-10-17T14:37:41.953Z,"25 km SW of Jal, New Mexico",earthquake,0.63704180191083,0.43020451478414,0.1,7,reviewed,tx,tx
-2025-10-17T03:52:54.640Z,35.9696667,-117.6645,3.13,1.07,ml,26,48,0.02456,0.16,ci,ci41109807,2025-10-17T03:56:24.305Z,"22 km E of Little Lake, CA",earthquake,0.21,0.36,0.217,18,automatic,ci,ci
