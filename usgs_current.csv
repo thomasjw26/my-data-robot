@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-19T23:46:52.560Z,61.7302,-151.6397,90.5,1.7,ml,,,,0.33,ak,ak025dfawa3s,2025-10-19T23:48:37.872Z,"31 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-19T23:10:24.919Z,31.673,-104.4,6.4086,1.7,ml,21,69,0,0.3,tx,tx2025upykgp,2025-10-19T23:13:27.598Z,"55 km S of Whites City, New Mexico",earthquake,0,2.3305110931396,0.1,15,automatic,tx,tx
 2025-10-19T23:06:43.808Z,60.4541,-152.0213,81.4,1.7,ml,,,,0.38,ak,ak025dfanosc,2025-10-19T23:08:33.998Z,"40 km W of Kalifornsky, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-10-19T22:59:45.890Z,38.792499542236,-122.75833129883,3.9300000667572,0.88,md,17,84,0.01925,0.02,nc,nc75251791,2025-10-19T23:32:16.814Z,"2 km N of The Geysers, CA",earthquake,0.34,0.850000024,0.23,17,automatic,nc,nc
@@ -207,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-18T23:53:20.180Z,60.042666666667,-153.0935,0.41,-0.46,ml,5,103,0.02103,0.19,av,av93832011,2025-10-19T04:55:50.620Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.46,1.78,0.52001783338982,5,reviewed,av,av
 2025-10-18T23:51:19.930Z,32.6283333,-115.9685,9.68,1.2,ml,34,54,0.04345,0.2,ci,ci41111039,2025-10-19T13:28:04.776Z,"12 km S of Ocotillo, CA",earthquake,0.25,0.45,0.216,16,reviewed,ci,ci
 2025-10-18T23:51:02.294Z,61.964,-149.8784,33.1,1.5,ml,,,,0.85,ak,ak025ddndwav,2025-10-18T23:53:39.062Z,"22 km S of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-10-18T23:48:06.940Z,38.82833480835,-122.81950378418,1.6100000143051,1.64,md,26,44,0.0132,0.03,nc,nc75251261,2025-10-19T01:27:16.847Z,"8 km NW of The Geysers, CA",earthquake,0.17,0.340000004,0.07,24,automatic,nc,nc
