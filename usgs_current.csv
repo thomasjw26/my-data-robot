@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-22T07:12:01.573Z,55.5808,-158.8634,34.3,2.9,ml,,,,0.72,ak,ak025djzrzpb,2025-10-22T07:15:00.695Z,"40 km SSE of Perryville, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2025-10-22T07:12:01.573Z,55.5808,-158.8634,34.3,3.1,ml,,,,0.72,ak,ak025djzrzpb,2025-10-22T07:15:26.905Z,"40 km SSE of Perryville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-10-22T06:56:45.540Z,35.3541667,-117.7935,6.35,2.24,ml,59,32,0.09655,0.18,ci,ci41112591,2025-10-22T07:07:02.390Z,"14 km W of Johannesburg, CA",earthquake,0.15,0.5,0.204,25,automatic,ci,ci
 2025-10-22T06:54:06.330Z,34.7,-116.3626667,7.08,1.23,ml,26,56,0.1311,0.12,ci,ci41112583,2025-10-22T06:57:35.626Z,"19 km W of Ludlow, CA",earthquake,0.15,0.54,0.166,19,automatic,ci,ci
 2025-10-22T06:36:08.780Z,59.2542,-154.6173,39.1,1.8,ml,,,,1.08,ak,ak025djzbpri,2025-10-22T06:37:23.443Z,"22 km SSE of Kokhanok, Alaska",earthquake,,1.8,,,automatic,ak,ak
