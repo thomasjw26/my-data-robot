@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-26T05:41:55.442Z,31.76,-101.938,2.961,2.1,ml,71,49,0.1,0.5,tx,tx2025vblsxv,2025-10-26T05:46:26.672Z,"29 km SSE of Midland, Texas",earthquake,0,0.76598745584488,0.2,44,automatic,tx,tx
 2025-10-26T05:30:48.111Z,63.2721,-149.1457,73.9,1.8,ml,,,,0.63,ak,ak025dqkugul,2025-10-26T05:33:56.978Z,"16 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-26T05:26:17.970Z,33.6601667,-116.773,12.9,1.49,ml,83,23,0.06927,0.2,ci,ci41320256,2025-10-26T05:29:48.682Z,"10 km SSW of Idyllwild, CA",earthquake,0.13,0.29,0.285,28,automatic,ci,ci
 2025-10-26T05:24:17.865Z,9.598,39.8762,10,4.9,mb,54,67,3.495,0.64,us,us6000rjiv,2025-10-26T05:41:13.826Z,"30 km SSE of Debre Sīna, Ethiopia",earthquake,10.16,1.881,0.076,54,reviewed,us,us
