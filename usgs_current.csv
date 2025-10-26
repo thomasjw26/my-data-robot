@@ -169,4 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-25T05:04:50.376Z,59.8419,-152.6661,83.1,1.8,ml,,,,0.3,ak,ak025dox5jxp,2025-10-25T05:06:43.566Z,"47 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-25T04:56:25.897Z,4.3939,96.4833,10,4.6,mb,31,67,0.949,1.04,us,us6000rjdv,2025-10-25T05:12:54.040Z,"48 km NE of Meulaboh, Indonesia",earthquake,4.58,1.87,0.112,24,reviewed,us,us
 2025-10-25T04:43:46.659Z,63.9085,-150.4048,14.7,1.4,ml,,,,0.57,ak,ak025dowsgyx,2025-10-25T04:46:13.499Z,"64 km WSW of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-10-25T04:35:35.170Z,32.9886667,-116.1468333,4.52,0.82,ml,34,53,0.1359,0.25,ci,ci41319264,2025-10-25T04:39:04.126Z,"17 km S of Ocotillo Wells, CA",earthquake,0.27,0.82,0.218,13,automatic,ci,ci
