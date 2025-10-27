@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-27T14:48:00.090Z,38.835498809815,-122.78883361816,1.7200000286102,1,md,14,75,0.003136,0.01,nc,nc75255331,2025-10-27T14:49:37.278Z,"6 km WNW of Cobb, CA",earthquake,0.27,0.479999989,0.16,15,automatic,nc,nc
+2025-10-27T14:46:08.550Z,19.370500564575,-154.96183776856,5.789999961853,2.54,ml,56,208,0.01714,0.370000005,hv,hv74817311,2025-10-27T14:50:07.030Z,"11 km SSW of Leilani Estates, Hawaii",earthquake,0.85,0.579999983,0.35,20,automatic,hv,hv
 2025-10-27T14:43:57.990Z,38.826000213623,-122.85366821289,2.0999999046326,0.57,md,8,111,0.00294,0.02,nc,nc75255326,2025-10-27T14:45:32.141Z,"10 km WNW of The Geysers, CA",earthquake,0.36,0.600000024,0.18,8,automatic,nc,nc
 2025-10-27T14:38:50.213Z,63.1504,-144.4101,9.6,1.2,ml,,,,0.14,ak,ak025dsdsfp9,2025-10-27T14:40:51.170Z,"41 km NW of Mentasta Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-27T14:23:59.150Z,34.0013333,-116.8875,11.7,1.03,ml,37,61,0.07431,0.13,ci,ci41320928,2025-10-27T14:28:33.406Z,"8 km N of Banning, CA",earthquake,0.16,0.49,0.181,28,automatic,ci,ci
@@ -109,6 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-26T22:27:20.200Z,19.422500610352,-155.48100280762,6.6599998474121,2.04,ml,38,60,0.04991,0.189999998,hv,hv74816701,2025-10-26T22:30:39.120Z,"24 km N of Pāhala, Hawaii",earthquake,0.33,0.800000012,0.28,3,automatic,hv,hv
 2025-10-26T22:20:48.117Z,61.6376,-147.6489,8.6,2,ml,,,,1,ak,ak025dquwp0s,2025-10-26T22:23:39.560Z,"18 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-26T22:02:49.890Z,61.217,-147.5725,15.5,1.4,ml,,,,0.46,ak,ak025dqusu8t,2025-10-26T22:04:49.728Z,"62 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-26T21:54:27.260Z,44.577166666667,-111.142,8.34,1.29,ml,20,137,0.04107,0.15,uu,uu80120361,2025-10-27T14:49:53.570Z,"9 km SSW of West Yellowstone, Montana",earthquake,0.43,0.84,0.13052246228497,7,reviewed,uu,uu
 2025-10-26T21:43:59.960Z,34.2871667,-117.079,1.5,1.02,ml,14,193,0.06802,0.13,ci,ci41320680,2025-10-26T21:47:35.610Z,"9 km NNE of Running Springs, CA",earthquake,1.19,0.41,0.242,30,automatic,ci,ci
 2025-10-26T21:40:22.912Z,63.2226,-150.6742,127.4,1.7,ml,,,,0.28,ak,ak025dqufhrn,2025-10-26T21:42:53.829Z,"63 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-10-26T21:34:03.586Z,61.2615,-150.0784,40.5,1.3,ml,,,,0.66,ak,ak025dque5za,2025-10-26T21:35:56.584Z,"10 km WNW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
