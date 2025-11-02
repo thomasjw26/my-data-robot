@@ -169,4 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-01T11:22:49.050Z,36.546165466309,-121.39333343506,13.270000457764,1.41,md,12,50,0.05231,0.06,nc,nc75257511,2025-11-01T13:22:19.929Z,"6 km NE of Gonzales, CA",earthquake,0.35,1.45000005,0.24,10,automatic,nc,nc
 2025-11-01T11:10:51.161Z,59.5592,-152.308,64.8,2.8,ml,,,,0.46,ak,ak025e0livc2,2025-11-01T11:50:10.040Z,"31 km NW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-01T10:53:33.865Z,31.789,-101.908,7.2754,1.4,ml,29,50,0,0.1,tx,tx2025vmwktc,2025-11-01T21:20:30.230Z,"28 km SE of Midland, Texas",earthquake,0.48573205180453,1.0899094508017,0.1,19,reviewed,tx,tx
-2025-11-01T10:46:33.159Z,59.0256,-154.0646,121.1,2.4,ml,,,,0.37,ak,ak025e0l547z,2025-11-01T11:46:24.040Z,"61 km SE of Kokhanok, Alaska",earthquake,,0.8,,,automatic,ak,ak
