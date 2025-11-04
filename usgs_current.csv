@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-04T07:16:35.074Z,57.3371,-156.6938,135.4,1.7,ml,,,,0.86,ak,ak025e5hsfhv,2025-11-04T07:18:57.132Z,"46 km ESE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-11-04T07:16:35.074Z,57.3371,-156.6938,135.4,1.7,ml,,,,0.86,ak,ak025e5hsfhv,2025-11-04T07:19:55.674Z,"46 km ESE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-11-04T07:01:35.150Z,38.79349899292,-122.76616668701,3.6500000953674,1.28,md,17,70,0.008722,0.02,nc,nc75258841,2025-11-04T07:03:14.206Z,"2 km NNW of The Geysers, CA",earthquake,0.34,0.680000007,0.09,19,automatic,nc,nc
 2025-11-04T06:58:18.870Z,33.332164764404,-116.22350311279,10.020000457764,1.4883633697199,ml,54,77,0.07811,0.200000003,ci,ci41117927,2025-11-04T07:00:20.942Z,"16 km ENE of Borrego Springs, CA",earthquake,0.23,0.560000002,0.28080153465271,17,automatic,ci,ci
 2025-11-04T06:58:18.810Z,33.3326667,-116.2231667,10.91,1.48,ml,78,22,0.07818,0.18,ci,ci40480858,2025-11-04T07:09:12.980Z,"16 km ENE of Borrego Springs, CA",earthquake,0.12,0.32,0.151,27,automatic,ci,ci
@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-03T07:37:21.750Z,33.111,-115.969,7.17,0.89,ml,45,51,0.06275,0.21,ci,ci41324792,2025-11-03T07:40:49.578Z,"16 km ESE of Ocotillo Wells, CA",earthquake,0.19,0.54,0.24,17,automatic,ci,ci
 2025-11-03T07:37:07.730Z,34.241,-118.9715,17.86,1.47,ml,50,58,0.0372,0.22,ci,ci41324784,2025-11-03T16:35:10.461Z,"7 km ENE of Camarillo, CA",earthquake,0.23,0.49,0.245,21,reviewed,ci,ci
 2025-11-03T07:31:38.800Z,54.782,-164.00583333333,7.18,0.87,ml,6,105,0.02972,0.33,av,av93865136,2025-11-03T21:40:12.330Z,"39 km WSW of False Pass, Alaska",earthquake,1.02,1.82,0.30569689503226,6,reviewed,av,av
-2025-11-03T07:19:48.390Z,52.0851,159.8883,35,4.9,mb,37,124,1.683,0.73,us,us6000rl59,2025-11-03T16:14:18.040Z,"137 km SE of Vilyuchinsk, Russia",earthquake,10.22,1.929,0.09,39,reviewed,us,us
