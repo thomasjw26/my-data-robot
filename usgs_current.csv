@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-05T06:55:44.860Z,38.222332000732,-122.24700164795,-0.12999999523163,1.53,md,5,177,0.2669,0.17,nc,nc75259366,2025-11-05T06:57:23.552Z,"5 km NNE of American Canyon, CA",earthquake,5.42,8.57999992,,1,automatic,nc,nc
+2025-11-05T06:55:44.860Z,38.222332000732,-122.24700164795,-0.12999999523163,1.53,md,5,177,0.2669,0.17,nc,nc75259366,2025-11-05T07:17:18.544Z,"5 km NNE of American Canyon, CA",earthquake,5.42,8.57999992,,1,automatic,nc,nc
 2025-11-05T06:53:42.880Z,34.011665344238,-116.76433563232,12.260000228882,1.3390223843586,ml,42,101,0.04302,0.180000007,ci,ci41118271,2025-11-05T06:55:47.890Z,"11 km NNE of Cabazon, CA",earthquake,0.29,0.649999976,0.26090881228447,9,automatic,ci,ci
 2025-11-05T06:53:42.810Z,34.0081667,-116.7698333,13.18,1.18,ml,60,21,0.04145,0.15,ci,ci40481362,2025-11-05T06:57:13.691Z,"10 km N of Cabazon, CA",earthquake,0.13,0.34,0.185,26,automatic,ci,ci
 2025-11-05T06:52:13.120Z,34.0098333,-116.7693333,12.77,1.17,ml,53,28,0.04071,0.17,ci,ci40481354,2025-11-05T06:55:47.127Z,"10 km N of Cabazon, CA",earthquake,0.15,0.39,0.135,29,automatic,ci,ci
@@ -230,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-04T07:46:29.940Z,39.003333333333,-111.39383333333,-1.24,0.88,ml,12,81,0.02784,0.13,uu,uu80005343,2025-11-04T14:17:11.610Z,"15 km NW of Emery, Utah",earthquake,0.54,0.33,0.12672147741071,2,reviewed,uu,uu
 2025-11-04T07:37:23.161Z,12.386,143.1363,65.991,5.9,mww,113,57,2.069,1.14,us,us6000rlcd,2025-11-05T05:25:35.408Z,"192 km WSW of Merizo Village, Guam",earthquake,8.02,6.406,0.045,47,reviewed,us,us
 2025-11-04T07:30:08.893Z,32.35,-102.096,6.665,0.7,ml,20,50,0,0.2,tx,tx2025vscwaf,2025-11-04T12:31:04.435Z,"37 km NW of Stanton, Texas",earthquake,0.69329407000755,0.96693502133166,0.1,6,reviewed,tx,tx
-2025-11-04T07:19:37.940Z,32.9871667,-116.293,6.39,0.65,ml,31,101,0.03363,0.18,ci,ci40480866,2025-11-04T14:51:56.912Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.24,0.45,0.219,8,reviewed,ci,ci
-2025-11-04T07:16:35.074Z,57.3371,-156.6938,135.4,1.7,ml,,,,0.86,ak,ak025e5hsfhv,2025-11-04T07:19:55.674Z,"46 km ESE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
