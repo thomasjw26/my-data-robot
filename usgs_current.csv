@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-05T19:43:32.077Z,32.108,-101.952,4.2692,1.1,ml,29,55,0,0.3,tx,tx2025vuwwyt,2025-11-05T19:46:15.007Z,"15 km W of Stanton, Texas",earthquake,0,1.0275379419327,0.1,18,automatic,tx,tx
+2025-11-05T19:41:21.880Z,32.6538333,-116.6566667,9.02,1.39,ml,5,206,0.3108,0.18,ci,ci40481562,2025-11-05T19:44:53.496Z,"10 km NNW of Tecate, B.C., MX",earthquake,2.33,15.13,0.159,18,automatic,ci,ci
 2025-11-05T19:27:22.120Z,32.9271667,-115.5263333,9.92,1.75,ml,38,37,0.03864,0.28,ci,ci40481554,2025-11-05T19:30:59.759Z,"6 km S of Brawley, CA",earthquake,0.3,0.64,0.187,28,automatic,ci,ci
 2025-11-05T19:22:46.690Z,38.786499023438,-122.76683044434,2.0599999427795,1.01,md,14,79,0.01516,0.03,nc,nc75259566,2025-11-05T19:24:23.789Z,"1 km NW of The Geysers, CA",earthquake,0.29,0.540000021,0.13,13,automatic,nc,nc
 2025-11-05T19:14:38.321Z,32.345,-101.929,4.4199,1.6,ml,45,40,0.1,0.4,tx,tx2025vuvxzd,2025-11-05T19:19:03.352Z,"27 km NNW of Stanton, Texas",earthquake,0,0.77936238050461,0.2,30,automatic,tx,tx
