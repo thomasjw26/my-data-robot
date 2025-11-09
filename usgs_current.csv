@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-09T14:42:25.428Z,32.001,-103.873,4.1248,2.1,ml,31,49,0.1,0.6,tx,tx2025wbvuzy,2025-11-09T14:47:10.629Z,"31 km SE of Malaga, New Mexico",earthquake,0,0.94864511489868,0.1,23,automatic,tx,tx
+2025-11-09T14:42:25.428Z,32.001,-103.873,4.1248,2.1,ml,31,49,0.1,0.6,tx,tx2025wbvuzy,2025-11-09T14:47:47.633Z,"31 km SE of Malaga, New Mexico",earthquake,0,0.94864511489868,0.1,23,automatic,tx,tx
 2025-11-09T14:38:44.600Z,33.238,-116.0295,5.98,1.08,ml,51,61,0.05568,0.21,ci,ci40482946,2025-11-09T14:42:13.680Z,"10 km SW of Salton City, CA",earthquake,0.17,0.66,0.108,25,automatic,ci,ci
 2025-11-09T14:29:04.182Z,57.7736,-154.9047,61,3.3,ml,,,,0.69,ak,ak025edvpx42,2025-11-09T14:42:25.927Z,"35 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-09T14:28:58.790Z,62.4825,-150.6791,76.7,1.7,ml,,,,0.76,ak,ak025edvptos,2025-11-09T14:32:28.253Z,"4 km ESE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
