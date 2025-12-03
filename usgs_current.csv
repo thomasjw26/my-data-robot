@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-03T21:45:48.130Z,19.198833465576,-155.49299621582,30.39999961853,1.86,md,43,73,0.04961,0.140000001,hv,hv74844827,2025-12-03T21:49:33.680Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.47,0.649999976,0.13958587522739,15,automatic,hv,hv
 2025-12-03T21:42:53.640Z,38.797500610352,-122.75033569336,1.1200000047684,0.75,md,9,96,0.007963,0.03,nc,nc75273846,2025-12-03T21:44:30.258Z,"2 km NNE of The Geysers, CA",earthquake,0.27,0.99000001,0.05,10,automatic,nc,nc
 2025-12-03T21:35:56.750Z,38.793834686279,-122.80616760254,3.3199999332428,0.73,md,12,78,0.00601,0.02,nc,nc75273836,2025-12-03T21:37:35.041Z,"5 km WNW of The Geysers, CA",earthquake,0.41,0.899999976,0.07,11,automatic,nc,nc
 2025-12-03T21:15:48.534Z,31.622,-104.124,5.9332,1.7,ml,36,56,0,0.1,tx,tx2025xukgrf,2025-12-03T21:41:03.581Z,"46 km NW of Toyah, Texas",earthquake,0.41758724941122,0.38442441367433,0.1,18,reviewed,tx,tx
