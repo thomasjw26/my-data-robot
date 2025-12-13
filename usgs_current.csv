@@ -156,4 +156,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-12T11:04:03.296Z,60.047,-153.14,133,2.5,ml,72,77,0,0.8,ak,ak2025ykdnyl,2025-12-12T13:06:41.040Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0,2.3837,0.5,22,automatic,ak,ak
 2025-12-12T11:01:45.480Z,40.024166666667,-111.86566666667,8.82,1,ml,20,102,0.05802,0.16,uu,uu80124821,2025-12-12T15:36:08.610Z,"3 km NNW of Genola, Utah",earthquake,0.46,0.76,0.017934957288785,2,reviewed,uu,uu
 2025-12-12T10:59:38.062Z,61.255,-147.687,6.9,1.4,ml,10,76,0.2,0.9,ak,ak2025ykdkbf,2025-12-12T11:01:04.383Z,"61 km S of Glacier View, Alaska",earthquake,0,5.5249,0.1,4,automatic,ak,ak
-2025-12-12T10:50:53.844Z,58.284,-153.783,67.9,2.1,ml,20,127,0.5,0.2,ak,ak2025ykdcnm,2025-12-12T10:53:02.344Z,"57 km WNW of Aleneva, Alaska",earthquake,0,5.7422,0.2,6,automatic,ak,ak
