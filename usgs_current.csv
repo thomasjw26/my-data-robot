@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-14T15:51:56.060Z,37.76216506958,-121.93766784668,7.6399998664856,1.44,md,10,107,0.1037,0.01,nc,nc75279786,2025-12-14T15:53:33.734Z,"4 km ESE of San Ramon, CA",earthquake,0.34,0.829999983,0.06,9,automatic,nc,nc
 2025-12-14T15:44:03.990Z,38.838832855225,-122.78133392334,2.1300001144409,0.65,md,11,74,0.005387,0.02,nc,nc75279776,2025-12-14T15:45:37.591Z,"5 km WNW of Cobb, CA",earthquake,0.42,0.889999986,0.17,12,automatic,nc,nc
 2025-12-14T15:36:42.121Z,31.636,-104.449,3.8041,1.6,ml,19,74,0,0.3,tx,tx2025yoeapi,2025-12-14T15:40:13.445Z,"60 km S of Whites City, New Mexico",earthquake,0,1.413302063942,0.1,13,automatic,tx,tx
 2025-12-14T15:34:55.920Z,38.821666717529,-122.80233001709,2.4900000095367,1.3,md,25,33,0.006291,0.02,nc,nc75279766,2025-12-14T15:36:33.134Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.419999987,0.17,27,automatic,nc,nc
@@ -213,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-13T16:27:50.630Z,38.699001312256,-122.75483703613,4.8899998664856,0.84,md,10,204,0.01187,0.03,nc,nc75279171,2025-12-13T16:29:28.760Z,"9 km S of The Geysers, CA",earthquake,0.63,0.860000014,0.17,8,automatic,nc,nc
 2025-12-13T16:17:34.660Z,38.790832519531,-122.75716400147,4.5100002288818,0.74,md,8,82,0.01768,0.02,nc,nc75279166,2025-12-13T16:19:08.567Z,"2 km N of The Geysers, CA",earthquake,0.56,2.25999999,0.27,9,automatic,nc,nc
 2025-12-13T16:10:48.605Z,64.477,-146.889,5,1.4,ml,17,57,0.1,0.6,ak,ak2025ymjlcm,2025-12-13T16:13:46.350Z,"5 km S of Salcha, Alaska",earthquake,0,,0.3,4,automatic,ak,ak
-2025-12-13T15:53:32.990Z,30.4248,69.5538,41.292,4.4,mb,106,66,8.218,0.54,us,us6000runz,2025-12-13T21:38:43.040Z,"58 km N of Barkhan, Pakistan",earthquake,10.22,7.016,0.056,97,reviewed,us,us
