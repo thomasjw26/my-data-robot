@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-13T20:09:41.653Z,0.1996,122.0023,199.661,4.9,mb,39,60,2.913,0.57,us,us6000rupw,2025-12-13T20:22:42.040Z,"123 km WSW of Gorontalo, Indonesia",earthquake,9.04,8.517,0.096,34,reviewed,us,us
 2025-12-13T20:02:00.093Z,32.124,-101.047,2.7247,1.7,ml,27,82,0.2,0.4,tx,tx2025ymrchx,2025-12-14T00:16:17.288Z,"25 km S of Westbrook, Texas",earthquake,0,1.269336938858,0.2,19,automatic,tx,tx
 2025-12-13T19:51:29.779Z,63.611,-150.664,6.5,1.8,ml,13,71,0.5,0.8,ak,ak2025ymqtgr,2025-12-13T19:53:47.848Z,"53 km E of Denali National Park, Alaska",earthquake,0,2.9546,0.3,4,automatic,ak,ak
-2025-12-13T19:49:29.700Z,36.150333404541,-118.06783294678,3.2799999713898,1.1101949407459,ml,20,60,0.09889,0.150000006,ci,ci41351088,2025-12-13T19:53:05.754Z,"16 km SSW of Olancha, CA",earthquake,0.32,1.12,0.38606056571007,4,automatic,ci,ci
