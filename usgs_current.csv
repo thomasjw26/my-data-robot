@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-19T17:53:25.230Z,38.836498260498,-122.78966522217,1.7799999713898,0.74,md,9,114,0.01202,0.03,nc,nc75282811,2025-12-19T17:55:00.873Z,"6 km WNW of Cobb, CA",earthquake,0.47,1.26999998,0.25,9,automatic,nc,nc
 2025-12-19T17:44:35.669Z,63.146,-150.222,85.9,1.5,ml,17,81,0.7,0.5,ak,ak2025yxmxev,2025-12-19T17:46:29.563Z,"69 km WSW of Cantwell, Alaska",earthquake,0,4.7628,0.1,4,automatic,ak,ak
 2025-12-19T17:44:16.450Z,33.475166666667,-116.4865,13.67,1.96,ml,90,30,0.09864,0.2,ci,ci41142959,2025-12-19T17:47:52.597Z,"19 km ESE of Anza, CA",earthquake,0.13,0.32,0.15086920408804,26,automatic,ci,ci
 2025-12-19T17:42:19.528Z,31.675,-104.473,8.0363,1.8,ml,11,89,0,0.3,tx,tx2025yxmvge,2025-12-19T17:45:08.004Z,"56 km S of Whites City, New Mexico",earthquake,0,2.7045791149139,0.2,9,automatic,tx,tx
@@ -237,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-18T18:07:07.267Z,14.8916,119.8586,46.332,4.8,mb,42,89,8.396,0.85,us,us6000rvtb,2025-12-18T21:38:47.040Z,"24 km WSW of San Nicolas, Philippines",earthquake,10.26,7.78,0.071,61,reviewed,us,us
 2025-12-18T18:07:06.220Z,38.837833404541,-122.80000305176,2.1400001049042,0.62,md,8,95,0.007565,0.01,nc,nc75282236,2025-12-18T18:08:44.469Z,"7 km WNW of Cobb, CA",earthquake,0.54,1.57000005,0.16,8,automatic,nc,nc
 2025-12-18T18:02:44.576Z,64.893,-149.083,2.9,3.3,ml,117,25,0.3,1.3,ak,ak2025yvrtyu,2025-12-19T08:27:09.956Z,"31 km SSE of Minto, Alaska",earthquake,0,1.9882,0.2,68,reviewed,ak,ak
-2025-12-18T17:59:05.100Z,38.835334777832,-122.80982971191,2.0299999713898,0.79,md,9,130,0.01552,0.02,nc,nc75282231,2025-12-18T18:00:44.374Z,"8 km W of Cobb, CA",earthquake,0.89,0.75,0.14,11,automatic,nc,nc
-2025-12-18T17:53:59.370Z,58.309833333333,-154.99566666667,2,-0.18,ml,5,196,0.03848,0.07,av,av93954656,2025-12-19T03:43:27.990Z,"88 km NNW of Karluk, Alaska",earthquake,1,0.76,0.24917385778833,5,reviewed,av,av
