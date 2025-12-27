@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-27T21:45:07.710Z,35.351833333333,-118.4975,4.11,1.45,ml,41,68,0.08708,0.15,ci,ci41147903,2025-12-27T21:48:57.149Z,"25 km N of Tehachapi, CA",earthquake,0.16,0.52,0.19260893931826,28,automatic,ci,ci
 2025-12-27T21:31:02.590Z,33.355166666667,-116.38183333333,11.88,1.1,ml,40,46,0.03091,0.19,ci,ci41147895,2025-12-27T21:34:46.868Z,"11 km N of Borrego Springs, CA",earthquake,0.21,0.43,0.18698063239499,28,automatic,ci,ci
 2025-12-27T21:22:28.960Z,38.832500457764,-122.87716674805,2.5099999904633,0.34,md,6,174,0.02602,0.02,nc,nc75287221,2025-12-27T21:42:19.585Z,"12 km WNW of The Geysers, CA",earthquake,0.59,1.62,0.16,8,automatic,nc,nc
 2025-12-27T21:06:26.850Z,34.375,-118.62866666667,10.99,1.67,ml,67,36,0.05622,0.25,ci,ci41147879,2025-12-27T21:16:58.030Z,"10 km SSW of Valencia, CA",earthquake,0.21,0.43,0.11355414998431,27,automatic,ci,ci
