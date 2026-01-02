@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-01-02T10:49:32.014Z,65.217,-148.871,12.5,1.6,ml,14,98,0.3,0.5,ak,ak2026acrgpm,2026-01-02T10:50:52.237Z,"23 km ENE of Minto, Alaska",earthquake,0,2.4911,0.2,4,automatic,ak,ak
 2026-01-02T10:35:46.690Z,33.656833333333,-116.7165,15.55,0.23,ml,23,77,0.05725,0.13,ci,ci41150951,2026-01-02T10:39:30.689Z,"9 km S of Idyllwild, CA",earthquake,0.32,0.43,0.10962163624133,8,automatic,ci,ci
 2026-01-02T10:32:12.400Z,32.948666666667,-115.52183333333,5.86,1.08,ml,24,91,0.05731,0.22,ci,ci41150943,2026-01-02T10:35:46.170Z,"3 km SSE of Brawley, CA",earthquake,0.32,0.6,0.29510605805281,19,automatic,ci,ci
 2026-01-02T10:32:08.830Z,33.680666666667,-116.78283333333,18.22,0.45,ml,24,77,0.06789,0.15,ci,ci41150935,2026-01-02T10:36:01.173Z,"9 km SW of Idyllwild, CA",earthquake,0.26,0.56,0.20410503179398,13,automatic,ci,ci
@@ -17,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-02T08:26:20.661Z,31.505,-104.282,0,1.5,ml,8,268,0.2,1,tx,tx2026acmmws,2026-01-02T09:00:24.144Z,"51 km WNW of Toyah, Texas",earthquake,0,,0.4,6,automatic,tx,tx
 2026-01-02T08:24:58.704Z,60.5719,-139.9005,5,3.1,ml,19,131,0.509,0.74,us,us7000rm2m,2026-01-02T09:22:04.040Z,"114 km N of Yakutat, Alaska",earthquake,2.43,2,0.045,66,reviewed,us,us
 2026-01-02T08:05:47.447Z,62.264,-148.491,26.4,1.8,ml,43,34,0.5,0.8,ak,ak2026aclvmr,2026-01-02T08:07:14.298Z,"52 km N of Chickaloon, Alaska",earthquake,0,1.8885,0.5,4,automatic,ak,ak
-2026-01-02T08:00:13.500Z,19.201333999634,-155.37300109863,30.659999847412,3.32,ml,62,163,0.04278,0.140000001,hv,hv74867517,2026-01-02T10:11:06.422Z,"11 km E of Pāhala, Hawaii",earthquake,0.39,0.389999986,0.37,44,automatic,hv,hv
+2026-01-02T08:00:13.500Z,19.201333999634,-155.37300109863,30.659999847412,3.32,ml,62,163,0.04278,0.140000001,hv,hv74867517,2026-01-02T10:51:03.701Z,"11 km E of Pāhala, Hawaii",earthquake,0.39,0.389999986,0.37,44,automatic,hv,hv
 2026-01-02T07:52:04.945Z,31.788,-102.009,4.2973,1.5,ml,34,49,0.1,0.3,tx,tx2026acljrl,2026-01-02T08:01:11.685Z,"24 km SSE of Midland, Texas",earthquake,0,1.0565100908279,0.1,20,automatic,tx,tx
 2026-01-02T07:52:04.790Z,-53.6401,-120.948,10,5,mb,35,127,32.115,0.81,us,us7000rm2l,2026-01-02T08:36:25.040Z,"southern East Pacific Rise",earthquake,18.2,1.902,0.094,36,reviewed,us,us
 2026-01-02T07:50:17.762Z,60.6154,-139.8919,5,3.1,ml,20,125,0.551,0.65,us,us7000rm28,2026-01-02T09:15:28.040Z,"119 km N of Yakutat, Alaska",earthquake,2.65,2.001,0.041,78,reviewed,us,us
