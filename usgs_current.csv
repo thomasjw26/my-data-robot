@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2026-01-06T07:12:50.770Z,38.820999145508,-122.80316925049,2.960000038147,0.71,md,14,61,0.0059,0.02,nc,nc75291431,2026-01-06T07:14:27.115Z,"6 km NW of The Geysers, CA",earthquake,0.35,0.889999986,0.09,15,automatic,nc,nc
-2026-01-06T07:10:59.470Z,38.822166442871,-122.80383300781,3.1199998855591,1.77,md,34,48,0.005027,0.02,nc,nc75291426,2026-01-06T07:14:42.430Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.330000013,0.11,33,automatic,nc,nc
+2026-01-06T07:10:59.470Z,38.822166442871,-122.80383300781,3.1199998855591,1.77,md,34,48,0.005027,0.02,nc,nc75291426,2026-01-06T07:27:19.295Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.330000013,0.11,33,automatic,nc,nc
 2026-01-06T07:07:03.630Z,31.638,-104.45,5.6656,1.7,ml,23,102,0,0.5,tx,tx2026ajsrka,2026-01-06T07:11:27.917Z,"60 km S of Whites City, New Mexico",earthquake,0,3.2054574489594,0.1,17,automatic,tx,tx
 2026-01-06T07:01:19.507Z,11.8498,143.8056,10,5.2,mb,60,71,3.879,0.52,us,us7000rms9,2026-01-06T07:21:29.514Z,"182 km SSW of Merizo Village, Guam",earthquake,6.82,1.874,0.043,178,reviewed,us,us
 2026-01-06T06:59:34.700Z,36.214333333333,-118.016,1.89,0.82,ml,18,55,0.1623,0.16,ci,ci41152759,2026-01-06T07:03:11.147Z,"8 km S of Olancha, CA",earthquake,0.27,0.96,0.15358749971528,8,automatic,ci,ci
@@ -179,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-05T07:44:28.270Z,62.461,-151.019,80.4,1.9,ml,28,61,0.1,0.6,ak,ak2026ahyhtx,2026-01-05T07:46:03.189Z,"13 km WSW of Petersville, Alaska",earthquake,0,3.2817,0.4,4,automatic,ak,ak
 2026-01-05T07:36:10.307Z,32.099,-101.487,8.0322,1.2,ml,24,84,0.1,0.1,tx,tx2026ahyaps,2026-01-05T13:41:28.671Z,"11 km W of Forsan, Texas",earthquake,0.52587483142322,0.81826820291715,0.2,14,reviewed,tx,tx
 2026-01-05T07:35:13.933Z,59.185,-153.586,16.8,2.4,ml,35,73,0.2,0.9,ak,ak2026ahxzuy,2026-01-05T23:03:30.720Z,"66 km SE of Pope-Vannoy Landing, Alaska",earthquake,0,1.7879,0.4,6,automatic,ak,ak
-2026-01-05T07:27:34.920Z,38.828834533691,-122.8561630249,2.170000076294,1.56,md,26,81,0.001402,0.02,nc,nc75291091,2026-01-05T08:12:17.808Z,"10 km WNW of The Geysers, CA",earthquake,0.22,0.360000014,0.19,26,automatic,nc,nc
