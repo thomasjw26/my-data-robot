@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-16T10:21:58.023Z,62.695,-151.656,0.3,1.6,ml,14,78,0.3,0.9,ak,ak2026bcinfb,2026-01-16T10:25:21.634Z,"50 km WNW of Petersville, Alaska",earthquake,3.4,2.7406,0.7,2,automatic,ak,ak
 2026-01-16T10:06:00.960Z,40.303333282471,-124.44916534424,10.619999885559,2.5,md,16,295,0.08286,0.1,nc,nc75296501,2026-01-16T10:27:19.071Z,"14 km W of Petrolia, CA",earthquake,2.29,0.540000021,0.14,18,automatic,nc,nc
 2026-01-16T10:03:15.207Z,60.6019,-139.7966,5,3.1,ml,24,74,0.556,1.19,us,us7000rq25,2026-01-16T10:20:48.040Z,"117 km N of Yakutat, Alaska",earthquake,2.3,1.987,0.043,72,reviewed,us,us
-2026-01-16T09:43:30.000Z,19.219333333333,-155.47683333333,29.09,1.56,ml,40,91,0.03568,0.11,hv,hv74877552,2026-01-16T22:53:43.300Z,"1 km N of Pāhala, Hawaii",earthquake,0.44,0.59,0.12496119689517,13,reviewed,hv,hv
