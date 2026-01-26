@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-01-26T07:29:18.150Z,33.456666666667,-117.07283333333,9.76,0.87,ml,46,34,0.03551,0.2,ci,ci41172495,2026-01-26T07:32:58.686Z,"8 km ESE of Temecula, CA",earthquake,0.17,0.49,0.15607027653292,27,automatic,ci,ci
+2026-01-26T07:28:35.020Z,35.847333333333,-118.35316666667,11.44,0.64,ml,19,60,0.09773,0.11,ci,ci41172487,2026-01-26T07:32:18.812Z,"12 km NNE of Kernville, CA",earthquake,0.21,0.82,0.20122069867348,6,automatic,ci,ci
 2026-01-26T07:18:57.270Z,38.767166137695,-122.71733093262,12.979999542236,0.8,md,7,187,0.06098,0.02,nc,nc75301836,2026-01-26T07:20:32.896Z,"2 km WSW of Anderson Springs, CA",earthquake,1.43,3.47000003,0.12,8,automatic,nc,nc
 2026-01-26T07:12:06.382Z,59.957,-151.807,49,1.8,ml,33,60,0.3,0.9,ak,ak2026bulmir,2026-01-26T07:13:45.913Z,"4 km WNW of Happy Valley, Alaska",earthquake,4.1,4.5483,0.3,4,automatic,ak,ak
 2026-01-26T07:09:11.770Z,38.821166992188,-122.76782989502,11.300000190735,0.74,md,11,200,0.009432,0.06,nc,nc75301831,2026-01-26T07:10:48.231Z,"4 km W of Cobb, CA",earthquake,1.1,1.24000001,0.07,10,automatic,nc,nc
@@ -239,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-25T07:40:48.560Z,38.821166992188,-122.78800201416,1.3999999761581,0.71,md,11,87,0.009748,0.03,nc,nc75301361,2026-01-25T07:42:26.632Z,"6 km NNW of The Geysers, CA",earthquake,0.39,0.810000002,0.08,12,automatic,nc,nc
 2026-01-25T07:40:36.298Z,62.291,-150.593,63.6,1.4,ml,12,93,0.2,0.4,ak,ak2026bsqsau,2026-01-25T07:56:16.185Z,"18 km W of Trapper Creek, Alaska",earthquake,8.5,4.894,0,1,automatic,ak,ak
 2026-01-25T07:40:34.930Z,38.820331573486,-122.7876663208,1.460000038147,1.04,md,10,128,0.01371,0.02,nc,nc75301356,2026-01-25T07:42:11.856Z,"5 km NNW of The Geysers, CA",earthquake,0.43,0.819999993,0.21,10,automatic,nc,nc
-2026-01-25T07:35:27.480Z,33.884,-116.16916666667,5.21,1.27,ml,51,40,0.04149,0.16,ci,ci41171599,2026-01-25T15:24:53.210Z,"19 km NNE of Indio, CA",earthquake,0.16,0.34,0.14944584336098,25,reviewed,ci,ci
-2026-01-25T07:35:04.247Z,61.681,-150.03,10.1,1.5,ml,9,109,0.5,0.4,ak,ak2026bsqngy,2026-01-25T07:36:42.383Z,"7 km S of Willow, Alaska",earthquake,4.7,5.2055,0,1,automatic,ak,ak
