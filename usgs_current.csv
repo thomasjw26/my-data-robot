@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-01-30T07:39:33.390Z,38.792667388916,-122.74949645996,2.5899999141693,1.12,md,8,89,0.02533,0.02,nc,nc75304101,2026-01-30T07:41:10.650Z,"2 km NNE of The Geysers, CA",earthquake,0.67,2.69000006,0.39,8,automatic,nc,nc
+2026-01-30T07:38:11.130Z,35.350833333333,-117.785,5.02,1.03,ml,30,78,0.09695,0.14,ci,ci41176159,2026-01-30T07:41:50.667Z,"14 km W of Johannesburg, CA",earthquake,0.17,0.87,0.22332417996924,16,automatic,ci,ci
 2026-01-30T07:31:34.620Z,37.965999603271,-118.67099761963,2.2000000476837,1.77,md,9,158,0.2579,0.03,nc,nc75304096,2026-01-30T07:34:15.098Z,"39 km E of Lee Vining, CA",earthquake,0.41,4.69000006,0.39,4,automatic,nc,nc
 2026-01-30T07:25:37.516Z,32.109,-101.918,3.8109,2.7,ml,88,34,0.1,0.5,tx,tx2026cbuurq,2026-01-30T07:37:14.278Z,"12 km W of Stanton, Texas",earthquake,0,0.55854034423828,0.2,59,automatic,tx,tx
 2026-01-30T07:23:02.932Z,37.1135,-117.1185,4.1767,1.62,ml,19,112,0.218,0.1645,nn,nn00910157,2026-01-30T07:25:46.210Z,"39 km NW of Beatty, Nevada",earthquake,,1.9041,0.37,9,automatic,nn,nn
