@@ -290,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-02T08:10:58.590Z,38.837665557861,-122.77983093262,1.9199999570847,0.3,md,8,103,0.005611,0.01,nc,nc75305441,2026-02-02T08:12:35.445Z,"5 km WNW of Cobb, CA",earthquake,1.14,1.14999998,0.1,5,automatic,nc,nc
 2026-02-02T08:02:44.900Z,33.8835,-116.18616666667,6.53,0.77,ml,37,46,0.04317,0.15,ci,ci41178055,2026-02-02T14:38:49.112Z,"18 km N of Indio, CA",earthquake,0.19,0.37,0.19966685443336,18,reviewed,ci,ci
 2026-02-02T07:49:24.696Z,63.29,-151.068,0.5,3.5,ml,47,31,0.5,0.8,ak,ak2026chiurk,2026-02-03T07:20:13.040Z,"43 km SE of Denali National Park, Alaska",earthquake,2.3,1.9688,0.4,4,automatic,ak,ak
-2026-02-02T07:42:58.549Z,31.889,-101.729,8.4229,1.1,ml,34,53,0,0.2,tx,tx2026chimsd,2026-02-02T19:36:13.961Z,"23 km W of Garden City, Texas",earthquake,0.46348859945305,0.6443800676909,0.1,15,reviewed,tx,tx
