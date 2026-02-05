@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-02-05T07:54:06.312Z,65.048,-148.697,5.6,1.2,ml,9,104,0.2,0.3,ak,ak2026cmwdjc,2026-02-05T07:55:14.331Z,"32 km ESE of Minto, Alaska",earthquake,5.1,6.9659,0.1,4,automatic,ak,ak
+2026-02-05T07:51:06.750Z,33.269666666667,-116.41483333333,4.82,0.47,ml,28,76,0.002437,0.16,ci,ci41392136,2026-02-05T07:54:41.939Z,"4 km WNW of Borrego Springs, CA",earthquake,0.17,0.3,0.21753391748547,10,automatic,ci,ci
 2026-02-05T07:35:21.770Z,38.81916809082,-122.75949859619,2.1300001144409,0.69,md,9,123,0.01391,0.08,nc,nc75308817,2026-02-05T07:36:55.820Z,"3 km W of Cobb, CA",earthquake,1.06,1,0.1,10,automatic,nc,nc
 2026-02-05T07:13:12.030Z,38.747001647949,-122.72383117676,1.1699999570847,1.16,md,7,125,0.01459,0.01,nc,nc75308807,2026-02-05T07:14:45.760Z,"4 km SW of Anderson Springs, CA",earthquake,0.65,0.50999999,0.17,8,automatic,nc,nc
 2026-02-05T07:11:29.892Z,31.033,-103.402,5.4557,1.5,ml,18,105,0.1,1.2,tx,tx2026cmusim,2026-02-05T07:14:27.902Z,"33 km E of Balmorhea, Texas",earthquake,0,2.3127717971802,0.1,14,automatic,tx,tx
@@ -222,7 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-04T08:02:13.740Z,37.737167358398,-121.93916320801,5.789999961853,1.41,md,12,89,0.09966,0.12,nc,nc75308167,2026-02-04T08:11:25.639Z,"4 km N of Dublin, CA",earthquake,0.39,1.66999996,0.17,9,automatic,nc,nc
 2026-02-04T08:01:53.534Z,-22.1124,-68.976,106.636,4.8,mb,47,48,0.4,1.55,us,us6000s6ca,2026-02-04T08:21:45.040Z,"38 km N of Calama, Chile",earthquake,4.95,5.449,0.055,100,reviewed,us,us
 2026-02-04T07:59:19.380Z,37.739665985107,-121.94100189209,6.8400001525879,1.98,md,29,45,0.09821,0.11,nc,nc75308162,2026-02-04T08:21:13.092Z,"4 km N of Dublin, CA",earthquake,0.23,0.569999993,0.08,22,automatic,nc,nc
-2026-02-04T07:53:34.698Z,59.887,-141.574,5,1.9,ml,7,255,0.3,1.4,ak,ak2026clakal,2026-02-04T07:56:36.095Z,"110 km WNW of Yakutat, Alaska",earthquake,28.8,,0.3,4,automatic,ak,ak
-2026-02-04T07:53:34.520Z,38.843334197998,-122.87983703613,2.6099998950958,0.8,md,15,142,0.005833,0.02,nc,nc75308157,2026-02-04T07:55:11.984Z,"13 km ENE of Cloverdale, CA",earthquake,0.36,0.579999983,0.17,16,automatic,nc,nc
-2026-02-04T07:52:29.490Z,58.294833333333,-154.97083333333,2.16,-0.19,ml,5,151,0.04917,0.07,av,av94022981,2026-02-05T00:35:28.320Z,"86 km NNW of Karluk, Alaska",earthquake,0.33,0.65,0.20084091734605,5,reviewed,av,av
-2026-02-04T07:51:12.760Z,31.65,-104.391,6.0999,1.8,ml,27,71,0,0.2,tx,tx2026clahzm,2026-02-04T13:36:45.398Z,"58 km S of Whites City, New Mexico",earthquake,0.7589706580284,0.53717950117203,0,7,reviewed,tx,tx
