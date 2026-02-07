@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-02-07T19:48:13.720Z,58.283,-154.991,5,0.9,ml,14,129,0,0.3,ak,ak2026crlgmr,2026-02-07T19:51:34.338Z,"85 km NNW of Karluk, Alaska",earthquake,5.1,,0.4,4,automatic,ak,ak
+2026-02-07T19:46:09.690Z,19.163000106811,-155.50450134277,30.440000534058,1.92,md,43,121,0.04077,0.129999995,hv,hv74896167,2026-02-07T19:49:47.030Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.58,0.829999983,0.19921197557429,14,automatic,hv,hv
+2026-02-07T19:42:12.780Z,19.624834060669,-155.93766784668,18.079999923706,2.14,md,39,294,0.05322,0.129999995,hv,hv74896162,2026-02-07T19:46:16.530Z,"1 km ENE of Hōlualoa, Hawaii",earthquake,0.86,1.70000005,0.19577305344986,14,automatic,hv,hv
 2026-02-07T19:08:19.754Z,61.842,-149.594,32.9,2.5,ml,28,55,0.3,0.6,ak,ak2026crjycq,2026-02-07T19:09:52.126Z,"21 km WNW of Fishhook, Alaska",earthquake,3.5,4.7595,0.4,5,automatic,ak,ak
 2026-02-07T18:59:20.650Z,38.82500076294,-122.80916595459,2.7200000286102,0.8,md,21,48,0.01988,0.02,nc,nc75310227,2026-02-07T19:00:56.553Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.460000008,0.18,18,automatic,nc,nc
 2026-02-07T18:41:16.180Z,38.797832489014,-122.81500244141,3.0099999904633,1.08,md,15,86,0.01331,0.02,nc,nc75310222,2026-02-07T18:42:52.384Z,"6 km WNW of The Geysers, CA",earthquake,0.35,0.720000029,0.19,16,automatic,nc,nc
