@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-02-27T07:53:33.966Z,34.42798615,-97.46002197,8.024570465,1.88,ml,8,91.26326752,0.06521663815,0.5211157624,ok,ok2026eath,2026-02-27T07:55:27.196Z,"5 km ESE of Ratliff City, Oklahoma",earthquake,4.096691655,6.038800566,0.09,5,automatic,ok,ok
+2026-02-27T07:49:55.370Z,38.820331573486,-122.8048324585,3.9400000572205,0.75,md,9,123,0.01442,0.03,nc,nc75319657,2026-02-27T07:51:32.317Z,"6 km NW of The Geysers, CA",earthquake,0.51,2.1400001,0.04,9,automatic,nc,nc
 2026-02-27T07:42:00.333Z,62.391,-152.333,131.6,2.3,ml,49,100,0.5,0.6,ak,aka2026ebfshb,2026-02-27T07:45:41.762Z,"66 km NW of Skwentna, Alaska",earthquake,4,2.7628,0.2,19,automatic,ak,ak
 2026-02-27T07:31:36.950Z,38.823165893555,-122.8004989624,2.460000038147,1.03,md,22,43,0.01571,0.02,nc,nc75319647,2026-02-27T07:33:12.390Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.479999989,0.08,21,automatic,nc,nc
 2026-02-27T07:29:33.240Z,36.416,-117.885,6.6,1.54,ml,26,55,0.1495,0.14,ci,ci41405016,2026-02-27T07:33:10.628Z,"18 km NE of Olancha, CA",earthquake,0.2,1.02,0.17381440014208,23,automatic,ci,ci
@@ -31,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-27T05:26:26.150Z,38.823333740234,-122.79949951172,2.5999999046326,0.53,md,7,156,0.01569,0.01,nc,nc75319562,2026-02-27T05:42:17.885Z,"6 km NW of The Geysers, CA",earthquake,0.57,1.60000002,0.26,7,automatic,nc,nc
 2026-02-27T05:25:32.630Z,38.826831817627,-122.79533386231,3.2999999523163,3.36,ml,86,33,,0.11,nc,nc75319557,2026-02-27T07:22:18.523Z,"6 km W of Cobb, CA",earthquake,0.14,0.200000003,0.266,24,automatic,nc,nc
 2026-02-27T05:25:29.430Z,33.369833333333,-116.68583333333,12.62,0.09,ml,19,66,0.1056,0.11,ci,ci41404968,2026-02-27T05:29:01.330Z,"11 km NNW of Warner Springs, CA",earthquake,0.21,0.54,0.072996658456341,3,automatic,ci,ci
+2026-02-27T05:19:12.849Z,16.8637,-98.2811,35,4.3,mb,32,178,0.747,0.58,us,us7000s0nm,2026-02-27T07:58:40.040Z,"6 km NNE of Tlacoachistlahuaca, Mexico",earthquake,7.11,1.975,0.042,158,reviewed,us,us
 2026-02-27T05:17:54.836Z,51.7376,-174.9027,54.52,4.9,mb,64,177,0.637,0.95,us,us7000s0nl,2026-02-27T05:30:55.040Z,"70 km SW of Atka, Alaska",earthquake,7.94,7.243,0.036,241,reviewed,us,us
 2026-02-27T04:59:06.956Z,63.163,-147.697,6.1,1.7,ml,24,48,0.2,0.7,ak,aka2026ebahxw,2026-02-27T05:00:44.500Z,"67 km ESE of Cantwell, Alaska",earthquake,2.6,2.0794,0.1,4,automatic,ak,ak
 2026-02-27T04:55:14.410Z,32.268166666667,-116.38116666667,17.28,1.74,ml,22,71,0.2434,0.17,ci,ci41404960,2026-02-27T04:58:40.474Z,"39 km SSE of Campo, CA",earthquake,0.31,1.15,0.24972442815428,24,automatic,ci,ci
@@ -215,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-26T08:15:41.350Z,35.716666666667,-117.57516666667,4.3,0.87,ml,22,46,0.1005,0.15,ci,ci41404136,2026-02-26T13:56:48.906Z,"14 km NE of Ridgecrest, CA",earthquake,0.23,0.61,0.21048731919115,10,reviewed,ci,ci
 2026-02-26T08:11:48.800Z,32.013,-102.194,6.1279,0.5,ml,11,108,0,0.2,tx,tx2026dzkzbd,2026-02-26T17:12:08.192Z,"11 km W of Midland, Texas",earthquake,1.9113135527871,1.2429512584983,0.1,7,reviewed,tx,tx
 2026-02-26T08:06:59.616Z,61.718,-149.805,21.5,1.9,ml,28,49,0.4,0.7,ak,aka2026dzkuyi,2026-02-26T08:08:59.656Z,"9 km N of Houston, Alaska",earthquake,2.7,2.8355,0.1,7,automatic,ak,ak
-2026-02-26T07:49:05.950Z,35.62083333,-98.03916667,5.56,1.35,ml,87,49,0.1565692758,0.26,ok,ok2026dyxq,2026-02-26T14:30:35.429Z,"7 km ENE of Calumet, Oklahoma",earthquake,,0.5,0.25,33,reviewed,ok,ok
