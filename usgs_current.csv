@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-03-01T19:47:15.355Z,38.4572,-116.5241,15.9964,1.57,ml,9,195,1.04,0.3072,nn,nn00911539,2026-03-01T19:49:44.696Z,"75 km NE of Tonopah, Nevada",earthquake,,1.3954,0.55,4,automatic,nn,nn
 2026-03-01T19:39:31.128Z,37.7049,-116.4028,8.7804,2.09,ml,20,296,0.497,0.3158,nn,nn00911537,2026-03-01T19:41:53.071Z,"58 km W of Rachel, Nevada",earthquake,,0.9469,0.19,11,automatic,nn,nn
+2026-03-01T19:38:41.112Z,52.0532,159.7399,39.541,5,mb,64,164,1.178,0.81,us,us7000s1ad,2026-03-01T19:52:32.040Z,"133 km SE of Vilyuchinsk, Russia",earthquake,11.56,8.441,0.061,85,reviewed,us,us
 2026-03-01T19:31:14.287Z,32.006,-101.719,2.8765,1.4,ml,29,55,0.1,0.6,tx,tx2026efurfm,2026-03-01T19:40:04.912Z,"15 km SSE of Stanton, Texas",earthquake,0,1.0480943918228,0.1,13,automatic,tx,tx
 2026-03-01T19:30:13.908Z,38.253,-116.5738,6.3056,3.25,ml,21,223,1.06,0.227,nn,nn00911534,2026-03-01T19:42:42.568Z,"61 km ENE of Tonopah, Nevada",earthquake,,1.113,0.15,10,automatic,nn,nn
 2026-03-01T19:29:27.789Z,38.4397,-116.4917,5.6291,3.11,ml,11,174,1.07,0.3438,nn,nn00911532,2026-03-01T19:44:16.040Z,"76 km ENE of Tonopah, Nevada",earthquake,,1.6436,0.37,7,automatic,nn,nn
