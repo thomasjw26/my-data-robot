@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-03-07T20:55:06.212Z,31.677,-104.376,4.4582,1.6,ml,24,86,0,0.3,tx,tx2026eqxutp,2026-03-07T20:58:25.928Z,"55 km S of Whites City, New Mexico",earthquake,0,1.122976064682,0.2,18,automatic,tx,tx
+2026-03-07T20:55:06.181Z,31.674,-104.377,4.4582,1.6,ml,24,86,0,0.3,tx,tx2026eqxsmr,2026-03-07T20:59:08.935Z,"55 km S of Whites City, New Mexico",earthquake,0,1.1280547380447,0.2,18,automatic,tx,tx
 2026-03-07T20:30:39.506Z,31.659,-104.375,4.3337,2.1,ml,36,70,0,0.4,tx,tx2026eqwydr,2026-03-07T20:33:39.780Z,"57 km S of Whites City, New Mexico",earthquake,0,0.94672805070877,0.2,26,automatic,tx,tx
 2026-03-07T20:24:38.085Z,31.659,-104.377,4.5172,1.7,ml,28,70,0,0.4,tx,tx2026eqwrlz,2026-03-07T20:28:18.193Z,"57 km S of Whites City, New Mexico",earthquake,0,1.1005620956421,0.1,18,automatic,tx,tx
 2026-03-07T20:24:37.136Z,59.773,-152.93,102.7,1.9,ml,42,76,0.1,0.5,ak,aka2026eqwuml,2026-03-07T20:26:30.220Z,"61 km W of Anchor Point, Alaska",earthquake,4.6,2.3668,0.5,4,automatic,ak,ak
