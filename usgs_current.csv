@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2026-03-08T19:50:06.510Z,39.31816482544,-123.16967010498,4.4499998092651,2.28,md,27,43,0.02539,0.09,nc,nc75324547,2026-03-08T19:51:40.611Z,"7 km NNE of Redwood Valley, CA",earthquake,0.2,0.579999983,0.2,26,automatic,nc,nc
+2026-03-08T19:57:40.390Z,33.966331481934,-116.85516357422,17.819999694824,1.1554469299507,ml,25,77,0.1409,0.209999993,ci,ci41200143,2026-03-08T19:59:45.820Z,"5 km NNE of Banning, CA",earthquake,0.4,1.00999999,0.25549727678299,9,automatic,ci,ci
+2026-03-08T19:56:47.933Z,62.297,-149.157,50.9,1.6,ml,32,45,0.5,0.7,ak,aka2026esrpkc,2026-03-08T19:58:20.364Z,"39 km ENE of Susitna North, Alaska",earthquake,3.4,4.9348,0.1,4,automatic,ak,ak
+2026-03-08T19:50:06.510Z,39.31816482544,-123.16967010498,4.4499998092651,2.28,md,27,43,0.02539,0.09,nc,nc75324547,2026-03-08T19:56:06.157Z,"7 km NNE of Redwood Valley, CA",earthquake,0.2,0.579999983,0.2,26,automatic,nc,nc
 2026-03-08T19:46:28.236Z,32.001,-103.833,8.0528,1.6,ml,23,59,0,0.5,tx,tx2026esrgfr,2026-03-08T19:49:48.277Z,"33 km SE of Malaga, New Mexico",earthquake,0,1.7725918292999,0.1,17,automatic,tx,tx
 2026-03-08T19:33:34.010Z,38.803665161133,-122.81266784668,2.9900000095367,1.12,md,27,63,0.01391,0.03,nc,nc75324537,2026-03-08T19:36:52.540Z,"6 km WNW of The Geysers, CA",earthquake,0.22,0.400000006,0.19,26,automatic,nc,nc
 2026-03-08T19:25:15.993Z,61.591,-149.733,18.2,1.7,ml,23,54,0.4,0.8,ak,aka2026esqoff,2026-03-08T19:27:40.214Z,"6 km SE of Houston, Alaska",earthquake,3.5,2.6972,0.2,9,automatic,ak,ak
@@ -258,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-07T20:24:36.892Z,59.761,-152.898,104,2.1,ml,41,77,0.1,0.7,ak,aka2026eqwuml,2026-03-08T02:07:48.320Z,"59 km W of Anchor Point, Alaska",earthquake,3.9,2.2646,0.3,29,reviewed,ak,ak
 2026-03-07T20:10:04.314Z,61.508,-149.951,29.5,1.8,ml,12,91,0.7,0.6,ak,aka2026eqwhyk,2026-03-08T02:05:50.308Z,"1 km S of Big Lake, Alaska",earthquake,4.7,3.7956,0.1,6,reviewed,ak,ak
 2026-03-07T20:05:56.978Z,64.331,-149.514,11.5,1.8,ml,19,72,0.3,0.5,ak,aka2026eqwekj,2026-03-08T02:04:43.312Z,"15 km W of Anderson, Alaska",earthquake,3.1,2.4987,0.1,13,reviewed,ak,ak
-2026-03-07T19:58:58.410Z,19.133833333333,-66.598,44.05,3.38,md,11,231,0.7968,0.17,pr,pr71509278,2026-03-08T02:26:58.040Z,"74 km N of Arecibo, Puerto Rico",earthquake,1.43,5.41,0.048258736964083,7,reviewed,pr,pr
