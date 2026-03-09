@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-03-09T07:49:39.498Z,62.195,-151.157,77.5,1.7,ml,16,119,0.3,0.4,ak,aka2026etpfrn,2026-03-09T07:52:31.687Z,"26 km NNE of Skwentna, Alaska",earthquake,5.2,4.7522,0.3,6,automatic,ak,ak
 2026-03-09T07:37:19.934Z,65.385,-151.29,5,1.4,ml,9,96,0.4,0.3,ak,aka2026etovbk,2026-03-09T07:39:22.624Z,"43 km ENE of Tanana, Alaska",earthquake,4.2,,0.3,6,automatic,ak,ak
 2026-03-09T07:34:00.520Z,33.707,-116.71783333333,18.02,0.47,ml,22,54,0.008638,0.13,ci,ci41200559,2026-03-09T07:37:24.897Z,"4 km S of Idyllwild, CA",earthquake,0.29,0.4,0.26166586737765,7,automatic,ci,ci
 2026-03-09T07:21:58.690Z,33.4625,-116.424,3.3,0.98,ml,58,41,0.1383,0.22,ci,ci41200551,2026-03-09T07:32:13.110Z,"23 km N of Borrego Springs, CA",earthquake,0.18,0.77,0.12708737291131,27,automatic,ci,ci
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-09T06:38:20.130Z,35.778666666667,-117.565,6.07,1.5,ml,36,56,0.04546,0.13,ci,ci41200543,2026-03-09T06:41:51.756Z,"15 km W of Searles Valley, CA",earthquake,0.13,0.4,0.18580105111067,26,automatic,ci,ci
 2026-03-09T06:31:54.970Z,38.796501159668,-122.75099945068,1.9299999475479,0.49,md,7,94,0.0282,0.01,nc,nc75324847,2026-03-09T06:33:32.492Z,"2 km NNE of The Geysers, CA",earthquake,0.49,2.28999996,0.26,7,automatic,nc,nc
 2026-03-09T06:24:22.310Z,37.513500213623,-118.77233123779,5.0599999427795,1.45,md,18,137,0.08873,0.04,nc,nc75324842,2026-03-09T07:32:22.469Z,"10 km WSW of Toms Place, CA",earthquake,0.33,1.33000004,0.18,17,automatic,nc,nc
-2026-03-09T06:21:05.912Z,38.0499,28.9554,10,5.1,mww,69,46,1.505,0.81,us,us7000s33s,2026-03-09T06:42:31.040Z,"10 km E of Buldan, Turkey",earthquake,5.39,1.871,0.062,25,reviewed,us,us
+2026-03-09T06:21:05.912Z,38.0499,28.9554,10,5.1,mww,69,46,1.505,0.81,us,us7000s33s,2026-03-09T07:56:31.251Z,"10 km E of Buldan, Turkey",earthquake,5.39,1.871,0.062,25,reviewed,us,us
 2026-03-09T06:14:35.185Z,36.6701,-116.2631,7.113,0.53,ml,18,92,0.066,0.133,nn,nn00912316,2026-03-09T06:16:30.404Z,"51 km ESE of Beatty, Nevada",earthquake,,0.6366,0.2,11,automatic,nn,nn
 2026-03-09T06:10:17.073Z,-31.4461,-69.5425,111.791,5.1,mb,62,42,0.751,0.96,us,us7000s33f,2026-03-09T07:01:09.338Z,"16 km SW of Calingasta, Argentina",earthquake,5.1,5.515,0.063,82,reviewed,us,us
 2026-03-09T06:09:56.365Z,19.1435,145.739,155.953,4.8,mb,117,84,3.881,0.82,us,us7000s33i,2026-03-09T07:04:15.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,10.23,7.438,0.04,189,reviewed,us,us
