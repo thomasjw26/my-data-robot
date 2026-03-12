@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-03-12T07:48:09.860Z,38.813835144043,-122.76149749756,1.6900000572205,1.12,md,20,110,0.01326,0.03,nc,nc75326402,2026-03-12T07:49:44.385Z,"3 km WSW of Cobb, CA",earthquake,0.25,0.389999986,0.14,19,automatic,nc,nc
+2026-03-12T07:48:02.930Z,38.815166473389,-122.76166534424,1.8899999856949,0.73,md,9,165,0.01498,0.02,nc,nc75326397,2026-03-12T07:49:39.570Z,"3 km WSW of Cobb, CA",earthquake,0.46,0.699999988,0.05,10,automatic,nc,nc
+2026-03-12T07:47:19.220Z,32.688167572021,-115.7011642456,5.539999961853,1.5972954108647,ml,27,58,0.04418,0.25999999,ci,ci41202967,2026-03-12T07:49:23.991Z,"16 km NW of Progreso, B.C., MX",earthquake,0.4,0.699999988,0.35655400156975,11,automatic,ci,ci
+2026-03-12T07:46:59.232Z,61.226,-147.701,17.5,1.2,ml,9,106,0.2,0.6,ak,aka2026ezciap,2026-03-12T07:48:20.301Z,"64 km S of Glacier View, Alaska",earthquake,10.7,7.8523,0.3,4,automatic,ak,ak
 2026-03-12T07:38:16.958Z,32.05,-102.047,7.1433,1.2,ml,24,57,0,0.4,tx,tx2026ezcaoc,2026-03-12T07:41:41.532Z,"6 km NNE of Midland, Texas",earthquake,0,1.8718765974045,0.1,16,automatic,tx,tx
 2026-03-12T07:38:15.620Z,33.053166666667,-115.57866666667,10.19,0.84,ml,25,58,0.05993,0.2,ci,ci41202959,2026-03-12T07:41:45.448Z,"4 km ENE of Westmorland, CA",earthquake,0.28,0.57,0.27338590358606,7,automatic,ci,ci
 2026-03-12T07:36:04.090Z,19.258499145508,-155.39799499512,31.469999313354,2.06,md,42,112,0.02089,0.119999997,hv,hv74916447,2026-03-12T07:40:04.150Z,"10 km NE of Pāhala, Hawaii",earthquake,0.37,0.540000021,0.10843658471536,12,automatic,hv,hv
@@ -285,4 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-11T07:58:58.052Z,32.431,-102.117,8.1299,0.7,ml,23,74,0,0.2,tx,tx2026exgzgz,2026-03-11T10:54:37.077Z,"37 km SSW of Los Ybanez, Texas",earthquake,0.68068043704307,0.96994868613531,0.2,12,reviewed,tx,tx
 2026-03-11T07:55:18.615Z,40.0936,54.2446,10,5.1,mb,77,57,3.95,0.9,us,us7000s3ku,2026-03-11T08:10:58.040Z,"65 km N of Balkanabat, Turkmenistan",earthquake,7.47,1.852,0.055,107,reviewed,us,us
 2026-03-11T07:51:39.620Z,61.18,-140.542,13.7,1.9,ml,15,83,0.4,0.5,ak,aka2026exgtee,2026-03-11T19:12:55.699Z,"130 km ESE of McCarthy, Alaska",earthquake,4.9,2.9257,0.1,8,reviewed,ak,ak
-2026-03-11T07:48:51.504Z,62.624,-148.741,6,1.4,ml,15,57,0.2,1.2,ak,aka2026exgqtm,2026-03-11T19:11:08.906Z,"72 km ENE of Chase, Alaska",earthquake,3.6,3.9183,0.3,6,reviewed,ak,ak
