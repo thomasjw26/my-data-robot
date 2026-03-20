@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2026-03-20T08:21:42.110Z,33.248332977295,-116.80366516113,11.979999542236,1.028660701061,ml,35,34,0.0396,0.129999995,ci,ci41420704,2026-03-20T08:23:43.530Z,"4 km W of Lake Henshaw, CA",earthquake,0.23,0.779999971,0.2100954502821,7,automatic,ci,ci
+2026-03-20T08:48:54.527Z,60.694,-147.12,22.3,1.7,ml,14,57,0.2,0.8,ak,aka2026fnwegf,2026-03-20T08:52:59.840Z,"30 km SW of Tatitlek, Alaska",earthquake,4.6,3.2992,0.2,8,automatic,ak,ak
+2026-03-20T08:46:57.087Z,60.522,-152.74,116.2,1.5,ml,14,62,0.1,0.4,ak,aka2026fnwcmy,2026-03-20T08:50:59.439Z,"78 km W of Salamatof, Alaska",earthquake,8.9,4.8331,0.5,11,automatic,ak,ak
+2026-03-20T08:42:56.980Z,60.252,-153.607,1.3,1.3,ml,7,161,0.4,0.4,ak,aka2026fnvzhl,2026-03-20T08:47:56.117Z,"39 km E of Port Alsworth, Alaska",earthquake,40.3,15.9374,0.6,7,automatic,ak,ak
+2026-03-20T08:37:00.370Z,33.244,-116.80666666667,12.6,0.53,ml,33,36,0.04094,0.11,ci,ci41420712,2026-03-20T08:40:29.880Z,"4 km W of Lake Henshaw, CA",earthquake,0.13,0.39,0.14385271773875,15,automatic,ci,ci
+2026-03-20T08:32:53.900Z,59.934,-153.195,141,1.9,ml,26,153,0.1,0.4,ak,aka2026fnvqrx,2026-03-20T08:38:13.476Z,"53 km ENE of Pedro Bay, Alaska",earthquake,7.3,3.8177,0.3,19,automatic,ak,ak
+2026-03-20T08:21:42.120Z,33.245166666667,-116.806,11.74,0.85,ml,54,28,0.04064,0.18,ci,ci41420704,2026-03-20T08:25:09.434Z,"4 km W of Lake Henshaw, CA",earthquake,0.15,0.45,0.18291819595664,27,automatic,ci,ci
 2026-03-20T08:15:45.780Z,33.521833333333,-116.74133333333,3.63,1.11,ml,65,21,0.04355,0.2,ci,ci41420696,2026-03-20T08:19:07.364Z,"7 km WSW of Anza, CA",earthquake,0.14,0.37,0.1843963223669,26,automatic,ci,ci
 2026-03-20T08:15:20.561Z,52.119,179.39,5,2,ml,7,245,0.2,0.8,ak,aka2026fnvbmr,2026-03-20T08:18:44.347Z,"274 km W of Adak, Alaska",earthquake,41.2,,0.5,6,automatic,ak,ak
 2026-03-20T08:06:15.390Z,33.245,-116.80833333333,11.69,1.03,ml,56,23,0.04251,0.17,ci,ci41420688,2026-03-20T08:09:47.508Z,"4 km W of Lake Henshaw, CA",earthquake,0.14,0.45,0.18333418416129,25,automatic,ci,ci
@@ -19,11 +24,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-20T07:25:32.130Z,32.938666666667,-116.41716666667,4.74,0.43,ml,20,112,0.0335,0.13,ci,ci41420664,2026-03-20T07:29:05.461Z,"17 km NE of Pine Valley, CA",earthquake,0.22,0.37,0.08136868621207,4,automatic,ci,ci
 2026-03-20T07:25:30.150Z,37.049331665039,-121.45749664307,24.209999084473,1.37,md,4,141,0.03225,0,nc,nc75330502,2026-03-20T08:22:20.954Z,"11 km ENE of Gilroy, CA",earthquake,1.68,3.06999993,0.09,2,automatic,nc,nc
 2026-03-20T07:15:25.700Z,33.242,-116.80816666667,12.78,0.4,ml,29,37,0.04184,0.12,ci,ci41420656,2026-03-20T07:18:50.247Z,"4 km W of Lake Henshaw, CA",earthquake,0.15,0.41,0.1466657258748,6,automatic,ci,ci
-2026-03-20T07:11:06.344Z,31.674,-104.406,4.7366,1.2,ml,21,69,0,0.6,tx,tx2026fnsydu,2026-03-20T08:00:53.824Z,"55 km S of Whites City, New Mexico",earthquake,0,1.1610565185547,0.1,17,automatic,tx,tx
 2026-03-20T07:05:57.036Z,31.677,-104.404,6.0486,1.7,ml,33,69,0,0.2,tx,tx2026fnstgh,2026-03-20T08:21:09.575Z,"55 km S of Whites City, New Mexico",earthquake,0.76311275640086,0.61794642172369,0.1,18,reviewed,tx,tx
 2026-03-20T06:57:03.346Z,44.2885,-115.107,10,2.7,ml,30,65,0.261,0.74,us,us6000shqu,2026-03-20T07:14:52.040Z,"15 km WNW of Stanley, Idaho",earthquake,1.92,2.012,0.048,56,reviewed,us,us
 2026-03-20T06:57:00.520Z,38.826831817627,-122.80599975586,2.8199999332428,0.28,md,7,111,0.00468,0.01,nc,nc75330487,2026-03-20T06:58:35.050Z,"7 km NW of The Geysers, CA",earthquake,0.62,1.40999997,0.15,9,automatic,nc,nc
-2026-03-20T06:51:44.401Z,31.677,-104.405,7.6515,1.8,ml,23,69,0,0.6,tx,tx2026fnshmb,2026-03-20T06:55:06.149Z,"55 km S of Whites City, New Mexico",earthquake,0,2.6060190200806,0.2,11,automatic,tx,tx
+2026-03-20T06:51:44.787Z,31.675,-104.403,6.0999,1.6,ml,24,69,0,0.2,tx,tx2026fnshmb,2026-03-20T08:36:48.514Z,"55 km S of Whites City, New Mexico",earthquake,0.95799554519971,0.73437442289282,0.2,12,reviewed,tx,tx
 2026-03-20T06:51:24.560Z,31.71,-104.459,12.4974,2,ml,7,194,0,0.4,tx,tx2026fnshex,2026-03-20T07:01:14.478Z,"52 km S of Whites City, New Mexico",earthquake,0,5.0151476860046,0.2,7,automatic,tx,tx
 2026-03-20T06:46:07.299Z,50.7427,-173.0893,10,3.8,mb,27,231,1.617,0.69,us,us6000shqs,2026-03-20T07:30:17.942Z,"179 km SSE of Atka, Alaska",earthquake,7.01,2.003,0.117,19,reviewed,us,us
 2026-03-20T06:42:13.314Z,51.543,-176.88,18.7,1.7,ml,11,243,0.3,0.1,ak,aka2026fnrzgq,2026-03-20T06:45:08.378Z,"40 km SSW of Adak, Alaska",earthquake,14.5,5.9199,0.2,9,automatic,ak,ak
@@ -42,6 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-20T05:44:41.340Z,38.792331695557,-122.77016448975,1.9500000476837,0.93,md,13,79,0.01163,0.02,nc,nc75330457,2026-03-20T06:07:23.001Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.579999983,0.17,13,automatic,nc,nc
 2026-03-20T05:43:50.991Z,63.055,-150.605,109.1,2.2,ml,55,47,0.5,0.7,ak,aka2026fnqayh,2026-03-20T05:48:29.635Z,"62 km N of Petersville, Alaska",earthquake,3.1,2.7274,0.2,38,automatic,ak,ak
 2026-03-20T05:41:47.270Z,38.815166473389,-122.75916290283,1.4199999570847,1.32,md,19,116,0.01453,0.05,nc,nc75330452,2026-03-20T06:27:22.152Z,"3 km WSW of Cobb, CA",earthquake,0.28,0.379999995,0.18,19,automatic,nc,nc
+2026-03-20T05:40:22.865Z,31.74,-103.901,6.8304,1,ml,27,48,0,0.2,tx,tx2026fnpyac,2026-03-20T08:48:06.505Z,"28 km W of Mentone, Texas",earthquake,0.47521624038201,0.49122979888485,0.2,18,reviewed,tx,tx
 2026-03-20T05:35:12.564Z,58.433,-153.34,62.8,2.1,ml,16,142,0.5,0.4,ak,aka2026fnptgp,2026-03-20T05:39:18.375Z,"48 km NNW of Aleneva, Alaska",earthquake,8.5,8.2725,0.1,12,automatic,ak,ak
 2026-03-20T05:30:09.796Z,-15.7539,-75.6388,10,4.6,mb,39,169,3.922,0.64,us,us6000shq2,2026-03-20T06:31:35.040Z,"66 km SW of San Juan, Peru",earthquake,10.69,1.95,0.098,31,reviewed,us,us
 2026-03-20T05:24:47.647Z,27.3499,52.6776,10,4.2,mb,39,82,3.972,0.65,us,us6000shq4,2026-03-20T06:22:42.040Z,"30 km SW of Mohr, Iran",earthquake,11.02,1.879,0.093,32,reviewed,us,us
@@ -287,10 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-19T09:21:32.810Z,36.963665008545,-121.43933105469,7.1399998664856,1.64,md,25,148,0.07143,0.1,nc,nc75329982,2026-03-19T10:47:23.190Z,"12 km ESE of Gilroy, CA",earthquake,0.37,0.870000005,0.18,18,automatic,nc,nc
 2026-03-19T09:20:16.700Z,33.95,-118.67733333333,12.58,1.27,ml,32,138,0.1206,0.16,ci,ci41207719,2026-03-19T16:10:54.252Z,"9 km S of Malibu Beach, CA",earthquake,0.24,0.58,0.15821884193287,16,reviewed,ci,ci
 2026-03-19T09:16:56.981Z,61.725,-150.744,56.4,1.9,ml,38,35,0.5,0.6,ak,aka2026fmbjrx,2026-03-19T09:18:37.210Z,"23 km NNW of Susitna, Alaska",earthquake,3.1,4.3534,0,4,automatic,ak,ak
-2026-03-19T09:00:38.430Z,19.328666687012,-155.1806640625,1.2000000476837,1.97,ml,26,164,0.05564,0.180000007,hv,hv74918832,2026-03-19T09:04:15.770Z,"13 km SSE of Volcano, Hawaii",earthquake,0.43,0.460000008,0.26,8,automatic,hv,hv
-2026-03-19T08:59:12.970Z,37.599498748779,-122.4571685791,7.9899997711182,1,md,9,109,0.03414,0.02,nc,nc75329977,2026-03-19T09:27:22.589Z,"3 km ESE of Pacifica, CA",earthquake,0.76,0.790000021,0.08,6,automatic,nc,nc
-2026-03-19T08:55:30.590Z,32.5097,48.2144,10,4.4,mb,37,154,7.156,0.7,us,us6000shcv,2026-03-19T09:32:59.040Z,"29 km NW of Shahrak-e Kūlūrī, Iran",earthquake,9.79,1.944,0.102,28,reviewed,us,us
-2026-03-19T08:47:59.800Z,38.787998199463,-122.75016784668,1.0599999427795,1.04,md,11,82,0.01465,0.02,nc,nc75329972,2026-03-19T09:12:21.498Z,"1 km NNE of The Geysers, CA",earthquake,0.27,0.790000021,0.22,11,automatic,nc,nc
-2026-03-19T08:42:22.520Z,36.813499450684,-121.57933044434,8.9700002670288,1.17,md,13,102,0.01402,0.13,nc,nc75329967,2026-03-19T10:22:18.998Z,"5 km SW of San Juan Bautista, CA",earthquake,0.54,0.75,0.09,10,automatic,nc,nc
-2026-03-19T08:35:41.295Z,57.591,-155.634,90.9,2,ml,41,152,0.4,0.4,ak,aka2026fmaadv,2026-03-19T08:38:02.550Z,"70 km W of Karluk, Alaska",earthquake,9.2,2.8842,0.2,8,automatic,ak,ak
-2026-03-19T08:25:41.962Z,60.18,-151.058,67.1,1.9,ml,29,65,0.4,0.4,ak,aka2026flzroc,2026-03-19T08:27:34.156Z,"19 km ESE of Clam Gulch, Alaska",earthquake,5.1,4.6049,0.2,4,automatic,ak,ak
