@@ -266,6 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-20T20:06:52.112Z,-19.9972,-71.0226,11.317,4.7,mb,28,145,0.881,1.13,us,us6000shxy,2026-03-21T01:56:19.337Z,"94 km WNW of Puerto, Chile",earthquake,5.08,4.844,0.147,17,reviewed,us,us
 2026-03-20T20:03:05.468Z,31.667,-104.404,7.2998,1.8,ml,20,70,0,0.1,tx,tx2026fosnju,2026-03-20T20:25:46.890Z,"56 km S of Whites City, New Mexico",earthquake,0.53967333209774,0.47995420305317,0.1,18,reviewed,tx,tx
 2026-03-20T20:00:33.810Z,33.245833333333,-116.80516666667,13.05,0.41,ml,17,77,0.04011,0.14,ci,ci41421192,2026-03-20T20:03:56.390Z,"4 km W of Lake Henshaw, CA",earthquake,0.25,0.56,0.11383793933248,6,automatic,ci,ci
-2026-03-20T19:55:47.045Z,31.708,-104.454,16.3129,1.4,ml,10,96,0,0.6,tx,tx2026fosgvq,2026-03-20T19:58:08.970Z,"52 km S of Whites City, New Mexico",earthquake,0,2.870420217514,0.2,7,automatic,tx,tx
-2026-03-20T19:55:20.816Z,-19.2594,168.3306,10,4.6,mb,37,109,3.401,0.84,us,us6000shxt,2026-03-20T20:51:02.040Z,"104 km WNW of Isangel, Vanuatu",earthquake,5.16,1.894,0.089,41,reviewed,us,us
-2026-03-20T19:52:40.320Z,33.168333333333,-116.559,13.99,0.89,ml,32,58,0.08015,0.21,ci,ci41421184,2026-03-20T21:26:47.478Z,"11 km NNE of Julian, CA",earthquake,0.27,0.67,0.18916796634818,15,reviewed,ci,ci
