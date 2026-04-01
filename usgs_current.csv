@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-04-01T08:02:27.829Z,62.895,-148.704,67.8,1.1,ml,7,133,0.1,0.6,ak,aka2026gjviyy,2026-04-01T08:04:19.720Z,"56 km SSE of Cantwell, Alaska",earthquake,16.8,5.2826,0.6,7,automatic,ak,ak
 2026-04-01T07:51:04.315Z,61.39,-152.247,5,0.6,ml,7,229,0.1,1.4,ak,aka2026gjuzds,2026-04-01T07:54:35.287Z,"68 km WNW of Beluga, Alaska",earthquake,20,,0.1,5,automatic,ak,ak
 2026-04-01T07:37:21.722Z,32.567,-101.145,7.5579,1.2,ml,7,182,0.1,0.7,tx,tx2026gjunio,2026-04-01T07:40:05.390Z,"26 km NNW of Westbrook, Texas",earthquake,0,3.5270025730133,0.2,6,automatic,tx,tx
-2026-04-01T07:16:42.510Z,38.821166992188,-122.76066589356,1.75,1.27,md,12,125,0.01177,0.02,nc,nc75336852,2026-04-01T07:32:21.373Z,"3 km W of Cobb, CA",earthquake,0.33,0.629999995,0.08,13,automatic,nc,nc
+2026-04-01T07:16:42.510Z,38.821166992188,-122.76066589356,1.75,1.27,md,12,125,0.01177,0.02,nc,nc75336852,2026-04-01T08:17:24.645Z,"3 km W of Cobb, CA",earthquake,0.33,0.629999995,0.08,13,automatic,nc,nc
 2026-04-01T07:14:44.310Z,61.517,-152.532,5,1,ml,12,158,0.2,0.5,ak,aka2026gjttvl,2026-04-01T07:16:35.735Z,"79 km SW of Skwentna, Alaska",earthquake,6.4,,0.1,6,automatic,ak,ak
 2026-04-01T07:10:30.136Z,60.029,-152.62,99.2,1.5,ml,27,69,0.2,0.5,ak,aka2026gjtqev,2026-04-01T07:15:10.928Z,"50 km W of Happy Valley, Alaska",earthquake,6.7,3.2473,0.3,14,reviewed,ak,ak
 2026-04-01T07:07:39.464Z,60.376,-150.724,49.6,1.6,ml,11,92,0.3,0.3,ak,aka2026gjtnte,2026-04-01T07:14:23.163Z,"14 km S of Funny River, Alaska",earthquake,5.4,7.2779,0.2,5,reviewed,ak,ak
@@ -86,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-04-01T01:18:55.625Z,53.79,-164.624,22.5,2.2,ml,13,209,0.7,0.5,ak,aka2026gjhzgu,2026-04-01T06:24:57.512Z,"84 km ESE of Akutan, Alaska",earthquake,12.3,6.0873,0.1,11,reviewed,ak,ak
 2026-04-01T01:17:04.660Z,19.2465,-64.855333333333,27.21,3.33,md,24,264,0.8516,0.27,pr,pr71511923,2026-04-01T04:43:23.560Z,"100 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.42,15.51,0.064794402045497,15,reviewed,pr,pr
 2026-04-01T01:06:47.296Z,52.496,-159.952,21.4,3.3,ml,29,279,2.9,0.6,ak,aka2026gjhpdn,2026-04-01T06:24:11.186Z,"south of Alaska",earthquake,24.4,27.7819,0.1,18,reviewed,ak,ak
-2026-04-01T01:06:18.554Z,36.1161,139.9992,63.131,4.9,mww,56,133,1.507,1.27,us,us7000s999,2026-04-01T06:57:10.341Z,"2 km E of Ishige, Japan",earthquake,7.74,7.413,0.093,11,reviewed,us,us
+2026-04-01T01:06:18.554Z,36.1161,139.9992,63.131,4.9,mww,56,133,1.507,1.27,us,us7000s999,2026-04-01T08:16:29.484Z,"2 km E of Ishige, Japan",earthquake,7.74,7.413,0.093,11,reviewed,us,us
 2026-04-01T01:02:34.940Z,19.116,-64.9755,14.67,3.29,md,15,252,0.7598,0.29,pr,pr71511913,2026-04-01T05:56:13.400Z,"85 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.4,4.85,0.05658886055256,11,reviewed,pr,pr
 2026-04-01T00:59:45.231Z,55.919,-158.233,76.7,2.4,ml,35,212,0.4,0.5,ak,aka2026gjhish,2026-04-01T06:08:30.039Z,"43 km SSE of Chignik, Alaska",earthquake,13.1,4.918,0.3,16,reviewed,ak,ak
 2026-04-01T00:55:44.696Z,54.399,-160.078,1.2,2.8,ml,20,277,1.3,0.5,ak,aka2026gjhfki,2026-04-01T05:51:51.860Z,"107 km SSE of Sand Point, Alaska",earthquake,7.5,4.7447,0.1,15,reviewed,ak,ak
@@ -329,5 +329,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-31T08:29:45.088Z,61.465,-149.989,36.7,2.3,ml,79,36,0.2,0.9,ak,aka2026gianpc,2026-03-31T21:36:53.204Z,"6 km SSW of Big Lake, Alaska",earthquake,2.1,2.126,0.2,47,reviewed,ak,ak
 2026-03-31T08:28:14.370Z,33.142833333333,-116.53933333333,6.31,0.61,ml,37,39,0.07869,0.19,ci,ci41428952,2026-03-31T08:31:40.201Z,"9 km NE of Julian, CA",earthquake,0.19,0.59,0.16521796685591,10,automatic,ci,ci
 2026-03-31T08:19:54.570Z,38.487,-112.90016666667,2.41,0.58,md,13,101,0.00721,0.06,uu,uu80133976,2026-03-31T14:11:55.000Z,"13 km NE of Milford, Utah",earthquake,0.29,0.38,0.63449135888614,5,reviewed,uu,uu
-2026-03-31T08:16:39.550Z,34.4495,-117.9125,9.06,1,ml,37,47,0.03546,0.15,ci,ci41428944,2026-03-31T13:54:39.140Z,"6 km S of Pearblossom, CA",earthquake,0.18,0.33,0.25275302197994,32,reviewed,ci,ci
-2026-03-31T08:16:22.850Z,19.752000808716,-155.06100463867,38.459999084473,1.9,md,15,209,0.06329,0.140000001,hv,hv74928072,2026-03-31T08:21:47.610Z,"3 km ENE of Wainaku, Hawaii",earthquake,0.9,1.39999998,0.10938473589864,16,automatic,hv,hv
