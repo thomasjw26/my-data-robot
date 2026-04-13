@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2026-04-13T08:43:40.610Z,38.834999084473,-122.78283691406,2.0099999904633,1.09,md,18,131,0.00678,0.02,nc,nc75343357,2026-04-13T08:45:15.615Z,"5 km WNW of Cobb, CA",earthquake,0.26,0.469999999,0.11,20,automatic,nc,nc
 2026-04-13T08:43:32.200Z,35.923666666667,-117.72016666667,3.26,0.5,ml,15,71,0.06158,0.05,ci,ci41439320,2026-04-13T08:46:59.883Z,"17 km E of Little Lake, CA",earthquake,0.1,0.43,0.16408433706778,6,automatic,ci,ci
+2026-04-13T08:39:50.000Z,29.7974,105.2952,10,4.5,mb,45,70,10.518,0.54,us,us6000splu,2026-04-13T09:00:47.040Z,"20 km NNW of Wujia, China",earthquake,11.98,1.901,0.099,30,reviewed,us,us
 2026-04-13T08:36:56.786Z,38.4814,-116.4632,0.0057,1.88,ml,10,230,1.074,0.2243,nn,nn00914036,2026-04-13T08:39:37.598Z,"81 km NE of Tonopah, Nevada",earthquake,,7.1766,0.31,3,automatic,nn,nn
 2026-04-13T08:33:24.882Z,59.307,-155.67,1.2,2.1,ml,32,164,0.2,0.5,ak,aka2026hfxcfa,2026-04-13T08:35:55.063Z,"12 km E of Igiugig, Alaska",earthquake,4.5,2.5197,0.1,12,automatic,ak,ak
 2026-04-13T08:31:30.560Z,32.755833333333,-115.42166666667,11,1.36,ml,23,68,0.0537,0.27,ci,ci41439312,2026-04-13T08:34:56.383Z,"7 km SSW of Holtville, CA",earthquake,0.51,0.65,0.14232359865586,18,automatic,ci,ci
@@ -56,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-04-13T02:17:59.700Z,38.822334289551,-122.84366607666,0.46999999880791,0.77,md,8,85,0.006791,0.01,nc,nc75343222,2026-04-13T02:19:34.579Z,"9 km WNW of The Geysers, CA",earthquake,0.34,1.02999997,0.36,8,automatic,nc,nc
 2026-04-13T02:16:43.641Z,57.399,-154.809,50.7,1.9,ml,15,279,0.7,0.2,ak,aka2026hfkomh,2026-04-13T02:20:21.890Z,"28 km SW of Karluk, Alaska",earthquake,16.6,15.5987,0.1,6,automatic,ak,ak
 2026-04-13T02:15:01.108Z,-18.4052,-175.4263,254.575,5.5,mww,30,92,4.826,0.31,us,us6000spk9,2026-04-13T04:35:54.050Z,"154 km W of Neiafu, Tonga",earthquake,12.53,7.688,0.11,8,reviewed,us,us
-2026-04-13T02:06:37.200Z,18.3803,-66.2871,115,4.16,md,23,172,0.2156,0.14,pr,pr2026103000,2026-04-13T07:11:25.346Z,"2 km SW of Río Lajas, Puerto Rico",earthquake,1.04,0.51,0.1,21,reviewed,pr,pr
+2026-04-13T02:06:37.200Z,18.3803,-66.2871,115,4.16,md,23,172,0.2156,0.14,pr,pr2026103000,2026-04-13T09:11:11.161Z,"2 km SW of Río Lajas, Puerto Rico",earthquake,1.04,0.51,0.1,21,reviewed,pr,pr
 2026-04-13T02:01:11.446Z,61.626,-146.372,76.8,1.2,ml,6,109,0.3,1,ak,aka2026hfkcey,2026-04-13T02:02:39.601Z,"45 km SSE of Nelchina, Alaska",earthquake,16.7,11.2966,0.3,4,automatic,ak,ak
 2026-04-13T01:46:37.378Z,31.66,-104.448,4.3723,1.5,ml,21,144,0,0.5,tx,tx2026hfjnkd,2026-04-13T05:06:24.391Z,"57 km S of Whites City, New Mexico",earthquake,0,1.3514249324799,0.1,15,automatic,tx,tx
 2026-04-13T01:38:57.890Z,6.1481,-72.1083,16.15,4.5,mb,31,119,2.555,0.59,us,us6000spk4,2026-04-13T01:58:22.040Z,"16 km ENE of Sácama, Colombia",earthquake,9.49,5.579,0.063,73,reviewed,us,us
@@ -143,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-04-12T15:33:02.084Z,-18.1427,-177.8517,624.652,4.5,mb,24,85,3.128,0.54,us,us6000spi4,2026-04-12T15:48:39.040Z,"299 km E of Levuka, Fiji",earthquake,14.63,10.82,0.098,30,reviewed,us,us
 2026-04-12T15:11:09.959Z,61.431,-141.226,15.1,1.3,ml,9,210,0.6,0.6,ak,aka2026heoobk,2026-04-12T15:13:00.387Z,"90 km E of McCarthy, Alaska",earthquake,10.4,8.4152,0.1,5,automatic,ak,ak
 2026-04-12T15:08:07.784Z,41.9958,-126.6703,10,2.6,ml,18,287,1.755,0.72,us,us6000spi0,2026-04-12T15:59:01.040Z,"190 km W of Pistol River, Oregon",earthquake,8.65,2.025,0.062,34,reviewed,us,us
-2026-04-12T15:04:33.180Z,46.8382,-129.2136,10,4.1,mb,23,247,1.089,0.43,us,us6000sphz,2026-04-13T03:14:37.774Z,"off the coast of Washington",earthquake,4.17,2.017,0.05,109,reviewed,us,us
+2026-04-12T15:04:33.180Z,46.8382,-129.2136,10,4.1,mb,23,247,1.089,0.43,us,us6000sphz,2026-04-13T09:14:41.851Z,"off the coast of Washington",earthquake,4.17,2.017,0.05,109,reviewed,us,us
 2026-04-12T15:01:23.981Z,42.6672,-111.1533,10,3.4,ml,34,71,0.721,0.4,us,us6000sphy,2026-04-13T00:12:27.040Z,"14 km W of Fairview, Wyoming",earthquake,2.39,2.011,0.03,142,reviewed,us,us
 2026-04-12T14:58:50.612Z,61.167,-151.862,92.5,2.1,ml,72,61,0.2,0.7,ak,aka2026heodjt,2026-04-12T15:00:48.819Z,"40 km WNW of Tyonek, Alaska",earthquake,3.3,2.6621,0.3,4,automatic,ak,ak
 2026-04-12T14:53:55.448Z,60.714,-142.076,16.3,0.6,ml,9,99,0.2,0.1,ak,aka2026henzfh,2026-04-12T14:55:04.384Z,"92 km SSE of McCarthy, Alaska",earthquake,6.8,10.1822,0.2,4,automatic,ak,ak
@@ -202,7 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-04-12T09:24:21.170Z,34.0875,-117.30483333333,15.01,0.95,ml,44,52,0.03993,0.18,ci,ci41438840,2026-04-12T09:27:50.345Z,"2 km NNE of Colton, CA",earthquake,0.22,0.38,0.20360779720528,31,automatic,ci,ci
 2026-04-12T09:22:56.956Z,64.618,-148.087,4.8,2,ml,28,47,0.1,0.8,ak,aka2026heczzy,2026-04-12T09:24:18.602Z,"25 km SSW of South Van Horn, Alaska",earthquake,2.7,2.4269,0.3,6,automatic,ak,ak
 2026-04-12T09:16:23.540Z,33.637333333333,-116.725,14.58,1.27,ml,68,30,0.07251,0.21,ci,ci41438832,2026-04-12T09:27:07.090Z,"10 km NNW of Anza, CA",earthquake,0.16,0.33,0.18378120227261,25,automatic,ci,ci
-2026-04-12T09:12:22.010Z,-33.7558,-72.089,29.981,4.1,mb,37,87,0.408,0.79,us,us6000spgd,2026-04-12T09:34:35.040Z,"48 km WSW of San Antonio, Chile",earthquake,4.61,1.211,0.135,15,reviewed,us,us
-2026-04-12T09:11:05.690Z,33.4815,-116.44733333333,14.32,1,ml,52,68,0.1301,0.16,ci,ci41438824,2026-04-12T09:21:49.590Z,"23 km ESE of Anza, CA",earthquake,0.17,0.34,0.19118267622333,27,automatic,ci,ci
-2026-04-12T09:07:24.403Z,46.9063,-129.1258,10,2.9,ml,34,240,1.018,0.65,us,us6000spgb,2026-04-12T09:43:33.040Z,"off the coast of Washington",earthquake,8.65,2.017,0.049,54,reviewed,us,us
-2026-04-12T09:05:33.730Z,52.094,-170.347,10.3,3.6,ml,34,217,0.7,1.1,ak,aka2026heclak,2026-04-12T21:25:08.985Z,"137 km SW of Nikolski, Alaska",earthquake,9.2,2.9501,0.2,25,reviewed,ak,ak
