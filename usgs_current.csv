@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-04-16T08:20:10.506Z,31.666,-104.392,6.375,1.5,ml,17,70,0,0.3,tx,tx2026hljvle,2026-04-16T08:22:38.653Z,"56 km S of Whites City, New Mexico",earthquake,0,2.5953493118286,0.1,12,automatic,tx,tx
+2026-04-16T08:09:05.210Z,38.819499969482,-122.84266662598,2.1099998950958,0.95,md,12,104,0.006973,0.03,nc,nc75345702,2026-04-16T08:10:41.402Z,"9 km WNW of The Geysers, CA",earthquake,0.3,0.610000014,0.26,16,automatic,nc,nc
+2026-04-16T08:08:02.410Z,34.024166666667,-117.58283333333,5.71,0.99,ml,37,65,0.08494,0.14,ci,ci41442296,2026-04-16T08:11:29.757Z,"5 km SE of Ontario, CA",earthquake,0.16,0.36,0.30370941913088,30,automatic,ci,ci
 2026-04-16T07:57:30.389Z,60.046,-140.257,0.6,1.8,ml,25,141,0.6,0.8,ak,aka2026hljbxe,2026-04-16T07:59:24.286Z,"63 km NNW of Yakutat, Alaska",earthquake,5.4,2.77,0.2,4,automatic,ak,ak
 2026-04-16T07:54:45.589Z,59.956,-140.56,4.7,1.3,ml,12,168,0.5,1,ak,aka2026hlizns,2026-04-16T07:56:24.023Z,"65 km NW of Yakutat, Alaska",earthquake,10.9,4.5671,0.1,4,automatic,ak,ak
 2026-04-16T07:54:40.020Z,32.904333333333,-116.26316666667,8.69,0.77,ml,33,47,0.06047,0.18,ci,ci41442288,2026-04-16T07:58:10.715Z,"27 km ENE of Pine Valley, CA",earthquake,0.22,0.53,0.11168999886577,13,automatic,ci,ci
@@ -12,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-04-16T07:25:25.844Z,31.671,-104.393,4.5938,1.5,ml,20,69,0,0.5,tx,tx2026hlhyyu,2026-04-16T08:02:16.008Z,"55 km S of Whites City, New Mexico",earthquake,0,1.2425185441971,0.2,14,automatic,tx,tx
 2026-04-16T07:24:09.047Z,35.46633911,-98.09643555,5,2.59,ml,69,48.55459595,0.06902523339,0.8055058417,ok,ok2026hkkm,2026-04-16T07:27:17.151Z,"14 km WSW of El Reno, Oklahoma",earthquake,1.58145459,,0.24,50,automatic,ok,ok
 2026-04-16T07:22:49.583Z,62.9,-151.457,105.3,1.4,ml,30,117,0.5,0.5,ak,aka2026hlhxzy,2026-04-16T07:24:41.255Z,"57 km NW of Petersville, Alaska",earthquake,4.3,3.5025,0.4,4,automatic,ak,ak
-2026-04-16T07:17:43.571Z,31.664,-104.39,4.3683,1.7,ml,31,70,0,0.5,tx,tx2026hlhtpv,2026-04-16T07:21:13.864Z,"56 km S of Whites City, New Mexico",earthquake,0,1.0487883090973,0.2,19,automatic,tx,tx
+2026-04-16T07:17:43.242Z,31.668,-104.38,6.0999,1.6,ml,36,69,0,0.2,tx,tx2026hlhtpv,2026-04-16T08:05:13.474Z,"56 km S of Whites City, New Mexico",earthquake,0.71513480301223,0.71959864593564,0.1,21,reviewed,tx,tx
 2026-04-16T07:17:02.774Z,39.3458,-119,1.4274,1.52,ml,12,91,0.406,0.2018,nn,nn00914934,2026-04-16T07:19:19.043Z,"20 km ESE of Silver Springs, Nevada",earthquake,,23.9216,0.19,6,automatic,nn,nn
 2026-04-16T07:10:26.525Z,39.3304,-119.022,9.1782,1.81,ml,19,89,0.385,0.1861,nn,nn00914932,2026-04-16T07:12:48.987Z,"19 km ESE of Silver Springs, Nevada",earthquake,,1.6231,0.2,10,automatic,nn,nn
 2026-04-16T07:05:24.064Z,31.653,-104.394,4.4341,2.2,ml,14,71,0,0.5,tx,tx2026hlhixg,2026-04-16T07:09:47.043Z,"57 km S of Whites City, New Mexico",earthquake,0,1.5957590341568,0.1,11,automatic,tx,tx
@@ -65,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-04-16T03:51:37.053Z,31.635,-104.429,4.4347,1.5,ml,18,91,0,0.3,tx,tx2026hlayac,2026-04-16T05:07:23.668Z,"60 km S of Whites City, New Mexico",earthquake,0,1.4629882574081,0.1,13,automatic,tx,tx
 2026-04-16T03:39:23.598Z,63.3,-149.704,92.1,1.5,ml,35,83,0.4,0.7,ak,aka2026hlanmd,2026-04-16T03:41:08.481Z,"39 km WSW of Cantwell, Alaska",earthquake,4,3.1881,0.3,4,automatic,ak,ak
 2026-04-16T03:34:03.960Z,38.828834533691,-122.77283477783,6.0599999427795,0.68,md,9,94,0.002807,0.05,nc,nc75345597,2026-04-16T03:35:42.302Z,"4 km W of Cobb, CA",earthquake,1.1,3.13000011,0.41,10,automatic,nc,nc
-2026-04-16T03:24:10.503Z,31.657,-104.321,4.5937,1.7,ml,32,69,0,0.3,tx,tx2026hlaajf,2026-04-16T03:28:24.959Z,"57 km S of Whites City, New Mexico",earthquake,0,1.0029190778732,0.1,24,automatic,tx,tx
+2026-04-16T03:24:10.500Z,31.661,-104.319,6.1255,1.6,ml,37,68,0,0.2,tx,tx2026hlaajf,2026-04-16T08:21:33.194Z,"57 km S of Whites City, New Mexico",earthquake,0.7090049021325,0.76185873428513,0.1,21,reviewed,tx,tx
 2026-04-16T03:18:25.400Z,38.817665100098,-122.81816864014,2.1400001049042,1.65,md,28,61,0.01229,0.03,nc,nc75345592,2026-04-16T04:37:18.111Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.310000002,0.12,28,automatic,nc,nc
 2026-04-16T03:18:07.929Z,31.906,-104.089,0,1.1,ml,18,118,0,1,tx,tx2026hkzusj,2026-04-16T04:01:10.809Z,"35 km S of Malaga, New Mexico",earthquake,0,,0.4,6,automatic,tx,tx
 2026-04-16T03:17:56.143Z,31.665,-104.395,4.4913,1.7,ml,23,70,0,0.4,tx,tx2026hkzrff,2026-04-16T04:07:08.449Z,"56 km S of Whites City, New Mexico",earthquake,0,1.4233264923096,0.2,10,automatic,tx,tx
@@ -296,10 +299,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-04-15T08:42:09.243Z,64.855,-147.384,5,1.3,ml,15,53,0.3,0.5,ak,aka2026hjovmp,2026-04-15T08:43:16.652Z,"9 km NE of Badger, Alaska",earthquake,3.5,,0.2,4,automatic,ak,ak
 2026-04-15T08:29:31.452Z,31.386,-103.469,8.0737,1.2,ml,17,70,0.1,0.2,tx,tx2026hjokqa,2026-04-15T12:04:26.188Z,"4 km SSE of Pecos, Texas",earthquake,1.6568376081956,1.715444639994,0.2,19,reviewed,tx,tx
 2026-04-15T08:27:30.290Z,60.047166666667,-153.044,3.36,-0.26,ml,5,200,0.01418,0.15,av,av94148858,2026-04-15T23:06:02.880Z,"66 km ENE of Pedro Bay, Alaska",earthquake,0.81,1.03,0.23716878661749,5,reviewed,av,av
-2026-04-15T08:25:50.590Z,51.780333333333,-178.827,9.05,0.65,ml,5,142,0.01856,0.06,av,av94148853,2026-04-15T19:59:22.900Z,"151 km W of Adak, Alaska",earthquake,0.69,0.56,0.17218612715419,5,reviewed,av,av
-2026-04-15T08:25:23.484Z,39.3168,-119.0505,7.5424,1.75,ml,18,88,0.363,0.2224,nn,nn00914768,2026-04-15T08:27:24.467Z,"18 km SE of Silver Springs, Nevada",earthquake,,2.4249,0.31,10,automatic,nn,nn
-2026-04-15T08:24:43.900Z,38.83483505249,-122.81866455078,1.789999961853,0.76,md,11,63,0.01325,0.01,nc,nc75345082,2026-04-15T08:26:21.301Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.889999986,0.17,15,automatic,nc,nc
-2026-04-15T08:22:24.110Z,38.832668304443,-122.8176651001,2,0.63,md,8,83,0.011,0.01,nc,nc75345077,2026-04-15T08:24:01.347Z,"8 km NW of The Geysers, CA",earthquake,0.45,1.54999995,0.3,9,automatic,nc,nc
-2026-04-15T08:16:02.890Z,19.1356,-64.8628,23,3.63,md,22,251,0.7608,0.38,pr,pr2026105000,2026-04-15T09:01:08.619Z,"88 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.67,27.57,0.16,19,reviewed,pr,pr
-2026-04-15T08:12:42.237Z,39.3129,-119.0581,7.4187,2.12,ml,22,82,0.063,0.1285,nn,nn00914762,2026-04-15T21:21:38.964Z,"18 km SE of Silver Springs, Nevada",earthquake,,1.5894,0.34,10,reviewed,nn,nn
-2026-04-15T08:10:54.543Z,39.3212,-119.0591,0.0499,1.59,ml,18,90,0.364,0.1716,nn,nn00914760,2026-04-15T08:12:50.536Z,"17 km SE of Silver Springs, Nevada",earthquake,,5.748,0.31,8,automatic,nn,nn
