@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-04-27T09:24:29.218Z,60.675,-149.473,0,2.1,ml,43,79,0.6,0.8,ak,aka2026ifqyny,2026-04-27T09:26:23.986Z,"21 km NNW of Moose Pass, Alaska",earthquake,2.9,2.0596,0.2,6,automatic,ak,ak
+2026-04-27T09:22:09.050Z,33.38,-116.396,9.41,0.51,ml,30,43,0.07441,0.21,ci,ci41234855,2026-04-27T09:25:34.177Z,"14 km N of Borrego Springs, CA",earthquake,0.24,0.72,0.1369326318446,10,automatic,ci,ci
 2026-04-27T09:05:37.507Z,56.616,-157.139,82.4,2.1,ml,14,208,0.6,0.2,ak,aka2026ifqihd,2026-04-27T09:08:51.715Z,"85 km ENE of Chignik, Alaska",earthquake,35.6,16.0643,0.3,4,automatic,ak,ak
 2026-04-27T09:04:27.508Z,62.637,-150.495,76.6,1.1,ml,11,163,0.2,0.3,ak,aka2026ifqhgx,2026-04-27T09:06:21.898Z,"20 km NE of Petersville, Alaska",earthquake,7.3,5.0353,0.7,4,automatic,ak,ak
 2026-04-27T09:03:54.140Z,46.223167419434,-122.17166900635,4.1300001144409,0.939999998,md,11,155,,0.0399999991,uw,uw62240172,2026-04-27T09:06:01.520Z,"38 km SSE of Morton, Washington",earthquake,0.79,0.620000005,0.930000007,2,automatic,uw,uw
@@ -138,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-04-26T14:49:18.776Z,39.338,-119.0069,11.3032,2.46,ml,27,55,0.068,0.327,nn,nn00916498,2026-04-26T14:51:33.924Z,"20 km ESE of Silver Springs, Nevada",earthquake,,0.4243,0.35,12,automatic,nn,nn
 2026-04-26T14:32:36.910Z,38.820835113525,-122.81700134277,2.8900001049042,0.71,md,12,63,0.005985,0.02,nc,nc75351947,2026-04-26T14:34:11.207Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.790000021,0.16,16,automatic,nc,nc
 2026-04-26T14:32:15.310Z,36.815498352051,-121.22233581543,1.5099999904633,0.59,md,4,116,0.05265,0.01,nc,nc75351942,2026-04-26T14:33:51.359Z,"9 km ENE of Tres Pinos, CA",earthquake,0.38,7.67999983,0.01,2,automatic,nc,nc
-2026-04-26T14:32:03.682Z,42.0371,-83.0534,2.131,2.9,mb_lg,36,51,0.52,0.35,us,us6000st0f,2026-04-27T08:04:42.079Z,"7 km SSE of Amherstburg, Canada",earthquake,1.93,5.814,0.055,87,reviewed,us,us
+2026-04-26T14:32:03.682Z,42.0371,-83.0534,2.131,2.9,mb_lg,36,51,0.52,0.35,us,us6000st0f,2026-04-27T09:20:57.324Z,"7 km SSE of Amherstburg, Canada",earthquake,1.93,5.814,0.055,87,reviewed,us,us
 2026-04-26T14:27:01.731Z,60.78,-147.347,18.7,0.8,ml,7,163,0.2,0.5,ak,aka2026iefgja,2026-04-26T14:28:26.182Z,"37 km WSW of Tatitlek, Alaska",earthquake,14.1,5.0088,0.2,4,automatic,ak,ak
 2026-04-26T14:15:50.502Z,61.119,-150.832,70.4,1.4,ml,12,166,0.4,0.7,ak,aka2026ieewrz,2026-04-26T17:57:07.082Z,"13 km E of Beluga, Alaska",earthquake,9.3,5.9455,0.2,8,automatic,ak,ak
 2026-04-26T14:15:19.613Z,49.8009,155.7585,58.891,4.4,mb,84,137,3.527,0.53,us,us6000st0e,2026-04-26T15:31:38.040Z,"100 km SSW of Severo-Kuril’sk, Russia",earthquake,12.57,7.435,0.054,98,reviewed,us,us
