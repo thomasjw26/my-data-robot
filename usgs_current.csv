@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-04-29T09:18:06.571Z,62.176,-148.278,28.5,2.7,ml,66,28,0.4,0.7,ak,aka2026ijieuh,2026-04-29T09:19:26.813Z,"43 km NNE of Chickaloon, Alaska",earthquake,2.5,1.8335,0.2,4,automatic,ak,ak
+2026-04-29T09:10:38.730Z,35.4965,-118.4,3.01,0.96,ml,28,78,0.1765,0.17,ci,ci41236711,2026-04-29T09:14:11.228Z,"13 km SE of Bodfish, CA",earthquake,0.22,0.7,0.15504841605674,10,automatic,ci,ci
+2026-04-29T09:08:54.440Z,33.495,-116.47166666667,15.58,0.44,ml,22,66,0.1091,0.18,ci,ci41236703,2026-04-29T09:12:25.193Z,"20 km ESE of Anza, CA",earthquake,0.3,0.69,0.069867980153094,5,automatic,ci,ci
 2026-04-29T09:01:35.450Z,34.0055,-117.20466666667,3.45,0.82,ml,55,30,0.06374,0.18,ci,ci41236695,2026-04-29T09:05:06.883Z,"6 km SSW of Redlands, CA",earthquake,0.14,0.48,0.14652209701102,25,automatic,ci,ci
 2026-04-29T08:54:45.750Z,59.781,-151.803,70,1.6,ml,35,55,0.1,0.7,ak,aka2026ijhkpd,2026-04-29T08:56:34.565Z,"1 km ENE of Anchor Point, Alaska",earthquake,4.4,3.298,0.5,4,automatic,ak,ak
 2026-04-29T08:51:44.592Z,66.278,-149.899,2.3,2,ml,16,114,0.6,0.8,ak,aka2026ijhich,2026-04-29T08:53:34.314Z,"47 km NW of Stevens Village, Alaska",earthquake,4.6,2.938,0.3,4,automatic,ak,ak
@@ -271,5 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-04-28T09:32:13.000Z,18.968166666667,-155.47666666667,34.81,2.93,ml,42,225,0.1813,0.12,hv,hv74946662,2026-04-29T06:39:41.040Z,"15 km SE of Naalehu, Hawaii",earthquake,0.5,0.91,0.18467494413315,35,reviewed,hv,hv
 2026-04-28T09:24:29.160Z,38.837333679199,-122.81066894531,1.8500000238419,1.23,md,18,57,0.01393,0.01,nc,nc75353052,2026-04-28T09:26:07.079Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.460000008,0.16,19,automatic,nc,nc
 2026-04-28T09:22:31.240Z,33.151666666667,-116.52366666667,6.35,0.59,ml,30,55,0.09388,0.22,ci,ci41235735,2026-04-28T09:26:03.218Z,"11 km NE of Julian, CA",earthquake,0.25,0.73,0.16727089734246,7,automatic,ci,ci
-2026-04-28T09:19:43.960Z,59.309,-152.75,70.1,1.7,ml,42,99,0.3,0.4,ak,aka2026ihmnhj,2026-04-28T09:21:25.625Z,"47 km W of Nanwalek, Alaska",earthquake,3.8,3.2619,0.3,5,automatic,ak,ak
-2026-04-28T09:14:54.909Z,64.697,-151.118,11.4,1.5,ml,9,103,0.6,0.5,ak,aka2026ihmjdz,2026-04-28T09:17:00.430Z,"40 km SW of Manley Hot Springs, Alaska",earthquake,4.9,3.8447,0.2,4,automatic,ak,ak
