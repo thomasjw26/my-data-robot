@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-05-14T09:33:41.900Z,33.281166666667,-115.672,3.52,0.87,ml,26,65,0.07804,0.15,ci,ci41467016,2026-05-14T09:37:14.542Z,"10 km SE of Bombay Beach, CA",earthquake,0.27,0.47,0.19163023424474,13,automatic,ci,ci
 2026-05-14T09:22:04.009Z,39.164,-119.0363,13.7037,2.59,ml,29,50,0.087,0.2674,nn,nn00918594,2026-05-14T09:24:22.678Z,"22 km NNE of Yerington, Nevada",earthquake,,0.5155,0.37,12,automatic,nn,nn
 2026-05-14T09:21:35.840Z,19.256999969482,-155.39566040039,30.709999084473,2.01,md,31,105,0.01947,0.150000006,hv,hv74959692,2026-05-14T09:25:16.300Z,"10 km NE of Pāhala, Hawaii",earthquake,0.56,0.639999986,0.052147092369513,10,automatic,hv,hv
 2026-05-14T08:17:51.260Z,38.838001251221,-122.78266906738,1.6599999666214,0.34,md,8,161,0.006008,0.01,nc,nc75360336,2026-05-14T08:42:23.051Z,"5 km WNW of Cobb, CA",earthquake,0.65,1.10000002,0.25,8,automatic,nc,nc
@@ -222,6 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-05-13T09:57:24.480Z,32.964666666667,-115.55,8.18,1.62,ml,24,75,0.06366,0.2,ci,ci41466104,2026-05-13T10:00:49.518Z,"2 km SW of Brawley, CA",earthquake,0.31,0.93,0.21548921157709,29,automatic,ci,ci
 2026-05-13T09:44:09.763Z,60.297,-152.228,98,1.7,ml,25,33,0.3,0.4,ak,aka2026jkojni,2026-05-13T20:45:36.348Z,"41 km NW of Ninilchik, Alaska",earthquake,4.7,3.1201,0.4,13,reviewed,ak,ak
 2026-05-13T09:42:18.650Z,33.502333333333,-116.44416666667,5.63,0.43,ml,23,73,0.1323,0.17,ci,ci41466096,2026-05-13T12:56:21.844Z,"22 km SW of La Quinta, CA",earthquake,0.23,1.14,0.11894451196881,6,reviewed,ci,ci
-2026-05-13T09:39:48.920Z,32.955833333333,-115.56483333333,5.52,1.2,ml,24,92,0.05432,0.23,ci,ci41466088,2026-05-13T09:43:10.410Z,"4 km SW of Brawley, CA",earthquake,0.34,0.83,0.16673976657189,12,automatic,ci,ci
-2026-05-13T09:37:50.890Z,32.9575,-115.56216666667,7.21,1.33,ml,31,89,0.05589,0.26,ci,ci41466080,2026-05-13T09:41:23.184Z,"4 km SW of Brawley, CA",earthquake,0.3,0.9,0.25512632465125,22,automatic,ci,ci
-2026-05-13T09:37:30.576Z,39.2704,-119.1072,8.363,1.79,ml,22,58,0.055,0.1667,nn,nn00918512,2026-05-14T02:05:53.834Z,"19 km SSE of Silver Springs, Nevada",earthquake,,1.3926,0.38,16,reviewed,nn,nn
