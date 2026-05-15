@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-05-15T10:24:31.870Z,38.836166381836,-122.82716369629,0.94999998807907,0.73,md,6,124,0.006936,0.01,nc,nc75360846,2026-05-15T10:26:09.927Z,"9 km NW of The Geysers, CA",earthquake,0.46,1.33000004,0.36,7,automatic,nc,nc
+2026-05-15T10:05:50.080Z,38.848999023438,-122.79816436768,0.49000000953674,0.22,md,6,129,0.01221,0.06,nc,nc75360841,2026-05-15T10:22:19.723Z,"7 km WNW of Cobb, CA",earthquake,0.42,1.26999998,0.13,8,automatic,nc,nc
 2026-05-15T09:43:25.260Z,33.1665,-116.403,11.94,0.58,ml,31,50,0.09373,0.18,ci,ci41467776,2026-05-15T09:46:50.454Z,"10 km SSW of Borrego Springs, CA",earthquake,0.25,0.58,0.089451231439567,8,automatic,ci,ci
 2026-05-15T09:23:29.110Z,38.813667297363,-122.81649780273,2.1400001049042,2.12,md,44,49,0.01093,0.07,nc,nc75360831,2026-05-15T09:47:22.496Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.270000011,0.12,45,automatic,nc,nc
 2026-05-15T09:21:37.560Z,33.055166666667,-116.61016666667,12.87,1.15,ml,51,26,0.02784,0.17,ci,ci41467768,2026-05-15T09:32:01.500Z,"3 km SSW of Julian, CA",earthquake,0.15,0.39,0.2319394788208,28,automatic,ci,ci
@@ -56,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-05-15T04:08:46.498Z,58.279,-155.568,5,0.9,ml,11,150,0.1,0.4,ak,aka2026jnvfwf,2026-05-15T04:09:42.886Z,"78 km SE of King Salmon, Alaska",earthquake,7.1,,0.2,4,automatic,ak,ak
 2026-05-15T03:49:49.110Z,55.155,-157.913,4.1,2.2,ml,9,275,1.2,0.4,ak,aka2026jnupng,2026-05-15T03:52:12.620Z,"114 km SE of Perryville, Alaska",earthquake,9.5,4.6473,0.1,5,automatic,ak,ak
 2026-05-15T03:45:36.081Z,58.275,-155.572,5,1.1,ml,12,151,0.1,0.4,ak,aka2026jnultv,2026-05-15T03:46:34.343Z,"78 km SE of King Salmon, Alaska",earthquake,7.3,,0.3,4,automatic,ak,ak
-2026-05-15T03:41:29.412Z,28.562,-98.358,12.2614,1.8,ml,11,99,0.1,0.4,tx,tx2026jmgquh,2026-05-15T04:00:57.742Z,"20 km WNW of Three Rivers, Texas",earthquake,0,4.1216559410095,0.2,8,automatic,tx,tx
+2026-05-15T03:41:29.373Z,28.552,-98.357,11.7551,1.7,ml,14,105,0.1,0.3,tx,tx2026jmgquh,2026-05-15T10:25:15.113Z,"19 km WNW of Three Rivers, Texas",earthquake,0,3.622540473938,0.2,12,automatic,tx,tx
 2026-05-15T03:40:34.167Z,39.429,-119.095,15.5606,2.58,ml,29,88,0.08,0.2311,nn,nn00918644,2026-05-15T03:47:40.286Z,"11 km E of Silver Springs, Nevada",earthquake,,0.4288,0.37,12,automatic,nn,nn
 2026-05-15T03:35:53.241Z,28.521,-98.17,9.4287,2.3,ml,23,88,0,0.3,tx,tx2026jmglzv,2026-05-15T03:49:45.429Z,"6 km N of Three Rivers, Texas",earthquake,1.3956916394357,0.86817797672941,0.1,12,reviewed,tx,tx
 2026-05-15T03:21:59.430Z,38.783164978027,-122.73483276367,1.710000038147,0.86,md,7,165,0.001481,0.02,nc,nc75360651,2026-05-15T04:27:21.548Z,"2 km ENE of The Geysers, CA",earthquake,0.54,1.00999999,0.21,7,automatic,nc,nc
@@ -83,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-05-15T01:13:58.659Z,-2.9915,147.7607,10,5.4,mww,61,50,1.021,1.12,us,us6000sxu9,2026-05-15T03:39:23.901Z,"119 km SSE of Lorengau, Papua New Guinea",earthquake,6.95,1.87,0.11,8,reviewed,us,us
 2026-05-15T01:13:12.800Z,38.828498840332,-122.85600280762,2.5,1.09,md,20,118,0.01724,0.02,nc,nc75360611,2026-05-15T01:57:22.493Z,"10 km WNW of The Geysers, CA",earthquake,0.26,0.529999971,0.12,20,automatic,nc,nc
 2026-05-15T00:48:45.128Z,61.51,-148.133,19,2.4,ml,87,26,0.2,0.9,ak,aka2026jnookt,2026-05-15T06:17:25.726Z,"36 km SSE of Chickaloon, Alaska",earthquake,1.8,1.1581,0.2,62,reviewed,ak,ak
-2026-05-15T00:18:14.249Z,32.838,-100.909,2.0229,1.6,ml,13,66,0.1,0.5,tx,tx2026jlzxrd,2026-05-15T00:21:01.580Z,"13 km N of Snyder, Texas",earthquake,0,1.5164365768433,0.1,9,automatic,tx,tx
+2026-05-15T00:18:14.227Z,32.846,-100.923,6.6162,1.4,ml,18,65,0.1,0.2,tx,tx2026jlzxrd,2026-05-15T10:36:15.537Z,"14 km N of Snyder, Texas",earthquake,0.82903656661345,1.481925653269,0.1,7,reviewed,tx,tx
 2026-05-15T00:17:08.138Z,59.497,-152.635,76.5,1.9,ml,52,89,0.3,0.6,ak,aka2026jnnmzx,2026-05-15T06:13:03.324Z,"43 km WNW of Nanwalek, Alaska",earthquake,3.4,2.3626,0.2,35,reviewed,ak,ak
 2026-05-15T00:04:12.726Z,56.101,-157.637,17.2,2.1,ml,15,218,0.8,0.3,ak,aka2026jnnbuz,2026-05-15T06:09:54.755Z,"52 km ESE of Chignik, Alaska",earthquake,6.3,8.8902,0.2,12,reviewed,ak,ak
 2026-05-15T00:03:33.044Z,31.761,-102.043,2.0556,1,ml,7,260,0.1,0.2,tx,tx2026jlzkpe,2026-05-15T00:06:09.178Z,"26 km S of Midland, Texas",earthquake,0,4.2212634086609,1,6,automatic,tx,tx
@@ -104,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-05-14T22:56:38.860Z,33.833,-117.12183333333,16.35,1.24,ml,42,55,0.0751,0.21,ci,ci41467600,2026-05-14T23:00:10.316Z,"4 km NNE of Nuevo, CA",earthquake,0.24,0.55,0.38088714281322,29,automatic,ci,ci
 2026-05-14T22:44:46.730Z,57.613833333333,-155.94933333333,4.7,1.11,ml,8,238,0.1875,0.15,av,av94194628,2026-05-15T09:47:25.610Z,"87 km E of Ugashik, Alaska",earthquake,1.06,1.97,0.32560510002319,8,reviewed,av,av
 2026-05-14T22:22:15.270Z,38.825832366943,-122.79766845703,1.6599999666214,0.7,md,8,82,0.009991,0.01,nc,nc75360571,2026-05-14T22:57:21.175Z,"6 km W of Cobb, CA",earthquake,0.48,0.829999983,0.12,8,automatic,nc,nc
-2026-05-14T22:20:10.351Z,28.555,-98.357,12.5619,1.7,ml,10,103,0.1,0.4,tx,tx2026jlvzxz,2026-05-14T23:00:18.756Z,"20 km WNW of Three Rivers, Texas",earthquake,0,4.1801605224609,0.2,8,automatic,tx,tx
+2026-05-14T22:20:11.034Z,28.543,-98.359,9.562,1.7,ml,16,78,0.1,0.5,tx,tx2026jlvzxz,2026-05-15T10:25:05.843Z,"19 km WNW of Three Rivers, Texas",earthquake,0,3.4219794273376,0.2,13,automatic,tx,tx
 2026-05-14T22:14:05.512Z,-55.4449,-26.8022,10,4.8,mb,30,119,5.714,0.45,us,us6000sxtg,2026-05-14T22:35:18.040Z,"South Sandwich Islands region",earthquake,13.22,1.928,0.097,34,reviewed,us,us
 2026-05-14T22:13:36.300Z,33.985333333333,-117.07183333333,9.48,1.01,ml,37,31,0.06031,0.16,ci,ci41467552,2026-05-14T22:17:04.142Z,"2 km W of Calimesa, CA",earthquake,0.15,0.52,0.23955374254705,30,automatic,ci,ci
 2026-05-14T22:09:31.704Z,57.629,-156.008,3.9,3.1,ml,45,123,0.2,0.7,ak,aka2026jnjghm,2026-05-15T09:43:55.340Z,"84 km E of Ugashik, Alaska",earthquake,3.9,2.1025,0.2,35,reviewed,ak,ak
@@ -119,6 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-05-14T21:28:48.048Z,31.453,-104.394,0,1.3,ml,12,214,0.2,1,tx,tx2026jluhhy,2026-05-14T21:32:58.579Z,"59 km WNW of Toyah, Texas",earthquake,0,,0.2,10,automatic,tx,tx
 2026-05-14T21:22:16.039Z,38.6756,-117.0941,1.8747,1.58,ml,9,226,0.544,0.2431,nn,nn00918634,2026-05-15T00:39:05.765Z,"59 km S of Kingston, Nevada",explosion,,6.1289,0.62,5,reviewed,nn,nn
 2026-05-14T21:15:47.560Z,33.469165802002,-116.49849700928,12.520000457764,1.3726156100875,ml,36,55,0.09033,0.170000002,ci,ci41467472,2026-05-14T21:40:45.115Z,"19 km ESE of Anza, CA",earthquake,0.27,0.730000019,0.17194095253944,10,automatic,ci,ci
+2026-05-14T21:12:13.499Z,32.26,-101.913,2.9541,0.3,ml,21,62,0,0.2,tx,tx2026jltqia,2026-05-15T10:23:07.221Z,"18 km NW of Stanton, Texas",earthquake,0.81059669054099,1.6243637264757,0.2,8,reviewed,tx,tx
 2026-05-14T21:11:14.590Z,49.334666666667,-120.48266666667,-0.36,2.06,ml,9,174,0.561,0.37,uw,uw62245867,2026-05-14T22:12:50.890Z,"13 km S of Princeton, Canada",explosion,1.92,31.61,0.077885199859928,7,reviewed,uw,uw
 2026-05-14T21:06:36.580Z,35.060333333333,-118.33333333333,4.89,1.34,ml,33,67,0.0699,0.25,ci,ci41467456,2026-05-14T21:12:50.261Z,"13 km SE of Tehachapi, CA",earthquake,0.37,1.08,0.16229897528328,30,automatic,ci,ci
 2026-05-14T21:05:15.731Z,31.499,-103.957,4.408,1.9,ml,35,62,0,0.2,tx,tx2026jltnbq,2026-05-15T09:47:56.362Z,"25 km NW of Toyah, Texas",earthquake,0.55828936682648,0.58121920165329,0.2,24,reviewed,tx,tx
@@ -225,7 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-05-14T10:51:22.640Z,35.951333333333,-117.3895,2.64,2.46,ml,41,50,0.1052,0.15,ci,ci41467040,2026-05-15T01:45:05.340Z,"20 km N of Searles Valley, CA",earthquake,0.14,0.36,0.13208546263606,24,reviewed,ci,ci
 2026-05-14T10:46:53.185Z,58.625,-152.09,15.2,2,ml,23,170,0.9,0.4,ak,aka2026jmmmpw,2026-05-15T03:52:33.427Z,"79 km NE of Aleneva, Alaska",earthquake,5,4.8582,0.1,16,reviewed,ak,ak
 2026-05-14T10:41:58.040Z,33.295833333333,-116.23916666667,9.59,0.79,ml,48,31,0.08877,0.2,ci,ci41467032,2026-05-14T10:45:22.471Z,"13 km ENE of Borrego Springs, CA",earthquake,0.19,0.51,0.13390250144868,17,automatic,ci,ci
-2026-05-14T10:13:11.760Z,58.295,-154.97816666667,2.53,-0.46,ml,9,146,0.0453,0.14,av,av94193948,2026-05-15T05:44:41.880Z,"86 km NNW of Karluk, Alaska",earthquake,0.32,0.43,0.23319084371045,10,reviewed,av,av
-2026-05-14T10:03:13.560Z,38.814998626709,-122.78566741943,1.5,1.26,md,17,52,0.01029,0.02,nc,nc75360366,2026-05-14T11:37:20.352Z,"5 km NNW of The Geysers, CA",earthquake,0.24,0.400000006,0.28,17,automatic,nc,nc
-2026-05-14T09:55:47.289Z,-58.3477,-25.63,52.398,5.1,mb,73,80,7.28,0.56,us,us6000sxmm,2026-05-14T10:22:17.040Z,"South Sandwich Islands region",earthquake,11.6,7.334,0.066,75,reviewed,us,us
-2026-05-14T09:50:28.913Z,28.517,-98.168,8.5843,1.4,ml,28,88,0.2,0.3,tx,tx2026jkxdxg,2026-05-14T11:57:30.963Z,"6 km NNE of Three Rivers, Texas",earthquake,1.3509251101822,2.4400811361419,0.2,13,reviewed,tx,tx
