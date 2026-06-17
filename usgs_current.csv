@@ -1,9 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-06-17T11:51:05.652Z,64.796,-147.709,5,0.8,ml,11,78,0.1,0.6,ak,aka2026lxjjmf,2026-06-17T11:52:20.810Z,"4 km ESE of South Van Horn, Alaska",earthquake,3.6,,0.2,4,automatic,ak,ak
+2026-06-17T11:48:00.470Z,34.014666666667,-117.21116666667,6.17,0.74,ml,23,120,0.07431,0.18,ci,ci41488824,2026-06-17T11:51:26.924Z,"5 km SSW of Redlands, CA",earthquake,0.27,0.8,0.27038711858897,15,automatic,ci,ci
+2026-06-17T11:47:08.468Z,64.793,-147.72,13.9,1.5,ml,10,56,0.2,0.4,ak,aka2026lxjgbe,2026-06-17T11:51:00.769Z,"3 km ESE of South Van Horn, Alaska",earthquake,5.2,4.9379,0.2,6,automatic,ak,ak
 2026-06-17T11:31:06.910Z,35.985332489014,-120.53932952881,2.6900000572205,0.64,md,9,115,0.01475,0.04,nc,nc75378481,2026-06-17T11:32:42.923Z,"14 km NW of Parkfield, CA",earthquake,0.46,1.15999997,0.36,2,automatic,nc,nc
 2026-06-17T11:29:45.614Z,61.683,-151.284,83.2,1.8,ml,35,56,0.3,0.6,ak,aka2026lxiqze,2026-06-17T11:31:09.363Z,"34 km S of Skwentna, Alaska",earthquake,4.8,3.4323,0.2,4,automatic,ak,ak
 2026-06-17T11:17:30.690Z,19.19983291626,-155.49166870117,30.360000610352,2.67,md,47,146,0.04878,0.129999995,hv,hv74984452,2026-06-17T11:21:05.130Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.48,0.519999981,0.11042677677929,15,automatic,hv,hv
 2026-06-17T11:12:58.814Z,58.196,-154.086,10.9,1.2,ml,17,129,0.4,0.5,ak,aka2026lxicks,2026-06-17T11:14:19.305Z,"70 km WNW of Aleneva, Alaska",earthquake,4.4,3.464,0.2,4,automatic,ak,ak
 2026-06-17T11:09:48.991Z,55.792,-159.757,9.9,1.2,ml,8,325,0.3,0.2,ak,aka2026lxhzrt,2026-06-17T11:11:05.822Z,"21 km SW of Ivanof Bay, Alaska",earthquake,30.8,7.3878,0.4,4,automatic,ak,ak
+2026-06-17T11:09:46.470Z,17.980333333333,-66.984333333333,8.94,3.05,md,22,158,0.05803,0.31,pr,pr71520258,2026-06-17T11:51:53.110Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.51,0.96,0.15096910979016,12,reviewed,pr,pr
 2026-06-17T11:08:07.010Z,33.526333333333,-116.72483333333,6.31,0.86,ml,44,28,0.04031,0.17,ci,ci41488808,2026-06-17T11:11:33.037Z,"6 km SW of Anza, CA",earthquake,0.15,0.37,0.22756312884406,24,automatic,ci,ci
 2026-06-17T10:55:54.330Z,34.517833333333,-118.92666666667,15.45,2.42,ml,100,20,0.0393,0.32,ci,ci41488800,2026-06-17T11:06:30.980Z,"13 km N of Fillmore, CA",earthquake,0.21,0.7,0.16139718628184,26,automatic,ci,ci
 2026-06-17T10:53:32.155Z,31.68,-104.351,4.5716,2.1,ml,29,85,0.1,0.4,tx,tx2026lvjvxw,2026-06-17T11:01:02.429Z,"55 km S of Whites City, New Mexico",earthquake,0,1.0475964546204,0.3,19,automatic,tx,tx
@@ -261,7 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-06-16T12:10:01.360Z,19.457166666667,-155.61333333333,41.54,1.47,ml,18,94,0.03173,0.18,hv,hv74983497,2026-06-17T01:44:26.980Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.8,0.88,0.3101870907469,9,reviewed,hv,hv
 2026-06-16T12:06:40.050Z,46.202333333333,-122.36633333333,9.46,0.85,ml,16,119,0.01454,0.08,uw,uw714022091,2026-06-16T21:38:55.250Z,"33 km N of Amboy, Washington",earthquake,0.34,0.44,0.12248786969856,5,reviewed,uw,uw
 2026-06-16T12:00:11.859Z,62.093,-148.204,28.9,1.4,ml,23,123,0.3,0.8,ak,aka2026lvnqtt,2026-06-16T12:01:48.153Z,"35 km NNE of Chickaloon, Alaska",earthquake,3.9,2.0717,0.2,6,automatic,ak,ak
-2026-06-16T11:56:11.354Z,56.874,-155.973,25.1,1.8,ml,8,224,0.8,0.4,ak,aka2026lvnnic,2026-06-16T11:57:56.453Z,"110 km W of Akhiok, Alaska",earthquake,14.3,6.7327,0.1,4,automatic,ak,ak
-2026-06-16T11:55:18.350Z,35.70633333,-97.5425,7.71,2.29,ml,97,24,0,0.11,ok,ok2026lsfc,2026-06-16T18:37:06.107Z,"8 km NW of Edmond, Oklahoma",earthquake,,0.2,0.26,49,reviewed,ok,ok
-2026-06-16T11:54:43.767Z,56.132,-135.38,11.6,2.7,ml,7,256,0.9,0.5,ak,aka2026lvnmba,2026-06-16T11:56:27.526Z,"47 km WSW of Port Alexander, Alaska",earthquake,19.1,7.5254,0.9,4,automatic,ak,ak
-2026-06-16T11:49:09.340Z,37.561164855957,-118.86666870117,6.0500001907349,1.87,md,25,98,0.04148,0.04,nc,nc75377686,2026-06-16T12:17:26.248Z,"13 km SE of Mammoth Lakes, CA",earthquake,0.28,0.579999983,0.13,23,automatic,nc,nc
