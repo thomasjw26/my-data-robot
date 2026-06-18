@@ -293,5 +293,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-06-17T11:13:18.330Z,60.499333333333,-152.88233333333,5.41,-0.45,ml,8,194,0.02291,0.06,av,av94250018,2026-06-18T03:25:31.440Z,"83 km NW of Ninilchik, Alaska",earthquake,0.32,0.56,0.19711846048255,8,reviewed,av,av
 2026-06-17T11:12:58.814Z,58.196,-154.086,10.9,1.2,ml,17,129,0.4,0.5,ak,aka2026lxicks,2026-06-17T11:14:19.305Z,"70 km WNW of Aleneva, Alaska",earthquake,4.4,3.464,0.2,4,automatic,ak,ak
 2026-06-17T11:12:19.130Z,52.832166666667,-169.86766666667,1.27,0.91,ml,5,178,0.01877,0.1,av,av94250028,2026-06-18T03:19:59.960Z,"68 km W of Nikolski, Alaska",earthquake,0.34,0.11,0.2764759753696,5,reviewed,av,av
-2026-06-17T11:09:48.991Z,55.792,-159.757,9.9,1.2,ml,8,325,0.3,0.2,ak,aka2026lxhzrt,2026-06-18T03:17:28.720Z,"21 km SW of Ivanof Bay, Alaska",earthquake,30.8,7.3878,0.4,4,automatic,ak,ak
-2026-06-17T11:09:46.470Z,17.980333333333,-66.984333333333,8.94,3.05,md,22,158,0.05803,0.31,pr,pr71520258,2026-06-18T10:40:37.040Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.51,0.96,0.15096910979016,12,reviewed,pr,pr
