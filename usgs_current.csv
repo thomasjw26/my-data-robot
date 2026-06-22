@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-06-22T13:07:42.620Z,32.983166666667,-116.2635,10.51,0.79,ml,24,60,0.1242,0.14,ci,ci41492264,2026-06-22T13:11:04.515Z,"22 km SW of Ocotillo Wells, CA",earthquake,0.2,0.52,0.19127476988283,7,automatic,ci,ci
+2026-06-22T13:07:16.360Z,32.740166666667,-116.84883333333,18.54,1.04,ml,5,219,0.079,0.07,ci,ci41492256,2026-06-22T13:10:47.018Z,"4 km NE of Jamul, CA",earthquake,1.3,0.97,0.28906318822392,9,automatic,ci,ci
+2026-06-22T13:01:38.149Z,58.174,-155.322,5,1,ml,12,60,0,0.4,ak,aka2026mgrvmi,2026-06-22T13:02:35.616Z,"84 km NW of Karluk, Alaska",earthquake,5.1,,0.2,4,automatic,ak,ak
+2026-06-22T12:54:01.086Z,62.124,-151.16,85.7,1.3,ml,9,98,0.2,0.6,ak,aka2026mgrowp,2026-06-22T12:55:47.397Z,"19 km NE of Skwentna, Alaska",earthquake,8.2,5.5168,0.3,4,automatic,ak,ak
+2026-06-22T12:39:15.271Z,-23.5868,-175.6973,10,4.9,mb,49,130,5.979,0.77,us,us7000sv75,2026-06-22T12:59:46.040Z,"260 km SSW of ‘Ohonua, Tonga",earthquake,13.87,1.864,0.059,92,reviewed,us,us
 2026-06-22T12:27:33.630Z,33.3975,-116.39566666667,11.39,0.42,ml,16,77,0.08009,0.12,ci,ci41492208,2026-06-22T12:31:05.135Z,"16 km N of Borrego Springs, CA",earthquake,0.27,0.47,0.14997942015517,6,automatic,ci,ci
 2026-06-22T12:11:47.150Z,38.81266784668,-122.78717041016,3.0199999809265,0.65,md,7,96,0.007899,0.01,nc,nc75381216,2026-06-22T12:13:23.745Z,"5 km NW of The Geysers, CA",earthquake,0.59,2.08999991,0.26,8,automatic,nc,nc
 2026-06-22T12:05:52.273Z,32.431,-102.028,3.7992,1.7,ml,55,83,0.1,0.4,tx,tx2026meqyvm,2026-06-22T12:09:52.870Z,"31 km WSW of Ackerly, Texas",earthquake,0,0.72215461730957,0.2,31,automatic,tx,tx
@@ -80,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-06-22T04:40:03.710Z,38.820499420166,-122.84300231934,2.2000000476837,0.94,md,16,104,0.006753,0.01,nc,nc75381121,2026-06-22T04:41:41.441Z,"9 km WNW of The Geysers, CA",earthquake,0.31,0.449999988,0.32,16,automatic,nc,nc
 2026-06-22T04:36:19.810Z,38.687168121338,-119.56983184815,3.6099998950958,1.75,md,10,110,0.1078,0.1,nc,nc75381116,2026-06-22T05:07:18.813Z,"20 km E of Markleeville, CA",earthquake,0.47,2.5999999,0.18,4,automatic,nc,nc
 2026-06-22T04:21:59.010Z,35.005833333333,-118.49833333333,5.57,1.07,ml,33,51,0.1296,0.17,ci,ci41492032,2026-06-22T04:25:25.012Z,"15 km SSW of Tehachapi, CA",earthquake,0.16,0.97,0.22005280279621,25,automatic,ci,ci
-2026-06-22T04:07:46.214Z,32.495,-101.148,3.0543,1.5,ml,11,132,0.1,0.6,tx,tx2026mebcvx,2026-06-22T04:10:39.958Z,"19 km NW of Westbrook, Texas",earthquake,0,1.9353451728821,0.1,8,automatic,tx,tx
+2026-06-22T04:07:46.366Z,32.486,-101.152,5.9326,1.4,ml,18,52,0.1,0.2,tx,tx2026mebcvx,2026-06-22T13:11:20.889Z,"19 km NW of Westbrook, Texas",earthquake,1.2934054532646,1.672559353731,0.1,6,reviewed,tx,tx
 2026-06-22T04:04:29.070Z,35.295,-117.80233333333,6.88,1.11,ml,41,61,0.04497,0.19,ci,ci41492024,2026-06-22T04:07:50.037Z,"17 km WSW of Johannesburg, CA",earthquake,0.21,0.42,0.14456594744505,20,automatic,ci,ci
 2026-06-22T04:00:26.850Z,13.4249,-90.7542,45.812,4.7,mb,44,151,1.059,1.25,us,us7000sv2p,2026-06-22T04:12:14.040Z,"56 km S of Puerto San José, Guatemala",earthquake,7.86,10.408,0.035,251,reviewed,us,us
 2026-06-22T03:49:08.360Z,33.351,-116.389,12.35,0.69,ml,34,57,0.03034,0.23,ci,ci41492016,2026-06-22T03:52:29.552Z,"11 km N of Borrego Springs, CA",earthquake,0.25,0.55,0.15022133869714,14,automatic,ci,ci
@@ -183,7 +188,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-06-21T15:48:33.211Z,31.49,-103.884,4.613,1.8,ml,25,54,0.1,0.2,tx,tx2026mdcpok,2026-06-21T16:13:14.011Z,"21 km NNW of Toyah, Texas",earthquake,0.42844655765598,1.3805404608401,0.2,18,reviewed,tx,tx
 2026-06-21T15:40:40.226Z,61.235,-146.947,5,1.7,ml,23,79,0.3,0.6,ak,aka2026mfbcur,2026-06-21T15:41:58.322Z,"34 km WNW of Valdez, Alaska",earthquake,2.9,,0.2,5,automatic,ak,ak
 2026-06-21T15:23:36.370Z,35.3095,-117.81,8.35,1.02,ml,32,62,0.0512,0.17,ci,ci41491760,2026-06-21T15:26:58.506Z,"17 km WSW of Johannesburg, CA",earthquake,0.19,0.45,0.2246384790001,17,automatic,ci,ci
-2026-06-21T15:23:03.771Z,31.638,-104.45,4.0963,1.5,ml,16,91,0,0.2,tx,tx2026mdbtyc,2026-06-21T16:05:04.953Z,"60 km S of Whites City, New Mexico",earthquake,0,1.6477527618408,0.1,13,automatic,tx,tx
 2026-06-21T15:16:41.191Z,61.685,-148.112,17.7,0.8,ml,8,108,0.2,0.2,ak,aka2026mfaiac,2026-06-21T15:17:55.942Z,"22 km SE of Chickaloon, Alaska",earthquake,10.1,5.2471,0.1,4,automatic,ak,ak
 2026-06-21T15:08:53.160Z,35.7145,-98.0386,10,2.4,mb_lg,23,63,0.154,0.4,us,us7000suzu,2026-06-21T21:07:37.040Z,"5 km WSW of Okarche, Oklahoma",earthquake,2.26,2,0.076,45,reviewed,us,us
 2026-06-21T15:07:57.110Z,33.946166992188,-117.18616485596,13.60000038147,1.3584017950051,ml,23,153,0.01119,0.219999999,ci,ci41491744,2026-06-21T15:09:59.527Z,"4 km ENE of Moreno Valley, CA",earthquake,0.6,0.779999971,0.41498327255249,6,automatic,ci,ci
@@ -201,7 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-06-21T13:37:34.820Z,38.836666107178,-122.78533172607,1.8600000143051,0.23,md,8,131,0.004284,0.01,nc,nc75380686,2026-06-21T13:39:10.306Z,"6 km WNW of Cobb, CA",earthquake,0.44,0.589999974,0.15,10,automatic,nc,nc
 2026-06-21T13:34:01.170Z,38.842666625977,-122.82333374023,1.6499999761581,0.72,md,10,147,0.01033,0.01,nc,nc75380681,2026-06-21T13:35:39.155Z,"9 km WNW of Cobb, CA",earthquake,0.4,0.829999983,0.08,13,automatic,nc,nc
 2026-06-21T13:31:32.350Z,35.3575,-84.752833333333,10.29,1.98,md,14,83,0.1318,0.16,se,se60623136,2026-06-21T17:05:50.860Z,"6 km WSW of Riceville, Tennessee",earthquake,0.31,1.29,0.092323795329245,8,reviewed,se,se
-2026-06-21T13:13:46.131Z,50.608,-174.217,20,2.6,ml,10,300,1.6,1.6,ak,aka2026mevzva,2026-06-21T16:57:50.229Z,"176 km S of Atka, Alaska",earthquake,11.3,0,0.2,7,reviewed,ak,ak
-2026-06-21T13:13:41.320Z,33.786333333333,-116.92983333333,13.33,0.93,ml,52,23,0.09826,0.18,ci,ci41491712,2026-06-21T13:17:03.876Z,"3 km E of San Jacinto, CA",earthquake,0.16,0.44,0.20792302039502,28,automatic,ci,ci
-2026-06-21T13:05:33.698Z,58.16,-155.314,5,1.3,ml,10,69,0.1,0.6,ak,aka2026mevyhz,2026-06-21T13:06:33.188Z,"83 km NW of Karluk, Alaska",earthquake,5.8,,0.4,4,automatic,ak,ak
-2026-06-21T12:52:17.683Z,61.33,-146.709,22.6,2,ml,27,49,0.3,0.7,ak,aka2026mevmut,2026-06-21T12:53:33.011Z,"29 km NW of Valdez, Alaska",earthquake,3,2.7763,0.3,4,automatic,ak,ak
