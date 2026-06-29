@@ -1,24 +1,32 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-06-29T11:57:41.660Z,33.502998352051,-116.4948348999,11.930000305176,1.4884391107895,ml,42,60,0.09009,0.200000003,ci,ci41497696,2026-06-29T11:59:46.673Z,"18 km ESE of Anza, CA",earthquake,0.26,0.790000021,0.2008842676878,10,automatic,ci,ci
+2026-06-29T11:42:51.674Z,59.776,-153.323,134.4,2.6,ml,95,80,0.1,0.8,ak,aka2026mtniwc,2026-06-29T11:47:09.815Z,"44 km E of Pedro Bay, Alaska",earthquake,3.6,1.9682,0.4,55,automatic,ak,ak
+2026-06-29T11:35:33.629Z,43.3828,-127.0788,10,5.5,mww,62,175,1.652,1.27,us,us6000t8yt,2026-06-29T11:59:35.639Z,"218 km W of Bandon, Oregon",earthquake,7.21,1.974,0.033,89,reviewed,us,us
+2026-06-29T11:33:25.540Z,19.110000610352,-155.42416381836,45.240001678467,1.82,md,19,260,0.1293,0.0799999982,hv,hv74993402,2026-06-29T11:37:02.300Z,"11 km SSE of Pāhala, Hawaii",earthquake,4.61,7.5,0.07825195566956,14,automatic,hv,hv
+2026-06-29T11:32:31.916Z,31.641,-104.118,4.6653,1.9,ml,28,52,0.1,0.3,tx,tx2026mrlybv,2026-06-29T11:37:36.522Z,"47 km NW of Toyah, Texas",earthquake,0,1.0141967535019,0.2,20,automatic,tx,tx
+2026-06-29T11:26:25.090Z,19.152833938599,-155.4836730957,42.099998474121,1.84,md,9,268,0.2021,0.0500000007,hv,hv74993397,2026-06-29T11:30:00.390Z,"5 km S of Pāhala, Hawaii",earthquake,3.15,2.61999989,0.12485137882731,16,automatic,hv,hv
+2026-06-29T11:24:59.742Z,28.556,-98.35,10.608,1.6,ml,9,104,0.1,0.4,tx,tx2026mrlrth,2026-06-29T11:27:59.892Z,"19 km WNW of Three Rivers, Texas",earthquake,0,4.2193207740784,0.1,7,automatic,tx,tx
 2026-06-29T11:22:21.470Z,38.786334991455,-122.76216888428,1.289999961853,1.09,md,14,92,0.0144,0.02,nc,nc75386296,2026-06-29T11:23:59.939Z,"1 km NNW of The Geysers, CA",earthquake,0.28,0.460000008,0.17,16,automatic,nc,nc
 2026-06-29T11:20:27.210Z,34.422833333333,-116.46166666667,10.13,1.43,ml,40,63,0.137,0.15,ci,ci41497672,2026-06-29T11:23:58.022Z,"34 km N of Yucca Valley, CA",earthquake,0.15,0.39,0.22006130346835,26,automatic,ci,ci
 2026-06-29T11:11:48.080Z,35.168,-118.5375,7.81,0.86,ml,26,36,0.139,0.11,ci,ci41497664,2026-06-29T11:15:09.057Z,"9 km WNW of Tehachapi, CA",earthquake,0.15,0.71,0.10803493372001,11,automatic,ci,ci
 2026-06-29T11:08:11.245Z,28.556,-98.332,14.8219,1.6,ml,5,108,0.1,0.1,tx,tx2026mrldjc,2026-06-29T11:11:08.473Z,"18 km NW of Three Rivers, Texas",earthquake,0,7.7168259620667,0.1,5,automatic,tx,tx
+2026-06-29T11:01:03.516Z,10.8601,-66.8435,10,4.6,mb,99,132,4.219,0.58,us,us6000t8yf,2026-06-29T11:56:34.484Z,"27 km N of Caraballeda, Venezuela",earthquake,8.2,1.886,0.042,164,reviewed,us,us
 2026-06-29T10:52:35.030Z,35.769666666667,-117.58816666667,5.53,1.34,ml,36,54,0.0466,0.13,ci,ci41497656,2026-06-29T10:56:03.771Z,"17 km W of Searles Valley, CA",earthquake,0.13,0.45,0.17863327227531,22,automatic,ci,ci
 2026-06-29T10:46:52.491Z,57.056,-155.321,8.6,1.7,ml,8,274,0.7,0.2,ak,aka2026mtlmoz,2026-06-29T10:48:45.227Z,"70 km W of Akhiok, Alaska",earthquake,42.5,9.0945,0,4,automatic,ak,ak
 2026-06-29T10:41:43.270Z,33.215833333333,-116.191,9.91,0.79,ml,38,46,0.05763,0.2,ci,ci41497648,2026-06-29T10:45:14.447Z,"10 km NW of Ocotillo Wells, CA",earthquake,0.2,0.52,0.14821212838044,16,automatic,ci,ci
 2026-06-29T10:38:53.590Z,38.836666107178,-122.80816650391,1.9700000286102,1.54,md,31,49,0.01334,0.03,nc,nc75386286,2026-06-29T10:42:46.410Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.289999992,0.11,31,automatic,nc,nc
-2026-06-29T10:31:04.600Z,19.6011,-64.4973,36,3.89,md,19,300,1.1923,0.29,pr,pr2026180000,2026-06-29T11:06:40.379Z,"143 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.76,18.65,0.1,11,reviewed,pr,pr
+2026-06-29T10:31:04.600Z,19.6011,-64.4973,36,3.89,md,19,300,1.1923,0.29,pr,pr2026180000,2026-06-29T11:57:08.040Z,"143 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.76,18.65,0.1,11,reviewed,pr,pr
 2026-06-29T10:25:11.820Z,38.821334838867,-122.81383514404,2.7699999809265,1.08,md,11,69,0.003587,0.01,nc,nc75386276,2026-06-29T10:26:50.466Z,"7 km NW of The Geysers, CA",earthquake,0.53,0.709999979,0.17,12,automatic,nc,nc
 2026-06-29T10:24:43.963Z,61.207,-151.174,64.6,1.6,ml,25,53,0.4,0.6,ak,aka2026mtktkg,2026-06-29T10:26:08.147Z,"8 km NW of Beluga, Alaska",earthquake,4.1,4.357,0.1,4,automatic,ak,ak
 2026-06-29T10:21:53.689Z,31.647,-104.332,4.0536,1.3,ml,19,70,0.1,0.3,tx,tx2026mrjplm,2026-06-29T11:03:28.419Z,"58 km S of Whites City, New Mexico",earthquake,0,1.3259989023209,0.2,13,automatic,tx,tx
-2026-06-29T10:19:31.248Z,61.214,-149.611,24.5,3.2,ml,135,39,0.1,0.9,ak,aka2026mtkowu,2026-06-29T11:10:22.753Z,"4 km SSE of Elmendorf Air Force Base, Alaska",earthquake,1.9,1.8599,0.2,29,automatic,ak,ak
+2026-06-29T10:19:31.248Z,61.214,-149.611,24.5,3.2,ml,135,39,0.1,0.9,ak,aka2026mtkowu,2026-06-29T11:39:58.559Z,"4 km SSE of Elmendorf Air Force Base, Alaska",earthquake,1.9,1.8599,0.2,29,automatic,ak,ak
 2026-06-29T10:13:07.059Z,31.585,-102.181,3.7021,1.5,ml,31,117,0.3,0.3,tx,tx2026mrjhxj,2026-06-29T10:17:08.059Z,"26 km NE of Crane, Texas",earthquake,0,1.2913302183151,0.4,17,automatic,tx,tx
 2026-06-29T10:11:34.872Z,31.068,-103.192,4.3559,1.5,ml,24,63,0.1,0.7,tx,tx2026mrjfje,2026-06-29T10:15:27.709Z,"22 km SSW of Coyanosa, Texas",earthquake,0,1.1242544651031,0.3,18,automatic,tx,tx
 2026-06-29T10:02:31.601Z,58.287,-154.946,5,1.3,ml,13,147,0.1,0.3,ak,aka2026mtkaea,2026-06-29T10:03:29.753Z,"85 km NNW of Karluk, Alaska",earthquake,6,,0.3,4,automatic,ak,ak
 2026-06-29T09:53:18.118Z,32.378,-101.637,4.1772,1.2,ml,32,62,0,0.5,tx,tx2026mriqiy,2026-06-29T11:16:16.195Z,"18 km SSE of Ackerly, Texas",earthquake,0,0.90835791826248,0.2,21,automatic,tx,tx
 2026-06-29T09:52:09.154Z,31.584,-104.502,3.0511,1.5,ml,21,96,0.1,0.6,tx,tx2026mripux,2026-06-29T09:55:33.592Z,"66 km S of Whites City, New Mexico",earthquake,0,1.7654042243958,0.1,10,automatic,tx,tx
-2026-06-29T09:51:41.057Z,61.214,-149.648,15.5,2.6,ml,78,38,0.5,0.7,ak,aka2026mtjqto,2026-06-29T10:34:40.440Z,"4 km S of Elmendorf Air Force Base, Alaska",earthquake,2.2,2.2588,0.2,4,automatic,ak,ak
-2026-06-29T09:31:13.201Z,31.652,-104.346,4.0512,2.1,ml,27,70,0.1,0.4,tx,tx2026mrhxuj,2026-06-29T09:36:48.518Z,"58 km S of Whites City, New Mexico",earthquake,0,1.200621008873,0.2,15,automatic,tx,tx
+2026-06-29T09:51:41.057Z,61.214,-149.648,15.5,2.6,ml,78,38,0.5,0.7,ak,aka2026mtjqto,2026-06-29T11:30:09.434Z,"4 km S of Elmendorf Air Force Base, Alaska",earthquake,2.2,2.2588,0.2,4,automatic,ak,ak
+2026-06-29T09:31:13.168Z,31.676,-104.344,6.0999,2.1,ml,41,73,0.1,0.2,tx,tx2026mrhxuj,2026-06-29T11:25:29.183Z,"55 km S of Whites City, New Mexico",earthquake,0.75620897297305,0.76695110787336,0.2,21,reviewed,tx,tx
 2026-06-29T09:30:05.641Z,31.672,-104.345,6.3049,1.7,ml,40,70,0.1,0.2,tx,tx2026mrhwtb,2026-06-29T10:15:16.209Z,"55 km S of Whites City, New Mexico",earthquake,0.81583784525542,0.99823955750318,0.1,18,reviewed,tx,tx
 2026-06-29T09:25:53.592Z,31.659,-104.336,7.4604,1,ml,18,69,0.1,0.7,tx,tx2026mrhten,2026-06-29T09:32:15.917Z,"57 km S of Whites City, New Mexico",earthquake,0,2.3413989543915,0.2,12,automatic,tx,tx
 2026-06-29T09:21:43.730Z,38.829833984375,-122.81433105469,1.8700000047684,0.89,md,14,63,0.007239,0.01,nc,nc75386271,2026-06-29T09:23:19.927Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.560000002,0.24,14,automatic,nc,nc
@@ -36,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-06-29T07:23:19.770Z,39.3155,-119.0585,8.2061,2.23,ml,28,88,0.066,0.1721,nn,nn00920893,2026-06-29T07:25:34.076Z,"18 km SE of Silver Springs, Nevada",earthquake,,0.8046,0.38,12,automatic,nn,nn
 2026-06-29T07:22:55.280Z,39.335,-119.0821,13.4187,1.87,ml,11,142,0.371,0.2787,nn,nn00920892,2026-06-29T07:25:05.082Z,"15 km SE of Silver Springs, Nevada",earthquake,,1.7246,0.35,7,automatic,nn,nn
 2026-06-29T07:19:50.329Z,1.285,126.2952,35,4.6,mb,53,90,5.79,0.47,us,us6000t8xp,2026-06-29T08:41:23.040Z,"131 km E of Bitung, Indonesia",earthquake,8.59,1.904,0.089,38,reviewed,us,us
-2026-06-29T07:05:42.530Z,38.565833333333,-87.96,19.07,3.5,md,32,45,0.2,0.28,nm,nm60623916,2026-06-29T11:22:19.879Z,"6 km NE of West Salem, Illinois",earthquake,0.36,0.45,0.040752299087855,17,reviewed,nm,nm
+2026-06-29T07:05:42.530Z,38.565833333333,-87.96,19.07,3.5,md,32,45,0.2,0.28,nm,nm60623916,2026-06-29T11:54:21.698Z,"6 km NE of West Salem, Illinois",earthquake,0.36,0.45,0.040752299087855,17,reviewed,nm,nm
 2026-06-29T07:05:00.210Z,61.025,-152.096,37.5,1.2,ml,11,194,0.2,0.7,ak,aka2026mtechx,2026-06-29T07:06:04.309Z,"52 km W of Tyonek, Alaska",earthquake,19.5,9.465,0.4,4,automatic,ak,ak
 2026-06-29T06:58:36.210Z,33.497166666667,-116.48416666667,3.06,1.3,ml,74,34,0.09866,0.21,ci,ci41497640,2026-06-29T07:09:23.550Z,"19 km ESE of Anza, CA",earthquake,0.14,0.55,0.12352519813424,28,automatic,ci,ci
 2026-06-29T06:54:16.912Z,22.9945,142.2351,179.368,4.5,mb,78,130,12.976,0.5,us,us6000t8xk,2026-06-29T08:19:44.040Z,"Volcano Islands, Japan region",earthquake,8.05,8.056,0.049,120,reviewed,us,us
@@ -80,6 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-06-29T03:05:34.262Z,60.466,-139.8774,5,2.7,ml,24,113,0.661,0.98,us,us6000t8wn,2026-06-29T03:16:21.040Z,"102 km N of Yakutat, Alaska",earthquake,4.13,1.4,0.045,66,reviewed,us,us
 2026-06-29T03:04:15.840Z,38.814498901367,-122.81632995606,2.7599999904633,0.77,md,10,130,0.01014,0.01,nc,nc75386116,2026-06-29T03:05:54.281Z,"7 km NW of The Geysers, CA",earthquake,0.57,0.75999999,0.25,12,automatic,nc,nc
 2026-06-29T03:03:16.974Z,31.547,-104.137,7.9456,1.5,ml,31,69,0,0.1,tx,tx2026mqvbgm,2026-06-29T10:47:04.586Z,"41 km NW of Toyah, Texas",earthquake,0.57094802191847,0.52285946687168,0.2,18,reviewed,tx,tx
+2026-06-29T02:58:26.650Z,17.8845,-65.618,5.44,2.69,md,14,238,0.3324,0.33,pr,pr71521873,2026-06-29T11:45:11.980Z,"28 km SSW of Esperanza, Puerto Rico",earthquake,1.3,1.53,0.096767449860989,8,reviewed,pr,pr
 2026-06-29T02:52:45.280Z,38.792331695557,-122.75949859619,1.8600000143051,1.52,md,28,69,0.008283,0.04,nc,nc75386111,2026-06-29T02:54:24.090Z,"2 km N of The Geysers, CA",earthquake,0.25,0.360000014,0.16,29,automatic,nc,nc
 2026-06-29T02:50:23.212Z,31.662,-104.327,6.3086,1.5,ml,23,87,0.1,0.4,tx,tx2026mquqjl,2026-06-29T03:00:59.349Z,"57 km S of Whites City, New Mexico",earthquake,0,2.1445579528809,0.2,17,automatic,tx,tx
 2026-06-29T02:50:07.370Z,36.110833333333,-117.87466666667,2.58,0.9,ml,23,117,0.01739,0.1,ci,ci41497568,2026-06-29T02:53:34.449Z,"10 km NE of Coso Junction, CA",earthquake,0.17,0.17,0.19443904951889,12,automatic,ci,ci
@@ -190,7 +199,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-06-28T13:31:19.360Z,19.18466758728,-155.50115966797,31.940000534058,1.94,md,34,149,0.1112,0.129999995,hv,hv74992897,2026-06-28T13:34:54.130Z,"3 km SW of Pāhala, Hawaii",earthquake,0.62,0.769999981,0.22958178990799,16,automatic,hv,hv
 2026-06-28T13:12:57.320Z,33.494833333333,-116.495,12.43,0.5,ml,9,238,0.08958,0.08,ci,ci41497112,2026-06-28T14:14:23.771Z,"18 km ESE of Anza, CA",earthquake,0.56,0.49,0.13379668291596,9,reviewed,ci,ci
 2026-06-28T13:04:27.160Z,47.466167449951,-123.04049682617,6.4299998283386,2.0313303470612,ml,35,67,0.08656,0.170000002,uw,uw714035921,2026-06-28T13:06:53.740Z,"10 km NE of Hoodsport, Washington",earthquake,0.43,1.00999999,0.29710620641708,30,automatic,uw,uw
-2026-06-28T13:03:36.070Z,31.632,-104.493,3.595,1.6,ml,21,134,0,0.3,tx,tx2026mptfxk,2026-06-28T17:06:41.576Z,"61 km S of Whites City, New Mexico",earthquake,0,1.4156675338745,0.1,17,automatic,tx,tx
 2026-06-28T12:56:43.930Z,33.517166666667,-116.74483333333,3.97,0.88,ml,44,32,0.04848,0.19,ci,ci41497104,2026-06-28T14:15:31.060Z,"8 km WSW of Anza, CA",earthquake,0.17,0.38,0.18542893498825,25,reviewed,ci,ci
 2026-06-28T12:46:42.520Z,39.4277,-117.5781,14.5151,1.82,ml,10,178,0.539,0.3009,nn,nn00920870,2026-06-28T12:49:14.602Z,"44 km W of Austin, Nevada",earthquake,,0.7764,0.31,4,automatic,nn,nn
 2026-06-28T12:38:53.670Z,33.513666666667,-116.55283333333,13.86,0.57,ml,20,49,0.04538,0.11,ci,ci41497096,2026-06-28T14:14:27.869Z,"12 km ESE of Anza, CA",earthquake,0.2,0.33,0.29285359846355,11,reviewed,ci,ci
@@ -198,10 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-06-28T12:08:22.146Z,62.101,-149.567,44.5,1.5,ml,12,143,0.4,0.9,ak,aka2026mrserw,2026-06-28T12:09:50.487Z,"16 km ESE of Susitna North, Alaska",earthquake,8.9,8.2621,0.3,4,automatic,ak,ak
 2026-06-28T12:06:03.883Z,32.033,-103.28,1.6606,1.7,ml,8,89,0.2,0.9,tx,tx2026mpridy,2026-06-28T13:00:15.416Z,"12 km SW of Jal, New Mexico",earthquake,0,2.3339736461639,1.9,5,automatic,tx,tx
 2026-06-28T12:02:00.688Z,61.147,-146.542,12.5,1.3,ml,9,69,0.1,0.6,ak,aka2026mrrzew,2026-06-28T12:03:18.801Z,"10 km W of Valdez, Alaska",earthquake,4.6,10.31,0.4,4,automatic,ak,ak
-2026-06-28T11:59:53.883Z,58.157,-152.834,55,2,ml,27,108,0.4,0.3,ak,aka2026mrrxiz,2026-06-28T14:33:21.746Z,"11 km NNE of Aleneva, Alaska",earthquake,6.9,6.6761,0.2,20,automatic,ak,ak
-2026-06-28T11:50:11.100Z,35.8605,-117.69966666667,9,0.68,ml,19,54,0.07412,0.14,ci,ci41497088,2026-06-28T14:14:59.631Z,"20 km ESE of Little Lake, CA",earthquake,0.21,0.49,0.22628875919225,7,reviewed,ci,ci
-2026-06-28T11:47:26.360Z,34.9335,-119.44233333333,9.6,1.51,ml,40,55,0.07333,0.21,ci,ci41497080,2026-06-28T14:15:35.380Z,"14 km SSW of Maricopa, CA",earthquake,0.24,0.57,0.16841966914472,29,reviewed,ci,ci
-2026-06-28T11:35:31.479Z,-7.38,128.695,165.511,4.5,mb,54,77,3.083,0.81,us,us6000t8ta,2026-06-28T11:52:30.040Z,"225 km NE of Lospalos, Timor Leste",earthquake,8.62,7.655,0.078,48,reviewed,us,us
-2026-06-28T11:30:35.557Z,61.251,-150.703,55.6,1.9,ml,51,37,0.2,0.7,ak,aka2026mrqxyc,2026-06-28T11:32:13.729Z,"23 km ENE of Beluga, Alaska",earthquake,2.9,3.1816,0.1,4,automatic,ak,ak
-2026-06-28T11:29:24.893Z,60.641,-150.441,49.1,1.3,ml,14,67,0.2,0.7,ak,aka2026mrqwyc,2026-06-28T11:31:01.975Z,"21 km ENE of Sterling, Alaska",earthquake,4.7,5.3021,0.2,4,automatic,ak,ak
-2026-06-28T11:26:25.588Z,-24.0562,-66.8773,206.575,4.2,mb,33,86,1.623,0.55,us,us6000t8t9,2026-06-28T13:24:44.040Z,"59 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.18,6.713,0.121,19,reviewed,us,us
