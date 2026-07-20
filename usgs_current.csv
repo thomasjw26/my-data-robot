@@ -1,5 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2026-07-20T09:32:24.120Z,31.611,-104.12,4.5771,2.8,ml,46,53,0,0.2,tx,tx2026odwext,2026-07-20T09:36:38.975Z,"45 km NW of Toyah, Texas",earthquake,0,0.80595123767853,0.2,36,automatic,tx,tx
+2026-07-20T10:04:42.200Z,38.764831542969,-122.73383331299,2.6600000858307,0.9,md,9,102,0.007724,0.03,nc,nc75399421,2026-07-20T10:06:18.183Z,"2 km SE of The Geysers, CA",earthquake,0.61,0.839999974,0.14,10,automatic,nc,nc
+2026-07-20T10:00:26.418Z,56.056,-159.541,5,1.5,ml,15,220,0,0.6,ak,aka2026ogekhc,2026-07-20T10:02:24.346Z,"17 km NNW of Ivanof Bay, Alaska",earthquake,14.8,,0.6,10,automatic,ak,ak
+2026-07-20T09:53:12.080Z,36.065666666667,-117.84083333333,2.52,1.09,ml,24,65,0.05304,0.15,ci,ci40658266,2026-07-20T09:56:37.519Z,"10 km ENE of Coso Junction, CA",earthquake,0.16,0.2,0.16018739859335,19,automatic,ci,ci
+2026-07-20T09:50:39.297Z,55.848,-159.884,8.5,2.3,ml,20,181,0.3,0.4,ak,aka2026ogebwl,2026-07-20T09:51:42.102Z,"25 km WSW of Ivanof Bay, Alaska",earthquake,18.4,4.3847,0.2,4,automatic,ak,ak
+2026-07-20T09:50:17.570Z,36.069667816162,-117.84233093262,2.1800000667572,3.0637530028376,ml,52,42,0.04888,0.170000002,ci,ci40658258,2026-07-20T10:01:14.510Z,"10 km ENE of Coso Junction, CA",earthquake,0.18,0.280000001,0.23100116848946,21,automatic,ci,ci
+2026-07-20T09:45:10.282Z,11.3742,-60.8041,83.51,5.2,mww,105,35,2.139,0.96,us,us7000t1wn,2026-07-20T10:03:21.085Z,"22 km NNW of Scarborough, Trinidad and Tobago",earthquake,8.28,6.67,0.073,18,reviewed,us,us
+2026-07-20T09:40:43.255Z,1.6021,127.2659,69.965,5.1,mb,68,78,5.686,0.94,us,us7000t1wm,2026-07-20T10:04:34.818Z,"83 km W of Tobelo, Indonesia",earthquake,8.9,7.028,0.069,70,reviewed,us,us
+2026-07-20T09:32:23.951Z,31.615,-104.114,6.087,2.8,ml,23,57,0,0.1,tx,tx2026odwext,2026-07-20T09:44:43.268Z,"45 km NW of Toyah, Texas",earthquake,0.45644879404906,0.38983547391569,0.1,14,reviewed,tx,tx
 2026-07-20T09:28:17.710Z,35.317,-117.8125,7.84,1.58,ml,52,35,0.05648,0.17,ci,ci40658250,2026-07-20T09:31:44.733Z,"17 km WSW of Johannesburg, CA",earthquake,0.15,0.39,0.13239174204285,25,automatic,ci,ci
 2026-07-20T09:20:15.856Z,61.401,-151.406,77.3,1.9,ml,39,58,0.2,0.7,ak,aka2026ogdblh,2026-07-20T09:21:41.866Z,"33 km NNW of Beluga, Alaska",earthquake,3.7,2.9466,0.3,4,automatic,ak,ak
 2026-07-20T09:17:52.000Z,33.5385,-116.70916666667,5.94,0.23,ml,21,48,0.03566,0.11,ci,ci40658234,2026-07-20T09:21:11.476Z,"4 km WSW of Anza, CA",earthquake,0.15,0.38,0.28107656256957,3,automatic,ci,ci
@@ -22,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-07-20T07:15:29.160Z,38.824165344238,-122.81150054932,2.75,0.65,md,7,105,0.001354,0.01,nc,nc75399386,2026-07-20T07:17:07.977Z,"7 km NW of The Geysers, CA",earthquake,0.74,1.32000005,0.34,8,automatic,nc,nc
 2026-07-20T07:05:01.890Z,33.356666666667,-116.37783333333,11.58,1.47,ml,78,16,0.03117,0.21,ci,ci40658178,2026-07-20T07:15:33.090Z,"11 km N of Borrego Springs, CA",earthquake,0.14,0.39,0.15642674800975,27,automatic,ci,ci
 2026-07-20T06:50:52.970Z,33.447,-116.59266666667,10.26,2.03,ml,113,22,0.04824,0.22,ci,ci40658170,2026-07-20T07:01:26.310Z,"14 km SSE of Anza, CA",earthquake,0.12,0.28,0.1506392438359,26,automatic,ci,ci
-2026-07-20T06:41:30.614Z,49.4076,-129.342,10,5.6,mww,91,123,1.46,1.27,us,us7000t1w2,2026-07-20T08:47:35.538Z,"208 km SW of Port McNeill, Canada",earthquake,7.47,0.878,0.041,58,reviewed,us,us
+2026-07-20T06:41:30.614Z,49.4076,-129.342,10,5.6,mww,91,123,1.46,1.27,us,us7000t1w2,2026-07-20T09:46:40.212Z,"208 km SW of Port McNeill, Canada",earthquake,7.47,0.878,0.041,58,reviewed,us,us
 2026-07-20T06:15:52.719Z,31.649,-104.341,4.4237,1.6,ml,31,70,0.1,0.4,tx,tx2026odpryd,2026-07-20T06:19:08.473Z,"58 km S of Whites City, New Mexico",earthquake,0,1.025130033493,0.2,22,automatic,tx,tx
 2026-07-20T06:07:56.870Z,33.531166666667,-116.71666666667,5.32,1.1,ml,60,22,0.03823,0.19,ci,ci40658162,2026-07-20T06:11:21.542Z,"5 km WSW of Anza, CA",earthquake,0.13,0.4,0.22596093928027,27,automatic,ci,ci
 2026-07-20T06:04:24.420Z,19.114665985107,-155.44917297363,29,1.79,md,28,184,0.04234,0.140000001,hv,hv75004652,2026-07-20T06:07:55.370Z,"10 km SSE of Pāhala, Hawaii",earthquake,0.72,0.790000021,0.14396820117136,18,automatic,hv,hv
@@ -170,9 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-07-19T10:30:17.580Z,38.795665740967,-122.78099822998,3.4800000190735,1.64,md,16,76,0.00595,0.02,nc,nc75398911,2026-07-19T11:07:20.935Z,"3 km NW of The Geysers, CA",earthquake,0.31,0.769999981,0.12,13,automatic,nc,nc
 2026-07-19T10:28:37.530Z,17.929833333333,-66.284333333333,15.25,1.85,md,6,213,0.1093,0.25,pr,pr71525008,2026-07-19T11:30:46.820Z,"5 km SSE of Salinas, Puerto Rico",earthquake,1.38,1.74,0.014838662051299,2,reviewed,pr,pr
 2026-07-19T10:28:08.377Z,59.958,-147.404,18.6,1.8,ml,20,189,0,0.7,ak,aka2026oejhtm,2026-07-19T20:52:58.587Z,"36 km ESE of Chenega, Alaska",earthquake,5.2,2.6017,0.1,16,reviewed,ak,ak
-2026-07-19T10:06:53.672Z,52.12,176.36,20,2.7,ml,8,184,1.3,0.9,ak,aka2026oeipjm,2026-07-19T20:43:00.176Z,"230 km ESE of Attu Station, Alaska",earthquake,34,0,0.1,6,reviewed,ak,ak
-2026-07-19T10:05:36.230Z,60.638,-147.7,15.4,2.4,ml,62,65,0.4,0.7,ak,aka2026oeioex,2026-07-19T20:51:33.306Z,"55 km ESE of Whittier, Alaska",earthquake,2.2,1.4211,0.2,46,reviewed,ak,ak
-2026-07-19T10:03:46.440Z,35.7595,-117.5845,8.15,0.48,ml,15,119,0.05711,0.06,ci,ci40657938,2026-07-19T14:10:06.736Z,"16 km W of Searles Valley, CA",earthquake,0.14,0.26,0.094908625796757,6,reviewed,ci,ci
-2026-07-19T09:51:17.147Z,50.979,-173.788,20,2.8,ml,21,289,1.3,0.6,ak,aka2026oeibwl,2026-07-19T20:41:54.221Z,"138 km SSE of Atka, Alaska",earthquake,7.6,0,0.1,17,reviewed,ak,ak
-2026-07-19T09:50:50.670Z,38.789833068848,-122.7688369751,3.8800001144409,1.08,md,16,105,0.01292,0.02,nc,nc75398906,2026-07-19T09:52:27.863Z,"2 km NW of The Geysers, CA",earthquake,0.39,0.829999983,0.21,18,automatic,nc,nc
-2026-07-19T09:48:03.957Z,-16.3454,-173.038,10,4.6,mb,34,74,2.709,0.94,us,us7000t1rx,2026-07-19T10:42:08.040Z,"91 km ESE of Hihifo, Tonga",earthquake,9.79,1.873,0.102,29,reviewed,us,us
