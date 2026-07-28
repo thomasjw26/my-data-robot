@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-07-28T09:26:50.400Z,37.947498321533,-122.31183624268,5.6399998664856,0.96,md,12,76,0.05211,0.07,nc,nc75407182,2026-07-28T09:28:28.496Z,"0 km NNE of East Richmond Heights, CA",earthquake,0.32,0.920000017,0.2,9,automatic,nc,nc
+2026-07-28T09:23:19.896Z,64.783,-149.215,26.8,1.6,ml,12,124,0.2,0.5,ak,aka2026ouxiqo,2026-07-28T09:24:43.146Z,"20 km NNW of Four Mile Road, Alaska",earthquake,5.5,3.555,0.1,4,automatic,ak,ak
 2026-07-28T09:16:06.482Z,58.971,-152.593,66.5,1.8,ml,32,101,0.4,0.5,ak,aka2026ouxcjx,2026-07-28T09:17:47.396Z,"57 km SW of Nanwalek, Alaska",earthquake,3.9,4.089,0.3,4,automatic,ak,ak
 2026-07-28T09:16:01.960Z,35.207166666667,-117.70066666667,17.05,1.29,ml,26,177,0.1332,0.26,ci,ci40662466,2026-07-28T09:19:25.985Z,"19 km SSW of Johannesburg, CA",earthquake,0.71,0.92,0.11616423580439,29,automatic,ci,ci
 2026-07-28T08:18:54.076Z,32.3585,130.5429,10,4.9,mb,57,106,0.85,0.71,us,us6000tgbn,2026-07-28T08:36:09.040Z,"14 km NNE of Tsunagi, Japan",earthquake,6.1,1.872,0.062,82,reviewed,us,us
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-07-28T07:53:19.240Z,19.420665740967,-155.60833740234,39.959999084473,2.05,ml,22,76,0.02546,0.319999993,hv,hv75009147,2026-07-28T07:56:53.440Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.9,1.70000005,0.37,4,automatic,hv,hv
 2026-07-28T07:35:14.715Z,31.657,-103.592,0,1.6,ml,9,228,0.2,0.9,tx,tx2026oskdly,2026-07-28T07:38:04.950Z,"5 km S of Mentone, Texas",earthquake,0,,0.3,7,automatic,tx,tx
 2026-07-28T07:35:07.270Z,19.229833602905,-155.11099243164,37.680000305176,1.8,md,18,231,0.1189,0.129999995,hv,hv75009137,2026-07-28T07:38:36.540Z,"26 km S of Fern Forest, Hawaii",earthquake,1.57,1.33000004,0.13421411651803,14,automatic,hv,hv
-2026-07-28T07:27:15.512Z,32.6817,130.7217,10,6.8,mww,102,39,1.191,1.38,us,us6000tgb9,2026-07-28T09:17:26.949Z,"5 km E of Uto, Japan",earthquake,5.42,1.822,0.046,45,reviewed,us,us
+2026-07-28T07:27:15.512Z,32.6817,130.7217,10,6.8,mww,102,39,1.191,1.38,us,us6000tgb9,2026-07-28T09:34:17.162Z,"5 km E of Uto, Japan",earthquake,5.42,1.822,0.046,45,reviewed,us,us
 2026-07-28T07:23:44.760Z,46.275165557861,-122.41799926758,16.60000038147,1.38,md,21,118,0.06124,0.0700000003,uw,uw714063651,2026-07-28T07:25:44.560Z,"28 km S of Mossyrock, Washington",earthquake,0.54,0.730000019,0.129999995,3,automatic,uw,uw
 2026-07-28T07:13:13.767Z,61.821,-150.263,21.9,1.7,ml,32,67,0.6,0.8,ak,aka2026ouszvq,2026-07-28T07:14:50.621Z,"14 km NW of Willow, Alaska",earthquake,2.8,2.5833,0.2,4,automatic,ak,ak
 2026-07-28T07:04:23.500Z,32.873666666667,-116.25316666667,8.79,0.95,ml,41,53,0.09109,0.2,ci,ci40662450,2026-07-28T07:07:45.611Z,"26 km ENE of Pine Valley, CA",earthquake,0.2,0.62,0.14564563977959,22,automatic,ci,ci
@@ -230,5 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-07-27T09:44:39.747Z,32.138,-101.999,3.6831,1.5,ml,74,32,0,0.5,tx,tx2026oqsrzx,2026-07-27T11:18:29.869Z,"17 km NNE of Midland, Texas",earthquake,0,0.585125207901,0.3,48,automatic,tx,tx
 2026-07-27T09:43:39.940Z,33.517833333333,-116.52833333333,11.25,0.56,ml,35,53,0.06589,0.17,ci,ci40661994,2026-07-27T13:26:55.270Z,"14 km ESE of Anza, CA",earthquake,0.19,0.47,0.16669036042169,6,reviewed,ci,ci
 2026-07-27T09:37:29.136Z,59.983,-153.105,130.3,2.5,ml,115,33,0,0.6,ak,aka2026otbuir,2026-07-27T22:43:15.279Z,"60 km ENE of Pedro Bay, Alaska",earthquake,3.1,1.4397,0.2,84,reviewed,ak,ak
-2026-07-27T09:33:09.950Z,52.0585,-176.177,3.13,0.6,ml,6,199,0.02004,0.32,av,av94337403,2026-07-28T07:02:21.440Z,"37 km ENE of Adak, Alaska",earthquake,1.31,1.5,0.24161692737676,5,reviewed,av,av
-2026-07-27T09:27:04.984Z,53.01,-166.902,23.9,2.6,ml,18,240,0.7,0.3,ak,aka2026otbiqm,2026-07-27T22:42:11.276Z,"99 km SSW of Unalaska, Alaska",earthquake,9.6,6.3447,0.1,14,reviewed,ak,ak
