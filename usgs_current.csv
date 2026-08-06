@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-08-06T09:36:17.200Z,38.819999694824,-122.84233093262,2.2699999809265,0.86,md,15,104,0.006497,0.01,nc,nc75412467,2026-08-06T09:37:54.661Z,"9 km WNW of The Geysers, CA",earthquake,0.27,0.469999999,0.24,15,automatic,nc,nc
+2026-08-06T09:27:17.780Z,39.698001861572,-120.00666809082,8.2200002670288,2.21,md,13,64,0.09694,0.07,nc,nc75412462,2026-08-06T09:37:19.941Z,"3 km NW of Cold Springs, NV",earthquake,0.32,0.970000029,0.24,13,automatic,nc,nc
+2026-08-06T08:58:00.771Z,31.939,-104.067,4.8849,1.7,ml,33,191,0,0.3,tx,tx2026pjahud,2026-08-06T09:05:34.605Z,"31 km S of Malaga, New Mexico",earthquake,0,1.1131182909012,0.2,24,automatic,tx,tx
 2026-08-06T08:46:51.361Z,31.206,-103.38,0,1.8,ml,5,156,0.2,1.1,tx,tx2026pjaazs,2026-08-06T08:48:54.304Z,"23 km SE of Lindsay, Texas",earthquake,0,,0.5,5,automatic,tx,tx
 2026-08-06T08:27:38.360Z,38.821166992188,-122.7636642456,2.4500000476837,0.28,md,5,123,0.01049,0.04,nc,nc75412447,2026-08-06T08:29:13.152Z,"4 km W of Cobb, CA",earthquake,0.75,2.1099999,0.16,7,automatic,nc,nc
 2026-08-06T08:17:44.545Z,31.631,-104.463,2.9769,2.2,ml,24,74,0,0.3,tx,tx2026pizbxl,2026-08-06T08:21:28.425Z,"60 km S of Whites City, New Mexico",earthquake,0,1.2800127267838,0.2,18,automatic,tx,tx
@@ -68,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-05T23:09:52.595Z,60.6,-140.3,0,2.2,ml,13,136,0.4,2.4,ak,aka2026pktbyv,2026-08-06T03:30:16.338Z,"121 km NNW of Yakutat, Alaska",landslide,,0,0.4,11,reviewed,ak,ak
 2026-08-05T22:59:24.692Z,32.4463,130.455,10,4.9,mww,69,100,0.934,0.78,us,us6000tig8,2026-08-06T02:50:37.354Z,"15 km WSW of Honmachi, Japan",earthquake,5.21,1.853,0.068,21,reviewed,us,us
 2026-08-05T22:47:20.240Z,36.59049987793,-121.21350097656,5.539999961853,1.54,md,10,90,0.02939,0.1,nc,nc75412187,2026-08-05T22:48:57.212Z,"9 km NW of Pinnacles, CA",earthquake,0.55,1.10000002,0.21,9,automatic,nc,nc
-2026-08-05T22:21:57.390Z,40.022333333333,-123.44616666667,7.28,4.41,mw,51,28,0.09739,0.25,nc,nc75412157,2026-08-06T06:53:24.091Z,"31 km NNW of Covelo, CA",earthquake,0.26,0.53,,51,reviewed,nc,nc
+2026-08-05T22:21:57.390Z,40.022333333333,-123.44616666667,7.28,4.41,mw,51,28,0.09739,0.25,nc,nc75412157,2026-08-06T09:34:33.445Z,"31 km NNW of Covelo, CA",earthquake,0.26,0.53,,51,reviewed,nc,nc
 2026-08-05T22:21:31.720Z,42.55,-111.44666666667,11.6,1.94,ml,11,122,0.3341,0.14,uu,uu80147176,2026-08-05T22:48:35.540Z,"9 km NW of Georgetown, Idaho",earthquake,0.58,2.19,0.071126142038744,3,reviewed,uu,uu
 2026-08-05T22:20:58.590Z,40.0245,-123.446,8.33,3.88,mw,48,27,0.09639,0.22,nc,nc75412167,2026-08-06T08:21:44.486Z,"31 km NNW of Covelo, CA",earthquake,0.22,0.51,,13,reviewed,nc,nc
 2026-08-05T22:11:44.587Z,5.0849,125.2468,10,4.9,mb,43,122,1.999,0.58,us,us6000tifh,2026-08-06T01:59:55.040Z,"42 km SW of Sarangani, Philippines",earthquake,7.31,1.879,0.073,58,reviewed,us,us
@@ -194,11 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-05T09:56:16.670Z,52.094166666667,-176.18866666667,6.99,0.32,ml,6,285,0.006904,0.24,av,av93065389,2026-08-06T03:00:39.640Z,"39 km NE of Adak, Alaska",earthquake,1.21,1.45,0.17879800114637,6,reviewed,av,av
 2026-08-05T09:51:54.648Z,62.31,-151.906,5,1.7,ml,5,310,0.4,0,ak,aka2026pjslws,2026-08-05T09:53:21.548Z,"44 km NW of Skwentna, Alaska",earthquake,86.8,,0.1,4,automatic,ak,ak
 2026-08-05T09:45:33.950Z,35.863833333333,-117.69816666667,9.95,0.59,ml,19,61,0.07733,0.12,ci,ci40666442,2026-08-05T13:30:02.449Z,"20 km ESE of Little Lake, CA",earthquake,0.2,0.39,0.18782888407178,7,reviewed,ci,ci
-2026-08-05T09:38:20.843Z,5.0358,125.2545,27.957,4.4,mb,26,136,2.046,0.57,us,us6000ti9q,2026-08-05T10:03:32.040Z,"46 km SSW of Sarangani, Philippines",earthquake,10.93,5.459,0.11,24,reviewed,us,us
-2026-08-05T09:33:03.827Z,60.478,-153.372,24.4,1.3,ml,9,268,0.2,0.8,ak,aka2026pjrvqu,2026-08-06T02:58:09.390Z,"60 km ENE of Port Alsworth, Alaska",earthquake,60.8,20.2202,0.1,5,automatic,ak,ak
-2026-08-05T09:18:25.540Z,18.883666666667,-65.103666666667,48.24,3.34,md,5,235,0.5466,0.12,pr,pr71527613,2026-08-05T10:12:54.090Z,"62 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,5.94,9.48,0.093893901640796,4,reviewed,pr,pr
-2026-08-05T09:17:07.881Z,5.0507,125.2544,35,4.8,mb,42,101,2.032,0.77,us,us6000ti9k,2026-08-05T09:55:22.447Z,"45 km SSW of Sarangani, Philippines",earthquake,11.66,1.922,0.074,57,reviewed,us,us
-2026-08-05T09:10:39.080Z,35.314333333333,-117.81016666667,7.9,0.85,ml,25,86,0.05515,0.15,ci,ci40666434,2026-08-05T13:31:05.020Z,"17 km WSW of Johannesburg, CA",earthquake,0.29,0.52,0.12307827975235,11,reviewed,ci,ci
-2026-08-05T08:55:20.562Z,63.553,-152.45,10.4,3.4,ml,93,38,0.2,1,ak,aka2026pjqoyy,2026-08-05T15:39:54.672Z,"36 km W of Denali National Park, Alaska",earthquake,2.3,2.0792,0.2,69,reviewed,ak,ak
-2026-08-05T08:55:00.193Z,50.215,178.356,20,3.6,ml,36,249,1.3,1,ak,aka2026pjqpiw,2026-08-05T15:44:05.348Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,5.8,0,0.2,24,reviewed,ak,ak
-2026-08-05T08:54:59.685Z,50.2398,178.4497,10,3.3,ml,22,248,1.262,0.59,us,us6000tib4,2026-08-06T05:36:10.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.78,2.022,0.077,22,reviewed,us,us
