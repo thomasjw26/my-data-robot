@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-08-22T15:47:52.990Z,33.570667266846,-116.8004989624,5.9400000572205,1.5216351035241,ml,14,72,0.03809,0.0900000036,ci,ci41532944,2026-08-22T15:50:33.629Z,"12 km W of Anza, CA",earthquake,0.42,1.02999997,0.59016215801239,2,automatic,ci,ci
 2026-08-22T15:30:31.572Z,58.173,-155.359,5,1.3,ml,9,79,0,0.1,ak,aka2026qpodgf,2026-08-22T15:31:08.919Z,"86 km NW of Karluk, Alaska",earthquake,7.5,,0.3,4,automatic,ak,ak
 2026-08-22T15:07:04.611Z,60.332,-152.816,129.3,1.6,ml,49,40,0.1,0.6,ak,aka2026qpnixm,2026-08-22T15:08:52.375Z,"70 km WNW of Ninilchik, Alaska",earthquake,4.5,2.9455,0.4,24,automatic,ak,ak
 2026-08-22T15:06:38.296Z,39.3207,-119.0593,5.9712,1.66,ml,20,63,0.071,0.2269,nn,nn00923708,2026-08-22T15:08:55.842Z,"17 km SE of Silver Springs, Nevada",earthquake,,0.7627,0.25,9,automatic,nn,nn
@@ -57,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-22T07:56:38.640Z,19.133832931519,-155.49082946777,30.479999542236,1.8,md,26,169,0.03461,0.219999999,hv,hv75022342,2026-08-22T08:00:19.930Z,"7 km S of Pāhala, Hawaii",earthquake,0.78,1.09000003,0.18055981560703,13,automatic,hv,hv
 2026-08-22T07:51:44.411Z,39.3543,-118.9925,10.0559,2.53,ml,31,56,0.052,0.2899,nn,nn00923683,2026-08-22T07:54:08.962Z,"21 km ESE of Silver Springs, Nevada",earthquake,,0.4492,0.3,14,automatic,nn,nn
 2026-08-22T07:43:51.050Z,14.337,145.3295,115.924,4.6,mb,67,83,0.997,0.67,us,us6000tmrq,2026-08-22T08:11:31.040Z,"76 km SSW of San Jose Village, Northern Mariana Islands",earthquake,11.08,7.131,0.07,61,reviewed,us,us
-2026-08-22T07:42:40.939Z,60.911,-149.666,31.3,3.9,ml,212,42,0.2,1,ak,aka2026qoynpe,2026-08-22T15:29:10.102Z,"1 km WSW of Hope, Alaska",earthquake,1.8,1.4151,0.2,145,reviewed,ak,ak
+2026-08-22T07:42:40.939Z,60.911,-149.666,31.3,3.9,ml,212,42,0.2,1,ak,aka2026qoynpe,2026-08-22T15:46:10.905Z,"1 km WSW of Hope, Alaska",earthquake,1.8,1.4151,0.2,145,reviewed,ak,ak
 2026-08-22T07:41:06.738Z,60.271,-152.923,128.6,2.3,ml,131,48,0.2,0.8,ak,aka2026qoyltz,2026-08-22T08:04:13.577Z,"73 km WNW of Ninilchik, Alaska",earthquake,2.6,1.3618,0.3,49,reviewed,ak,ak
 2026-08-22T07:40:12.697Z,-60.2649,-47.2591,10,5.7,mb,55,69,8.359,1.19,us,us6000tmrn,2026-08-22T09:47:29.302Z,"Scotia Sea",earthquake,6.05,1.682,0.053,126,reviewed,us,us
 2026-08-22T07:24:46.190Z,38.834167480469,-122.81016540527,2.1900000572205,0.8,md,15,56,0.01076,0.01,nc,nc75422842,2026-08-22T07:52:20.688Z,"8 km W of Cobb, CA",earthquake,0.26,0.800000012,0.21,17,automatic,nc,nc
@@ -225,6 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-21T15:55:20.244Z,64.986,-147.435,0,1.2,ml,19,55,0.1,0.6,ak,aka2026qnsyet,2026-08-21T20:55:56.168Z,"9 km ENE of Fox, Alaska",quarry blast,3.4,0,0.4,14,reviewed,ak,ak
 2026-08-21T15:53:48.220Z,33.508166666667,-116.54616666667,6.98,0.49,ml,27,51,0.04871,0.14,ci,ci41532136,2026-08-21T18:58:36.685Z,"13 km ESE of Anza, CA",earthquake,0.19,0.45,0.12200012500639,11,reviewed,ci,ci
 2026-08-21T15:51:49.580Z,36.063666666667,-117.84166666667,2.71,1.14,ml,22,65,0.05485,0.11,ci,ci41532128,2026-08-21T16:18:50.243Z,"10 km ENE of Coso Junction, CA",earthquake,0.14,0.52,0.2555197377173,17,reviewed,ci,ci
-2026-08-21T15:48:33.680Z,36.0655,-117.84283333333,2.72,0.77,ml,16,67,0.05288,0.12,ci,ci41532120,2026-08-21T16:12:55.429Z,"10 km ENE of Coso Junction, CA",earthquake,0.2,0.71,0.24213996098233,10,reviewed,ci,ci
-2026-08-21T15:44:42.900Z,36.0645,-117.83833333333,2.77,0.4,ml,15,63,0.05464,0.11,ci,ci41532112,2026-08-21T16:26:28.014Z,"10 km ENE of Coso Junction, CA",earthquake,0.19,0.62,0.16654557075117,8,reviewed,ci,ci
-2026-08-21T15:44:32.250Z,36.066,-117.84416666667,4.59,0.12,ml,7,126,0.0522,0.08,ci,ci10249102,2026-08-21T16:25:12.086Z,"10 km ENE of Coso Junction, CA",earthquake,0.24,0.37,0.30236071777366,4,reviewed,ci,ci
