@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-08-26T07:47:20.423Z,57.628,-154.113,49.4,1.8,ml,24,173,0.2,0.6,ak,aka2026qwitxo,2026-08-26T07:48:36.507Z,"12 km NW of Larsen Bay, Alaska",earthquake,6.9,5.4372,0.1,12,automatic,ak,ak
+2026-08-26T07:46:11.850Z,38.838333129883,-122.83666992188,1.6699999570847,0.77,md,12,82,0.0009585,0.02,nc,nc75425317,2026-08-26T07:47:47.415Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.649999976,0.17,12,automatic,nc,nc
 2026-08-26T07:45:30.570Z,38.798168182373,-122.80516815185,1.6299999952316,0.76,md,12,59,0.009964,0.03,nc,nc75425312,2026-08-26T07:47:07.619Z,"5 km WNW of The Geysers, CA",earthquake,0.3,0.589999974,0.19,13,automatic,nc,nc
 2026-08-26T07:42:55.290Z,38.837333679199,-122.83567047119,1.5099999904633,0.36,md,7,104,0.001262,0.01,nc,nc75425307,2026-08-26T07:44:32.455Z,"10 km NW of The Geysers, CA",earthquake,0.35,1.21000004,0.29,9,automatic,nc,nc
 2026-08-26T07:41:27.900Z,38.838001251221,-122.83650207519,1.7400000095367,1.08,md,18,81,0.0009864,0.01,nc,nc75425297,2026-08-26T07:43:01.655Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.389999986,0.15,21,automatic,nc,nc
@@ -239,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-25T08:08:08.178Z,51.403,-176.117,17.5,3.7,ml,43,203,0.5,0.9,ak,aka2026qunliw,2026-08-25T16:53:44.733Z,"63 km SE of Adak, Alaska",earthquake,5.7,2.7936,0.1,33,reviewed,ak,ak
 2026-08-25T08:06:06.620Z,19.3345,-155.1765,5.64,1.44,ml,42,84,0.04523,0.15,hv,hv75023647,2026-08-25T17:36:34.700Z,"13 km SSE of Volcano, Hawaii",earthquake,0.33,0.65,0.20549764519812,12,reviewed,hv,hv
 2026-08-25T07:57:05.670Z,33.574166666667,-116.798,7.25,1.83,ml,15,72,0.03435,0.11,ci,ci41535928,2026-08-25T13:49:30.135Z,"12 km W of Anza, CA",earthquake,0.24,0.44,0.19574509114973,9,reviewed,ci,ci
-2026-08-25T07:47:59.540Z,36.071666666667,-117.8405,1.97,0.57,ml,14,64,0.04727,0.09,ci,ci41535920,2026-08-25T13:49:44.765Z,"10 km ENE of Coso Junction, CA",earthquake,0.14,0.16,0.2660500230454,5,reviewed,ci,ci
