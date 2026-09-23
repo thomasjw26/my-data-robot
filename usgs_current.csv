@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-09-23T12:14:40.887Z,60.018,-153.311,4.8,0.7,ml,6,308,0.1,0.2,ak,aka2026swkhpz,2026-09-23T12:15:20.266Z,"51 km ENE of Pedro Bay, Alaska",earthquake,96.8,43.8559,0.1,4,automatic,ak,ak
+2026-09-23T12:10:03.960Z,34.3305,-116.7335,1.44,1.2,ml,51,40,0.0797,0.14,ci,ci41337615,2026-09-23T12:20:57.330Z,"13 km NE of Big Bear City, CA",earthquake,0.11,0.27,0.16290666024474,26,automatic,ci,ci
 2026-09-23T11:52:16.820Z,35.303333333333,-117.79816666667,6.03,1.34,ml,33,68,0.05295,0.21,ci,ci41337607,2026-09-23T11:55:48.136Z,"17 km WSW of Johannesburg, CA",earthquake,0.22,0.5,0.098050306165574,27,automatic,ci,ci
 2026-09-23T11:45:17.410Z,35.306833333333,-117.80066666667,6.04,2.06,ml,44,56,0.05395,0.18,ci,ci41337599,2026-09-23T11:55:48.280Z,"17 km WSW of Johannesburg, CA",earthquake,0.17,0.41,0.11895157946632,26,automatic,ci,ci
 2026-09-23T11:43:23.710Z,38.841167449951,-122.8261642456,2.1600000858307,0.57,md,8,118,0.007722,0.01,nc,nc75440317,2026-09-23T11:44:59.319Z,"9 km WNW of Cobb, CA",earthquake,0.78,1.63999999,0.38,8,automatic,nc,nc
@@ -236,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-09-22T12:45:54.361Z,61.1047,-140.0156,5.158,2.8,ml,19,124,0.559,0.79,us,us7000tj5e,2026-09-23T10:34:55.040Z,"160 km ESE of McCarthy, Alaska",earthquake,2.76,7.368,0.046,62,reviewed,us,us
 2026-09-22T12:40:44.010Z,52.092833333333,-176.12966666667,1.93,0.41,ml,6,175,0.02953,0.21,av,av94443501,2026-09-23T01:21:12.660Z,"42 km NE of Adak, Alaska",earthquake,0.78,1.7,0.17235734834666,6,reviewed,av,av
 2026-09-22T12:39:32.210Z,32.891,-116.595,8.58,0.8,ml,26,57,0.03101,0.19,ci,ci41336799,2026-09-22T13:15:38.934Z,"10 km NW of Pine Valley, CA",earthquake,0.27,0.52,0.14991519028654,11,reviewed,ci,ci
-2026-09-22T12:34:25.370Z,38.827835083008,-122.81500244141,2.2599999904633,1.08,md,19,53,0.005872,0.02,nc,nc75439942,2026-09-22T13:07:22.103Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.50999999,0.15,21,automatic,nc,nc
